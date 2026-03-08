@@ -27,12 +27,10 @@
       "Vedat",
       "Ramazan"
     ],
-    "scene": "Zeki ve Vedat arasında komik bir diyalog geçiyor.",
-    "context": "Bu sahne, Alpay'ın geçmişteki anekdotları anlattığı çerçeve hikayenin başlangıcını oluşturuyor ve izleyiciyi eğlendiriyor.",
-    "tags": [
-      "komedi",
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_002",
@@ -87,12 +85,10 @@
       "Ramazan",
       "Vedat"
     ],
-    "scene": "Zeki, Vedat ve Alpay'a tarihi bir olayı anlatıyor.",
-    "context": "Bu sahne, Zeki'nin geçmişteki bir olayı anlatırken arkadaşlarıyla olan etkileşimini ve komik diyaloglarını gösteriyor.",
-    "tags": [
-      "çerçeve-hikaye",
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_003",
@@ -117,11 +113,10 @@
       "Zeki",
       "Ramazan"
     ],
-    "scene": "Sultan huzuruna gelenler emanet alıyor.",
-    "context": "Bu sahne, ana hikayenin başlangıcını ve Sultan'ın karakterinin önemini vurguluyor.",
-    "tags": [
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_004",
@@ -140,11 +135,10 @@
     "characters": [
       "Zeki"
     ],
-    "scene": "Zeki, görev yolculuğunu anlatıyor.",
-    "context": "Bu sahne, Zeki'nin hikayeyi anlatmaya başladığını ve karakterlerin görevlerinin yönünü belirttiğini gösteriyor.",
-    "tags": [
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_005",
@@ -158,9 +152,10 @@
     "text": "Greenland Vadisi 27 Nisan 1881",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Tarih ve yer bilgisi veriliyor.",
-    "context": "Bu sahne, filmin geçtiği dönemi ve yeri belirterek izleyiciye bağlam sağlıyor.",
-    "tags": []
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_006",
@@ -192,11 +187,10 @@
       "Lemi Galip",
       "Jack"
     ],
-    "scene": "Lemi, Osmanlı olduğunu açıklıyor.",
-    "context": "Bu sahne, Lemi'nin Osmanlı kimliğini vurgularken, komik bir diyalogla kültürel farklılıkları ele alıyor.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_007",
@@ -239,11 +233,10 @@
       "Jack",
       "Bayan 1"
     ],
-    "scene": "Aziz ve Lemi, İngilizlerle sohbet ediyor.",
-    "context": "Bu sahne, Aziz ve Lemi'nin İngilizlerle olan etkileşimini ve onların kültürel farklılıklarını mizahi bir dille ortaya koyuyor.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_008",
@@ -267,11 +260,10 @@
       "Aziz Vefa",
       "Jack"
     ],
-    "scene": "Karakterler birbirlerine selam veriyor ve sohbet ediyor.",
-    "context": "Bu sahne, karakterlerin birbirleriyle tanışma anını ve aralarındaki samimi iletişimi gösteriyor.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_009",
@@ -302,11 +294,10 @@
       "Aziz Vefa",
       "Jack"
     ],
-    "scene": "Aziz Vefa, Lemi Galip'e elmas hakkında bilgi veriyor.",
-    "context": "Bu sahne, Aziz Vefa'nın özel bir görev için geldiklerini ve elmasın önemini vurguluyor.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_010",
@@ -331,11 +322,10 @@
       "Aziz Vefa",
       "Lemi Galip"
     ],
-    "scene": "Bir karakter haydutlarla karşılaşıyor ve sakin kalmaya çalışıyor.",
-    "context": "Bu sahne, karakterin bir tehdit altında olduğunu ve durumu kontrol etmeye çalıştığını gösteriyor.",
-    "tags": [
-      "aksiyon"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_011",
@@ -363,12 +353,10 @@
       "Aziz Vefa",
       "Lemi Galip"
     ],
-    "scene": "Aziz Vefa, zor bir durumla karşı karşıya kalıyor.",
-    "context": "Bu sahne, Aziz Vefa'nın stresli bir an yaşadığını ve durumu kontrol altına almaya çalıştığını gösteriyor.",
-    "tags": [
-      "komedi",
-      "aksiyon"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_012",
@@ -388,12 +376,10 @@
       "Ramazan",
       "Zeki"
     ],
-    "scene": "Lemi, Zeki Abi'ye durumu anlatıyor.",
-    "context": "Bu sahne, Lemi'nin korkak ve komik karakterini sergileyerek hikayeye mizahi bir unsur katıyor.",
-    "tags": [
-      "komedi",
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_013",
@@ -409,11 +395,10 @@
     "characters": [
       "Haydut 1"
     ],
-    "scene": "Bir karakter öfkeyle bağırıyor.",
-    "context": "Bu sahne, karakterin sinirli ve agresif bir ruh hali içinde olduğunu gösteriyor, bu da filmin komedi unsurlarını vurguluyor.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_014",
@@ -431,11 +416,10 @@
       "Haydut 1",
       "Bayan 1"
     ],
-    "scene": "Karakterler bir tehlike ile karşı karşıya kalıyor.",
-    "context": "Bu sahne, karakterlerin acil bir durumla başa çıkmaya çalıştığını gösteriyor ve gerilimi artırıyor.",
-    "tags": [
-      "aksiyon"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_015",
@@ -456,12 +440,10 @@
       "Lemi Galip",
       "Johnny Lesh"
     ],
-    "scene": "Johnny Lesh yolculara hizmet sunduğunu açıklıyor.",
-    "context": "Bu sahne, Johnny Lesh'in kötü karakter olarak yolcuları tehdit ettiği ve kendi otoritesini kurmaya çalıştığı anı gösteriyor.",
-    "tags": [
-      "komedi",
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_016",
@@ -481,11 +463,10 @@
       "Aziz Vefa",
       "Haydut 2"
     ],
-    "scene": "Karakter eski bir silah hakkında şikayette bulunuyor.",
-    "context": "Bu sahne, karakterin komik bir şekilde eski silahın durumu hakkında şikayet etmesiyle mizahi bir an yaratıyor.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_017",
@@ -516,11 +497,10 @@
       "Lemi Galip",
       "Aziz Vefa"
     ],
-    "scene": "Jack, kurtarılmayı bekliyor ve kostümler hakkında konuşuluyor.",
-    "context": "Bu sahne, karakterlerin komik bir şekilde kendilerini tanıttığı ve Vahşi Batı'daki durumlarına dair mizahi bir bakış sunduğu bir anı temsil ediyor.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_018",
@@ -538,9 +518,10 @@
       "Johnny Lesh",
       "Haydut 1"
     ],
-    "scene": "Karakterler yola çıkıyor.",
-    "context": "Bu sahne, karakterlerin maceralarına başladıklarını ve hedeflerine doğru yola çıktıklarını gösteriyor.",
-    "tags": []
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_019",
@@ -558,11 +539,10 @@
       "Aziz Vefa",
       "Lemi Galip"
     ],
-    "scene": "Bir karakter Sioux'lar hakkında bilgi veriyor.",
-    "context": "Bu sahne, Sioux'ların hoşça kalın anlamına geldiğini açıklayarak kültürel bir bağ kuruyor.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_020",
@@ -588,12 +568,10 @@
       "Aziz Vefa",
       "Lemi Galip"
     ],
-    "scene": "Çatapat Ahmet hakkında konuşuluyor.",
-    "context": "Bu sahne, karakterlerin içinde bulundukları tehlikeli durumu ve komik diyalogları yansıtarak filmin genel mizah anlayışını ortaya koyuyor.",
-    "tags": [
-      "komedi",
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_021",
@@ -609,11 +587,10 @@
     "characters": [
       "Aziz Vefa"
     ],
-    "scene": "Bir karakter bir nesne almasını istiyor.",
-    "context": "Bu sahne, karakterler arasındaki etkileşimi ve komik anları yansıtır.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_022",
@@ -629,11 +606,10 @@
     "characters": [
       "Lemi Galip"
     ],
-    "scene": "Bir karakter hayranlıkla bir durumu değerlendiriyor.",
-    "context": "Bu sahne, karakterin bir duruma olan olumlu bakış açısını yansıtır.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_023",
@@ -651,11 +627,10 @@
       "Lemi Galip",
       "Aziz Vefa"
     ],
-    "scene": "Bir karakter tabağın eksikliğinden bahsediyor.",
-    "context": "Bu sahne, karakterlerin günlük yaşamındaki absürt durumları ve komik diyalogları yansıtarak filmin genel mizah anlayışını pekiştiriyor.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_024",
@@ -675,11 +650,10 @@
       "Lemi Galip",
       "Aziz Vefa"
     ],
-    "scene": "Karakterler arasında tartışma geçiyor.",
-    "context": "Bu sahne, karakterlerin içinde bulundukları zor durumu ve birbirlerine karşı duydukları öfkeyi yansıtır.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_025",
@@ -695,11 +669,10 @@
     "characters": [
       "Lemi Galip"
     ],
-    "scene": "Bir grup Hintli sahneye giriyor.",
-    "context": "Bu sahne, ana hikayede Hintlilerin varlığını ve olayların gelişimini etkileyen bir unsur olduğunu gösteriyor.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_026",
@@ -720,12 +693,10 @@
       "Kızılderili 1",
       "Richard Thomas"
     ],
-    "scene": "Richard Thomas kendini tanıtıyor.",
-    "context": "Bu sahne, Richard'ın kim olduğunu ve yaz tatillerini kabilesiyle geçirdiğini anlatıyor, karakterin geçmişine dair bilgi veriyor.",
-    "tags": [
-      "komedi",
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_027",
@@ -747,12 +718,10 @@
       "Kızılderili 2",
       "Kenan"
     ],
-    "scene": "Karakterler İstanbul'dan geldiklerini ve Kızılderililerle ilgili bir espri yapıyorlar.",
-    "context": "Bu sahne, karakterlerin kültürel referanslarla mizah yaparak durumu hafifletmeye çalıştığını gösteriyor.",
-    "tags": [
-      "komedi",
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_028",
@@ -774,11 +743,10 @@
       "Aziz Vefa",
       "Lemi Galip"
     ],
-    "scene": "Aziz Efendi, muskasının anlamını açıklıyor.",
-    "context": "Bu sahne, karakterlerin korkularını ve inançlarını yansıtarak, hikayenin komik ve absürt yönlerini ortaya koyuyor.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_029",
@@ -795,9 +763,10 @@
     "characters": [
       "Aziz Vefa"
     ],
-    "scene": "Bir karakter acil bir durumu bildiriyor.",
-    "context": "Bu sahne, İstanbul'a acil bir durumun iletildiğini göstererek hikayenin ilerleyişine katkıda bulunuyor.",
-    "tags": []
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_030",
@@ -822,12 +791,10 @@
       "Aziz Vefa",
       "Redkit"
     ],
-    "scene": "Bir karakter telgraf hakkında konuşuyor.",
-    "context": "Bu sahne, karakterlerin iletişim ve sosyal etkileşimlerini göstererek komik bir durum yaratıyor.",
-    "tags": [
-      "komedi",
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_031",
@@ -843,11 +810,10 @@
     "characters": [
       "Zeki"
     ],
-    "scene": "Saraydan cevap geliyor.",
-    "context": "Bu sahne, Osmanlı Sultanı'nın verdiği görevin sonuçlarını beklediklerini gösteriyor.",
-    "tags": [
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_032",
@@ -871,11 +837,10 @@
       "Lemi Galip",
       "Aziz Vefa"
     ],
-    "scene": "Karakterler arasında bir görev hakkında konuşuluyor.",
-    "context": "Bu sahne, görevle ilgili belirsizlik ve komik bir diyalog sunarak filmin mizahi yönünü vurguluyor.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_033",
@@ -892,11 +857,10 @@
     "characters": [
       "Lemi Galip"
     ],
-    "scene": "Karakter Amerika'ya selam gönderiyor.",
-    "context": "Bu sahne, karakterin Amerika'ya olan hayranlığını ve özlemini ifade ediyor.",
-    "tags": [
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_034",
@@ -918,12 +882,10 @@
       "Lemi Galip",
       "Aziz Vefa"
     ],
-    "scene": "Lemi, Aziz'e Fizan'a sürülme tehdidinde bulunuyor.",
-    "context": "Bu sahne, Lemi'nin korkak ve komik karakterini sergileyerek Aziz ile olan ilişkisini ve birlikte yaşadıkları zorlukları vurguluyor.",
-    "tags": [
-      "komedi",
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_035",
@@ -953,12 +915,10 @@
     "characters": [
       "Zeki Abi"
     ],
-    "scene": "Zeki Abi, at yıkama işine dair düşüncelerini paylaşıyor.",
-    "context": "Bu sahne, karakterlerin çaresizlik içinde para kazanma yollarını aradıklarını ve komik bir şekilde at yıkama işine yöneldiklerini gösteriyor.",
-    "tags": [
-      "komedi",
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_036",
@@ -974,11 +934,10 @@
     "text": "- Karagözüm, Ramazan-ı Şeriflerin hayrola. - Hadi oradan, balkabağı! Karagözüm yapma, mübarek Ramazandayız. Hiç tasa etme Hacı cavcav, sülalece arkandayız!",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Karagözüm ve Hacı cavcav Ramazan hakkında konuşuyor.",
-    "context": "Bu sahne, karakterlerin Ramazan ayının önemine vurgu yaparak komik bir diyalog oluşturduğu bir anı temsil ediyor.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_037",
@@ -1003,12 +962,10 @@
     "text": "Geçen sene Sultanahmet'te en çok tutan gösteri bu be. Biraz gülün ya! Maalesef komik değil. Biraz yeniliklere açık olun açık. Karagöz bu! - Komik olsa gülerdik, değil mi kız? - Bence de. Aaaa... Seneye size Moliere'i getireyim. Moliere'den ''Cimri''. Tuzsuz Deli Bekir'i yaptım. Beberuhi'yi yaptım. Hiçbirine gülmediler. - Zenne'yi yaptın da gülmediler mi efendim? - Efendim, Zenne'ye gelene kadar. Hümor yok hümor! Amerikan Hümoru! Siktiğimin humoru! İngilizceye çevirince manasını kaybediyor tabii. Bırak Allah aşkına!",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Bir karakter gösteri hakkında konuşuyor ve komedi anlayışını eleştiriyor.",
-    "context": "Bu sahne, karakterin komedi anlayışını ve izleyici tepkilerini sorguladığı bir anı temsil ediyor.",
-    "tags": [
-      "çerçeve-hikaye",
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_038",
@@ -1029,11 +986,10 @@
     "text": "Yumurta. Ayır bunları. Şunda ne var? Şeker. Limon. Şeker. Limon-Şeker! Macuncu! Macuncu! Bereket versin. - Macuncu! - Sar, bir tane de bana sar. - Emrin olur abi. - Ona değil, buna sar. - Osmanlı macunudur, ağır gelir. - Yorum yapma ulan!",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Yumurta ve şeker üzerine konuşma.",
-    "context": "Bu sahne, karakterler arasındaki komik diyalogları ve günlük yaşamın sıradan anlarını yansıtarak filmin mizahi atmosferini güçlendiriyor.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_039",
@@ -1059,12 +1015,10 @@
     "text": "100 Dolar parayı denkleştirmek için yapmadıkları iş kalmıyor. Yahu, Lemi Bey'in kendi yaptığı makineyle miki filmi oynatıyorlar ya! Miki filmi diyorum usta. Daha Walt Disney yok, Mickey Mouse yok! Hayat kadar gerçek! Bir aşk hikayesi. Bir de ya şeyi diyeceğim, yanlış anlayacaksınız. Şeyi buluyorlar. Hani o formülü bilinmiyor deniyor ya. - O ne ya? - Kola ulan! Meyan kökü, karbonat. Özü zaten şerbet. Bir dakika ya, bir dakika ben anlamadım. Yani şimdi bunlar gerçekten kolayı mı buluyorlar? Buluyorlar, buluyorlar. Ama...",
     "is_frame_story": true,
     "characters": [],
-    "scene": "Zeki Abi, Lemi Bey'in makinesiyle ilgili konuşuyor.",
-    "context": "Bu sahne, Zeki Abi'nin günümüzdeki gözlemleriyle geçmişteki olayları mizahi bir dille anlatmasını sağlıyor.",
-    "tags": [
-      "çerçeve-hikaye",
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_040",
@@ -1083,11 +1037,10 @@
     "characters": [
       "Aziz"
     ],
-    "scene": "Aziz bir şeyler gösteriyor ve beğeniyor.",
-    "context": "Bu sahne, Aziz'in bir şeyle ilgili heyecanını ve beğenisini ifade ediyor.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_041",
@@ -1120,12 +1073,10 @@
     "text": "Tat bakayım. Nasıl? Şahane. Aziz... ...güğüme şey yazayım mı? ''Soğuk içiniz.'' Bırak ulan. Milleti zapt-ı rapt altına alma. İster soğuk içer ister sıcak. Gel abicim, gel! Gel abicim! Eyvallah. Gel abicim! Gel! Gel! Gel! - Param olsa da ben alsam! - Kuru kuru gitmez! Var mı acıkan? Var mı acıkan! - Parasını alayım. - Buyur abi. Abi butum daha pişiyor, kanat vereceğim. Şunu bozsana bana. Param olsa da ben alsam. Ayıp olmuyor mu kardeşim, ne bağırıyorsunuz? Esnaf değil misin kardeşim? Sen de bağır! Ağlamayana meme yok. Biz Kentucy'liyiz lan, artistlik yapma! Biz de Samatya'lıyız lan, bize mi artistlik yapıyorsunuz?",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Karakterler arasında yiyecek ve içecek üzerine tartışma geçiyor.",
-    "context": "Bu sahne, karakterlerin günlük yaşamlarını ve aralarındaki etkileşimi göstererek komik bir atmosfer yaratıyor.",
-    "tags": [
-      "komedi",
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_042",
@@ -1140,11 +1091,10 @@
     "text": "Bırakın lan! Şişeyle vururum!",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Bir karakter tehditkar bir şekilde konuşuyor.",
-    "context": "Bu sahne, karakterin cesaretini ve tehditkarlığını sergileyerek gerilimi artırıyor.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_043",
@@ -1164,12 +1114,10 @@
     "text": "Allah! Yaa, Kentucky'de tavuk ekmek satacaklarmış. Sattırırlar mı adama? Adam orda tezgahını kurmuş, yedirir mi sana hiç? Tanıdın mı? - Kimi abicim? - Kim olacak, amblem. Şimdi bana adamın reklamını yaptırtma. Bizimkilerin durumu yine hüsran, yine hüsran.",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Karakterler Kentucky'de tavuk ekmek satışı hakkında konuşuyor.",
-    "context": "Bu sahne, karakterlerin Kentucky'deki durumu ve kendi hüsranlarını mizahi bir dille ifade ettiklerini gösteriyor.",
-    "tags": [
-      "komedi",
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_044",
@@ -1204,12 +1152,10 @@
       "Aziz Vefa",
       "Johnny Lesh"
     ],
-    "scene": "Aziz, Johnny Lesh'i bulma planları yapıyor.",
-    "context": "Bu sahne, Aziz'in Amerikan rüyasından uyanışını ve Johnny Lesh'e karşı duyduğu intikam arzusunu gösteriyor.",
-    "tags": [
-      "çerçeve-hikaye",
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_045",
@@ -1242,12 +1188,10 @@
       "Lenny",
       "Şerif"
     ],
-    "scene": "Lenny, Şerif ile Johnny Lesh hakkında konuşuyor.",
-    "context": "Bu sahne, Lenny'nin Johnny Lesh'i bulma arzusunu ve kasabadaki kaos ortamını yansıtır.",
-    "tags": [
-      "komedi",
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_046",
@@ -1264,9 +1208,10 @@
     "characters": [
       "Şerif Lloyd"
     ],
-    "scene": "Şerif, bir teklifte bulunuyor.",
-    "context": "Bu sahne, Şerif'in karakterinin ciddiyetini ve görevine olan bağlılığını gösteriyor.",
-    "tags": []
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_047",
@@ -1280,11 +1225,10 @@
     "text": "Ohh...",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Karakter bir tepki veriyor.",
-    "context": "Bu sahne, karakterin bir duruma verdiği anlık tepkiyi gösteriyor.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_048",
@@ -1298,9 +1242,10 @@
     "text": "Şerif Cheko?",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Şerif Cheko'nun adı geçiyor.",
-    "context": "Bu sahne, karakterler arasında bir iletişim ve belirsizlik anını yansıtarak, hikayenin ilerleyişine katkıda bulunuyor.",
-    "tags": []
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_049",
@@ -1318,11 +1263,10 @@
     "text": "At hırsızı Timothy. At hırsızı Timothy ha? Kaç yaşındasın sen? Aç ağzını! Aç! - Beş para etmez. - 20 dolar.",
     "is_frame_story": false,
     "characters": [],
-    "scene": "At hırsızı Timothy ile bir diyalog gerçekleşiyor.",
-    "context": "Bu sahne, karakterlerin at hırsızlığı ile ilgili bir durumla karşılaştığını gösteriyor ve komik bir diyalog içeriyor.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_050",
@@ -1339,11 +1283,10 @@
     "text": "10 dolar. Ben at hırsızlarını hiç sevmem Timothy. - Tamam 10 dolar. 10 dolar. 10 dolar. - Anlaştık. Al içeri.",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Bir karakter at hırsızlarını sevmiyor ve 10 dolar için anlaşıyor.",
-    "context": "Bu sahne, karakterlerin aralarındaki anlaşmayı ve at hırsızlığına karşı duyulan nefreti vurguluyor.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_051",
@@ -1362,11 +1305,10 @@
     "characters": [
       "Şerif Lloyd"
     ],
-    "scene": "Şerif kola siparişi veriyor.",
-    "context": "Bu sahne, karakterlerin günlük yaşamları ve sıradan etkileşimleri üzerinden komik bir an yaratıyor.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_052",
@@ -1380,9 +1322,10 @@
     "text": "Siz?",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Bir karakter diğerine soru soruyor.",
-    "context": "Bu sahne, karakterler arasındaki etkileşimi ve iletişimi gösteriyor.",
-    "tags": []
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_053",
@@ -1396,11 +1339,10 @@
     "text": "Buz gibi.",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Bir karakter buz gibi olduğunu ifade ediyor.",
-    "context": "Bu sahne, karakterin içinde bulunduğu durumu vurgulamakta ve komik bir an yaratmaktadır.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_054",
@@ -1414,11 +1356,10 @@
     "text": "Yarasın.",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Bir karakter birine olumlu bir şey söylüyor.",
-    "context": "Bu sahne, karakterler arasındaki etkileşimi ve olumlu duyguları yansıtır.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_055",
@@ -1435,11 +1376,10 @@
     "characters": [
       "Johnny Lesh"
     ],
-    "scene": "Johnny Lesh para miktarını açıklıyor.",
-    "context": "Bu sahne, Johnny Lesh'in para hırsını ve karakterinin kötü niyetini vurguluyor.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_056",
@@ -1463,12 +1403,10 @@
     "characters": [
       "Aziz Vefa"
     ],
-    "scene": "Aziz, tren soygunu planlıyor.",
-    "context": "Bu sahne, Aziz'in son işlerini planladığını ve trenle kaçmayı düşündüğünü gösteriyor.",
-    "tags": [
-      "komedi",
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_057",
@@ -1485,11 +1423,10 @@
     "text": "Küller küllere, toprak toprağa karışır. Yüce Tanrı, bu günahkar kardeşimizin ruhuna merhamet etsin. Ve onu uğurlayan bizler, onun ruhu için dua edelim. Tanrı onu korusun ve gözetsin. Amen.",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Bir cenaze töreninde dua ediliyor.",
-    "context": "Bu sahne, kaybedilen birinin anısına yapılan bir dua ile karakterlerin duygusal durumunu yansıtır.",
-    "tags": [
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_058",
@@ -1521,12 +1458,10 @@
     "characters": [
       "Şerif Murphy"
     ],
-    "scene": "Şerif Murphy, Trenci Jack'i tanıtıyor.",
-    "context": "Bu sahne, Trenci Jack'in yakalanması ve Şerif Murphy'nin durumu komik bir dille aktarmasıyla gergin bir anı mizahi bir şekilde sunuyor.",
-    "tags": [
-      "komedi",
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_059",
@@ -1540,11 +1475,10 @@
     "text": "İhtiyacınızı bu kaba giderin. Her tarafı da kuş pisliği yapmayın.",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Bir karakter ihtiyacını gidermek için kaba yönlendiriliyor.",
-    "context": "Bu sahne, karakterlerin komik bir durumla karşılaştığını ve mizahi bir dil kullanıldığını gösteriyor.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_060",
@@ -1563,9 +1497,10 @@
     "text": "- Muska boynunuzda mı efendim? - Boynumda. O badirelerden koruyan? Kumardan mı? İnnallahe sabirin... Fırtına öncesi sessizlik bu. Daha büyük şeyler olacak. Her hapishanede senden bir tane olmak zorunda mı lan?",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Bir karakter muska hakkında konuşuyor.",
-    "context": "Bu sahne, karakterlerin içinde bulundukları tehlikeli durumu ve gelecekteki olayların habercisi olan bir atmosferi yansıtıyor.",
-    "tags": []
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_061",
@@ -1581,9 +1516,10 @@
     "characters": [
       "Johnny Lesh"
     ],
-    "scene": "Johnny Lesh sahnede anons ediliyor.",
-    "context": "Bu sahne, Johnny Lesh'in kötü karakter olarak tanıtıldığı anı temsil ediyor.",
-    "tags": []
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_062",
@@ -1600,11 +1536,10 @@
     "text": "Kim derdi ki böyle bir silahşor buralara düşecek. - Gitti bizim 1000 dolar. - Saçmalama ulan. Elmas ayağımıza geldi işte. Usta, yemiyorsan alabilir miyim?",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Karakterler silahşor hakkında konuşuyor.",
-    "context": "Bu sahne, karakterlerin silahşorun beklenmedik bir şekilde ortaya çıkmasıyla yaşadıkları şaşkınlığı ve kaybı ifade ediyor.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_063",
@@ -1618,9 +1553,10 @@
     "text": "Çalışın!",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Karakterler çalışmaya teşvik ediliyor.",
-    "context": "Bu sahne, karakterlerin görevlerine odaklanmaları gerektiğini vurguluyor.",
-    "tags": []
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_064",
@@ -1634,11 +1570,10 @@
     "text": "Kalk ayağa!",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Bir karakter kalkması için diğerine talimat veriyor.",
-    "context": "Bu sahne, karakterler arasındaki etkileşimi ve dinamikleri gösteriyor.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_065",
@@ -1656,11 +1591,10 @@
     "text": "Bir boş bıraksalar, gidip kafasını gözünü yaracağım ama... Hiç boş bırakmıyorlar ki. Sakin ol, prosedürü uygulayacağız. Acele yok. Fırtına öncesi sessizlik bu. İyiye alamet değil. Gidiniz ulan beyefendi, gidiniz.",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Bir karakter gergin bir durumu değerlendiriyor.",
-    "context": "Bu sahne, karakterin içinde bulunduğu tehlikeli durumu ve gerginliği yansıtırken, aynı zamanda olayların ilerleyişine dair bir ipucu veriyor.",
-    "tags": [
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_066",
@@ -1674,11 +1608,10 @@
     "text": "Hey tavuklar! Su.",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Karakter tavuklara sesleniyor.",
-    "context": "Bu sahne, karakterin komik bir şekilde tavuklara hitap etmesiyle mizahi bir an yaratıyor.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_067",
@@ -1694,9 +1627,10 @@
     "text": "- Prosedür dedin ya, ne yapacağız? - Aceleye gerek yok. Tîz-reftâr olanın pâyına dâmen dolaşır. Erişir menzil-i maksuda aheste giden. Dinle.",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Karakterler prosedür hakkında konuşuyor.",
-    "context": "Bu sahne, karakterlerin bir durum hakkında düşüncelerini ve yaklaşımını yansıtarak hikayenin ilerleyişine katkıda bulunuyor.",
-    "tags": []
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_068",
@@ -1715,11 +1649,10 @@
       "Lemi Galip",
       "Aziz Vefa"
     ],
-    "scene": "Lemi ve Aziz içeri girmekte ve durumu değerlendiriyorlar.",
-    "context": "Bu sahne, Lemi'nin korkak ve komik tavırlarını sergileyerek durumu abarttığı bir anı yansıtıyor.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_069",
@@ -1758,11 +1691,10 @@
     "characters": [
       "Johnny Lesh"
     ],
-    "scene": "Karakterler elmasın yerini sorguluyor.",
-    "context": "Bu sahne, Johnny Lesh'in elmas hakkında bilgi vermeye çalışırken yaşadığı komik ve kaotik durumu yansıtıyor.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_070",
@@ -1779,11 +1711,10 @@
     "characters": [
       "Johnny Lesh"
     ],
-    "scene": "Aziz, Johnny Lesh ile karşılaşıyor.",
-    "context": "Bu sahne, Johnny Lesh'in hapisten kaçtığını ve Aziz ile olan etkileşimini gösteriyor.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_071",
@@ -1801,9 +1732,10 @@
     "text": "Tamam. Al. Ay! Fırtına öncesi sessizlik bu. Daha büyük şeyler olacak. Vuruyorum?",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Karakter fırtına öncesi sessizliği hissediyor.",
-    "context": "Bu sahne, karakterin gelecekteki olayların ciddiyetini hissettiğini ve bir değişimin eşiğinde olduğunu gösteriyor.",
-    "tags": []
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_072",
@@ -1817,9 +1749,10 @@
     "text": "Neymiş bakalım bu Cannonball?",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Karakter Cannonball hakkında merak ediyor.",
-    "context": "Bu sahne, karakterlerin Cannonball hakkında bilgi edinme çabasını yansıtır ve hikayenin ilerleyişine katkıda bulunur.",
-    "tags": []
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_073",
@@ -1848,12 +1781,10 @@
     "text": "Hiç aklıma gelmezdi. Mekteb-i Sultaniye, Robert Kolej... ...Maliye Nazırlığı'nda dört sene staj... ...şu halimize bak. Yazarsın işte hatıratında. Başkanın hediyesini verip, balı böreği yiyip dönecektik. Bokun tezeğin içinden çıkamadık. Şuraya bak hala ağzımdan tüy çıkıyor. Benim şu batı hayranlığını gözden geçirip, tekrar etüd etmem lazımmış demek ki. Güzel kardeşim, Batı'yı ne gözünde bu kadar büyütüyorsun. Bundan yüz sene evvel Versay sarayında tuvalet yoktu ya. Kral direk saraya sıçıyordu. O vals dediğin oyun, boka basmamak için icat edilmiş bir dans. Aman bunu da hep söylerler. Sonra ne oldu peki? İşte matbaanın bize geç gelmesi... Falan filan... Ne oluyor ya? - Hoo... - Hoo... Hoo...",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Zeki Abi Batı hayranlığını sorguluyor.",
-    "context": "Bu sahne, Zeki Abi'nin Batı'nın idealize edilmesine dair eleştirilerini ve geçmişteki yaşam koşullarını vurguluyor.",
-    "tags": [
-      "çerçeve-hikaye",
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_074",
@@ -1867,11 +1798,10 @@
     "text": "Sakin...",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Sakin bir an yaşanıyor.",
-    "context": "Bu sahne, karakterlerin gerginliğini azaltarak izleyiciye bir nefes alma anı sunuyor.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_075",
@@ -1892,11 +1822,10 @@
     "characters": [
       "Aziz Vefa"
     ],
-    "scene": "Aziz Vefa, Batı hayranlığını sorguluyor.",
-    "context": "Bu sahne, Aziz Vefa'nın Batı kültürüne olan bakış açısını ve karakterin mizahi yönünü ortaya koyuyor.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_076",
@@ -1928,12 +1857,10 @@
       "Suzan Van Dyke",
       "Aziz Vefa"
     ],
-    "scene": "Suzan Van Dyke bir gösteri sonrası sohbet ediyor.",
-    "context": "Bu sahne, Suzan'ın yeteneklerini ve Aziz Vefa'nın onunla olan etkileşimini gösteriyor, karakterlerin dinamiklerini ortaya koyuyor.",
-    "tags": [
-      "komedi",
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_077",
@@ -2024,12 +1951,10 @@
       "Johnny Lesh",
       "Lemi Galip"
     ],
-    "scene": "Aziz, Johnny Lesh olmadığını kanıtlamaya çalışıyor.",
-    "context": "Bu sahne, karakterlerin kimliklerini sorguladığı ve komik bir durum yarattığı anı temsil ediyor.",
-    "tags": [
-      "komedi",
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_078",
@@ -2045,11 +1970,10 @@
     "text": "Bana bak, sen hatıratını hangi elle yazıyorsun? Güzel. Ben o elleri bir bağlayayım da, gece rahat uyuyayım. - Hiç mi itimatımız kalmadı? - Yok efendim.",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Bir karakter diğerine tehditte bulunuyor.",
-    "context": "Bu sahne, karakterler arasındaki güven sorununu ve gerilimi ortaya koyuyor.",
-    "tags": [
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_079",
@@ -2081,12 +2005,10 @@
       "Şerif Lloyd",
       "Chuck"
     ],
-    "scene": "Şerif Lloyd ödül işi için geldiği yerde viski ve kola siparişi veriyor.",
-    "context": "Bu sahne, Şerif Lloyd'un kasabadaki otoritesini ve gündelik yaşamın karmaşasını yansıtırken, komik bir atmosfer yaratıyor.",
-    "tags": [
-      "komedi",
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_080",
@@ -2104,9 +2026,10 @@
     "characters": [
       "Şerif Lloyd"
     ],
-    "scene": "Şerif ile iş konuşuluyor.",
-    "context": "Bu sahne, ana hikayede Johnny Lesh'in getirilmesiyle birlikte gelişen olayların başlangıcını işaret ediyor.",
-    "tags": []
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_081",
@@ -2184,12 +2107,10 @@
       "Chuck",
       "Betty"
     ],
-    "scene": "Johnny Lesh'in kasabaya gelişi ve ödül meselesi hakkında konuşulması.",
-    "context": "Bu sahne, Johnny Lesh'in kasabaya gelişi ve onun etrafında dönen ödül avcılığı konusunu ele alarak, karakterlerin arasındaki dinamikleri ve komik durumları ortaya koyuyor.",
-    "tags": [
-      "komedi",
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_082",
@@ -2239,12 +2160,10 @@
       "Şerif Lloyd",
       "Eugene"
     ],
-    "scene": "Şerif ve Eugene arasında geçen komik bir diyalog.",
-    "context": "Bu sahne, karakterlerin mizahi yönlerini ve Vahşi Batı'daki sosyal durumları yansıtarak komedi unsurlarını ön plana çıkarıyor.",
-    "tags": [
-      "komedi",
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_083",
@@ -2270,11 +2189,10 @@
     "characters": [
       "Şerif Lloyd"
     ],
-    "scene": "Şerif, Johnny Lesh'in elmasını ve Sioux'larla olan ilişkisini tartışıyor.",
-    "context": "Bu sahne, Johnny Lesh'in tehlikeli bir karakter olduğunu ve Sioux'larla olan çatışmanın önemini vurguluyor.",
-    "tags": [
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_084",
@@ -2294,11 +2212,10 @@
     "characters": [
       "Lemi Galip"
     ],
-    "scene": "Lemi, Şerifin teklifini duyuyor.",
-    "context": "Bu sahne, Lemi'nin Şerif ile bir buluşma ayarlaması ve olayların gelişimi için önemli bir adım olduğunu gösteriyor.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_085",
@@ -2315,11 +2232,10 @@
     "text": "Ya, ben de elmasın peşindeyim. Kaç saattir tek kelime alamadım. Boşa vakit kaybı! Güzel güzel. Güzel, aferin. Konuş! Konuş elmas nerede?",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Karakter elmasın peşinde olduğunu belirtiyor.",
-    "context": "Bu sahne, karakterin sabırsızlığını ve elmasın peşinde koşmanın getirdiği hayal kırıklığını yansıtır.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_086",
@@ -2343,11 +2259,10 @@
     "text": "Gelin bakalım, hoş geldiniz. Şimdi size bir yer bulalım. Kalk ulan o masadan! Koca götlü! Bu masa senin harcın değil! Oraya Fidaların Murdock oturacak! Buyrun... Bol şanslar. Gelin bakalım sevgili meslektaşım. Hoş geldiniz. Bak buraya! Vıski ver! Bol şanslar. Birazdan gelirim yine. Ulan ben sana on sekiz yaşından küçükler buraya giremez demedim mi? Fotörüne sıçtığım!",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Bir karakter, bir masada oturan kişilere bağırıyor ve onları yerlerinden kaldırmaya çalışıyor.",
-    "context": "Bu sahne, karakterin otoriter ve komik tavırlarını sergileyerek izleyiciye eğlenceli bir an sunuyor.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_087",
@@ -2380,12 +2295,10 @@
       "Suzan Van Dyke",
       "Johnny Lesh"
     ],
-    "scene": "Lemi, Suzan ile Johnny hakkında konuşuyor.",
-    "context": "Bu sahne, Lemi'nin komik ve sakar kişiliğini sergileyerek, Johnny'nin varlığını ve Suzan ile olan etkileşimini gösteriyor.",
-    "tags": [
-      "komedi",
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_088",
@@ -2408,12 +2321,10 @@
     "text": "Gel bakalım yiğidim. Otur bakalım. - Postaneyi soruyor. - Tabii canım. Merak etmeyin, istediğiniz her şey halledilecek. Öncelikle şu Sioux şefinin kellesini aldık mı... ...daha da burada barınamaz, itoğluitler. Hem de Johnny Lesh'e yanlış yapmak... ...neymiş, öğrensin gavatlar, değil mi? Yarın şafak vakti Zozo The Kid'le yola çıkacağız. Yaşa. Sioux'lara bulaşma işi hiç hoşuma gitmedi ama, neyse.",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Bir karakter Sioux şefinin kellesini almayı planlıyor.",
-    "context": "Bu sahne, karakterin Sioux'larla olan çatışmasını ve Johnny Lesh ile olan ilişkisini ortaya koyuyor.",
-    "tags": [
-      "aksiyon",
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_089",
@@ -2432,11 +2343,10 @@
     "characters": [
       "Şerif"
     ],
-    "scene": "Şerif, Lemi'ye sert bir şekilde uyarıda bulunuyor.",
-    "context": "Bu sahne, Lemi'nin korkak ve sakar kişiliğini vurgularken, Şerif'in otoriter tavrını da ortaya koyuyor.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_090",
@@ -2460,12 +2370,10 @@
     "characters": [
       "Suzan Van Dyke"
     ],
-    "scene": "Suzan elmasın önemini anlıyor.",
-    "context": "Bu sahne, Suzan'ın elmasın değerini ve durumun ciddiyetini kavradığı anı temsil ediyor.",
-    "tags": [
-      "komedi",
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_091",
@@ -2479,9 +2387,10 @@
     "text": "Yarın görüşürüz.",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Karakterler birbirlerine veda ediyor.",
-    "context": "Bu sahne, karakterler arasındaki ilişkiyi ve gelecekteki buluşma umudunu vurguluyor.",
-    "tags": []
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_092",
@@ -2495,11 +2404,10 @@
     "text": "- Kovboy, içeri gelsene! - Ben kovboy değilim anam!",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Kovboy içeri girmesi isteniyor.",
-    "context": "Bu sahne, karakterlerin kimliklerini sorguladığı ve mizahi bir durum yarattığı bir anı temsil ediyor.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_093",
@@ -2526,12 +2434,10 @@
       "Zeki Abi",
       "Vedat Abi"
     ],
-    "scene": "Zeki Abi hikaye anlatmaya devam ediyor.",
-    "context": "Bu sahne, Zeki Abi'nin hikayeyi anlatırken dinleyicilerin tepkilerini ve meraklarını yansıtır.",
-    "tags": [
-      "çerçeve-hikaye",
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_094",
@@ -2549,12 +2455,10 @@
     "text": "Nasıl gidiyor? Muhteşem! - Ver bakayım şu kapuçinoyu ya. - Dur, sipsiyi takayım da bir dakika. - Hasst... - Ne oldu? Düştü. Şimdi işin yoksa on dakika ara.",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Karakterler kapuçino içmek için hazırlık yapıyor.",
-    "context": "Bu sahne, karakterlerin günlük yaşamındaki sıradan bir anı gösteriyor ve komik bir etkileşim sunuyor.",
-    "tags": [
-      "komedi",
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_095",
@@ -2573,11 +2477,10 @@
     "characters": [
       "Aziz Vefa"
     ],
-    "scene": "Aziz Efendi, Yakari hakkında konuşuyor.",
-    "context": "Bu sahne, Aziz Vefa'nın sezgilerini kullanarak bir durumu analiz etme çabasını gösteriyor.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_096",
@@ -2594,11 +2497,10 @@
     "text": "- Merhaba Kartalgözü! - Dalga mı geçiyorsun lan! - Efendim Cherokee'lerden İstenmeyentüy. - Cherokee mi? Grand Cherokee. Arkadaşım Pajero ve Pontiac. Şefe selam getirdik.",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Karakterler arasında esprili bir diyalog geçiyor.",
-    "context": "Bu sahne, karakterlerin birbirleriyle olan ilişkilerini ve mizahi etkileşimlerini gösteriyor.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_097",
@@ -2613,11 +2515,10 @@
     "text": "Üstünü koy. At hadi at! At! Merhabalar şef.",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Karakterler bir şeyler atıyor ve şefe selam veriyor.",
-    "context": "Bu sahne, karakterlerin bir arada olduğu ve etkileşimde bulunduğu bir anı yansıtır.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_098",
@@ -2631,11 +2532,10 @@
     "text": "Buyrun şöyle oturalım.",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Karakterler oturuyor.",
-    "context": "Bu sahne, karakterlerin bir araya gelerek diyalog kurduğu bir anı temsil ediyor.",
-    "tags": [
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_099",
@@ -2665,12 +2565,10 @@
     "text": "Hoş geldiniz. Ben Kızılkayalar. Bu da oğlum Bambi. Sağol şef, tokuz. Bu Kısırkayalar, Ağlayankayalar, Pembekayalar, Kayalar. Kayalara geldik. Efendim, sebebi ziyaretimiz hayırlı bir iş. Oğlumuz İstenmeyentüy'le, kızımız Pajero'nun evlilik akdi için... ...kabilenin büyücüsünden bir hayır duası almaya geldik. İstenmeyentüy kız ismidir yalnız. - Efendim, annem hep kız istemiş... - Olmamış mı? E olmuş mu? Olmamış. Cherokee'ler bizim kardeşimizdir. Onların birleşip çoğalması bizim mutluluğumuzdur. Ağlayankaya, tütsüyü yak! Billurları getirin! - Billur ne? - Kristal kaseler. Geç bakalım damat şöyle ortaya.",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Kızılkayalar kabilesi, İstenmeyentüy ve Pajero'nun evlilik akdi için dua almak üzere toplanıyor.",
-    "context": "Bu sahne, kabile kültürü ve geleneklerini yansıtarak evlilik akdinin önemini vurguluyor.",
-    "tags": [
-      "komedi",
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_100",
@@ -2685,11 +2583,10 @@
     "text": "Bu buffalo taşakları, ailenize bereket getirecektir. Epiesa!",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Bir karakter buffalo taşakları hakkında konuşuyor.",
-    "context": "Bu sahne, karakterin mizahi bir şekilde bereket getireceğini iddia ettiği bir nesne hakkında konuşmasını içeriyor.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_101",
@@ -2703,11 +2600,10 @@
     "text": "Şeda! Üfle!",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Karakter bir şey üflüyor.",
-    "context": "Bu sahne, karakterin bir şey yaparkenki komik anını yansıtır.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_102",
@@ -2730,12 +2626,10 @@
     "characters": [
       "Aziz Vefa"
     ],
-    "scene": "Aziz Vefa kasabaya gitmek için hazırlık yapıyor.",
-    "context": "Bu sahne, Aziz Vefa'nın kasabaya gitme planlarını ve ilişkilerini gösteriyor.",
-    "tags": [
-      "komedi",
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_103",
@@ -2751,11 +2645,10 @@
     "text": "Keşke geçen hafta gelseydiniz. Yerli malı haftası vardı. Yerli malı mı? Tekrar hoş geldiniz. Buyrun.",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Karakter yerli malı haftasını hatırlatıyor.",
-    "context": "Bu sahne, karakterin misafirperverliğini ve yerli malı haftasına olan ilgisini gösteriyor.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_104",
@@ -2770,11 +2663,10 @@
     "text": "Alayınızın amına koyarım lan! Konuş damat konuş. Taşaklar işe yaradı.",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Bir karakter sinirli bir şekilde bağırıyor.",
-    "context": "Bu sahne, karakterin öfkesini ve durumu kontrol etme isteğini yansıtarak, komik bir an yaratıyor.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_105",
@@ -2793,12 +2685,10 @@
     "characters": [
       "Aziz Vefa"
     ],
-    "scene": "Aziz, bir şeylerin olacağını belirtiyor.",
-    "context": "Bu sahne, Aziz'in kendine güvenini ve gelecekteki olayların ciddiyetini vurguluyor.",
-    "tags": [
-      "komedi",
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_106",
@@ -2841,12 +2731,10 @@
       "Aziz Vefa",
       "Suzan Van Dyke"
     ],
-    "scene": "Lemi, şerif ve Kızılderililer hakkında konuşuyor.",
-    "context": "Bu sahne, Lemi'nin komik ve korkak tavırlarıyla yerli halk ve şerif hakkında düşüncelerini ifade ettiği bir anı temsil ediyor.",
-    "tags": [
-      "komedi",
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_107",
@@ -2865,12 +2753,10 @@
     "characters": [
       "Aziz Vefa"
     ],
-    "scene": "Aziz, totemle konuşuyor.",
-    "context": "Bu sahne, Aziz'in folklorik inançlarını sorguladığı ve komik bir durum yarattığı anı temsil ediyor.",
-    "tags": [
-      "komedi",
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_108",
@@ -2884,11 +2770,10 @@
     "text": "Oğlum, yaramıyorsa içme lan!",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Bir karakter başka birine sert bir şekilde hitap ediyor.",
-    "context": "Bu sahne, karakterler arasındaki gerginliği ve mizahi unsuru yansıtır.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_109",
@@ -2918,11 +2803,10 @@
       "Lemi",
       "Aziz"
     ],
-    "scene": "Lemi, Aziz'e elmas hakkında bilgi veriyor.",
-    "context": "Bu sahne, Lemi'nin görevdeki kaygılarını ve Aziz ile olan ilişkisini gösteriyor.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_110",
@@ -2972,13 +2856,10 @@
       "Suzan Van Dyke",
       "Johnny Lesh"
     ],
-    "scene": "Aziz Vefa, Johnny Lesh ile yüzleşiyor ve elması almak istiyor.",
-    "context": "Bu sahne, Aziz Vefa'nın görevi gereği Johnny Lesh ile karşılaşmasını ve elmasın peşinde olduğunu gösteriyor. Ayrıca, karakterler arasındaki gerginliği ve komik diyalogları yansıtıyor.",
-    "tags": [
-      "komedi",
-      "aksiyon",
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_111",
@@ -2995,12 +2876,10 @@
     "characters": [
       "Zeki Abi"
     ],
-    "scene": "Zeki Abi gençliğindeki bir anıyı paylaşıyor.",
-    "context": "Bu sahne, Zeki Abi'nin geçmişteki bir aşk hikayesini anlatarak çerçeve hikayenin duygusal yönünü ortaya koyuyor.",
-    "tags": [
-      "çerçeve-hikaye",
-      "romantik"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_112",
@@ -3020,11 +2899,10 @@
     "characters": [
       "Zeki Abi"
     ],
-    "scene": "Zeki Abi geçmişteki anılarını anlatıyor.",
-    "context": "Bu sahne, Zeki Abi'nin geçmişte yaşadığı acı bir olayı hatırlamasıyla, hikayenin duygusal derinliğini artırıyor.",
-    "tags": [
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_113",
@@ -3040,11 +2918,10 @@
     "text": "Sana uğursuz dediler, cezayı bana kestiler. Yavrumu, seni öldürmemi istediler. Kıyamadım.",
     "is_frame_story": true,
     "characters": [],
-    "scene": "Zeki Abi, hikayeyi anlatıyor.",
-    "context": "Bu sahnede Zeki Abi, geçmişte yaşanan trajik olayları ve karakterlerin duygusal durumlarını aktararak hikayenin derinliğini artırıyor.",
-    "tags": [
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_114",
@@ -3059,11 +2936,10 @@
     "text": "Seni Ağlayan Nehir'e bıraktım. Affettin mi beni? Beni affettin mi kızım?",
     "is_frame_story": true,
     "characters": [],
-    "scene": "Bir karakter, Ağlayan Nehir'e bırakıldığını ve affedilip affedilmediğini soruyor.",
-    "context": "Bu sahne, karakterin geçmişteki hatalarını telafi etme çabasını ve duygusal bir bağ kurma isteğini gösteriyor.",
-    "tags": [
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_115",
@@ -3092,12 +2968,10 @@
       "Johnny Lesh",
       "Şerif Lloyd"
     ],
-    "scene": "Johnny Lesh, Sultan'ın emaneti hakkında konuşuyor.",
-    "context": "Bu sahnede Johnny, Sultan'ın emaneti olan elmasın kaybolduğunu ve bunun sonuçlarını tartışıyor. Ayrıca, kumar bağımlılığı nedeniyle yaşadığı sorunları da dile getiriyor.",
-    "tags": [
-      "komedi",
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_116",
@@ -3113,11 +2987,10 @@
     "text": "Aşkta kaybeden, kumarda kazanır! Geri zekalı! Takma sakalına sıçayım senin! Sanki ben anlamadım. Chuck! Hemen şunu sağlam bir yere saklayalım oğlum.",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Karakterler arasında tartışma geçiyor.",
-    "context": "Bu sahne, karakterlerin arasındaki gerginliği ve mizahi unsurları yansıtarak filmin komedi yönünü güçlendiriyor.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_117",
@@ -3149,11 +3022,10 @@
       "Aziz Vefa",
       "Suzan Van Dyke"
     ],
-    "scene": "Aziz ve Suzan, Cannonball'a dönme planlarını yapıyorlar.",
-    "context": "Bu sahne, karakterlerin görevlerini yerine getirmeden önceki son hazırlıklarını ve Suzan'ın katılım isteğini gösteriyor.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_118",
@@ -3167,9 +3039,10 @@
     "text": "Anladınız mı?",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Bir karakter diğerine bir şey soruyor.",
-    "context": "Bu sahne, karakterler arasındaki iletişimi ve anlayışı sorgulayan bir anı temsil ediyor.",
-    "tags": []
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_119",
@@ -3186,12 +3059,10 @@
     "text": "Bir dakika lan! Şefi getiriyor. Eee? Herifin kellesi omzunda duruyor. Kaybol, kaç! Kaçın lan! Geri zekalılar! Chuck! Şimdi çakacağım ha! Git bir kola getir lan!",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Karakterler tehlikeden kaçıyor.",
-    "context": "Bu sahne, karakterlerin tehlike anında panik yaşadıklarını ve komik bir durumun ortaya çıktığını gösteriyor.",
-    "tags": [
-      "komedi",
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_120",
@@ -3217,12 +3088,10 @@
     "characters": [
       "Suzan Van Dyke"
     ],
-    "scene": "Suzan fotoğraf çektiriyor.",
-    "context": "Bu sahne, Suzan'ın geçmişiyle ilgili anıları hatırlaması ve karakterler arasındaki etkileşimi gösteriyor.",
-    "tags": [
-      "komedi",
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_121",
@@ -3237,11 +3106,10 @@
     "text": "Evet! Sıraya! Sıraya! Buraya! Buyrun!",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Karakterler sıraya girmeye çağrılıyor.",
-    "context": "Bu sahne, karakterlerin bir araya gelerek bir düzen oluşturma çabasını yansıtır.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_122",
@@ -3283,13 +3151,10 @@
       "Aziz Vefa",
       "Johnny Lesh"
     ],
-    "scene": "Lemi ve Aziz, Johnny Lesh ile gergin bir yüzleşme yaşıyor.",
-    "context": "Bu sahne, Lemi ve Aziz'in Johnny Lesh ile olan çatışmasını ve Osmanlı kimliklerini vurgulayan bir anı temsil ediyor.",
-    "tags": [
-      "komedi",
-      "aksiyon",
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_123",
@@ -3320,12 +3185,10 @@
       "Lemi",
       "Şerif"
     ],
-    "scene": "Aziz ve Lemi şerifin peşine düşüyorlar.",
-    "context": "Bu sahne, Aziz ve Lemi'nin şerifi yakalamak için plan yaptıklarını ve kasabadaki durumu değerlendirdiklerini gösteriyor.",
-    "tags": [
-      "komedi",
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_124",
@@ -3343,11 +3206,10 @@
       "Lemi Galip",
       "Şerif Lloyd"
     ],
-    "scene": "Lemi, Şerif Lloyd'a para peşin almak için geliyor.",
-    "context": "Bu sahne, Lemi'nin korkak ve komik karakterini sergileyerek, izleyiciye gergin bir durumu mizahi bir dille sunuyor.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_125",
@@ -3362,11 +3224,10 @@
     "text": "Kağıt tutmasını biliyorsan, otur bakalım karşıma. Kaybolun!",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Bir karakter kağıt tutmasını öğreniyor.",
-    "context": "Bu sahne, karakterlerin birbirleriyle olan etkileşimlerini ve mizahi unsurları yansıtır.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_126",
@@ -3380,11 +3241,10 @@
     "text": "Yancılara da benden birer tane meyveli gazoz verin!",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Birine meyveli gazoz siparişi veriliyor.",
-    "context": "Bu sahne, karakterlerin eğlenceli ve komik bir ortamda etkileşimde bulunduğunu gösteriyor.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_127",
@@ -3398,11 +3258,10 @@
     "text": "Kes bakalım!",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Bir karakter birine emir veriyor.",
-    "context": "Bu sahne, karakterler arasındaki otorite ve güç dinamiklerini gösteriyor.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_128",
@@ -3417,11 +3276,10 @@
     "text": "- Yüz potla açık. - Gördük. Doll.",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Karakterler bir durumu değerlendiriyor.",
-    "context": "Bu sahne, karakterlerin bir olay karşısındaki tepkilerini ve durumun ciddiyetini vurguluyor.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_129",
@@ -3437,11 +3295,10 @@
     "text": "Üç kart da bana. İki yüz elli pot daha. Beş yüz.",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Bir oyun masasında bahis yapılıyor.",
-    "context": "Bu sahne, karakterlerin şans oyunlarıyla olan ilişkisini ve potansiyel kazançlarını gösteriyor.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_130",
@@ -3459,11 +3316,10 @@
     "text": "Dam döper! İyisin... Poker talimini totemle mi yaptın? - Manitu senden yana. - Bana bir kahve daha! Yancıların hesabını ayrı yazın! Yetti gari! Kaçıncı kahve oldu bu?",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Bir karakter kahve siparişi veriyor ve poker hakkında konuşuyor.",
-    "context": "Bu sahne, karakterlerin günlük yaşamlarını ve aralarındaki etkileşimi göstererek komik bir atmosfer yaratıyor.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_131",
@@ -3477,11 +3333,10 @@
     "text": "Full kız.",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Bir karakter birine hitap ediyor.",
-    "context": "Bu sahne, karakterler arasındaki etkileşimi ve mizahi unsurları yansıtır.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_132",
@@ -3498,11 +3353,10 @@
     "text": "Full dokuz. - Biraz çıkıyoruz. - Ben buradayım. İyisin şef. İyisin. Çok iyi gidiyor be.",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Karakterler bir durum değerlendirmesi yapıyor.",
-    "context": "Bu sahne, karakterlerin mevcut durumları hakkında birbirlerine destek verdiklerini gösteriyor.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_133",
@@ -3522,11 +3376,10 @@
       "Aziz Vefa",
       "Lloyd"
     ],
-    "scene": "Aziz ve Lloyd arasında bir konuşma geçiyor.",
-    "context": "Bu sahne, Aziz'in görevine olan inancını ve Lloyd'un heyecanını yansıtır.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_134",
@@ -3544,11 +3397,10 @@
     "characters": [
       "Aziz"
     ],
-    "scene": "Aziz, Lemi'ye para atmasını istiyor.",
-    "context": "Bu sahne, Lemi'nin korkak ve komik karakterini vurgularken Aziz'in ciddi tavrını gösteriyor.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_135",
@@ -3565,11 +3417,10 @@
     "text": "- Ha! - Aa! - Ne oldu? - Baba? - Şef? - Sıkıntı yok! - Şef, sana ne oldu? - Baba!",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Karakterler arasında panik ve endişe var.",
-    "context": "Bu sahne, karakterlerin bir tehlike ile karşı karşıya kaldığını ve birbirlerine destek olmaya çalıştıklarını gösteriyor.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_136",
@@ -3663,12 +3514,10 @@
       "Suzan Van Dyke",
       "Aziz Vefa"
     ],
-    "scene": "Suzan ve Aziz, müzik ve kültürel farklılıklar üzerine sohbet ediyorlar.",
-    "context": "Bu sahne, Suzan'ın geçmişiyle ilgili duygusal bir bağ kurmasını ve Aziz ile olan ilişkisini derinleştirmesini sağlıyor.",
-    "tags": [
-      "komedi",
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_137",
@@ -3685,12 +3534,10 @@
     "text": "Yine sabahı ettik. Haydi bakalım. Yıllarımızı verdik, beni tokatlayacakmış. Geri zekalı. Şunu fakire fukaraya verin. Şunun tüyerini de karılara verin, yastık yorgan doldursunlar.",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Karakterler sabah hazırlıkları yapıyor.",
-    "context": "Bu sahne, karakterlerin günlük yaşamlarına ve mizahi durumlarına odaklanarak filmin komik atmosferini yansıtır.",
-    "tags": [
-      "komedi",
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_138",
@@ -3714,12 +3561,10 @@
     "characters": [
       "Aziz Vefa"
     ],
-    "scene": "Aziz, poker kaybı ve elmas hakkında konuşuyor.",
-    "context": "Bu sahne, karakterlerin içinde bulunduğu zor durumu ve kayıplarını vurguluyor.",
-    "tags": [
-      "komedi",
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_139",
@@ -3747,12 +3592,10 @@
       "Suzan Van Dyke",
       "Şerif Lloyd"
     ],
-    "scene": "Karakterler ipucu arayışında tartışıyorlar.",
-    "context": "Bu sahne, karakterlerin kasabadaki durumu ve ipucu bulma çabalarını vurguluyor.",
-    "tags": [
-      "komedi",
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_140",
@@ -3769,11 +3612,10 @@
     "text": "- N'aber Betty? - Gel, gel. Sen mi yaptın? Annene selam söyle. Haydi bakalım...",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Betty ile selamlaşma",
-    "context": "Bu sahne, karakterler arasındaki samimi bir etkileşimi gösteriyor ve hikayenin gündelik yaşamına dair bir anı temsil ediyor.",
-    "tags": [
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_141",
@@ -3789,11 +3631,10 @@
     "text": "Günah çıkarmak istiyorum peder. Ulan senin günahın boyunu aşmıştır ya. Neyse. Geç bakalım içeri.",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Günah çıkarma isteği ile içeri giriliyor.",
-    "context": "Bu sahne, karakterin içsel çatışmasını ve mizahi bir şekilde günahlarını sorgulamasını yansıtır.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_142",
@@ -3850,12 +3691,10 @@
       "Şerif",
       "Betty"
     ],
-    "scene": "Şerif, Juan'ı tutukluyor ve Betty ile konuşuyor.",
-    "context": "Bu sahne, Juan'ın suçlarını itiraf ettiği ve Şerif ile Betty arasındaki ilişkiyi ortaya koyduğu bir anı temsil ediyor.",
-    "tags": [
-      "komedi",
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_143",
@@ -3885,12 +3724,10 @@
       "Lemi Galip",
       "Aziz Vefa"
     ],
-    "scene": "Lemi ve Aziz otelde konuşuyorlar.",
-    "context": "Bu sahne, Lemi'nin Aziz ile olan ilişkisini ve komik durumlarını yansıtarak hikayeye hafif bir mizah katıyor.",
-    "tags": [
-      "komedi",
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_144",
@@ -3912,11 +3749,10 @@
     "text": "Bunu da yiyemedik. Macunu bulduk, kıllısını aramayalım. Oldu... O zaman ben... Otele gidip şey yapayım... - Bir temizleneyim de... - Haydi bakalım. Karısının pek bir şeyden haberi yok. Ama elması satacakmış, öyle demiş. Yani, bu bir tehlike olabilir tabii. - Lemi? - Hah? Kilisede bir şeyler geveledi ama... ...gramofonu ters bağlayıp kaydetmeye çalıştım. Kayıt çok kötü. Bakın.",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Karakterler bir tehlike hakkında konuşuyorlar.",
-    "context": "Bu sahne, karakterlerin mevcut durumları ve olası tehlikeler hakkında bilgi alışverişi yapmalarını gösteriyor.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_145",
@@ -3970,12 +3806,10 @@
       "Lemi Galip",
       "Şerif Lloyd"
     ],
-    "scene": "Aziz ve Lemi elmasın yerini planlıyorlar.",
-    "context": "Bu sahne, elmasın bulunması için bir plan yapıldığını ve karakterlerin iş birliği içinde hareket ettiğini gösteriyor.",
-    "tags": [
-      "komedi",
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_146",
@@ -3989,11 +3823,10 @@
     "text": "Lan bu değil. Şu anasını babasını kesenleri ver.",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Karakter bir şeyin yanlış olduğunu belirtiyor.",
-    "context": "Bu sahne, karakterin durumdan hoşnutsuzluğunu ve olayların beklenmedik bir şekilde geliştiğini vurguluyor.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_147",
@@ -4052,12 +3885,10 @@
       "Şerif Lloyd",
       "Aziz Vefa"
     ],
-    "scene": "Şerif, Buck Berry ile düello için hazırlık yapıyor.",
-    "context": "Bu sahne, karakterlerin arasındaki gerilimi ve komik diyalogları yansıtarak, düello temasını ön plana çıkarıyor.",
-    "tags": [
-      "komedi",
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_148",
@@ -4075,11 +3906,10 @@
     "text": "Kel, kör, kendi işini kendin gör... Bak beri. Ulan beri bak! Git söyle, ''Akşam vaazından sonra, şerif seni düelloya çağırıyor'' de. Sen de her zamanki gibi çanın oraya geç.",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Bir karakter şerife düello çağrısı yapıyor.",
-    "context": "Bu sahne, düello öncesi gerilimi artırarak izleyiciyi olayların gelişimine hazırlıyor.",
-    "tags": [
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_149",
@@ -4128,12 +3958,10 @@
       "Şerif Lloyd",
       "Lemi"
     ],
-    "scene": "Suzan, düello için Aziz'i ikna etmeye çalışıyor.",
-    "context": "Bu sahne, karakterlerin ilişkilerini ve Aziz'in cesaretini sorgulayan bir çatışmayı ortaya koyuyor.",
-    "tags": [
-      "komedi",
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_150",
@@ -4154,12 +3982,10 @@
       "Şerif Lloyd",
       "Aziz Vefa"
     ],
-    "scene": "Şerif, Suzan Van Dyke ile dövüşeceklerini bildiriyor.",
-    "context": "Bu sahne, karakterlerin arasında geçen bir çatışmayı ve Aziz'in otoritesini vurguluyor.",
-    "tags": [
-      "komedi",
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_151",
@@ -4174,9 +4000,10 @@
     "text": "Fırtına öncesi sessizlik bu. Daha büyük şeyler olacak... Lan git!",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Karakter fırtına öncesi sessizliği tanımlıyor.",
-    "context": "Bu sahne, yaklaşan tehlikenin habercisi olarak gerilimi artırıyor.",
-    "tags": []
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_152",
@@ -4203,13 +4030,10 @@
       "Aziz Vefa",
       "Suzan Van Dyke"
     ],
-    "scene": "Aziz, Suzan'a annesinin muskasını vermek istiyor.",
-    "context": "Bu sahne, Aziz'in Suzan'a olan duygularını ve komik bir şekilde tabut ölçüsü alma durumunu yansıtır.",
-    "tags": [
-      "komedi",
-      "romantik",
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_153",
@@ -4224,12 +4048,10 @@
     "text": "Orada! Çatıda! Ahh...",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Bir karakter çatıda bir şey gördüğünü haykırıyor.",
-    "context": "Bu sahne, karakterlerin tehlikede olduğunu hissettikleri bir anı yansıtıyor ve gerilimi artırıyor.",
-    "tags": [
-      "komedi",
-      "aksiyon"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_154",
@@ -4258,11 +4080,10 @@
       "Johnnie",
       "Şerif Lloyd"
     ],
-    "scene": "Aziz, Johnnie'ye ayna verirken Ziya Paşa'nın sözlerini hatırlatıyor.",
-    "context": "Bu sahne, karakterlerin birbirleriyle olan ilişkilerini ve Aziz'in Johnnie'ye olan güvenini gösteriyor.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_155",
@@ -4298,11 +4119,10 @@
     "text": "Valilik diyor... Teşrifleri mi? Kırkpınar güreşleri... Koskoca Osmanlı Sultanı himayesinde diyor. Hem de ben organize etmişim. O telgrafı çeken ellerin kırılsın. Vali Wilson geliyor. Belediye başkanı gelir. Mutasarrıflıktan da gelen olur. Kendi ellerimle koskoca elması nasıl vereyim ben? - Aman... Ver kurtul sen de be! - Lan sirkeli suyunu siktirme lan! - Lan çık dışarıda oyna sen de! Hadi! - Vur, vur, vur o küçüğe de vur. Kafasına vur ki ağabeyi gibi onu da delirt. Ya ben ne edeceğim? Ben kafayı yiyeceğim. Yarın öğlen burada olur hepsi. Kendimi vuracağım. Kendimi vuracağım! Kolay değil yenge, avize taşı gibi taş! - Ne dedin lan sen? - Avize taşı! - Aferin lan Chuck. Çak. - Yapma şerif. Lan bu sefer essahtan çak! Aahhh! Babanın düşmanlarını sikeyim. Avize taşı değil mi? Aahhh... Kırkpınar Güreşleri Gösteri Alanı 18 Haziran 1881.",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Kırkpınar güreşleri organizasyonu hakkında konuşuluyor.",
-    "context": "Bu sahne, Osmanlı Sultanı'nın himayesinde gerçekleşen güreşlerin önemini ve organizasyonun zorluklarını vurguluyor.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_156",
@@ -4332,12 +4152,10 @@
       "Aziz Vefa",
       "Buffalo Bill"
     ],
-    "scene": "Karakterler yerel kıyafetler hakkında konuşuyor ve Buffalo Bill'in açılış konuşmasını yapacağını öğreniyorlar.",
-    "context": "Bu sahne, karakterlerin yerel kıyafetler ve etkinlikler hakkında etkileşimde bulunduğu, Buffalo Bill'in önemli bir figür olarak tanıtıldığı bir anı temsil ediyor.",
-    "tags": [
-      "komedi",
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_157",
@@ -4369,11 +4187,10 @@
       "William Lloyd",
       "Betty Lloyd"
     ],
-    "scene": "Lemi Galip ve Aziz Vefa, Şerif William Lloyd ile tanışıyor.",
-    "context": "Bu sahne, karakterlerin birbirleriyle tanışmasını ve kasabanın düzenini tanıtmasını sağlıyor.",
-    "tags": [
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_158",
@@ -4391,11 +4208,10 @@
     "characters": [
       "Aziz Vefa"
     ],
-    "scene": "Aziz, tecrübe hakkında konuşuyor.",
-    "context": "Bu sahne, Aziz'in görevine olan bağlılığını ve tecrübe konusundaki düşüncelerini yansıtır.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_159",
@@ -4415,11 +4231,10 @@
     "text": "Sayın Vali. Sayın Kaymakam. Kıymetli Belediye Başkanı. Birbirinden değerli Kızılderili kardeşlerimiz ve Cannonball Ahalisi. Unuttuğum biri var mı diye bakıyorum... Şimdi, sultanımızın, Tophane nahiyemizle... ...kardeş kasaba ilan ettiği, bu güzide beldemizin... ...Cannonball'un, düşman işgalinden kurtuluşunun... ...temsili milisler tarafından canlandırılması! Arz ederim!",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Vali, Kaymakam ve Belediye Başkanı'nın konuşması.",
-    "context": "Bu sahne, Cannonball kasabasının düşman işgalinden kurtuluşunu kutlamak için yapılan bir etkinliği temsil ediyor.",
-    "tags": [
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_160",
@@ -4438,12 +4253,10 @@
     "text": "Bir apaçi ağlıyor... Gözleri yaşlı... Yalnız bir kovboydu... Dağları aştı... Ağla kovboy ağla! Ben de ağlayayım! Bu topraklardan sana arsa bağlayayım! Kalk lan! Sen de bir şeyler yap, Vali'nin gözüne girelim. Hadi! Amerika kovboyları donsuz gezerler, çıplak atın üstünde...",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Bir kovboyun yalnızlığı ve çaresizliği üzerine bir monolog.",
-    "context": "Bu sahne, kovboy kültürünün yalnızlık ve mücadele temalarını vurguluyor.",
-    "tags": [
-      "komedi",
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_161",
@@ -4458,12 +4271,10 @@
     "text": "Şimdi de Suzan Van Dyke'tan atış gösterisi. Fırla! Fırla! Dikkat et, Vali'yi vurma.",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Suzan Van Dyke atış gösterisi yapıyor.",
-    "context": "Bu sahne, Suzan'ın yeteneklerini sergilediği ve izleyicilerin dikkatini çektiği bir anı temsil ediyor.",
-    "tags": [
-      "komedi",
-      "aksiyon"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_162",
@@ -4477,9 +4288,10 @@
     "text": "Çocuklar, beş dakikamız var.",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Çocuklar zamanın az olduğunu bildiriyor.",
-    "context": "Bu sahne, karakterlerin acil bir durumla karşı karşıya olduğunu ve zamanın kısıtlı olduğunu vurguluyor.",
-    "tags": []
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_163",
@@ -4505,12 +4317,10 @@
     "characters": [
       "Aziz Vefa"
     ],
-    "scene": "Pehlivan güreşi yapılıyor.",
-    "context": "Bu sahne, Aziz Vefa'nın güreş müsabakasındaki zaferini ve kasaba halkının tepkisini gösteriyor.",
-    "tags": [
-      "komedi",
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_164",
@@ -4527,11 +4337,10 @@
     "characters": [
       "Aziz Vefa"
     ],
-    "scene": "Küçük Joe'nun kazandığı duyuruluyor.",
-    "context": "Bu sahne, Aziz Vefa'nın kazandığı bir durumu vurguluyor ve karakterin başarılarını gösteriyor.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_165",
@@ -4549,11 +4358,10 @@
     "characters": [
       "Aziz Vefa"
     ],
-    "scene": "Kazananlar ilan ediliyor.",
-    "context": "Bu sahne, yarışmanın sonuçlandığını ve Aziz Vefa'nın kazandığını gösteriyor, karakterin başarısını vurguluyor.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_166",
@@ -4576,12 +4384,10 @@
     "characters": [
       "Aziz Vefa"
     ],
-    "scene": "Aziz bir görevi başarıyla tamamladığını bildiriyor.",
-    "context": "Bu sahne, Aziz'in görevini yerine getirdiğini ve arkadaşlarıyla bu başarıyı kutladığını gösteriyor.",
-    "tags": [
-      "komedi",
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_167",
@@ -4602,12 +4408,10 @@
     "characters": [
       "Aziz Vefa"
     ],
-    "scene": "Aziz Vefa'nın turnuvayı kazandığı an",
-    "context": "Bu sahne, Aziz Vefa'nın başarılarını ve karakterinin gücünü vurguluyor.",
-    "tags": [
-      "komedi",
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_168",
@@ -4631,11 +4435,10 @@
       "Aziz Vefa",
       "Vali"
     ],
-    "scene": "Aziz Vefa ödülünü alıyor.",
-    "context": "Bu sahne, Aziz Vefa'nın kazandığı zaferin kutlandığı ve ona ödül verildiği anı temsil ediyor.",
-    "tags": [
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_169",
@@ -4670,12 +4473,10 @@
       "Şerif Lloyd",
       "Vali"
     ],
-    "scene": "Aziz, elmasın gerçek yerini öğreniyor ve Şerif Lloyd'u davet ediyor.",
-    "context": "Bu sahne, elmasın gerçek yerinin ortaya çıkması ve Aziz'in planını uygulamaya koyması açısından kritik bir dönüm noktasıdır.",
-    "tags": [
-      "komedi",
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_170",
@@ -4702,12 +4503,10 @@
       "Lloyd",
       "Suzan"
     ],
-    "scene": "Lloyd ve Suzan arasında geçen bir diyalog.",
-    "context": "Bu sahne, Lloyd'un kendine güvenini kaybettiği ve Suzan ile olan ilişkisini sorguladığı bir anı temsil ediyor.",
-    "tags": [
-      "komedi",
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_171",
@@ -4726,11 +4525,10 @@
     "characters": [
       "Aziz Vefa"
     ],
-    "scene": "Aziz Vefa kazandığını açıklıyor.",
-    "context": "Bu sahne, Aziz Vefa'nın zaferini ve sorumluluklarını vurguluyor, aynı zamanda evlilikle ilgili bir espri yapılıyor.",
-    "tags": [
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_172",
@@ -4776,12 +4574,10 @@
     "text": "# Bu bekârlıktan bıktım usandım. # Metreslerimden hiç tat almadım. # Bu bekârlıktan bıktım usandım. # Metreslerimden hiç tat almadım. # Şimdi tek arzum, evlenmektir kararım. # Lakin münasip bir bayan nerden bulayım? # Şimdi tek arzum, evlenmektir kararım. # Lakin münasip bir bayan nerden bulayım? # Bu bekârlıktan bıktım usandım. # Âşıklarımdan hiç tat almadım. # Bu bekârlıktan bıktım usandım. # Nasiplerimden hiç tat almadım. # Şimdi tek arzum, evlenmektir kararım. # Lakin münasip bir koca nerden bulayım? - Senin ismin neydi delikanlı? - Chuuuck! Derhal! # Lakin münasip bir koca nerden bulayım? # İşte bir bayan pek mini mini... # Acep söylesem sever mi beni? # İşte bir bayan pek mini mini... # Acep söylesem sever mi beni? # Matmazel bana verir misin elini? # Al elimin, hem kalbimin sensin sahibi. # Matmazel bana verir misin kalbini? # Al elimin, hem kalbimin sensin sahibi. # İşte kavuştum ben aşığıma. # Tanrı çıkardı seni karşıma. # Aç kollarını gel aguşuma. # Darısı bekârların başına... # Bizi görenler sakın kıskanmasınlar. # Bir eş bulup evlenerek mesut olsunlar. # Bizi görenler sakın kıskanmasınlar. # Bir eş bulup evlenerek mesut olsunlar.",
     "is_frame_story": true,
     "characters": [],
-    "scene": "Zeki Abi bekarlık ve evlilik üzerine düşüncelerini paylaşıyor.",
-    "context": "Bu sahne, Zeki Abi'nin yalnızlık ve evlenme arzusu üzerine düşündüğü bir anı temsil ediyor. Aynı zamanda komik bir dille bekarlık ve aşk konularını ele alıyor.",
-    "tags": [
-      "komedi",
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_173",
@@ -4807,12 +4603,10 @@
     "text": "Beyaz Saray, Washington (Kolombiya Bölgesi) Kadını anlat kadını. Posta arabası diye bir posta gidiyordu valla. Aziz efendi nükteyi bırakın efendim. Bir bayan vardı... Hmmm... Vay, kilisedeki oğlan... Lan ne yaptın ettin, Beyaz Saray'a girdin ha? - Aferin valla. - Daha bu bir şey değil. Şimdilik limonatalarına işiyorum. Daha neler yapacağım. Ziyade olsun. Aaaa, ne arıyorsunuz efendim burada? Ben size söylemedim mi daha büyük şeyler olacak diye? Afiyet olsun. Başkan James Abraham Garfield...",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Zeki Abi Beyaz Saray'dan bahsediyor",
-    "context": "Bu sahne, Zeki Abi'nin günümüzdeki anlatımıyla geçmişteki olaylara dair komik bir bakış açısı sunuyor.",
-    "tags": [
-      "çerçeve-hikaye",
-      "komedi"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_174",
@@ -4883,12 +4677,10 @@
       "Vedat Abi",
       "Alpay Abi"
     ],
-    "scene": "Lemi hediyeyi takdim ediyor ve Zeki hikayeyi anlatıyor",
-    "context": "Bu sahne, Lemi'nin Sultan'dan aldığı hediyeyi sunması ve Zeki'nin hikayeyi dinleyenlere aktarmasıyla, çerçeve hikayenin ana hikayeyle bağlantısını kuruyor.",
-    "tags": [
-      "komedi",
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_175",
@@ -4929,12 +4721,10 @@
       "Lemi Galip",
       "Suzan Van Dyke"
     ],
-    "scene": "Karakterler İstanbul ve Bodrum hakkında konuşuyorlar.",
-    "context": "Bu sahne, karakterlerin geçmişleri ve kültürel bağları hakkında bilgi verirken, komik diyaloglarla izleyiciyi eğlendiriyor.",
-    "tags": [
-      "komedi",
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_176",
@@ -4952,12 +4742,10 @@
     "text": "Al. Bununla çıkarabilir misin? Kendi kendine, şurada köşede... Hadi, hadi canım... Aaah, ulan karı ah! Zamansız gittin, beni Allah'ın delisiyle baş başa bıraktın.",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Karakter birine hitap ederek duygusal bir çıkış yapıyor.",
-    "context": "Bu sahne, karakterin kaybettiği birine duyduğu özlemi ve çaresizliği ifade ediyor.",
-    "tags": [
-      "çerçeve-hikaye",
-      "drama"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   },
   {
     "id": "yb_177",
@@ -4994,11 +4782,9 @@
     "text": "Ah... Geçen gün öyle atıp tuttun ama, evlenince beni kafese kapatmayacaksın inşallah. Yavrum kafese kapatacak olsak aslan besleriz. Yani... Mantıklı. En fazla şöyle olur. Samatya'da annemlerin bir evi var cumbalı. - Orada oturacağız. - Kayınvalideyle oturacağız yani! E şöyle yapalım, Emirgan'da bir köşk alayım sana... ...içine oturtayım seni. Kucağına da bir kanun... Haa... Kanundan kaçılmaz diyorsun yani ha? Yani müzikal olarak evet... Doooo reeee miii fa miii... - Sıkıntı var mi'de. - Arıza var. La miiiii... Öyle değil lan. Önce öne... Şu... Önce bu... Filmde hiç lazım olmadı ki bu. Bir kere ateş etmedik anasını satıyım koca filmde. Eeee, yazana bakacaksın. Bırakıyorum zaten, bu son komedi filmim. Komediyi bırakıyorsun. Kime bırakıyorsun? Soru sorma bak. Soru sorma, oralara çok hazırlıklı değilim. Neyse ama bir sakatlık çıkmadan bitti koca film. Aman maşallah de maşallah. - Aaahhh! - Hassiktir! - Aaaahhh! Ne yaptın be abi ya? - Dur zehrini alacağım...",
     "is_frame_story": false,
     "characters": [],
-    "scene": "Karakterler evlilik ve yaşam planları hakkında konuşuyor.",
-    "context": "Bu sahne, karakterlerin ilişkileri ve evlilikle ilgili endişelerini mizahi bir dille ifade ettikleri bir anı temsil ediyor.",
-    "tags": [
-      "komedi",
-      "çerçeve-hikaye"
-    ]
+    "scene": "",
+    "context": "",
+    "tags": [],
+    "note": ""
   }
 ]
