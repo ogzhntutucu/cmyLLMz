@@ -19,14 +19,16 @@
       12,
       13
     ],
-    "text": "Şimdi kadın, ince uzun da olur, kalın da olur, damarlı da olur... ...şöyle de olur, böyle de olur deyince... ...bizim usta dayanamıyor, birden ayağa kalkıyor. Ablacım öylesini bulsam diyor, ben diyor, şey yaparım diyor. Ustaya bak! Tabii canım, eskiden ona zıbık derler. Böyle, kahve değirmeni gibi olur. Şu kadar böyle... - Tahtadan, değil mi abi? Tahtadan. - Yaşa. Ben görmedim ama duydum yani. Of be abi, ne güldük ya! Vedat abi, buyur abi. - Hadi bakalım. - Abi hoş geldin. - Hoş geldin abi. - Sağlığınıza.",
+    "text": "- Şimdi kadın, ince uzun da olur, kalın da olur, damarlı da olur, şöyle de olur, böyle de olur deyince... Bizim usta dayanamıyor, birden ayağa kalkıyor. Ablacım öylesini bulsam diyor, ben diyor, şey yaparım diyor. - Ustaya bak! - Tabii canım, eskiden ona zıbık derler. Böyle, kahve değirmeni gibi olur. Şu kadar böyle... - Tahtadan, değil mi abi? Tahtadan. - Yaşa. - Ben görmedim ama duydum yani. - Of be abi, ne güldük ya! Vedat abi, buyur abi. - Hadi bakalım. - Abi hoş geldin. - Hoş geldin abi. - Sağlığınıza.",
     "is_frame_story": false,
     "characters": [
-      "Zeki Abi",
-      "Vedat Abi"
+      "Alpay",
+      "Zeki",
+      "Vedat",
+      "Ramazan"
     ],
-    "scene": "Zeki Abi ve Vedat Abi arasında komik bir diyalog geçiyor.",
-    "context": "Bu sahne, Zeki Abi'nin geçmişteki anekdotları anlattığı çerçeve hikayenin başlangıcını oluşturuyor ve izleyiciyi eğlendiriyor.",
+    "scene": "Zeki ve Vedat arasında komik bir diyalog geçiyor.",
+    "context": "Bu sahne, Alpay'ın geçmişteki anekdotları anlattığı çerçeve hikayenin başlangıcını oluşturuyor ve izleyiciyi eğlendiriyor.",
     "tags": [
       "komedi",
       "çerçeve-hikaye"
@@ -77,15 +79,16 @@
       50,
       51
     ],
-    "text": "Zekicim, istersen şey yapalım. Abi o kadar güldük ettik, Vedat abimiz... ...beklemesin. Ne yaptın oğlum, naylona mı koydun onu ya? Oğlum, ambalaj dandik olacak ki dikkat çekmeyeceksin, değil mi abi? Tabii ya. Abi mal bu. Zaten dikişiyle falan kendini belli ediyor, Vedat abi. - Peki dokunabiliyor muyuz? - Ne demek! Şöyle vereyim abi, buyur. Abi buna uzun Wellington diyorlar. Bu aşağı yukarı 130-140 yıllık abi. Tam şimdi yalan olmasın ama aşağı yukarı... Peki size bunun gelişi... Abi bize bunun gelişi tabii, enteresan oldu. Anlat oğlum, Vedat kardeşimiz yabancı değil ya. Kimse yok, biz bizeyiz. - Abi, Amerikan Başkanı Garfield... - O kedi olan mı? - Ne kedisi amına koyayım ya! - Ya Garfield kedi değil mi ya? Oğlum bir açın da bir Google'a girin bakın be! Dönemin Amerikan Başkanı Garfield. Al tamam, giriyorum. Garfield... Did you mean Garfield? Gene kedi, Başkan nerede, yok. Tatilde. - Şekerim sen devam et. - Alpay abi. Devam et sen ya. Vedat abi... Amerikan Başkanı, Sultan'a bir hediye gönderiyor. Sultanımıza. Sultanımız da diyor ki, ben de diyor karşı bir hediye göndereyim diyor. Benim dedemin babası, Teşkilât-ı Mahsusa'dan Aziz Vefa... ...bir de Hazine'den, yine memur... Lemi Galip... Bunlara bir görev veriyor. Diyor ki; ne diyor... Benim diyor, hediyeyi diyor, Başkan'a diyor, götürün diyor. - Çıkıyorlar saraya. - Saraya mı çıkıyorlar? Yok, Dolmabahçe sahilinde mi buluşacaklar Sultan'la ya? - Saraya çıkıyorlar. - Tamam anlat, ne bozuyorsun ya? Oğlum anlatacağım da siz önce bir dinlemesini öğrenin. Bir insanın anlattığı karşısındakinin dinleyebildiği kadardır. Hee.",
+    "text": "- Zekicim, istersen şey yapalım. - Abi o kadar güldük ettik, Vedat abimiz... ...beklemesin. - Ne yaptın oğlum, naylona mı koydun onu ya? - Oğlum, ambalaj dandik olacak ki dikkat çekmeyeceksin, değil mi abi? - Tabii ya. - Abi mal bu. Zaten dikişiyle falan kendini belli ediyor, Vedat abi. - Peki dokunabiliyor muyuz? - Ne demek! Şöyle vereyim abi, buyur. Abi buna uzun Wellington diyorlar. Bu aşağı yukarı 130-140 yıllık abi. Tam şimdi yalan olmasın ama aşağı yukarı... - Peki size bunun gelişi... - Abi bize bunun gelişi tabii, enteresan oldu. - Anlat oğlum, Vedat kardeşimiz yabancı değil ya. Kimse yok, biz bizeyiz. - Abi, Amerikan Başkanı Garfield... - O kedi olan mı? - Ne kedisi amına koyayım ya! - Ya Garfield kedi değil mi ya? - Oğlum bir açın da bir Google'a girin bakın be! Dönemin Amerikan Başkanı Garfield. - Al tamam, giriyorum. Garfield... Did you mean Garfield? Gene kedi, Başkan nerede, yok. Tatilde, ehehe. - Şekerim sen devam et. - Alpay abi. - Devam et sen ya. - Vedat abi... Amerikan Başkanı, Sultan'a bir hediye gönderiyor. Sultanımıza. Sultanımız da diyor ki, ben de diyor karşı bir hediye göndereyim diyor. Benim dedemin babası, Teşkilât-ı Mahsusa'dan Aziz Vefa... ...bir de Hazine'den, yine memur... Lemi Galip... Bunlara bir görev veriyor. Diyor ki; ne diyor... Benim diyor, hediyeyi diyor, Başkan'a diyor, götürün diyor. Çıkıyorlar saraya. - Saraya mı çıkıyorlar? - Yok, Dolmabahçe sahilinde mi buluşacaklar Sultan'la ya? Saraya çıkıyorlar. - Tamam anlat, ne bozuyorsun ya? - Oğlum anlatacağım da siz önce bir dinlemesini öğrenin. Bir insanın anlattığı karşısındakinin dinleyebildiği kadardır. - Hee.",
     "is_frame_story": true,
     "characters": [
-      "Zeki Abi",
-      "Vedat Abi",
-      "Alpay Abi"
+      "Alpay",
+      "Zeki",
+      "Ramazan",
+      "Vedat"
     ],
-    "scene": "Zeki Abi, Vedat ve Alpay'a tarihi bir olayı anlatıyor.",
-    "context": "Bu sahne, Zeki Abi'nin geçmişteki bir olayı anlatırken arkadaşlarıyla olan etkileşimini ve komik diyaloglarını gösteriyor.",
+    "scene": "Zeki, Vedat ve Alpay'a tarihi bir olayı anlatıyor.",
+    "context": "Bu sahne, Zeki'nin geçmişteki bir olayı anlatırken arkadaşlarıyla olan etkileşimini ve komik diyaloglarını gösteriyor.",
     "tags": [
       "çerçeve-hikaye",
       "komedi"
@@ -108,10 +111,11 @@
       59,
       60
     ],
-    "text": "Sultanın huzuruna geliyorlar. İşte Sultanın elini öpüyorlar. - Sultan da bunları öpüyor mu? - Ya bir dakika be oğlum, sulandırma ya! Hemen emanet takdim ediliyor. Nedir emanet? Elmas bir kolye. Bu diyor, bundan sonra size emanet. Bir de diyor, alın size 1000 dolar, yolluk. Konfederasyon doları. Şimdi, Amerika sapa yer... ...Sultanım ben götüremem diyebilir misin? Mutlak götüreceksin.",
+    "text": "- Sultanın huzuruna geliyorlar. İşte Sultanın elini öpüyorlar. - Sultan da bunları öpüyor mu? - Ya bir dakika be oğlum, sulandırma ya! Hemen emanet takdim ediliyor. Nedir emanet? Elmas bir kolye. Bu diyor, bundan sonra size emanet. Bir de diyor, alın size 1000 dolar, yolluk. Konfederasyon doları. Şimdi, Amerika sapa yer... ...Sultanım ben götüremem diyebilir misin? Mutlak götüreceksin.",
     "is_frame_story": true,
     "characters": [
-      "Sultan"
+      "Zeki",
+      "Ramazan"
     ],
     "scene": "Sultan huzuruna gelenler emanet alıyor.",
     "context": "Bu sahne, ana hikayenin başlangıcını ve Sultan'ın karakterinin önemini vurguluyor.",
@@ -131,13 +135,13 @@
       63,
       64
     ],
-    "text": "Görevi aldıktan sonra zaten istikamet belli. Tak, buradan Orient Express'le Paris yapıyorlar. Tak, oradan gemiyle Londra. Tak Atlantik üzerinden yine gemiyle Amerika.",
+    "text": "- Görevi aldıktan sonra zaten istikamet belli. Tak, buradan Orient Express'le Paris yapıyorlar. Tak, oradan gemiyle Londra. Tak Atlantik üzerinden yine gemiyle, Amerika.",
     "is_frame_story": true,
     "characters": [
-      "Zeki Abi"
+      "Zeki"
     ],
-    "scene": "Zeki Abi, görev yolculuğunu anlatıyor.",
-    "context": "Bu sahne, Zeki Abi'nin hikayeyi anlatmaya başladığını ve karakterlerin görevlerinin yönünü belirttiğini gösteriyor.",
+    "scene": "Zeki, görev yolculuğunu anlatıyor.",
+    "context": "Bu sahne, Zeki'nin hikayeyi anlatmaya başladığını ve karakterlerin görevlerinin yönünü belirttiğini gösteriyor.",
     "tags": [
       "çerçeve-hikaye"
     ]
@@ -181,10 +185,12 @@
       93,
       95
     ],
-    "text": "I did it again, I'm terribly sorry. Bumper road, isn't it darling. Rica ederim, bayan. Excuse my curiosity sir, but... ...are you French? Oh, no madam. I'm Ottoman. Oh my... Ottoman, that's marvelous. Jack, did you hear that? Oh yes, I know. Ottoman's. You're at the doors in Viyana, ha? Once upon a time! Yes yes. Tık tık. Who is there? Ottoman. Ottoman who? Ottoman Empire.",
+    "text": "- I did it again, I'm terribly sorry. Bumper road, isn't it darling. - S'il vous plaît, madame. - Excuse my curiosity sir, but... ...are you French? - Oh, no madam. I'm Ottoman. - Oh my... Ottoman, that's marvelous. Jack, did you hear that? - Oh yes, I know. Ottoman's. You're at the doors in Viyana, ha? Once upon a time! - Yes yes. Tık tık. Who is there? Ottoman. - Ottoman who? - Ottoman Empire.",
     "is_frame_story": false,
     "characters": [
-      "Lemi Galip"
+      "Bayan 1",
+      "Lemi Galip",
+      "Jack"
     ],
     "scene": "Lemi, Osmanlı olduğunu açıklıyor.",
     "context": "Bu sahne, Lemi'nin Osmanlı kimliğini vurgularken, komik bir diyalogla kültürel farklılıkları ele alıyor.",
@@ -225,13 +231,16 @@
       133,
       135
     ],
-    "text": "Öküz efendi nükteyi anlamadı Aziz. Şeyi sorsana, Mr. and Mrs. Brown piknikten döndü mü? Aman nerede efendim, çok ince bir humor. İngilizin köylüsü. Village people! Village people? Başımızın tacıdır diyorum köylümüz. You ride camels, don't you? Jack! Camels. Yes, every time. Always! Camels everywhere. Hep de bunu söylerler. Başka da bir şey bilmezler. Camel, everywhere. And you sir? What do you do? Me? Secret, secret police. Oh! Well, I can keep secret. Sır diyor, tutarım diyor. Bir molada duralım tutarsın bir ara. Later. Bir yerde dursak da, bir... küçük su döksek. Excuse me? Little water.",
+    "text": "- Öküz efendi nükteyi anlamadı Aziz. - Şeyi sorsana, Mr. and Mrs. Brown piknikten döndü mü? - Aman nerede efendim, çok ince bir humor. İngilizin köylüsü. - Village people! - Village people? - Başımızın tacıdır diyorum köylümüz. - You ride camels, don't you? - Jack! - Camels? Yes, every time. Always! Camels everywhere. Hep de bunu söylerler. Başka da bir şey bilmezler. Camel, everywhere. - And you sir? What do you do? - Me? - Secret, secret police. - Oh! Well, I can keep secret. - Sır diyor, tutarım diyor. - Bir molada duralım tutarsın bir ara. Later. - Bir yerde dursak da, bir... küçük su döksek. - Excuse me? - Little water.",
     "is_frame_story": false,
     "characters": [
-      "Aziz Vefa"
+      "Lemi Galip",
+      "Aziz Vefa",
+      "Jack",
+      "Bayan 1"
     ],
-    "scene": "Aziz, İngilizlerle sohbet ediyor.",
-    "context": "Bu sahne, Aziz'in İngilizlerle olan etkileşimini ve onların kültürel farklılıklarını mizahi bir dille ortaya koyuyor.",
+    "scene": "Aziz ve Lemi, İngilizlerle sohbet ediyor.",
+    "context": "Bu sahne, Aziz ve Lemi'nin İngilizlerle olan etkileşimini ve onların kültürel farklılıklarını mizahi bir dille ortaya koyuyor.",
     "tags": [
       "komedi"
     ]
@@ -251,9 +260,13 @@
       149,
       151
     ],
-    "text": "That's you? Me! You look fantastic. I... Oil wrestling. Oil, everywhere. Scotch? Ottoman.",
+    "text": "- That's you? - Me! - You look fantastic. - I... Oil wrestling. Oil, everywhere. - Scotch? - Ottoman.",
     "is_frame_story": false,
-    "characters": [],
+    "characters": [
+      "Bayan 1",
+      "Aziz Vefa",
+      "Jack"
+    ],
     "scene": "Karakterler birbirlerine selam veriyor ve sohbet ediyor.",
     "context": "Bu sahne, karakterlerin birbirleriyle tanışma anını ve aralarındaki samimi iletişimi gösteriyor.",
     "tags": [
@@ -281,11 +294,13 @@
       171,
       173
     ],
-    "text": "In fact... ...we are here on a special mission. Did you see this diamond? My God! Is priceless. Of course! It's a gift from our Sultan... ...for your President. Ne yapıyorsun birader? - Ne var yahu? - Elma şekeri gibi çıkarılır mı o be! - E sen fotoğrafı çıkartıyorsun. - Koy ulan şunu yerine! Tamam ne kızıyorsun ya. Ben mesulüm. Sorry. Sir, it can be very dangerous.",
+    "text": "- In fact... ...we are here on a special mission. Did you see this diamond? - My Gosh! Is priceless. - Of course! It's a gift from our Sultan... ...for your President. - Ne yapıyorsun birader? - Ne var yahu? - Elma şekeri gibi çıkarılır mı o be! - E sen fotoğrafı çıkartıyorsun? - Koy ulan şunu yerine! - Tamam ne kızıyorsun ya. Ben mesulüm. - Sorry. Sir, it can be very dangero...",
     "is_frame_story": false,
     "characters": [
+      "Lemi Galip",
+      "Bayan 1",
       "Aziz Vefa",
-      "Lemi Galip"
+      "Jack"
     ],
     "scene": "Aziz Vefa, Lemi Galip'e elmas hakkında bilgi veriyor.",
     "context": "Bu sahne, Aziz Vefa'nın özel bir görev için geldiklerini ve elmasın önemini vurguluyor.",
@@ -310,9 +325,12 @@
       188,
       189
     ],
-    "text": "- Haydutlar... - Sakin... Calm down. I have a gun. Don't worry. How many people, how many? Did you see? How many? Be careful. Şunu bana tutma! Dinle beni. Normal prosedürü uygulayacağız. Sakin ol.",
+    "text": "- Haydutlar... - Sakin... Calm down. I have a gun. Don't worry. How many people, how many? Did you see? How many? - Be careful. Şunu bana tutma! - Dinle beni. Normal prosedürü uygulayacağız. Sakin ol.",
     "is_frame_story": false,
-    "characters": [],
+    "characters": [
+      "Aziz Vefa",
+      "Lemi Galip"
+    ],
     "scene": "Bir karakter haydutlarla karşılaşıyor ve sakin kalmaya çalışıyor.",
     "context": "Bu sahne, karakterin bir tehdit altında olduğunu ve durumu kontrol etmeye çalıştığını gösteriyor.",
     "tags": [
@@ -339,10 +357,11 @@
       202,
       203
     ],
-    "text": "Dinle beni. Çöp çekeceğiz. Elmas mı? Para mı? Çek çabuk! - Çok müşkül durumdayım Aziz Efendi. Çek çabuk! Elmas. Calm down, calm down. - Çok kalabalık geldiler Aziz Efendi. - Sakin. Sakin ol, sakin ol. Sakin. - Ben sakinim. - Sakin. Bismillahirrahmanirrahim. Allah'ım bizi mahcup etme ya Rabbim. Don't worry, don't worry. Ölmek var, emanetleri teslim etmek yok. - Haydi aslanım. - Haydi inşallah.",
+    "text": "- Dinle beni. Çöp çekeceğiz. Elmas mı? Para mı? Çek çabuk! - Çok müşkül durumdayım Aziz Efendi. - Çek çabuk! Elmas. - Calm down, calm down. - Çok kalabalık geldiler Aziz Efendi. - Sakin. Sakin ol, sakin ol. Sakin. - Ben sakinim. - Sakin. Bismillahirrahmanirrahim. - Allah'ım bizi mahcup etme ya Rabbim. - Don't worry, don't worry. Ölmek var, emanetleri teslim etmek yok. Haydi aslanım. - Haydi inşallah.",
     "is_frame_story": false,
     "characters": [
-      "Aziz Vefa"
+      "Aziz Vefa",
+      "Lemi Galip"
     ],
     "scene": "Aziz Vefa, zor bir durumla karşı karşıya kalıyor.",
     "context": "Bu sahne, Aziz Vefa'nın stresli bir an yaşadığını ve durumu kontrol altına almaya çalıştığını gösteriyor.",
@@ -362,11 +381,12 @@
       205,
       206
     ],
-    "text": "I said stop the car you son of a bitch! Ya Zeki abi, ben oraları pek anlamadım ya. Posta arabasından sonra yok bende. Dur o zaman şöyle yapalım...",
+    "text": "- I said stop the car you son of a bitch! - Ya Zeki abi, ben oraları pek anlamadım ya. Posta arabasından sonra yok bende. - Dur o zaman şöyle yapalım...",
     "is_frame_story": false,
     "characters": [
-      "Lemi Galip",
-      "Zeki Abi"
+      "Haydut 1",
+      "Ramazan",
+      "Zeki"
     ],
     "scene": "Lemi, Zeki Abi'ye durumu anlatıyor.",
     "context": "Bu sahne, Lemi'nin korkak ve komik karakterini sergileyerek hikayeye mizahi bir unsur katıyor.",
@@ -384,9 +404,11 @@
     "block_ids": [
       207
     ],
-    "text": "Lan arabayı durdurun demedik mi avratını siktiklerimin!",
+    "text": "- Lan arabayı durdurun demedik mi avratını siktiklerimin!",
     "is_frame_story": false,
-    "characters": [],
+    "characters": [
+      "Haydut 1"
+    ],
     "scene": "Bir karakter öfkeyle bağırıyor.",
     "context": "Bu sahne, karakterin sinirli ve agresif bir ruh hali içinde olduğunu gösteriyor, bu da filmin komedi unsurlarını vurguluyor.",
     "tags": [
@@ -403,9 +425,12 @@
       208,
       209
     ],
-    "text": "İnin aşağıya! İn aşağıya! - Çabuk çabuk çabuk! - Tanrım Jack, hayır!",
+    "text": "- İnin aşağıya! İn aşağıya! Çabuk çabuk çabuk! - Tanrım Jack, hayır!",
     "is_frame_story": false,
-    "characters": [],
+    "characters": [
+      "Haydut 1",
+      "Bayan 1"
+    ],
     "scene": "Karakterler bir tehlike ile karşı karşıya kalıyor.",
     "context": "Bu sahne, karakterlerin acil bir durumla başa çıkmaya çalıştığını gösteriyor ve gerilimi artırıyor.",
     "tags": [
@@ -425,9 +450,10 @@
       213,
       214
     ],
-    "text": "Bağırmayın efendim. Sıranızda durun, bağırmayın! Sayın yolcular... ...ben Johnny Lesh ve ekibim yolculuğunuzun rahat geçmesi için... ...sizleri bazı yüklerinizden kurtarmak amacıyla hizmetinizdeyiz. Bağırmak serbest. Kahramanlık yapanı gömerim.",
+    "text": "- Bağırmayın efendim. Sıranızda durun, bağırmayın! - Sayın yolcular... ...ben Johnny Lesh ve ekibim yolculuğunuzun rahat geçmesi için... ...sizleri bazı yüklerinizden kurtarmak amacıyla hizmetinizdeyiz. Bağırmak serbest. Kahramanlık yapanı gömerim.",
     "is_frame_story": false,
     "characters": [
+      "Lemi Galip",
       "Johnny Lesh"
     ],
     "scene": "Johnny Lesh yolculara hizmet sunduğunu açıklıyor.",
@@ -449,9 +475,12 @@
       217,
       218
     ],
-    "text": "150 yıllık silah. İdareye yazdık, yenisini verin dedik. Sikine takan olmadı! Gel lan buraya, yürü! Geç şöyle, geç!",
+    "text": "- 150 yıllık silah. İdareye yazdık, yenisini verin dedik. Sikine takan olmadı! - Gel lan buraya, yürü! Geç şöyle, geç!",
     "is_frame_story": false,
-    "characters": [],
+    "characters": [
+      "Aziz Vefa",
+      "Haydut 2"
+    ],
     "scene": "Karakter eski bir silah hakkında şikayette bulunuyor.",
     "context": "Bu sahne, karakterin komik bir şekilde eski silahın durumu hakkında şikayet etmesiyle mizahi bir an yaratıyor.",
     "tags": [
@@ -480,9 +509,13 @@
       231,
       232
     ],
-    "text": "Saat. Jack, kurtar beni! Jack! Ay! Bakın beyefendi, biz taa İstanbullardan geliyoruz. Öyle boş kimseler de değiliz. Öyle mi? Belli. Buffalo Bill'in şovunda bile böyle kostüm görmedim. Bu ne lan? - Festir. İstiyorsan kaval da var. - Kes lan! Yapm... - Lesh! - Ne yaptın lan? - Lesh.. - Ne yaptın lan! Var mı lan böyle bir şey? Yalnız biz Haramidere'den Çatapat Ahmet'in arkadaşlarıyız, ona göre!",
+    "text": "- Saat. - Jack, kurtar beni! - Jack! Ay! - Bakın beyefendi, biz taa İstanbullardan geliyoruz. Öyle boş kimseler de değiliz. - Öyle mi? Belli. Buffalo Bill'in şovunda bile böyle kostüm görmedim. Bu ne lan? - Festir. İstiyorsan kaval da var. - Kes lan! - Yapm... - Lesh! - Ne yaptın lan? - Lesh.. - Ne yaptın lan! - Var mı lan böyle bir şey? - Yalnız biz Haramidere'den Çatapat Ahmet'in arkadaşlarıyız, ona göre!",
     "is_frame_story": false,
-    "characters": [],
+    "characters": [
+      "Haydut 1",
+      "Lemi Galip",
+      "Aziz Vefa"
+    ],
     "scene": "Jack, kurtarılmayı bekliyor ve kostümler hakkında konuşuluyor.",
     "context": "Bu sahne, karakterlerin komik bir şekilde kendilerini tanıttığı ve Vahşi Batı'daki durumlarına dair mizahi bir bakış sunduğu bir anı temsil ediyor.",
     "tags": [
@@ -499,9 +532,12 @@
       233,
       234
     ],
-    "text": "Hadi gidiyoruz. Kızılların kokusunu almaya başladım. See you.",
+    "text": "- Hadi gidiyoruz. Kızılların kokusunu almaya başladım. - See you.",
     "is_frame_story": false,
-    "characters": [],
+    "characters": [
+      "Johnny Lesh",
+      "Haydut 1"
+    ],
     "scene": "Karakterler yola çıkıyor.",
     "context": "Bu sahne, karakterlerin maceralarına başladıklarını ve hedeflerine doğru yola çıktıklarını gösteriyor.",
     "tags": []
@@ -516,9 +552,12 @@
       235,
       236
     ],
-    "text": "Sioux dedi. Sioux'lar... Efendim o hoşça kalın manasında. See you, görüşürüz.",
+    "text": "- Sioux dedi. Sioux'lar... - Efendim o hoşça kalın manasında. See you, görüşürüz.",
     "is_frame_story": false,
-    "characters": [],
+    "characters": [
+      "Aziz Vefa",
+      "Lemi Galip"
+    ],
     "scene": "Bir karakter Sioux'lar hakkında bilgi veriyor.",
     "context": "Bu sahne, Sioux'ların hoşça kalın anlamına geldiğini açıklayarak kültürel bir bağ kuruyor.",
     "tags": [
@@ -543,9 +582,12 @@
       245,
       246
     ],
-    "text": "Çatapat Ahmet kim ulan? Efendim zaten ben bu adamın ismini ne zaman zikretsem başım derde giriyor. Monşer, adamı delirtme! Talimatmane açık: ... ...''Cereyan-ı tehlike-i vuku, emanetlerin mabadına dühulu.\" - Sarih! - Efendim, adilane mi? Koca elmas! Ulan ben müptelası mıyım da 1000 doları götüme sokuyorum? - Onu bilemiyorum. - Efendim! Beyimiz kıçına kıyamıyor, burada kellemiz gidecek! Gel buraya! Aç şu mendili.",
+    "text": "- Çatapat Ahmet kim ulan? - Efendim zaten ben bu adamın ismini ne zaman zikretsem başım derde giriyor. - Monşer, adamı delirtme! Talimatmane açık: ... ...''Cereyan-ı tehlike-i vuku, emanetlerin mabadına dühulu. - Sarih! - Efendim, adilane mi? Koca elmas! - Ulan ben müptelası mıyım da 1000 doları götüme sokuyorum? - Onu bilemiyorum. - Efendim! Beyimiz kıçına kıyamıyor, burada kellemiz gidecek! Gel buraya! Aç şu mendili.",
     "is_frame_story": false,
-    "characters": [],
+    "characters": [
+      "Aziz Vefa",
+      "Lemi Galip"
+    ],
     "scene": "Çatapat Ahmet hakkında konuşuluyor.",
     "context": "Bu sahne, karakterlerin içinde bulundukları tehlikeli durumu ve komik diyalogları yansıtarak filmin genel mizah anlayışını ortaya koyuyor.",
     "tags": [
@@ -562,9 +604,11 @@
     "block_ids": [
       247
     ],
-    "text": "Al şunu.",
+    "text": "- Al şunu.",
     "is_frame_story": false,
-    "characters": [],
+    "characters": [
+      "Aziz Vefa"
+    ],
     "scene": "Bir karakter bir nesne almasını istiyor.",
     "context": "Bu sahne, karakterler arasındaki etkileşimi ve komik anları yansıtır.",
     "tags": [
@@ -580,9 +624,11 @@
     "block_ids": [
       249
     ],
-    "text": "Maşallah.",
+    "text": "- Maşallah.",
     "is_frame_story": false,
-    "characters": [],
+    "characters": [
+      "Lemi Galip"
+    ],
     "scene": "Bir karakter hayranlıkla bir durumu değerlendiriyor.",
     "context": "Bu sahne, karakterin bir duruma olan olumlu bakış açısını yansıtır.",
     "tags": [
@@ -599,9 +645,12 @@
       250,
       251
     ],
-    "text": "Bunun bir de tabağı olacaktı. Al son.",
+    "text": "- Bunun bir de tabağı olacaktı. - Al son.",
     "is_frame_story": false,
-    "characters": [],
+    "characters": [
+      "Lemi Galip",
+      "Aziz Vefa"
+    ],
     "scene": "Bir karakter tabağın eksikliğinden bahsediyor.",
     "context": "Bu sahne, karakterlerin günlük yaşamındaki absürt durumları ve komik diyalogları yansıtarak filmin genel mizah anlayışını pekiştiriyor.",
     "tags": [
@@ -620,9 +669,12 @@
       254,
       255
     ],
-    "text": "İyi misin? En azından binliği kurtardık. Efendim nüktenin sırası değil ama Bey Baba bizi yüz üstü bıraktı. Bana bak geberteceğim seni ha! Ok yaydan çıktı!",
+    "text": "- İyi misin? - En azından binliği kurtardık. - Efendim nüktenin sırası değil ama Bey Baba bizi yüz üstü bıraktı. - Bana bak geberteceğim seni ha! Ok yaydan çıktı!",
     "is_frame_story": false,
-    "characters": [],
+    "characters": [
+      "Lemi Galip",
+      "Aziz Vefa"
+    ],
     "scene": "Karakterler arasında tartışma geçiyor.",
     "context": "Bu sahne, karakterlerin içinde bulundukları zor durumu ve birbirlerine karşı duydukları öfkeyi yansıtır.",
     "tags": [
@@ -638,9 +690,11 @@
     "block_ids": [
       257
     ],
-    "text": "Hintliler!",
+    "text": "- Hintliler!",
     "is_frame_story": false,
-    "characters": [],
+    "characters": [
+      "Lemi Galip"
+    ],
     "scene": "Bir grup Hintli sahneye giriyor.",
     "context": "Bu sahne, ana hikayede Hintlilerin varlığını ve olayların gelişimini etkileyen bir unsur olduğunu gösteriyor.",
     "tags": [
@@ -659,9 +713,11 @@
       260,
       261
     ],
-    "text": "- Ugh! - Ne ughu lan! Galiba hayvan isimleriyle hitap ediliyor. \"Danaburnu.\" Adım Richard Thomas. Oxford'da okuyorum. Sadece yaz tatillerimi kabilemle geçiriyorum.",
+    "text": "- Ugh! - Ne ughu lan! - Galiba hayvan isimleriyle hitap ediliyor. Danaburnu. - Adım Richard Thomas. Oxford'da okuyorum. Sadece yaz tatillerimi kabilemle geçiriyorum.",
     "is_frame_story": false,
     "characters": [
+      "Lemi Galip",
+      "Kızılderili 1",
       "Richard Thomas"
     ],
     "scene": "Richard Thomas kendini tanıtıyor.",
@@ -684,9 +740,13 @@
       265,
       266
     ],
-    "text": "Yahu, biz İstanbul'dan geliyoruz. Kızılderililer için de Türktür derler hani. - Kenan abi, var mı öyle bir şey? - Yok oğlum öyle bir şey, topla topla. Yahu... Ben çıkarayım efendim. Kasımpaşa'dan Apaçi Selim'in selamı var desek? Ben çıkarayım efendim.",
+    "text": "- Yahu, biz İstanbul'dan geliyoruz. Kızılderililer için de Türktür derler hani. - Kenan abi, var mı öyle bir şey? - Yok oğlum öyle bir şey, topla topla. - Yahu... Ben çıkarayım efendim. Kasımpaşa'dan Apaçi Selim'in selamı var desek? Ben çıkarayım efendim.",
     "is_frame_story": false,
-    "characters": [],
+    "characters": [
+      "Aziz Vefa",
+      "Kızılderili 2",
+      "Kenan"
+    ],
     "scene": "Karakterler İstanbul'dan geldiklerini ve Kızılderililerle ilgili bir espri yapıyorlar.",
     "context": "Bu sahne, karakterlerin kültürel referanslarla mizah yaparak durumu hafifletmeye çalıştığını gösteriyor.",
     "tags": [
@@ -708,10 +768,11 @@
       271,
       272
     ],
-    "text": "Sikmeseler bari. - Kenan Bey buyurun. - Hay Allah! - Aziz Efendi, bir konsolosluğa haber etsek. - Ederiz. O boynunuzdakinin özel bir manası var mı? Anneciğimin verdiği muska. Her türlü musibetten ve badireden korur dedi.",
+    "text": "- Sikmeseler bari. - Kenan Bey buyurun. - Hay Allah! - Aziz Efendi, bir konsolosluğa haber etsek. - Ederiz. - O boynunuzdakinin özel bir manası var mı? - Anneciğimin verdiği muska. Her türlü musibetten ve badireden korur dedi.",
     "is_frame_story": false,
     "characters": [
-      "Aziz Efendi"
+      "Aziz Vefa",
+      "Lemi Galip"
     ],
     "scene": "Aziz Efendi, muskasının anlamını açıklıyor.",
     "context": "Bu sahne, karakterlerin korkularını ve inançlarını yansıtarak, hikayenin komik ve absürt yönlerini ortaya koyuyor.",
@@ -729,9 +790,11 @@
       273,
       274
     ],
-    "text": "Selamlar. Al birader, acil durum. Şunu hemen İstanbul'a çekiver.",
+    "text": "- Selamlar. Al birader, acil durum. Şunu hemen İstanbul'a çekiver.",
     "is_frame_story": false,
-    "characters": [],
+    "characters": [
+      "Aziz Vefa"
+    ],
     "scene": "Bir karakter acil bir durumu bildiriyor.",
     "context": "Bu sahne, İstanbul'a acil bir durumun iletildiğini göstererek hikayenin ilerleyişine katkıda bulunuyor.",
     "tags": []
@@ -751,9 +814,14 @@
       280,
       281
     ],
-    "text": "Bu ''A'' mı? Ulan, Ulak efendi okuman yazman da mı yok? - Ver. - Çek şunu. Ulan, Redkit bana telgraf var mı dese, tıpış tıpış ayağına gidersin ama. Ne Redkit'i ya? Kim takar Redkit'i? - Bana telgraf var mı? - Ooo abimiz. Hoş geldin, buyur. Geç böyle otur abi. Geoffrey, oğlum bize iki çay kap.",
+    "text": "- Bu 'A' mı? - Ulan, Ulak efendi okuman yazman da mı yok? - Ver. - Çek şunu. Ulan, Redkit bana telgraf var mı dese, tıpış tıpış ayağına gidersin ama. - Ne Redkit'i ya? Kim takar Redkit'i? - Bana telgraf var mı? - Ooo abimiz. Hoş geldin, buyur. Geç böyle otur abi. Geoffrey, oğlum bize iki çay kap.",
     "is_frame_story": false,
-    "characters": [],
+    "characters": [
+      "Ulak",
+      "Lemi Galip",
+      "Aziz Vefa",
+      "Redkit"
+    ],
     "scene": "Bir karakter telgraf hakkında konuşuyor.",
     "context": "Bu sahne, karakterlerin iletişim ve sosyal etkileşimlerini göstererek komik bir durum yaratıyor.",
     "tags": [
@@ -770,9 +838,11 @@
     "block_ids": [
       282
     ],
-    "text": "Bir müddet sonra saraydan cevap geliyor.",
+    "text": "- Bir müddet sonra saraydan cevap geliyor.",
     "is_frame_story": false,
-    "characters": [],
+    "characters": [
+      "Zeki"
+    ],
     "scene": "Saraydan cevap geliyor.",
     "context": "Bu sahne, Osmanlı Sultanı'nın verdiği görevin sonuçlarını beklediklerini gösteriyor.",
     "tags": [
@@ -795,9 +865,12 @@
       289,
       290
     ],
-    "text": "Ne diyor? Gelmenize gerek yok, mesul memurun kellesini posta ile gönderin diyor. Tamam o zaman... Kes gönder kellemi. Sana bir derdi olmasın. Ben mesulüm. Nasıl yapacağız? Ne bileyim? Önce boğ iple.",
+    "text": "- Ne diyor? - Gelmenize gerek yok, mesul memurun kellesini posta ile gönderin diyor. - Tamam o zaman... Kes gönder kellemi. Sana bir derdi olmasın. Ben mesulüm. - Nasıl yapacağız? - Ne bileyim? Önce boğ iple.",
     "is_frame_story": false,
-    "characters": [],
+    "characters": [
+      "Lemi Galip",
+      "Aziz Vefa"
+    ],
     "scene": "Karakterler arasında bir görev hakkında konuşuluyor.",
     "context": "Bu sahne, görevle ilgili belirsizlik ve komik bir diyalog sunarak filmin mizahi yönünü vurguluyor.",
     "tags": [
@@ -814,9 +887,11 @@
       292,
       293
     ],
-    "text": "Anneciğime de selamlarımı ilet. Ey Amerika! Sen de bir rüyadan ibaretmişsin.",
+    "text": "- Anneciğime de selamlarımı ilet. Ey Amerika! Sen de bir rüyadan ibaretmişsin.",
     "is_frame_story": false,
-    "characters": [],
+    "characters": [
+      "Lemi Galip"
+    ],
     "scene": "Karakter Amerika'ya selam gönderiyor.",
     "context": "Bu sahne, karakterin Amerika'ya olan hayranlığını ve özlemini ifade ediyor.",
     "tags": [
@@ -837,7 +912,7 @@
       298,
       299
     ],
-    "text": "Ona bir su tutaydın yahu? Konuşma lan! Bu boku beraber yedik, ceremesini beraber çekeceğiz. Aziz, seni taa Fizan'a sürerler. Bak bakalım bir etrafına. Zaten ebesinin Fizan'ındayız. Nereye sürecekler! O elması bulmadan ölmek yok. Tamam mı?",
+    "text": "- Ona bir su tutaydın yahu? - Konuşma lan! Bu boku beraber yedik, ceremesini beraber çekeceğiz. - Aziz, seni taa Fizan'a sürerler. - Bak bakalım bir etrafına. Zaten ebesinin Fizan'ındayız. Nereye sürecekler! O elması bulmadan ölmek yok. Tamam mı?",
     "is_frame_story": false,
     "characters": [
       "Lemi Galip",

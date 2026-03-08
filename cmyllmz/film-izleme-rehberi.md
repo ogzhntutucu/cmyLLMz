@@ -100,4 +100,7 @@ Düzeltmelerini bana iletince:
 # Hatalar
 
 Karakterler
-- zeki, vedat
+- zeki, vedat, alpay, ramazan
+- aziz vefa, lemi galip
+- jack, bayan 1
+- haydut 1
