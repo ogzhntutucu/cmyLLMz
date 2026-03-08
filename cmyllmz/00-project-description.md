@@ -4,6 +4,8 @@
 > **Proje Türü:** Hibrit RAG + LLM Sistemi
 > **Başlangıç Kapsamı:** Yahşi Batı (2010)
 > **Dil:** Türkçe
+> **Geliştirme Ortamı:** Python + VSCode (lokal), Google Colab (gerekirse)
+> **Donanım:** Laptop, GTX 1650Ti GPU
 
 ---
 
@@ -118,11 +120,15 @@ Herhangi bir kod yazmadan önce temel kavramları öğrenmemiz gerekiyor.
   - kategori: "komedi / aksiyon / dram"
   ```
 - [ ] **2.3** Veriyi %80/%20 oranında böl
-  - %80 → Eğitim seti (RAG veritabanına yüklenecek)
-  - %20 → Test seti (modeli değerlendirmek için)
+  - Tüm veriler vektör veritabanına yüklenir
+  - Soru setini %80/%20 olarak böl:
+    - %80 → Geliştirme sırasında test etmek için (eğitim soruları)
+    - %20 → Final değerlendirmede kullanılacak sorular (model bu soruları hiç görmeyecek)
 - [ ] **2.4** Q&A (Soru-Cevap) çiftleri oluştur
-  - Her test verisi için bir soru yaz
-  - Beklenen doğru cevabı yaz
+  - İki tür soru hazırla:
+    - **Faktüel sorular** (tek doğru cevabı olan): "Bu replik hangi sahneden?" → Exact match ile ölçülür
+    - **Açık uçlu sorular** (yoruma dayalı): "Bu şakanın bağlamını açıkla" → Semantik benzerlik ile ölçülür
+  - Her soru için beklenen doğru cevabı yaz
   - Örnek: Soru: "Aziz'in şerife söylediği ilk replik nedir?" → Cevap: "..."
 
 ### Aşama 3: Preprocessing Pipeline
@@ -188,7 +194,12 @@ Herhangi bir kod yazmadan önce temel kavramları öğrenmemiz gerekiyor.
   - %20'lik test setindeki tüm soruları modele sor
   - Cevapları kaydet
 - [ ] **6.2** Metrikleri hesapla
-  - **Accuracy**: Doğru cevap sayısı / toplam soru sayısı
+  - **Accuracy ölçümü — iki yöntemle:**
+    - *Faktüel sorular:* Modelin cevabı doğru mu değil mi → exact match (doğru=1, yanlış=0)
+    - *Açık uçlu sorular:* Modelin cevabı ile beklenen cevap arasındaki semantik benzerlik (cosine similarity). Benzerlik ≥ 0.8 ise doğru sayılır
+  - **MAE (Mean Absolute Error):** Semantik benzerlik skorları üzerinden hesaplanır
+    - Her soru için: hata = 1.0 - benzerlik_skoru
+    - MAE = tüm hataların ortalaması (düşük MAE = iyi performans)
   - **Precision**: Doğru pozitif / (doğru pozitif + yanlış pozitif)
   - **Recall**: Doğru pozitif / (doğru pozitif + yanlış negatif)
   - **F1-Score**: Precision ve recall'un harmonik ortalaması
