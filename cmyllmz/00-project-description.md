@@ -69,8 +69,8 @@ cmyllmz, Cem Yılmaz'ın film replikleri, stand-up gösterileri ve diğer içeri
 | Gereksinim | cmyllmz'deki Karşılığı | Durum |
 |---|---|---|
 | Spesifik konu seçimi | Cem Yılmaz evreni (başlangıç: Yahşi Batı) | ✅ |
-| En az 50 cümlelik ham veri seti | Yahşi Batı replik veritabanı (~50-70 entry) | ⬜ |
-| Preprocessing pipeline | Metin temizleme, tokenizasyon, normalizasyon | ⬜ |
+| En az 50 cümlelik ham veri seti | Yahşi Batı replik veritabanı (~100-150 entry) | ⬜ |
+| Preprocessing pipeline | Hafif temizlik, chunking, metadata yapılandırma | ⬜ |
 | RAG veritabanı | Vektör DB (ChromaDB veya FAISS) | ⬜ |
 | Vektörleme | Türkçe embedding modeli ile vektöre çevirme | ⬜ |
 | Model oluşturma | Hibrit RAG + LLM sistemi | ⬜ |
@@ -134,15 +134,20 @@ Herhangi bir kod yazmadan önce temel kavramları öğrenmemiz gerekiyor.
 ### Aşama 3: Preprocessing Pipeline
 > *Tahmini süre: 1-2 gün*
 
-- [ ] **3.1** Metin temizleme fonksiyonları yaz
-  - Gereksiz boşlukları kaldır
-  - Noktalama işaretlerini düzenle
-  - Küçük/büyük harf normalizasyonu
-- [ ] **3.2** Tokenizasyon işlemini uygula
-  - Cümleleri anlamlı parçalara (token) ayır
-  - Türkçeye uygun tokenizer seç
+> **⚠️ Önemli:** Modern embedding modelleri (Sentence-Transformers) cümlenin anlamsal
+> bütünlüğüne bakar. "Lanet olsun!" ile "lanet olsun" vektör uzayında farklı duyguları
+> ifade edebilir. Bu nedenle "hard preprocessing" (noktalama kaldırma, küçük harfe çevirme)
+> yapılmaz. Metin olabildiğince orijinal bırakılır.
+
+- [ ] **3.1** Hafif metin temizleme fonksiyonları yaz
+  - Fazladan boşlukları (whitespace) kaldır
+  - Varsa HTML etiketlerini temizle (.srt dosyasından geliyorsa)
+  - Noktalama işaretlerini ve büyük/küçük harfleri **OLDUĞU GİBİ BIRAK**
+- [ ] **3.2** Chunking (parçalama) stratejisini belirle
+  - Uzun sahne diyaloglarını anlamlı parçalara böl
+  - Her chunk'ın metadata bilgisini (karakter, sahne, film) koru
 - [ ] **3.3** Pipeline'ı birleştir
-  - Ham veri → temizleme → tokenizasyon → çıktı
+  - Ham veri → hafif temizlik → chunking → metadata ekleme → çıktı
   - Pipeline'ın doğru çalıştığını test et
 
 ### Aşama 4: Vektörleme ve RAG Veritabanı
@@ -195,7 +200,7 @@ Herhangi bir kod yazmadan önce temel kavramları öğrenmemiz gerekiyor.
   - Cevapları kaydet
 - [ ] **6.2** Metrikleri hesapla
   - **Accuracy ölçümü — iki yöntemle:**
-    - *Faktüel sorular:* Modelin cevabı doğru mu değil mi → exact match (doğru=1, yanlış=0)
+    - *Faktüel sorular:* **LLM-as-a-Judge** yöntemi → Ayrı bir LLM'e sor: "Beklenen cevap: X. Modelin cevabı: Y. Anlamsal olarak aynı mı? 1 veya 0 ver." (exact match yerine — çünkü LLM her seferinde farklı cümle kurar, "Sahne 5" vs "5. sahnede geçer" gibi)
     - *Açık uçlu sorular:* Modelin cevabı ile beklenen cevap arasındaki semantik benzerlik (cosine similarity). Benzerlik ≥ 0.8 ise doğru sayılır
   - **MAE (Mean Absolute Error):** Semantik benzerlik skorları üzerinden hesaplanır
     - Her soru için: hata = 1.0 - benzerlik_skoru
