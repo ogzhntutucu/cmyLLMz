@@ -93,3 +93,11 @@ Düzeltmelerini bana iletince:
 1. `final_data.json` oluşturuyoruz
 2. ChromaDB vektör veritabanına yüklüyoruz
 3. İlk RAG sorgusunu test ediyoruz 🚀
+
+
+---
+
+# Hatalar
+
+Karakterler
+- zeki, vedat

@@ -19,8 +19,7 @@
       12,
       13
     ],
-    "text_tr": "Şimdi kadın, ince uzun da olur, kalın da olur, damarlı da olur... ...şöyle de olur, böyle de olur deyince... ...bizim usta dayanamıyor, birden ayağa kalkıyor. Ablacım öylesini bulsam diyor, ben diyor, şey yaparım diyor. Ustaya bak! Tabii canım, eskiden ona zıbık derler. Böyle, kahve değirmeni gibi olur. Şu kadar böyle... - Tahtadan, değil mi abi? Tahtadan. - Yaşa. Ben görmedim ama duydum yani. Of be abi, ne güldük ya! Vedat abi, buyur abi. - Hadi bakalım. - Abi hoş geldin. - Hoş geldin abi. - Sağlığınıza.",
-    "text_en": null,
+    "text": "Şimdi kadın, ince uzun da olur, kalın da olur, damarlı da olur... ...şöyle de olur, böyle de olur deyince... ...bizim usta dayanamıyor, birden ayağa kalkıyor. Ablacım öylesini bulsam diyor, ben diyor, şey yaparım diyor. Ustaya bak! Tabii canım, eskiden ona zıbık derler. Böyle, kahve değirmeni gibi olur. Şu kadar böyle... - Tahtadan, değil mi abi? Tahtadan. - Yaşa. Ben görmedim ama duydum yani. Of be abi, ne güldük ya! Vedat abi, buyur abi. - Hadi bakalım. - Abi hoş geldin. - Hoş geldin abi. - Sağlığınıza.",
     "is_frame_story": false,
     "characters": [
       "Zeki Abi",
@@ -38,7 +37,7 @@
     "start": "00:00:56",
     "end": "00:02:42",
     "duration_sec": 106.0,
-    "block_count": 38,
+    "block_count": 37,
     "block_ids": [
       14,
       15,
@@ -62,7 +61,6 @@
       33,
       34,
       35,
-      36,
       37,
       38,
       39,
@@ -79,8 +77,7 @@
       50,
       51
     ],
-    "text_tr": "Zekicim, istersen şey yapalım. Abi o kadar güldük ettik, Vedat abimiz... ...beklemesin. Ne yaptın oğlum, naylona mı koydun onu ya? Oğlum, ambalaj dandik olacak ki dikkat çekmeyeceksin, değil mi abi? Tabii ya. Abi mal bu. Zaten dikişiyle falan kendini belli ediyor, Vedat abi. - Peki dokunabiliyor muyuz? - Ne demek! Şöyle vereyim abi, buyur. Abi buna uzun Wellington diyorlar. Bu aşağı yukarı 130-140 yıllık abi. Tam şimdi yalan olmasın ama aşağı yukarı... Peki size bunun gelişi... Abi bize bunun gelişi tabii, enteresan oldu. Anlat oğlum, Vedat kardeşimiz yabancı değil ya. Kimse yok, biz bizeyiz. - Abi, Amerikan Başkanı Garfield... - O kedi olan mı? - Ne kedisi amına koyayım ya! - Ya Garfield kedi değil mi ya? Oğlum bir açın da bir Google'a girin bakın be! Dönemin Amerikan Başkanı Garfield. Al tamam, giriyorum. Garfield... Bunu mu demek istediniz? Garfield. Gene kedi, Başkan nerede, yok. Tatilde. - Şekerim sen devam et. - Alpay abi. Devam et sen ya. Vedat abi... Amerikan Başkanı, Sultan'a bir hediye gönderiyor. Sultanımıza. Sultanımız da diyor ki, ben de diyor karşı bir hediye göndereyim diyor. Benim dedemin babası, Teşkilât-ı Mahsusa'dan Aziz Vefa... ...bir de Hazine'den, yine memur... Lemi Galip... Bunlara bir görev veriyor. Diyor ki; ne diyor... Benim diyor, hediyeyi diyor, Başkan'a diyor, götürün diyor. - Çıkıyorlar saraya. - Saraya mı çıkıyorlar? Yok, Dolmabahçe sahilinde mi buluşacaklar Sultan'la ya? - Saraya çıkıyorlar. - Tamam anlat, ne bozuyorsun ya? Oğlum anlatacağım da siz önce bir dinlemesini öğrenin. Bir insanın anlattığı karşısındakinin dinleyebildiği kadardır. Hee.",
-    "text_en": "Did you mean Garfield?",
+    "text": "Zekicim, istersen şey yapalım. Abi o kadar güldük ettik, Vedat abimiz... ...beklemesin. Ne yaptın oğlum, naylona mı koydun onu ya? Oğlum, ambalaj dandik olacak ki dikkat çekmeyeceksin, değil mi abi? Tabii ya. Abi mal bu. Zaten dikişiyle falan kendini belli ediyor, Vedat abi. - Peki dokunabiliyor muyuz? - Ne demek! Şöyle vereyim abi, buyur. Abi buna uzun Wellington diyorlar. Bu aşağı yukarı 130-140 yıllık abi. Tam şimdi yalan olmasın ama aşağı yukarı... Peki size bunun gelişi... Abi bize bunun gelişi tabii, enteresan oldu. Anlat oğlum, Vedat kardeşimiz yabancı değil ya. Kimse yok, biz bizeyiz. - Abi, Amerikan Başkanı Garfield... - O kedi olan mı? - Ne kedisi amına koyayım ya! - Ya Garfield kedi değil mi ya? Oğlum bir açın da bir Google'a girin bakın be! Dönemin Amerikan Başkanı Garfield. Al tamam, giriyorum. Garfield... Did you mean Garfield? Gene kedi, Başkan nerede, yok. Tatilde. - Şekerim sen devam et. - Alpay abi. Devam et sen ya. Vedat abi... Amerikan Başkanı, Sultan'a bir hediye gönderiyor. Sultanımıza. Sultanımız da diyor ki, ben de diyor karşı bir hediye göndereyim diyor. Benim dedemin babası, Teşkilât-ı Mahsusa'dan Aziz Vefa... ...bir de Hazine'den, yine memur... Lemi Galip... Bunlara bir görev veriyor. Diyor ki; ne diyor... Benim diyor, hediyeyi diyor, Başkan'a diyor, götürün diyor. - Çıkıyorlar saraya. - Saraya mı çıkıyorlar? Yok, Dolmabahçe sahilinde mi buluşacaklar Sultan'la ya? - Saraya çıkıyorlar. - Tamam anlat, ne bozuyorsun ya? Oğlum anlatacağım da siz önce bir dinlemesini öğrenin. Bir insanın anlattığı karşısındakinin dinleyebildiği kadardır. Hee.",
     "is_frame_story": true,
     "characters": [
       "Zeki Abi",
@@ -111,8 +108,7 @@
       59,
       60
     ],
-    "text_tr": "Sultanın huzuruna geliyorlar. İşte Sultanın elini öpüyorlar. - Sultan da bunları öpüyor mu? - Ya bir dakika be oğlum, sulandırma ya! Hemen emanet takdim ediliyor. Nedir emanet? Elmas bir kolye. Bu diyor, bundan sonra size emanet. Bir de diyor, alın size 1000 dolar, yolluk. Konfederasyon doları. Şimdi, Amerika sapa yer... ...Sultanım ben götüremem diyebilir misin? Mutlak götüreceksin.",
-    "text_en": null,
+    "text": "Sultanın huzuruna geliyorlar. İşte Sultanın elini öpüyorlar. - Sultan da bunları öpüyor mu? - Ya bir dakika be oğlum, sulandırma ya! Hemen emanet takdim ediliyor. Nedir emanet? Elmas bir kolye. Bu diyor, bundan sonra size emanet. Bir de diyor, alın size 1000 dolar, yolluk. Konfederasyon doları. Şimdi, Amerika sapa yer... ...Sultanım ben götüremem diyebilir misin? Mutlak götüreceksin.",
     "is_frame_story": true,
     "characters": [
       "Sultan"
@@ -135,8 +131,7 @@
       63,
       64
     ],
-    "text_tr": "Görevi aldıktan sonra zaten istikamet belli. Tak, buradan Orient Express'le Paris yapıyorlar. Tak, oradan gemiyle Londra. Tak Atlantik üzerinden yine gemiyle Amerika.",
-    "text_en": null,
+    "text": "Görevi aldıktan sonra zaten istikamet belli. Tak, buradan Orient Express'le Paris yapıyorlar. Tak, oradan gemiyle Londra. Tak Atlantik üzerinden yine gemiyle Amerika.",
     "is_frame_story": true,
     "characters": [
       "Zeki Abi"
@@ -156,8 +151,7 @@
     "block_ids": [
       67
     ],
-    "text_tr": "Greenland Vadisi 27 Nisan 1881",
-    "text_en": null,
+    "text": "Greenland Vadisi 27 Nisan 1881",
     "is_frame_story": false,
     "characters": [],
     "scene": "Tarih ve yer bilgisi veriliyor.",
@@ -169,40 +163,25 @@
     "start": "00:05:17",
     "end": "00:05:56",
     "duration_sec": 39.0,
-    "block_count": 29,
+    "block_count": 15,
     "block_ids": [
       68,
-      69,
       70,
-      71,
       72,
       73,
-      74,
       75,
-      76,
       77,
-      78,
       79,
-      80,
       81,
-      82,
       83,
-      84,
       85,
-      86,
       87,
-      88,
       89,
-      90,
       91,
-      92,
       93,
-      94,
-      95,
-      96
+      95
     ],
-    "text_tr": "Ay... Yine yaptım. Çok özür dilerim. Yol çok bozuk, değil mi hayatım? Rica ederim, bayan. Lütfen merakımı bağışlayın ama... ...Fransız mısınız? Hayır hanımefendi, Osmanlıyım. Oh, Osmanlı demek? Harika. Jack, duydun mu? Evet, biliyorum. Osmanlılar. Viyana'nın kapısındaydınız değil mi? Bir zamanlar! Evet evet. Tık tık. Kim o? Osmanlı... Osmanlı kim? Osmanlı İmparatorluğu.",
-    "text_en": "I did it again, I'm terribly sorry. Bumper road, isn't it darling. Excuse my curiosity sir, but... ...are you French? Oh, no madam. I'm Ottoman. Oh my... Ottoman, that's marvelous. Jack, did you hear that? Oh yes, I know. Ottoman's. You're at the doors in Viyana, ha? Once upon a time! Yes yes. Tık tık. Who is there? Ottoman. Ottoman who? Ottoman Empire.",
+    "text": "I did it again, I'm terribly sorry. Bumper road, isn't it darling. Rica ederim, bayan. Excuse my curiosity sir, but... ...are you French? Oh, no madam. I'm Ottoman. Oh my... Ottoman, that's marvelous. Jack, did you hear that? Oh yes, I know. Ottoman's. You're at the doors in Viyana, ha? Once upon a time! Yes yes. Tık tık. Who is there? Ottoman. Ottoman who? Ottoman Empire.",
     "is_frame_story": false,
     "characters": [
       "Lemi Galip"
@@ -218,51 +197,35 @@
     "start": "00:06:03",
     "end": "00:07:06",
     "duration_sec": 63.0,
-    "block_count": 40,
+    "block_count": 25,
     "block_ids": [
       97,
       98,
       99,
       100,
       101,
-      102,
       103,
-      104,
       105,
       106,
-      107,
       108,
       109,
-      110,
       111,
-      112,
       113,
-      114,
       115,
       116,
-      117,
       118,
-      119,
       120,
-      121,
       122,
-      123,
       124,
-      125,
       126,
-      127,
       128,
       129,
       130,
-      131,
       132,
       133,
-      134,
-      135,
-      136
+      135
     ],
-    "text_tr": "Öküz efendi nükteyi anlamadı Aziz. Şeyi sorsana, Mr. and Mrs. Brown piknikten döndü mü? Aman nerede efendim, çok ince bir humor. İngilizin köylüsü. Köylü. Köylü? Başımızın tacıdır diyorum köylümüz. Siz deveye biniyordunuz değil mi? Jack! Develere. Evet, her defasında. Her zaman. Her yer deve dolu! Hep de bunu söylerler. Başka da bir şey bilmezler. Her yer deve. Peki siz bayım? Ne işle meşgulsünüz? Ben mi? Gizli... Gizli Polis. Oh, pekala sır tutabilirim. Sır diyor, tutarım diyor. Bir molada duralım tutarsın bir ara. Sonra. Bir yerde dursak da, bir... küçük su döksek. Anlayamadım? Küçük su.",
-    "text_en": "Village people! Village people? You ride camels, don't you? Camels. Yes, every time. Always! Camels everywhere. Camel, everywhere. And you sir? What do you do? Me? Secret, secret police. Oh! Well, I can keep secret. Later. Excuse me? Little water.",
+    "text": "Öküz efendi nükteyi anlamadı Aziz. Şeyi sorsana, Mr. and Mrs. Brown piknikten döndü mü? Aman nerede efendim, çok ince bir humor. İngilizin köylüsü. Village people! Village people? Başımızın tacıdır diyorum köylümüz. You ride camels, don't you? Jack! Camels. Yes, every time. Always! Camels everywhere. Hep de bunu söylerler. Başka da bir şey bilmezler. Camel, everywhere. And you sir? What do you do? Me? Secret, secret police. Oh! Well, I can keep secret. Sır diyor, tutarım diyor. Bir molada duralım tutarsın bir ara. Later. Bir yerde dursak da, bir... küçük su döksek. Excuse me? Little water.",
     "is_frame_story": false,
     "characters": [
       "Aziz Vefa"
@@ -278,25 +241,17 @@
     "start": "00:07:53",
     "end": "00:08:08",
     "duration_sec": 15.0,
-    "block_count": 14,
+    "block_count": 7,
     "block_ids": [
       139,
-      140,
       141,
-      142,
       143,
-      144,
       145,
-      146,
       147,
-      148,
       149,
-      150,
-      151,
-      152
+      151
     ],
-    "text_tr": "Bu siz misiniz? Benim. Şahane görünüyorsunuz. Ben... Yağlı güreş. Her yer yağlı, komple. Viski. Osmanlı.",
-    "text_en": "That's you? Me! You look fantastic. I... Oil wrestling. Oil, everywhere. Scotch? Ottoman.",
+    "text": "That's you? Me! You look fantastic. I... Oil wrestling. Oil, everywhere. Scotch? Ottoman.",
     "is_frame_story": false,
     "characters": [],
     "scene": "Karakterler birbirlerine selam veriyor ve sohbet ediyor.",
@@ -310,33 +265,23 @@
     "start": "00:08:14",
     "end": "00:08:51",
     "duration_sec": 37.0,
-    "block_count": 22,
+    "block_count": 13,
     "block_ids": [
       153,
-      154,
       155,
-      156,
       157,
-      158,
       159,
-      160,
       161,
-      162,
       163,
-      164,
       165,
-      166,
       167,
       168,
       169,
       170,
       171,
-      172,
-      173,
-      174
+      173
     ],
-    "text_tr": "Aslında... ...özel bir görev için buradayız. Bu elması gördünüz mü? Aman Tanrım, paha biçilemez. Elbette. Sultanımızın... ...Başkanınıza hediyesi. Ne yapıyorsun birader? - Ne var yahu? - Elma şekeri gibi çıkarılır mı o be! - E sen fotoğrafı çıkartıyorsun. - Koy ulan şunu yerine! Tamam ne kızıyorsun ya. Ben mesulüm. Kusura bakmayın. Beyefendi, bakın bu çok tehlikeli olabilir.",
-    "text_en": "In fact... ...we are here on a special mission. Did you see this diamond? My God! Is priceless. Of course! It's a gift from our Sultan... ...for your President. Sorry. Sir, it can be very dangerous.",
+    "text": "In fact... ...we are here on a special mission. Did you see this diamond? My God! Is priceless. Of course! It's a gift from our Sultan... ...for your President. Ne yapıyorsun birader? - Ne var yahu? - Elma şekeri gibi çıkarılır mı o be! - E sen fotoğrafı çıkartıyorsun. - Koy ulan şunu yerine! Tamam ne kızıyorsun ya. Ben mesulüm. Sorry. Sir, it can be very dangerous.",
     "is_frame_story": false,
     "characters": [
       "Aziz Vefa",
@@ -353,25 +298,19 @@
     "start": "00:08:55",
     "end": "00:09:12",
     "duration_sec": 17.0,
-    "block_count": 14,
+    "block_count": 9,
     "block_ids": [
       176,
       177,
-      178,
       179,
-      180,
       181,
-      182,
       183,
-      184,
       185,
-      186,
       187,
       188,
       189
     ],
-    "text_tr": "- Haydutlar... - Sakin... Sakin olun! Silahım var. Endişelenmeyin. Kaç kişiler, kaç? Gördünüz mü? Kaç kişi? Dikkatli ol. Şunu bana tutma! Dinle beni. Normal prosedürü uygulayacağız. Sakin ol.",
-    "text_en": "Calm down. I have a gun. Don't worry. How many people, how many? Did you see? How many? Be careful.",
+    "text": "- Haydutlar... - Sakin... Calm down. I have a gun. Don't worry. How many people, how many? Did you see? How many? Be careful. Şunu bana tutma! Dinle beni. Normal prosedürü uygulayacağız. Sakin ol.",
     "is_frame_story": false,
     "characters": [],
     "scene": "Bir karakter haydutlarla karşılaşıyor ve sakin kalmaya çalışıyor.",
@@ -385,25 +324,22 @@
     "start": "00:09:19",
     "end": "00:09:52",
     "duration_sec": 33.0,
-    "block_count": 14,
+    "block_count": 12,
     "block_ids": [
       190,
       191,
       192,
       193,
       194,
-      195,
       196,
       197,
       198,
       199,
       200,
-      201,
       202,
       203
     ],
-    "text_tr": "Dinle beni. Çöp çekeceğiz. Elmas mı? Para mı? Çek çabuk! - Çok müşkül durumdayım Aziz Efendi. Çek çabuk! Elmas. Sakin olun, sakin olun. - Çok kalabalık geldiler Aziz Efendi. - Sakin. Sakin ol, sakin ol. Sakin. - Ben sakinim. - Sakin. Bismillahirrahmanirrahim. Allah'ım bizi mahcup etme ya Rabbim. Telaşa mahal yok! Ölmek var, emanetleri teslim etmek yok. - Haydi aslanım. - Haydi inşallah.",
-    "text_en": "Calm down, calm down. Don't worry, don't worry.",
+    "text": "Dinle beni. Çöp çekeceğiz. Elmas mı? Para mı? Çek çabuk! - Çok müşkül durumdayım Aziz Efendi. Çek çabuk! Elmas. Calm down, calm down. - Çok kalabalık geldiler Aziz Efendi. - Sakin. Sakin ol, sakin ol. Sakin. - Ben sakinim. - Sakin. Bismillahirrahmanirrahim. Allah'ım bizi mahcup etme ya Rabbim. Don't worry, don't worry. Ölmek var, emanetleri teslim etmek yok. - Haydi aslanım. - Haydi inşallah.",
     "is_frame_story": false,
     "characters": [
       "Aziz Vefa"
@@ -426,8 +362,7 @@
       205,
       206
     ],
-    "text_tr": "I said stop the car you son of a bitch! Ya Zeki abi, ben oraları pek anlamadım ya. Posta arabasından sonra yok bende. Dur o zaman şöyle yapalım...",
-    "text_en": null,
+    "text": "I said stop the car you son of a bitch! Ya Zeki abi, ben oraları pek anlamadım ya. Posta arabasından sonra yok bende. Dur o zaman şöyle yapalım...",
     "is_frame_story": false,
     "characters": [
       "Lemi Galip",
@@ -449,8 +384,7 @@
     "block_ids": [
       207
     ],
-    "text_tr": "Lan arabayı durdurun demedik mi avratını siktiklerimin!",
-    "text_en": null,
+    "text": "Lan arabayı durdurun demedik mi avratını siktiklerimin!",
     "is_frame_story": false,
     "characters": [],
     "scene": "Bir karakter öfkeyle bağırıyor.",
@@ -469,8 +403,7 @@
       208,
       209
     ],
-    "text_tr": "İnin aşağıya! İn aşağıya! - Çabuk çabuk çabuk! - Tanrım Jack, hayır!",
-    "text_en": null,
+    "text": "İnin aşağıya! İn aşağıya! - Çabuk çabuk çabuk! - Tanrım Jack, hayır!",
     "is_frame_story": false,
     "characters": [],
     "scene": "Karakterler bir tehlike ile karşı karşıya kalıyor.",
@@ -492,8 +425,7 @@
       213,
       214
     ],
-    "text_tr": "Bağırmayın efendim. Sıranızda durun, bağırmayın! Sayın yolcular... ...ben Johnny Lesh ve ekibim yolculuğunuzun rahat geçmesi için... ...sizleri bazı yüklerinizden kurtarmak amacıyla hizmetinizdeyiz. Bağırmak serbest. Kahramanlık yapanı gömerim.",
-    "text_en": null,
+    "text": "Bağırmayın efendim. Sıranızda durun, bağırmayın! Sayın yolcular... ...ben Johnny Lesh ve ekibim yolculuğunuzun rahat geçmesi için... ...sizleri bazı yüklerinizden kurtarmak amacıyla hizmetinizdeyiz. Bağırmak serbest. Kahramanlık yapanı gömerim.",
     "is_frame_story": false,
     "characters": [
       "Johnny Lesh"
@@ -517,8 +449,7 @@
       217,
       218
     ],
-    "text_tr": "150 yıllık silah. İdareye yazdık, yenisini verin dedik. Sikine takan olmadı! Gel lan buraya, yürü! Geç şöyle, geç!",
-    "text_en": null,
+    "text": "150 yıllık silah. İdareye yazdık, yenisini verin dedik. Sikine takan olmadı! Gel lan buraya, yürü! Geç şöyle, geç!",
     "is_frame_story": false,
     "characters": [],
     "scene": "Karakter eski bir silah hakkında şikayette bulunuyor.",
@@ -549,8 +480,7 @@
       231,
       232
     ],
-    "text_tr": "Saat. Jack, kurtar beni! Jack! Ay! Bakın beyefendi, biz taa İstanbullardan geliyoruz. Öyle boş kimseler de değiliz. Öyle mi? Belli. Buffalo Bill'in şovunda bile böyle kostüm görmedim. Bu ne lan? - Festir. İstiyorsan kaval da var. - Kes lan! Yapm... - Lesh! - Ne yaptın lan? - Lesh.. - Ne yaptın lan! Var mı lan böyle bir şey? Yalnız biz Haramidere'den Çatapat Ahmet'in arkadaşlarıyız, ona göre!",
-    "text_en": null,
+    "text": "Saat. Jack, kurtar beni! Jack! Ay! Bakın beyefendi, biz taa İstanbullardan geliyoruz. Öyle boş kimseler de değiliz. Öyle mi? Belli. Buffalo Bill'in şovunda bile böyle kostüm görmedim. Bu ne lan? - Festir. İstiyorsan kaval da var. - Kes lan! Yapm... - Lesh! - Ne yaptın lan? - Lesh.. - Ne yaptın lan! Var mı lan böyle bir şey? Yalnız biz Haramidere'den Çatapat Ahmet'in arkadaşlarıyız, ona göre!",
     "is_frame_story": false,
     "characters": [],
     "scene": "Jack, kurtarılmayı bekliyor ve kostümler hakkında konuşuluyor.",
@@ -569,8 +499,7 @@
       233,
       234
     ],
-    "text_tr": "Hadi gidiyoruz. Kızılların kokusunu almaya başladım. See you.",
-    "text_en": null,
+    "text": "Hadi gidiyoruz. Kızılların kokusunu almaya başladım. See you.",
     "is_frame_story": false,
     "characters": [],
     "scene": "Karakterler yola çıkıyor.",
@@ -587,8 +516,7 @@
       235,
       236
     ],
-    "text_tr": "Sioux dedi. Sioux'lar... Efendim o hoşça kalın manasında. See you, görüşürüz.",
-    "text_en": null,
+    "text": "Sioux dedi. Sioux'lar... Efendim o hoşça kalın manasında. See you, görüşürüz.",
     "is_frame_story": false,
     "characters": [],
     "scene": "Bir karakter Sioux'lar hakkında bilgi veriyor.",
@@ -615,8 +543,7 @@
       245,
       246
     ],
-    "text_tr": "Çatapat Ahmet kim ulan? Efendim zaten ben bu adamın ismini ne zaman zikretsem başım derde giriyor. Monşer, adamı delirtme! Talimatmane açık: ... ...''Cereyan-ı tehlike-i vuku, emanetlerin mabadına dühulu.\" - Sarih! - Efendim, adilane mi? Koca elmas! Ulan ben müptelası mıyım da 1000 doları götüme sokuyorum? - Onu bilemiyorum. - Efendim! Beyimiz kıçına kıyamıyor, burada kellemiz gidecek! Gel buraya! Aç şu mendili.",
-    "text_en": null,
+    "text": "Çatapat Ahmet kim ulan? Efendim zaten ben bu adamın ismini ne zaman zikretsem başım derde giriyor. Monşer, adamı delirtme! Talimatmane açık: ... ...''Cereyan-ı tehlike-i vuku, emanetlerin mabadına dühulu.\" - Sarih! - Efendim, adilane mi? Koca elmas! Ulan ben müptelası mıyım da 1000 doları götüme sokuyorum? - Onu bilemiyorum. - Efendim! Beyimiz kıçına kıyamıyor, burada kellemiz gidecek! Gel buraya! Aç şu mendili.",
     "is_frame_story": false,
     "characters": [],
     "scene": "Çatapat Ahmet hakkında konuşuluyor.",
@@ -635,8 +562,7 @@
     "block_ids": [
       247
     ],
-    "text_tr": "Al şunu.",
-    "text_en": null,
+    "text": "Al şunu.",
     "is_frame_story": false,
     "characters": [],
     "scene": "Bir karakter bir nesne almasını istiyor.",
@@ -654,8 +580,7 @@
     "block_ids": [
       249
     ],
-    "text_tr": "Maşallah.",
-    "text_en": null,
+    "text": "Maşallah.",
     "is_frame_story": false,
     "characters": [],
     "scene": "Bir karakter hayranlıkla bir durumu değerlendiriyor.",
@@ -674,8 +599,7 @@
       250,
       251
     ],
-    "text_tr": "Bunun bir de tabağı olacaktı. Al son.",
-    "text_en": null,
+    "text": "Bunun bir de tabağı olacaktı. Al son.",
     "is_frame_story": false,
     "characters": [],
     "scene": "Bir karakter tabağın eksikliğinden bahsediyor.",
@@ -696,8 +620,7 @@
       254,
       255
     ],
-    "text_tr": "İyi misin? En azından binliği kurtardık. Efendim nüktenin sırası değil ama Bey Baba bizi yüz üstü bıraktı. Bana bak geberteceğim seni ha! Ok yaydan çıktı!",
-    "text_en": null,
+    "text": "İyi misin? En azından binliği kurtardık. Efendim nüktenin sırası değil ama Bey Baba bizi yüz üstü bıraktı. Bana bak geberteceğim seni ha! Ok yaydan çıktı!",
     "is_frame_story": false,
     "characters": [],
     "scene": "Karakterler arasında tartışma geçiyor.",
@@ -715,8 +638,7 @@
     "block_ids": [
       257
     ],
-    "text_tr": "Hintliler!",
-    "text_en": null,
+    "text": "Hintliler!",
     "is_frame_story": false,
     "characters": [],
     "scene": "Bir grup Hintli sahneye giriyor.",
@@ -737,8 +659,7 @@
       260,
       261
     ],
-    "text_tr": "- Ugh! - Ne ughu lan! Galiba hayvan isimleriyle hitap ediliyor. \"Danaburnu.\" Adım Richard Thomas. Oxford'da okuyorum. Sadece yaz tatillerimi kabilemle geçiriyorum.",
-    "text_en": null,
+    "text": "- Ugh! - Ne ughu lan! Galiba hayvan isimleriyle hitap ediliyor. \"Danaburnu.\" Adım Richard Thomas. Oxford'da okuyorum. Sadece yaz tatillerimi kabilemle geçiriyorum.",
     "is_frame_story": false,
     "characters": [
       "Richard Thomas"
@@ -763,8 +684,7 @@
       265,
       266
     ],
-    "text_tr": "Yahu, biz İstanbul'dan geliyoruz. Kızılderililer için de Türktür derler hani. - Kenan abi, var mı öyle bir şey? - Yok oğlum öyle bir şey, topla topla. Yahu... Ben çıkarayım efendim. Kasımpaşa'dan Apaçi Selim'in selamı var desek? Ben çıkarayım efendim.",
-    "text_en": null,
+    "text": "Yahu, biz İstanbul'dan geliyoruz. Kızılderililer için de Türktür derler hani. - Kenan abi, var mı öyle bir şey? - Yok oğlum öyle bir şey, topla topla. Yahu... Ben çıkarayım efendim. Kasımpaşa'dan Apaçi Selim'in selamı var desek? Ben çıkarayım efendim.",
     "is_frame_story": false,
     "characters": [],
     "scene": "Karakterler İstanbul'dan geldiklerini ve Kızılderililerle ilgili bir espri yapıyorlar.",
@@ -788,8 +708,7 @@
       271,
       272
     ],
-    "text_tr": "Sikmeseler bari. - Kenan Bey buyurun. - Hay Allah! - Aziz Efendi, bir konsolosluğa haber etsek. - Ederiz. O boynunuzdakinin özel bir manası var mı? Anneciğimin verdiği muska. Her türlü musibetten ve badireden korur dedi.",
-    "text_en": null,
+    "text": "Sikmeseler bari. - Kenan Bey buyurun. - Hay Allah! - Aziz Efendi, bir konsolosluğa haber etsek. - Ederiz. O boynunuzdakinin özel bir manası var mı? Anneciğimin verdiği muska. Her türlü musibetten ve badireden korur dedi.",
     "is_frame_story": false,
     "characters": [
       "Aziz Efendi"
@@ -810,8 +729,7 @@
       273,
       274
     ],
-    "text_tr": "Selamlar. Al birader, acil durum. Şunu hemen İstanbul'a çekiver.",
-    "text_en": null,
+    "text": "Selamlar. Al birader, acil durum. Şunu hemen İstanbul'a çekiver.",
     "is_frame_story": false,
     "characters": [],
     "scene": "Bir karakter acil bir durumu bildiriyor.",
@@ -833,8 +751,7 @@
       280,
       281
     ],
-    "text_tr": "Bu ''A'' mı? Ulan, Ulak efendi okuman yazman da mı yok? - Ver. - Çek şunu. Ulan, Redkit bana telgraf var mı dese, tıpış tıpış ayağına gidersin ama. Ne Redkit'i ya? Kim takar Redkit'i? - Bana telgraf var mı? - Ooo abimiz. Hoş geldin, buyur. Geç böyle otur abi. Geoffrey, oğlum bize iki çay kap.",
-    "text_en": null,
+    "text": "Bu ''A'' mı? Ulan, Ulak efendi okuman yazman da mı yok? - Ver. - Çek şunu. Ulan, Redkit bana telgraf var mı dese, tıpış tıpış ayağına gidersin ama. Ne Redkit'i ya? Kim takar Redkit'i? - Bana telgraf var mı? - Ooo abimiz. Hoş geldin, buyur. Geç böyle otur abi. Geoffrey, oğlum bize iki çay kap.",
     "is_frame_story": false,
     "characters": [],
     "scene": "Bir karakter telgraf hakkında konuşuyor.",
@@ -853,8 +770,7 @@
     "block_ids": [
       282
     ],
-    "text_tr": "Bir müddet sonra saraydan cevap geliyor.",
-    "text_en": null,
+    "text": "Bir müddet sonra saraydan cevap geliyor.",
     "is_frame_story": false,
     "characters": [],
     "scene": "Saraydan cevap geliyor.",
@@ -879,8 +795,7 @@
       289,
       290
     ],
-    "text_tr": "Ne diyor? Gelmenize gerek yok, mesul memurun kellesini posta ile gönderin diyor. Tamam o zaman... Kes gönder kellemi. Sana bir derdi olmasın. Ben mesulüm. Nasıl yapacağız? Ne bileyim? Önce boğ iple.",
-    "text_en": null,
+    "text": "Ne diyor? Gelmenize gerek yok, mesul memurun kellesini posta ile gönderin diyor. Tamam o zaman... Kes gönder kellemi. Sana bir derdi olmasın. Ben mesulüm. Nasıl yapacağız? Ne bileyim? Önce boğ iple.",
     "is_frame_story": false,
     "characters": [],
     "scene": "Karakterler arasında bir görev hakkında konuşuluyor.",
@@ -899,8 +814,7 @@
       292,
       293
     ],
-    "text_tr": "Anneciğime de selamlarımı ilet. Ey Amerika! Sen de bir rüyadan ibaretmişsin.",
-    "text_en": null,
+    "text": "Anneciğime de selamlarımı ilet. Ey Amerika! Sen de bir rüyadan ibaretmişsin.",
     "is_frame_story": false,
     "characters": [],
     "scene": "Karakter Amerika'ya selam gönderiyor.",
@@ -923,8 +837,7 @@
       298,
       299
     ],
-    "text_tr": "Ona bir su tutaydın yahu? Konuşma lan! Bu boku beraber yedik, ceremesini beraber çekeceğiz. Aziz, seni taa Fizan'a sürerler. Bak bakalım bir etrafına. Zaten ebesinin Fizan'ındayız. Nereye sürecekler! O elması bulmadan ölmek yok. Tamam mı?",
-    "text_en": null,
+    "text": "Ona bir su tutaydın yahu? Konuşma lan! Bu boku beraber yedik, ceremesini beraber çekeceğiz. Aziz, seni taa Fizan'a sürerler. Bak bakalım bir etrafına. Zaten ebesinin Fizan'ındayız. Nereye sürecekler! O elması bulmadan ölmek yok. Tamam mı?",
     "is_frame_story": false,
     "characters": [
       "Lemi Galip",
@@ -942,7 +855,7 @@
     "start": "00:18:15",
     "end": "00:19:05",
     "duration_sec": 50.0,
-    "block_count": 19,
+    "block_count": 15,
     "block_ids": [
       301,
       302,
@@ -951,21 +864,16 @@
       305,
       306,
       307,
-      308,
       309,
-      310,
       311,
-      312,
       313,
       314,
-      315,
       316,
       317,
       318,
       319
     ],
-    "text_tr": "Bir hafta, on gün aç bilaç dolanıyorlar etrafta. Bir ara diyorlar, silahlanalım; silah alalım, peşlerine düşelim elması alanların. Ama silah da öyle öpücükle verilmiyor tabi. Para yok, pul yok. Siktir git lan zübüş. Defol! Sonra diyorlar, ulan bari karnımızı doyuracak bir iki işe girip çıkalım. Öyle iş dediysek, öyle yatırım gerektiren işler değil tabi. At yıkama! İç ve dış! At yıkama! At yıkama! İç ve dış! Sıhhatler olsun! At yıkama! Bir iki boktan işle içli dışlı olduktan sonra affedersin... ...Aziz Efendi diyor ki;... ...\"neden diyor biz kendi çizgimizi ortaya koymuyoruz\" diyor. En sevilen yanlarıyla, en sevilen halleriyle efendim!",
-    "text_en": "Horse washing! In and out! Horse washing! Horse washing! ln and out! Horse washing!",
+    "text": "Bir hafta, on gün aç bilaç dolanıyorlar etrafta. Bir ara diyorlar, silahlanalım; silah alalım, peşlerine düşelim elması alanların. Ama silah da öyle öpücükle verilmiyor tabi. Para yok, pul yok. Siktir git lan zübüş. Defol! Sonra diyorlar, ulan bari karnımızı doyuracak bir iki işe girip çıkalım. Öyle iş dediysek, öyle yatırım gerektiren işler değil tabi. Horse washing! In and out! Horse washing! Horse washing! ln and out! Sıhhatler olsun! Horse washing! Bir iki boktan işle içli dışlı olduktan sonra affedersin... ...Aziz Efendi diyor ki;... ...\"neden diyor biz kendi çizgimizi ortaya koymuyoruz\" diyor. En sevilen yanlarıyla, en sevilen halleriyle efendim!",
     "is_frame_story": true,
     "characters": [
       "Zeki Abi"
@@ -988,8 +896,7 @@
       321,
       322
     ],
-    "text_tr": "- Karagözüm, Ramazan-ı Şeriflerin hayrola. - Hadi oradan, balkabağı! Karagözüm yapma, mübarek Ramazandayız. Hiç tasa etme Hacı cavcav, sülalece arkandayız!",
-    "text_en": null,
+    "text": "- Karagözüm, Ramazan-ı Şeriflerin hayrola. - Hadi oradan, balkabağı! Karagözüm yapma, mübarek Ramazandayız. Hiç tasa etme Hacı cavcav, sülalece arkandayız!",
     "is_frame_story": false,
     "characters": [],
     "scene": "Karagözüm ve Hacı cavcav Ramazan hakkında konuşuyor.",
@@ -1018,8 +925,7 @@
       334,
       335
     ],
-    "text_tr": "Geçen sene Sultanahmet'te en çok tutan gösteri bu be. Biraz gülün ya! Maalesef komik değil. Biraz yeniliklere açık olun açık. Karagöz bu! - Komik olsa gülerdik, değil mi kız? - Bence de. Aaaa... Seneye size Moliere'i getireyim. Moliere'den ''Cimri''. Tuzsuz Deli Bekir'i yaptım. Beberuhi'yi yaptım. Hiçbirine gülmediler. - Zenne'yi yaptın da gülmediler mi efendim? - Efendim, Zenne'ye gelene kadar. Hümor yok hümor! Amerikan Hümoru! Siktiğimin humoru! İngilizceye çevirince manasını kaybediyor tabii. Bırak Allah aşkına!",
-    "text_en": null,
+    "text": "Geçen sene Sultanahmet'te en çok tutan gösteri bu be. Biraz gülün ya! Maalesef komik değil. Biraz yeniliklere açık olun açık. Karagöz bu! - Komik olsa gülerdik, değil mi kız? - Bence de. Aaaa... Seneye size Moliere'i getireyim. Moliere'den ''Cimri''. Tuzsuz Deli Bekir'i yaptım. Beberuhi'yi yaptım. Hiçbirine gülmediler. - Zenne'yi yaptın da gülmediler mi efendim? - Efendim, Zenne'ye gelene kadar. Hümor yok hümor! Amerikan Hümoru! Siktiğimin humoru! İngilizceye çevirince manasını kaybediyor tabii. Bırak Allah aşkına!",
     "is_frame_story": false,
     "characters": [],
     "scene": "Bir karakter gösteri hakkında konuşuyor ve komedi anlayışını eleştiriyor.",
@@ -1045,8 +951,7 @@
       342,
       343
     ],
-    "text_tr": "Yumurta. Ayır bunları. Şunda ne var? Şeker. Limon. Şeker. Limon-Şeker! Macuncu! Macuncu! Bereket versin. - Macuncu! - Sar, bir tane de bana sar. - Emrin olur abi. - Ona değil, buna sar. - Osmanlı macunudur, ağır gelir. - Yorum yapma ulan!",
-    "text_en": null,
+    "text": "Yumurta. Ayır bunları. Şunda ne var? Şeker. Limon. Şeker. Limon-Şeker! Macuncu! Macuncu! Bereket versin. - Macuncu! - Sar, bir tane de bana sar. - Emrin olur abi. - Ona değil, buna sar. - Osmanlı macunudur, ağır gelir. - Yorum yapma ulan!",
     "is_frame_story": false,
     "characters": [],
     "scene": "Yumurta ve şeker üzerine konuşma.",
@@ -1076,8 +981,7 @@
       355,
       356
     ],
-    "text_tr": "100 Dolar parayı denkleştirmek için yapmadıkları iş kalmıyor. Yahu, Lemi Bey'in kendi yaptığı makineyle miki filmi oynatıyorlar ya! Miki filmi diyorum usta. Daha Walt Disney yok, Mickey Mouse yok! Hayat kadar gerçek! Bir aşk hikayesi. Bir de ya şeyi diyeceğim, yanlış anlayacaksınız. Şeyi buluyorlar. Hani o formülü bilinmiyor deniyor ya. - O ne ya? - Kola ulan! Meyan kökü, karbonat. Özü zaten şerbet. Bir dakika ya, bir dakika ben anlamadım. Yani şimdi bunlar gerçekten kolayı mı buluyorlar? Buluyorlar, buluyorlar. Ama...",
-    "text_en": null,
+    "text": "100 Dolar parayı denkleştirmek için yapmadıkları iş kalmıyor. Yahu, Lemi Bey'in kendi yaptığı makineyle miki filmi oynatıyorlar ya! Miki filmi diyorum usta. Daha Walt Disney yok, Mickey Mouse yok! Hayat kadar gerçek! Bir aşk hikayesi. Bir de ya şeyi diyeceğim, yanlış anlayacaksınız. Şeyi buluyorlar. Hani o formülü bilinmiyor deniyor ya. - O ne ya? - Kola ulan! Meyan kökü, karbonat. Özü zaten şerbet. Bir dakika ya, bir dakika ben anlamadım. Yani şimdi bunlar gerçekten kolayı mı buluyorlar? Buluyorlar, buluyorlar. Ama...",
     "is_frame_story": true,
     "characters": [],
     "scene": "Zeki Abi, Lemi Bey'in makinesiyle ilgili konuşuyor.",
@@ -1099,8 +1003,7 @@
       359,
       360
     ],
-    "text_tr": "Aziz. Nasıl? Vaay! Çok güzel, çok güzel. Bak...",
-    "text_en": null,
+    "text": "Aziz. Nasıl? Vaay! Çok güzel, çok güzel. Bak...",
     "is_frame_story": false,
     "characters": [
       "Aziz"
@@ -1139,8 +1042,7 @@
       379,
       380
     ],
-    "text_tr": "Tat bakayım. Nasıl? Şahane. Aziz... ...güğüme şey yazayım mı? ''Soğuk içiniz.'' Bırak ulan. Milleti zapt-ı rapt altına alma. İster soğuk içer ister sıcak. Gel abicim, gel! Gel abicim! Eyvallah. Gel abicim! Gel! Gel! Gel! - Param olsa da ben alsam! - Kuru kuru gitmez! Var mı acıkan? Var mı acıkan! - Parasını alayım. - Buyur abi. Abi butum daha pişiyor, kanat vereceğim. Şunu bozsana bana. Param olsa da ben alsam. Ayıp olmuyor mu kardeşim, ne bağırıyorsunuz? Esnaf değil misin kardeşim? Sen de bağır! Ağlamayana meme yok. Biz Kentucy'liyiz lan, artistlik yapma! Biz de Samatya'lıyız lan, bize mi artistlik yapıyorsunuz?",
-    "text_en": null,
+    "text": "Tat bakayım. Nasıl? Şahane. Aziz... ...güğüme şey yazayım mı? ''Soğuk içiniz.'' Bırak ulan. Milleti zapt-ı rapt altına alma. İster soğuk içer ister sıcak. Gel abicim, gel! Gel abicim! Eyvallah. Gel abicim! Gel! Gel! Gel! - Param olsa da ben alsam! - Kuru kuru gitmez! Var mı acıkan? Var mı acıkan! - Parasını alayım. - Buyur abi. Abi butum daha pişiyor, kanat vereceğim. Şunu bozsana bana. Param olsa da ben alsam. Ayıp olmuyor mu kardeşim, ne bağırıyorsunuz? Esnaf değil misin kardeşim? Sen de bağır! Ağlamayana meme yok. Biz Kentucy'liyiz lan, artistlik yapma! Biz de Samatya'lıyız lan, bize mi artistlik yapıyorsunuz?",
     "is_frame_story": false,
     "characters": [],
     "scene": "Karakterler arasında yiyecek ve içecek üzerine tartışma geçiyor.",
@@ -1160,8 +1062,7 @@
       381,
       382
     ],
-    "text_tr": "Bırakın lan! Şişeyle vururum!",
-    "text_en": null,
+    "text": "Bırakın lan! Şişeyle vururum!",
     "is_frame_story": false,
     "characters": [],
     "scene": "Bir karakter tehditkar bir şekilde konuşuyor.",
@@ -1185,8 +1086,7 @@
       388,
       389
     ],
-    "text_tr": "Allah! Yaa, Kentucky'de tavuk ekmek satacaklarmış. Sattırırlar mı adama? Adam orda tezgahını kurmuş, yedirir mi sana hiç? Tanıdın mı? - Kimi abicim? - Kim olacak, amblem. Şimdi bana adamın reklamını yaptırtma. Bizimkilerin durumu yine hüsran, yine hüsran.",
-    "text_en": null,
+    "text": "Allah! Yaa, Kentucky'de tavuk ekmek satacaklarmış. Sattırırlar mı adama? Adam orda tezgahını kurmuş, yedirir mi sana hiç? Tanıdın mı? - Kimi abicim? - Kim olacak, amblem. Şimdi bana adamın reklamını yaptırtma. Bizimkilerin durumu yine hüsran, yine hüsran.",
     "is_frame_story": false,
     "characters": [],
     "scene": "Karakterler Kentucky'de tavuk ekmek satışı hakkında konuşuyor.",
@@ -1223,8 +1123,7 @@
       407,
       408
     ],
-    "text_tr": "Lehimleriz olur biter. Namusumuzla da çalıştırtmıyor, tutucu pezevenkler! Kaç paramız var? - 50-55 dolar kadar. - Ver şunu arkadaş. Bir tane altı patlar alacağım, dalacağım aralarına. Yeter artık ulan! Uyandım artık ben o Amerikan rüyasından. - Aziz Efendi, sen aranıyorsun. - O Johnny Lesh denilen teresi de bulacağım. İndireceğim onu da. - Aziz Efendi, sen aranıyorsun. - Ne aranması birader, olaylar bizi buluyor! Efendim öyle değil, bayağı aranıyorsun. Aa! Aynı ben! - 10 dolar. Alır mıyız bu parayı? - Alırız valla. Horse... Horse Whisper... Horse Whisperer... Horse, at! Buna ne diyorsun? Johnny Lesh, 500 dolar! Wanted alemine girmiş demek ki eşek oğlu eşek! Şu güğümü bir tamir edelim hele.",
-    "text_en": null,
+    "text": "Lehimleriz olur biter. Namusumuzla da çalıştırtmıyor, tutucu pezevenkler! Kaç paramız var? - 50-55 dolar kadar. - Ver şunu arkadaş. Bir tane altı patlar alacağım, dalacağım aralarına. Yeter artık ulan! Uyandım artık ben o Amerikan rüyasından. - Aziz Efendi, sen aranıyorsun. - O Johnny Lesh denilen teresi de bulacağım. İndireceğim onu da. - Aziz Efendi, sen aranıyorsun. - Ne aranması birader, olaylar bizi buluyor! Efendim öyle değil, bayağı aranıyorsun. Aa! Aynı ben! - 10 dolar. Alır mıyız bu parayı? - Alırız valla. Horse... Horse Whisper... Horse Whisperer... Horse, at! Buna ne diyorsun? Johnny Lesh, 500 dolar! Wanted alemine girmiş demek ki eşek oğlu eşek! Şu güğümü bir tamir edelim hele.",
     "is_frame_story": false,
     "characters": [
       "Aziz Vefa",
@@ -1262,8 +1161,7 @@
       424,
       425
     ],
-    "text_tr": "Merhabalar Şerif. Ben kelle avcısı Lenny. - Bu kovboy için bana 10 dolar ödeyeceksin. - Hangi kovboy? - Atını siken kov...boy. - Ne diyorsun lan? Yok mu bu atlara fısıldayan kovboy? Şerefsiz! lrz düşmanı seni! Ulan! Ben bir şey yapmadım abi, at başlattı. Böyle ırz düşmanlarını içeri tıkmak sizin boynunuzun borcu Şerif. Lou, at şu köpeği içeri. Ahırlardan uzak kalsın biraz pezevenk. Al, 10 doların. Bu ufak iş. Ben asıl Johnny Lesh'in peşindeyim. Johnny Lesh mi? Onu bulsam ben emekli olurum, sen ne diyorsun? Al. 500 dolar. - Bir kola içer miyiz? - Kola mı? İçiliyor mu?",
-    "text_en": null,
+    "text": "Merhabalar Şerif. Ben kelle avcısı Lenny. - Bu kovboy için bana 10 dolar ödeyeceksin. - Hangi kovboy? - Atını siken kov...boy. - Ne diyorsun lan? Yok mu bu atlara fısıldayan kovboy? Şerefsiz! lrz düşmanı seni! Ulan! Ben bir şey yapmadım abi, at başlattı. Böyle ırz düşmanlarını içeri tıkmak sizin boynunuzun borcu Şerif. Lou, at şu köpeği içeri. Ahırlardan uzak kalsın biraz pezevenk. Al, 10 doların. Bu ufak iş. Ben asıl Johnny Lesh'in peşindeyim. Johnny Lesh mi? Onu bulsam ben emekli olurum, sen ne diyorsun? Al. 500 dolar. - Bir kola içer miyiz? - Kola mı? İçiliyor mu?",
     "is_frame_story": false,
     "characters": [
       "Lenny",
@@ -1286,8 +1184,7 @@
       426,
       427
     ],
-    "text_tr": "Buyurun Şerif. Almaz mıydınız?",
-    "text_en": null,
+    "text": "Buyurun Şerif. Almaz mıydınız?",
     "is_frame_story": false,
     "characters": [
       "Şerif Lloyd"
@@ -1305,8 +1202,7 @@
     "block_ids": [
       428
     ],
-    "text_tr": "Ohh...",
-    "text_en": null,
+    "text": "Ohh...",
     "is_frame_story": false,
     "characters": [],
     "scene": "Karakter bir tepki veriyor.",
@@ -1324,8 +1220,7 @@
     "block_ids": [
       429
     ],
-    "text_tr": "Şerif Cheko?",
-    "text_en": null,
+    "text": "Şerif Cheko?",
     "is_frame_story": false,
     "characters": [],
     "scene": "Şerif Cheko'nun adı geçiyor.",
@@ -1345,8 +1240,7 @@
       433,
       434
     ],
-    "text_tr": "At hırsızı Timothy. At hırsızı Timothy ha? Kaç yaşındasın sen? Aç ağzını! Aç! - Beş para etmez. - 20 dolar.",
-    "text_en": null,
+    "text": "At hırsızı Timothy. At hırsızı Timothy ha? Kaç yaşındasın sen? Aç ağzını! Aç! - Beş para etmez. - 20 dolar.",
     "is_frame_story": false,
     "characters": [],
     "scene": "At hırsızı Timothy ile bir diyalog gerçekleşiyor.",
@@ -1367,8 +1261,7 @@
       437,
       438
     ],
-    "text_tr": "10 dolar. Ben at hırsızlarını hiç sevmem Timothy. - Tamam 10 dolar. 10 dolar. 10 dolar. - Anlaştık. Al içeri.",
-    "text_en": null,
+    "text": "10 dolar. Ben at hırsızlarını hiç sevmem Timothy. - Tamam 10 dolar. 10 dolar. 10 dolar. - Anlaştık. Al içeri.",
     "is_frame_story": false,
     "characters": [],
     "scene": "Bir karakter at hırsızlarını sevmiyor ve 10 dolar için anlaşıyor.",
@@ -1389,8 +1282,7 @@
       441,
       442
     ],
-    "text_tr": "Şerif, bir kola içer miyiz? Kola mı? Ver bakayım. Hooppaa...",
-    "text_en": null,
+    "text": "Şerif, bir kola içer miyiz? Kola mı? Ver bakayım. Hooppaa...",
     "is_frame_story": false,
     "characters": [
       "Şerif Lloyd"
@@ -1410,8 +1302,7 @@
     "block_ids": [
       443
     ],
-    "text_tr": "Siz?",
-    "text_en": null,
+    "text": "Siz?",
     "is_frame_story": false,
     "characters": [],
     "scene": "Bir karakter diğerine soru soruyor.",
@@ -1427,8 +1318,7 @@
     "block_ids": [
       444
     ],
-    "text_tr": "Buz gibi.",
-    "text_en": null,
+    "text": "Buz gibi.",
     "is_frame_story": false,
     "characters": [],
     "scene": "Bir karakter buz gibi olduğunu ifade ediyor.",
@@ -1446,8 +1336,7 @@
     "block_ids": [
       445
     ],
-    "text_tr": "Yarasın.",
-    "text_en": null,
+    "text": "Yarasın.",
     "is_frame_story": false,
     "characters": [],
     "scene": "Bir karakter birine olumlu bir şey söylüyor.",
@@ -1466,8 +1355,7 @@
       446,
       447
     ],
-    "text_tr": "Johnny Lesh. 900 dolar. Dolardan hızlı yükseliyor pezevenk.",
-    "text_en": null,
+    "text": "Johnny Lesh. 900 dolar. Dolardan hızlı yükseliyor pezevenk.",
     "is_frame_story": false,
     "characters": [
       "Johnny Lesh"
@@ -1495,8 +1383,7 @@
       455,
       456
     ],
-    "text_tr": "Şşşt, bana bak! Öyle az buz bir şey yazma, 100 dolar yaz. Tren soydu deriz. - Aziz Efendi, isim ne yazayım? - İsim? Yaz, Jack Daniel. Zaten son işimiz oğlum. Yarın trenle White Lake'e gidiyoruz. - Jack. - Daniel. Daniel. Trenci Jack.",
-    "text_en": null,
+    "text": "Şşşt, bana bak! Öyle az buz bir şey yazma, 100 dolar yaz. Tren soydu deriz. - Aziz Efendi, isim ne yazayım? - İsim? Yaz, Jack Daniel. Zaten son işimiz oğlum. Yarın trenle White Lake'e gidiyoruz. - Jack. - Daniel. Daniel. Trenci Jack.",
     "is_frame_story": false,
     "characters": [
       "Aziz Vefa"
@@ -1520,8 +1407,7 @@
       459,
       460
     ],
-    "text_tr": "Küller küllere, toprak toprağa karışır. Yüce Tanrı, bu günahkar kardeşimizin ruhuna merhamet etsin. Ve onu uğurlayan bizler, onun ruhu için dua edelim. Tanrı onu korusun ve gözetsin. Amen.",
-    "text_en": null,
+    "text": "Küller küllere, toprak toprağa karışır. Yüce Tanrı, bu günahkar kardeşimizin ruhuna merhamet etsin. Ve onu uğurlayan bizler, onun ruhu için dua edelim. Tanrı onu korusun ve gözetsin. Amen.",
     "is_frame_story": false,
     "characters": [],
     "scene": "Bir cenaze töreninde dua ediliyor.",
@@ -1555,8 +1441,7 @@
       476,
       477
     ],
-    "text_tr": "Kolay gelsin. Allah taksiratını affetsin birader. Birader değil, peder. Şerife bakmıştık da... Ben Şerif Murphy. Şerif, sana Trenci Jack'i getirdim. - Trenci Jack? - Trenci Jack. - Trenci Jack! - Evet. Trenci Jack duydun mu? Arkadaşlar seni yakalamışlar. Lanet olsun size! Bitirin şu işi artık! - Trenci Jack mi? - Şansımızı sikeyim! - Sen söyledin trenci diye. - Jack Daniel diyen kimdi? Trenci Jack haaaa diye gülen ben miyim? Şerif, müsaade ederseniz size bir kola ikram etmek istiyorum. Dur! Karbondioksit var içinde! - Yapma. - Karbondioksit! Aaghhh! Aman! Bunları katran ve tüye bulayın, sonra da atın içeri! Yürüyün! Yürüyün!",
-    "text_en": null,
+    "text": "Kolay gelsin. Allah taksiratını affetsin birader. Birader değil, peder. Şerife bakmıştık da... Ben Şerif Murphy. Şerif, sana Trenci Jack'i getirdim. - Trenci Jack? - Trenci Jack. - Trenci Jack! - Evet. Trenci Jack duydun mu? Arkadaşlar seni yakalamışlar. Lanet olsun size! Bitirin şu işi artık! - Trenci Jack mi? - Şansımızı sikeyim! - Sen söyledin trenci diye. - Jack Daniel diyen kimdi? Trenci Jack haaaa diye gülen ben miyim? Şerif, müsaade ederseniz size bir kola ikram etmek istiyorum. Dur! Karbondioksit var içinde! - Yapma. - Karbondioksit! Aaghhh! Aman! Bunları katran ve tüye bulayın, sonra da atın içeri! Yürüyün! Yürüyün!",
     "is_frame_story": false,
     "characters": [
       "Şerif Murphy"
@@ -1577,8 +1462,7 @@
     "block_ids": [
       478
     ],
-    "text_tr": "İhtiyacınızı bu kaba giderin. Her tarafı da kuş pisliği yapmayın.",
-    "text_en": null,
+    "text": "İhtiyacınızı bu kaba giderin. Her tarafı da kuş pisliği yapmayın.",
     "is_frame_story": false,
     "characters": [],
     "scene": "Bir karakter ihtiyacını gidermek için kaba yönlendiriliyor.",
@@ -1601,8 +1485,7 @@
       483,
       484
     ],
-    "text_tr": "- Muska boynunuzda mı efendim? - Boynumda. O badirelerden koruyan? Kumardan mı? İnnallahe sabirin... Fırtına öncesi sessizlik bu. Daha büyük şeyler olacak. Her hapishanede senden bir tane olmak zorunda mı lan?",
-    "text_en": null,
+    "text": "- Muska boynunuzda mı efendim? - Boynumda. O badirelerden koruyan? Kumardan mı? İnnallahe sabirin... Fırtına öncesi sessizlik bu. Daha büyük şeyler olacak. Her hapishanede senden bir tane olmak zorunda mı lan?",
     "is_frame_story": false,
     "characters": [],
     "scene": "Bir karakter muska hakkında konuşuyor.",
@@ -1618,8 +1501,7 @@
     "block_ids": [
       485
     ],
-    "text_tr": "Johnny Lesh!",
-    "text_en": null,
+    "text": "Johnny Lesh!",
     "is_frame_story": false,
     "characters": [
       "Johnny Lesh"
@@ -1640,8 +1522,7 @@
       488,
       489
     ],
-    "text_tr": "Kim derdi ki böyle bir silahşor buralara düşecek. - Gitti bizim 1000 dolar. - Saçmalama ulan. Elmas ayağımıza geldi işte. Usta, yemiyorsan alabilir miyim?",
-    "text_en": null,
+    "text": "Kim derdi ki böyle bir silahşor buralara düşecek. - Gitti bizim 1000 dolar. - Saçmalama ulan. Elmas ayağımıza geldi işte. Usta, yemiyorsan alabilir miyim?",
     "is_frame_story": false,
     "characters": [],
     "scene": "Karakterler silahşor hakkında konuşuyor.",
@@ -1659,8 +1540,7 @@
     "block_ids": [
       490
     ],
-    "text_tr": "Çalışın!",
-    "text_en": null,
+    "text": "Çalışın!",
     "is_frame_story": false,
     "characters": [],
     "scene": "Karakterler çalışmaya teşvik ediliyor.",
@@ -1676,8 +1556,7 @@
     "block_ids": [
       491
     ],
-    "text_tr": "Kalk ayağa!",
-    "text_en": null,
+    "text": "Kalk ayağa!",
     "is_frame_story": false,
     "characters": [],
     "scene": "Bir karakter kalkması için diğerine talimat veriyor.",
@@ -1699,8 +1578,7 @@
       495,
       496
     ],
-    "text_tr": "Bir boş bıraksalar, gidip kafasını gözünü yaracağım ama... Hiç boş bırakmıyorlar ki. Sakin ol, prosedürü uygulayacağız. Acele yok. Fırtına öncesi sessizlik bu. İyiye alamet değil. Gidiniz ulan beyefendi, gidiniz.",
-    "text_en": null,
+    "text": "Bir boş bıraksalar, gidip kafasını gözünü yaracağım ama... Hiç boş bırakmıyorlar ki. Sakin ol, prosedürü uygulayacağız. Acele yok. Fırtına öncesi sessizlik bu. İyiye alamet değil. Gidiniz ulan beyefendi, gidiniz.",
     "is_frame_story": false,
     "characters": [],
     "scene": "Bir karakter gergin bir durumu değerlendiriyor.",
@@ -1718,8 +1596,7 @@
     "block_ids": [
       497
     ],
-    "text_tr": "Hey tavuklar! Su.",
-    "text_en": null,
+    "text": "Hey tavuklar! Su.",
     "is_frame_story": false,
     "characters": [],
     "scene": "Karakter tavuklara sesleniyor.",
@@ -1739,8 +1616,7 @@
       499,
       500
     ],
-    "text_tr": "- Prosedür dedin ya, ne yapacağız? - Aceleye gerek yok. Tîz-reftâr olanın pâyına dâmen dolaşır. Erişir menzil-i maksuda aheste giden. Dinle.",
-    "text_en": null,
+    "text": "- Prosedür dedin ya, ne yapacağız? - Aceleye gerek yok. Tîz-reftâr olanın pâyına dâmen dolaşır. Erişir menzil-i maksuda aheste giden. Dinle.",
     "is_frame_story": false,
     "characters": [],
     "scene": "Karakterler prosedür hakkında konuşuyor.",
@@ -1758,8 +1634,7 @@
       503,
       504
     ],
-    "text_tr": "- Lemi! - Aziz Efendi! Kurşun yağdı birader. Kurşun yağdı! Çok karanlık içerisi.",
-    "text_en": null,
+    "text": "- Lemi! - Aziz Efendi! Kurşun yağdı birader. Kurşun yağdı! Çok karanlık içerisi.",
     "is_frame_story": false,
     "characters": [
       "Lemi Galip",
@@ -1803,8 +1678,7 @@
       527,
       528
     ],
-    "text_tr": "Su isteyen? - Yok herhalde. - Lesh! Lesh! Lesh! Ölme lan! Ölemezsin, dur! Elmas nerede? Elmasın yerini söyle, söyle! Nerede elmas lan! - Bill. - Bill... Su ver biraz. Bill ne? Bill? Bill ne? Pacos Bill? - Buffalo Bill. - Hangi Bil... Bil mi? - Akbil mi ne? - Bill... Bill... miyo... ruum. Gebertirim lan! Ölemezsin, gebertirim seni! - Cannon'da... - Bill Cannon! Bill Cannon? - Cannon? - Cannon. - Ball. - Cannonball. Cannonball ne? Yerli mi yabancı mı? - Siii... - İlkine geç! İlkine geç! Si... Sioux... Sioux dedi. Sioux' lar! Sioux... Sioux dedi. Sioux' lar... Hayır ulan, öldüm diye ''see you'' diyor. ''See you!'' dedi! Çok vakitsiz gitti. Ah canım, atı da öyle mahzun kaldı. - Bu atlar çok hisli hayvanlardır. - Haa...",
-    "text_en": null,
+    "text": "Su isteyen? - Yok herhalde. - Lesh! Lesh! Lesh! Ölme lan! Ölemezsin, dur! Elmas nerede? Elmasın yerini söyle, söyle! Nerede elmas lan! - Bill. - Bill... Su ver biraz. Bill ne? Bill? Bill ne? Pacos Bill? - Buffalo Bill. - Hangi Bil... Bil mi? - Akbil mi ne? - Bill... Bill... miyo... ruum. Gebertirim lan! Ölemezsin, gebertirim seni! - Cannon'da... - Bill Cannon! Bill Cannon? - Cannon? - Cannon. - Ball. - Cannonball. Cannonball ne? Yerli mi yabancı mı? - Siii... - İlkine geç! İlkine geç! Si... Sioux... Sioux dedi. Sioux' lar! Sioux... Sioux dedi. Sioux' lar... Hayır ulan, öldüm diye ''see you'' diyor. ''See you!'' dedi! Çok vakitsiz gitti. Ah canım, atı da öyle mahzun kaldı. - Bu atlar çok hisli hayvanlardır. - Haa...",
     "is_frame_story": false,
     "characters": [
       "Johnny Lesh"
@@ -1825,8 +1699,7 @@
       529,
       530
     ],
-    "text_tr": "Aziz Efendi? Johnny Lesh'sin. Hapisten kaçtın. İki bin dolarsın.",
-    "text_en": null,
+    "text": "Aziz Efendi? Johnny Lesh'sin. Hapisten kaçtın. İki bin dolarsın.",
     "is_frame_story": false,
     "characters": [
       "Johnny Lesh"
@@ -1850,8 +1723,7 @@
       534,
       535
     ],
-    "text_tr": "Tamam. Al. Ay! Fırtına öncesi sessizlik bu. Daha büyük şeyler olacak. Vuruyorum?",
-    "text_en": null,
+    "text": "Tamam. Al. Ay! Fırtına öncesi sessizlik bu. Daha büyük şeyler olacak. Vuruyorum?",
     "is_frame_story": false,
     "characters": [],
     "scene": "Karakter fırtına öncesi sessizliği hissediyor.",
@@ -1867,8 +1739,7 @@
     "block_ids": [
       536
     ],
-    "text_tr": "Neymiş bakalım bu Cannonball?",
-    "text_en": null,
+    "text": "Neymiş bakalım bu Cannonball?",
     "is_frame_story": false,
     "characters": [],
     "scene": "Karakter Cannonball hakkında merak ediyor.",
@@ -1899,8 +1770,7 @@
       552,
       553
     ],
-    "text_tr": "Hiç aklıma gelmezdi. Mekteb-i Sultaniye, Robert Kolej... ...Maliye Nazırlığı'nda dört sene staj... ...şu halimize bak. Yazarsın işte hatıratında. Başkanın hediyesini verip, balı böreği yiyip dönecektik. Bokun tezeğin içinden çıkamadık. Şuraya bak hala ağzımdan tüy çıkıyor. Benim şu batı hayranlığını gözden geçirip, tekrar etüd etmem lazımmış demek ki. Güzel kardeşim, Batı'yı ne gözünde bu kadar büyütüyorsun. Bundan yüz sene evvel Versay sarayında tuvalet yoktu ya. Kral direk saraya sıçıyordu. O vals dediğin oyun, boka basmamak için icat edilmiş bir dans. Aman bunu da hep söylerler. Sonra ne oldu peki? İşte matbaanın bize geç gelmesi... Falan filan... Ne oluyor ya? - Hoo... - Hoo... Hoo...",
-    "text_en": null,
+    "text": "Hiç aklıma gelmezdi. Mekteb-i Sultaniye, Robert Kolej... ...Maliye Nazırlığı'nda dört sene staj... ...şu halimize bak. Yazarsın işte hatıratında. Başkanın hediyesini verip, balı böreği yiyip dönecektik. Bokun tezeğin içinden çıkamadık. Şuraya bak hala ağzımdan tüy çıkıyor. Benim şu batı hayranlığını gözden geçirip, tekrar etüd etmem lazımmış demek ki. Güzel kardeşim, Batı'yı ne gözünde bu kadar büyütüyorsun. Bundan yüz sene evvel Versay sarayında tuvalet yoktu ya. Kral direk saraya sıçıyordu. O vals dediğin oyun, boka basmamak için icat edilmiş bir dans. Aman bunu da hep söylerler. Sonra ne oldu peki? İşte matbaanın bize geç gelmesi... Falan filan... Ne oluyor ya? - Hoo... - Hoo... Hoo...",
     "is_frame_story": false,
     "characters": [],
     "scene": "Zeki Abi Batı hayranlığını sorguluyor.",
@@ -1919,8 +1789,7 @@
     "block_ids": [
       554
     ],
-    "text_tr": "Sakin...",
-    "text_en": null,
+    "text": "Sakin...",
     "is_frame_story": false,
     "characters": [],
     "scene": "Sakin bir an yaşanıyor.",
@@ -1943,8 +1812,7 @@
       559,
       560
     ],
-    "text_tr": "- Kadın mı bu ya? - Kadın tabii oğlum. Baksana nereye ateş ediyor nereyi vuruyor. Oradan anla. Aziz Efendi, ne oldu ya? Bir Batı hayranlığı başladı. Oğlum, Batı'nın iyi yanlarını alacaksın. Bana bak, çıkar silahlarını. Tutuklusun unutma. Gözlük.",
-    "text_en": null,
+    "text": "- Kadın mı bu ya? - Kadın tabii oğlum. Baksana nereye ateş ediyor nereyi vuruyor. Oradan anla. Aziz Efendi, ne oldu ya? Bir Batı hayranlığı başladı. Oğlum, Batı'nın iyi yanlarını alacaksın. Bana bak, çıkar silahlarını. Tutuklusun unutma. Gözlük.",
     "is_frame_story": false,
     "characters": [
       "Aziz Vefa"
@@ -1979,8 +1847,7 @@
       575,
       576
     ],
-    "text_tr": "Merhaba güzel bayan! Atış taliminizi zevkle izledik. Öyle mi? Suzan Van Dyke'ın gösterisi öyle bedava izlenmez ama. Üç - beş atın bakayım. Üzerimizde para yok. Bir kahve ikram etsek? Kahve ha? - Suzan Van Dyke. - Aziz Vef... eee... Zozo The Kid. Kid ayrı. Kahve atta, hemen gidip alıyım geleyim. - Erkek gibi. Hiç sevmem. - Alırım. Hiç affetmem. Kahvenin köpüğü ala, nişancılığınız Ali- ül ala. Mersi... 3 Yaşından beri meraklısıyım. 5 sene Buffalo Bill'in şovundaydım. İşte; atıcılık, kement, aşçılık, trickshot. Sonra bir ara otelde takıldım. Van Dyke... Hangi vicdansız kovboy sizi böyle çalıştırıyor efendim? Hangi kovboy? Yok öyle bir kovboy.",
-    "text_en": null,
+    "text": "Merhaba güzel bayan! Atış taliminizi zevkle izledik. Öyle mi? Suzan Van Dyke'ın gösterisi öyle bedava izlenmez ama. Üç - beş atın bakayım. Üzerimizde para yok. Bir kahve ikram etsek? Kahve ha? - Suzan Van Dyke. - Aziz Vef... eee... Zozo The Kid. Kid ayrı. Kahve atta, hemen gidip alıyım geleyim. - Erkek gibi. Hiç sevmem. - Alırım. Hiç affetmem. Kahvenin köpüğü ala, nişancılığınız Ali- ül ala. Mersi... 3 Yaşından beri meraklısıyım. 5 sene Buffalo Bill'in şovundaydım. İşte; atıcılık, kement, aşçılık, trickshot. Sonra bir ara otelde takıldım. Van Dyke... Hangi vicdansız kovboy sizi böyle çalıştırıyor efendim? Hangi kovboy? Yok öyle bir kovboy.",
     "is_frame_story": false,
     "characters": [
       "Suzan Van Dyke",
@@ -2074,8 +1941,7 @@
       648,
       649
     ],
-    "text_tr": "Fotoğraf sizden mi düştü acaba? Evet. Lezzo... - Ehemmiyetli biri galiba. - Öyle... Sevdiğim biri. Eee... Siz ne tarafa gidiyorsunuz? Efendim ben kelle avcısıyım. Johnny Lesh'l teslim etmeye götürüyorum. - Lanet olsun! Neden bahsediyorsunuz siz? - Ne oluyor ya? Bir dakika. - Johnny Lesh! Sonunda, sen ha? - Değil değil! Aziz söylesene! - Suzan kardeş, Allah aşkına! - Suzan Hanım bir saniye! Sen çekil! Çekil! Yoksa seni de gebertirim. Aslında çekilmene de gerek yok. Dur! Hayır! Johnny Lesh değil efendim. Johnny Lesh değil. Sahte. Yalan. Biz Osmanlı'yız. Sahte Johnny Lesh, ödül için. Değil. Vallahi Johhny Lesh değilim efendim. Amerikalı bile değilim. Osmanlıyım ben. İstanbul çocuğuyum. Ben dört lisan biliyorum. - Osmanlı mı? - Osmanlı. Hani saray. Müzik. Dın dın dın... Ortaoyunu, harem. - İbiş, yavrum konağa misafirler gelecek. - Gelecek de bana mı gelecek? - Zengin mutfak, zeytinyağlı dolma, sarma. >- Hünkarbeğendi, imam bayıldı. At meydanı, Sultanahmet, Ramazan eğlenceleri... Bak mahya... - Olsaydı da açsaydık. - Onbir ayın sultanı. Beyzadeler, nazlı hanımlar... Gidelim Göksu'ya bir alem-i ab eyleyelim. Aman çekelim kürekleri ruhu şad eyleyelim. Eski bir konak, tulumbacılar, yangın... - Bekçi baba yangın nerede? - Yüreğimde, yüreğimde! - Ya!. Galata, Tophane, külhanbeyleri... - Anamı kesen ben, babamı kesen ben... - Arap bacıyı yap! - Küçük hanım bu akşam ne yemek isterler? Öyle değil lan, sesini öne al... Küçük hanım yemek hiç yapamadım, bugün kilerde hiçbir şey kalmamış. - Biraz sert olmuyor mu öyle? Şu, izle yüzümü biraz kara yapayım, tam arap bacı. Tam. Başörtü olsa aynısını yapıyoruz. Lokum! Turkish delight! Lokum! Arap bacıyı anlamadım ama lokum mantıklı geldi. - Buyrun efendim. - Turkish delight. Lokum zaten bizden çıkmadır efendim. - İnandınız değil mi Johnny Lesh olmadığıma? - İnandım. Suzan Hanım, bir de bizde şey vardır: O silah çıktı mı illa patlar. Haa... Olmadı bir şey olmadı. Sıyırdı. Kalk! Kalk, kalk! Dayan Aziz Efendi, dayan. Ahh! - Ayyy! - Tamam. Tamam. Kıpırdama. Alkol mü efendim? Ahh! Allah! - Demek Lesh öldü ha? - Öldü. Gözümüzle gördük. Aziz Efendi kendi elleriyle defnetti cesedi. Onun canını ben almak isterdim. Johnny Lesh annemin katilidir. Annem, Mary Lou. Ohh... Ahh... - Allah... - Ver şunu. Johnny Lesh bizim de canımızı yaktı. Sultanın hediyesini getirmiştik, binlerce dolarlık. Posta arabasında gidiyoruz. Pat! Haydutlar! ''Stop the carriage, you son of a bitch!'' demesinler mi? Tabii orada Aziz Efendi'nin telaşı, benim cesaretim. - Kısa çöp, uzun çöp derken... - Teferruata girme ulan! Lemi'yi Johnny Lesh diye teslim edip... ...2000 dolarımızı kurtaralım dedik. Fena mı ettik? Nehrin öteki tarafına geçmeniz lazım, buralarda Lesh'i çok iyi tanırlar. Cannonball'a gidin bence. - Cannonball? - Cannonball... See you. Ha! Orada Lesh'i iki bin dolara okutabilirsiniz. Gerzek bir şerifi var. Yaşa! Haa, bin dolarını ben alırım ama. Olur. Bak anesinin fotoğrafıymış lan, ne dedikodu yapıyorsun? Şuhu vukuundan beter derler ya. Sen de bin doları verdin hemen. Ömrümü veririm. Erkek gibi hiç sevmem. He, erkek gibi. Sırta bak. Aynı bizim Hamal Hasan.",
-    "text_en": null,
+    "text": "Fotoğraf sizden mi düştü acaba? Evet. Lezzo... - Ehemmiyetli biri galiba. - Öyle... Sevdiğim biri. Eee... Siz ne tarafa gidiyorsunuz? Efendim ben kelle avcısıyım. Johnny Lesh'l teslim etmeye götürüyorum. - Lanet olsun! Neden bahsediyorsunuz siz? - Ne oluyor ya? Bir dakika. - Johnny Lesh! Sonunda, sen ha? - Değil değil! Aziz söylesene! - Suzan kardeş, Allah aşkına! - Suzan Hanım bir saniye! Sen çekil! Çekil! Yoksa seni de gebertirim. Aslında çekilmene de gerek yok. Dur! Hayır! Johnny Lesh değil efendim. Johnny Lesh değil. Sahte. Yalan. Biz Osmanlı'yız. Sahte Johnny Lesh, ödül için. Değil. Vallahi Johhny Lesh değilim efendim. Amerikalı bile değilim. Osmanlıyım ben. İstanbul çocuğuyum. Ben dört lisan biliyorum. - Osmanlı mı? - Osmanlı. Hani saray. Müzik. Dın dın dın... Ortaoyunu, harem. - İbiş, yavrum konağa misafirler gelecek. - Gelecek de bana mı gelecek? - Zengin mutfak, zeytinyağlı dolma, sarma. >- Hünkarbeğendi, imam bayıldı. At meydanı, Sultanahmet, Ramazan eğlenceleri... Bak mahya... - Olsaydı da açsaydık. - Onbir ayın sultanı. Beyzadeler, nazlı hanımlar... Gidelim Göksu'ya bir alem-i ab eyleyelim. Aman çekelim kürekleri ruhu şad eyleyelim. Eski bir konak, tulumbacılar, yangın... - Bekçi baba yangın nerede? - Yüreğimde, yüreğimde! - Ya!. Galata, Tophane, külhanbeyleri... - Anamı kesen ben, babamı kesen ben... - Arap bacıyı yap! - Küçük hanım bu akşam ne yemek isterler? Öyle değil lan, sesini öne al... Küçük hanım yemek hiç yapamadım, bugün kilerde hiçbir şey kalmamış. - Biraz sert olmuyor mu öyle? Şu, izle yüzümü biraz kara yapayım, tam arap bacı. Tam. Başörtü olsa aynısını yapıyoruz. Lokum! Turkish delight! Lokum! Arap bacıyı anlamadım ama lokum mantıklı geldi. - Buyrun efendim. - Turkish delight. Lokum zaten bizden çıkmadır efendim. - İnandınız değil mi Johnny Lesh olmadığıma? - İnandım. Suzan Hanım, bir de bizde şey vardır: O silah çıktı mı illa patlar. Haa... Olmadı bir şey olmadı. Sıyırdı. Kalk! Kalk, kalk! Dayan Aziz Efendi, dayan. Ahh! - Ayyy! - Tamam. Tamam. Kıpırdama. Alkol mü efendim? Ahh! Allah! - Demek Lesh öldü ha? - Öldü. Gözümüzle gördük. Aziz Efendi kendi elleriyle defnetti cesedi. Onun canını ben almak isterdim. Johnny Lesh annemin katilidir. Annem, Mary Lou. Ohh... Ahh... - Allah... - Ver şunu. Johnny Lesh bizim de canımızı yaktı. Sultanın hediyesini getirmiştik, binlerce dolarlık. Posta arabasında gidiyoruz. Pat! Haydutlar! ''Stop the carriage, you son of a bitch!'' demesinler mi? Tabii orada Aziz Efendi'nin telaşı, benim cesaretim. - Kısa çöp, uzun çöp derken... - Teferruata girme ulan! Lemi'yi Johnny Lesh diye teslim edip... ...2000 dolarımızı kurtaralım dedik. Fena mı ettik? Nehrin öteki tarafına geçmeniz lazım, buralarda Lesh'i çok iyi tanırlar. Cannonball'a gidin bence. - Cannonball? - Cannonball... See you. Ha! Orada Lesh'i iki bin dolara okutabilirsiniz. Gerzek bir şerifi var. Yaşa! Haa, bin dolarını ben alırım ama. Olur. Bak anesinin fotoğrafıymış lan, ne dedikodu yapıyorsun? Şuhu vukuundan beter derler ya. Sen de bin doları verdin hemen. Ömrümü veririm. Erkek gibi hiç sevmem. He, erkek gibi. Sırta bak. Aynı bizim Hamal Hasan.",
     "is_frame_story": false,
     "characters": [
       "Aziz Vefa",
@@ -2101,8 +1967,7 @@
       651,
       652
     ],
-    "text_tr": "Bana bak, sen hatıratını hangi elle yazıyorsun? Güzel. Ben o elleri bir bağlayayım da, gece rahat uyuyayım. - Hiç mi itimatımız kalmadı? - Yok efendim.",
-    "text_en": null,
+    "text": "Bana bak, sen hatıratını hangi elle yazıyorsun? Güzel. Ben o elleri bir bağlayayım da, gece rahat uyuyayım. - Hiç mi itimatımız kalmadı? - Yok efendim.",
     "is_frame_story": false,
     "characters": [],
     "scene": "Bir karakter diğerine tehditte bulunuyor.",
@@ -2135,8 +2000,7 @@
       669,
       670
     ],
-    "text_tr": "- Lan bana bak. Akşam vaazına bekliyorum... ...ona gore ha, beni deli etmeyin! Al şu tüfeği, koy kenara. Bir yandan kanun işleri... ...bir yandan kilisede papazlık... ...beş dakika oturacak vaktimiz yok be. Cenaze vardı da. Chuck, bir ara fırla da kiliseye mum götür. Yine çalıp duruyor ibneler. Evet, hoş geldiniz. - Şerif Lloyd? - Benim. Bir ödül işi için gelmiştik. Önce birer viski içer miyiz? Açık viski, kendi dükkanımızdan. Ya da, Chuck! Fırla oğlum şurdan bize buz gibi kola getir. - Kola mı? - Evet. Yeni çıkmış. İçimi nasıl biliyor musun? Peh... Şişeye koymuşlar.",
-    "text_en": null,
+    "text": "- Lan bana bak. Akşam vaazına bekliyorum... ...ona gore ha, beni deli etmeyin! Al şu tüfeği, koy kenara. Bir yandan kanun işleri... ...bir yandan kilisede papazlık... ...beş dakika oturacak vaktimiz yok be. Cenaze vardı da. Chuck, bir ara fırla da kiliseye mum götür. Yine çalıp duruyor ibneler. Evet, hoş geldiniz. - Şerif Lloyd? - Benim. Bir ödül işi için gelmiştik. Önce birer viski içer miyiz? Açık viski, kendi dükkanımızdan. Ya da, Chuck! Fırla oğlum şurdan bize buz gibi kola getir. - Kola mı? - Evet. Yeni çıkmış. İçimi nasıl biliyor musun? Peh... Şişeye koymuşlar.",
     "is_frame_story": false,
     "characters": [
       "Şerif Lloyd",
@@ -2160,8 +2024,7 @@
       672,
       673
     ],
-    "text_tr": "Resmen araklamışlar. Neyse Şerif, iş konuşalım. Sana Johnny Lesh'i getirdik.",
-    "text_en": null,
+    "text": "Resmen araklamışlar. Neyse Şerif, iş konuşalım. Sana Johnny Lesh'i getirdik.",
     "is_frame_story": false,
     "characters": [
       "Şerif Lloyd"
@@ -2238,8 +2101,7 @@
       732,
       734
     ],
-    "text_tr": "Johnny Lesh... Essah mı? Şaka etmiyorsunuz değil mi? - Chuck duydun mu? Johnny Lesh... - Parayı ne zaman alabiliriz? Para mı? Ne parası be? Sen delirdin mi be adam? Böyle bir günde, böyle bir zamanda... ...birlik ve beraberliğe en çok ihtiyacımız olduğu bir anda... ...Johnny Lesh gibi bir kahramanı içeri tıkmamı mı istiyorsun benden? Fargoların oğluyla haber uçurdum, aldın değil mi? N'oluyor ya? Şerif bu yaptığın kanunlara aykırı. Hemen ödül parasını istiyoruz. Len sizin ödülünüz batsın. Paranız bende merak etmeyin. Ama Johnny Lesh'i içeri atamam. Sioux' lar anamızı belledi. Bak! - Deriyi almışlar. - He ya. Taze. Daha dün aldılar. Estirip duruyorlar. Buyrun. Bakın, bu işi halletse halletse, Johnny Lesh halleder. Siz de beyazsınız, halden anlarsınız. Chuck! Ulan, Chuck deyince çakma, kosnük! Fırla git otele haber ver... ...Johnny Lesh abimizle, ödül avcısı misafirlerimiz geliyor de. Haydi bakalım! Gel bakalım aslanım. Şerif! Macaulay. Johnny Lesh abinizi otele götürün. İç - dış bir güzel yıkayın. Tabii şerif. Buyrun. - Ödül işini yatırmasın. - Dur bakalım, konuşacağız. Hanım efendi otele buyurmuyorlar mı? Lütfen. Kendi eviniz gibi. Sıcak bir banyo iyi gelir. Bin dolarını alırım, anlamam. Alırsın, alırsın. Tuttuğunu koparan bir cinse benziyor. Tuttuğunu koparır da, biz ödülü koparacak mıyız acaba? Koparırsın, kafana takma. Şu yıldıza az hürmet edin... Ödül meselesini kafanıza takmayın... Şu Sioux'ların belini bir kıralım gerisi kolay. Sen de silahını hızlı bir kahramana benziyorsun. - Evvelallah. - Ne? - Öyleyimdir yani. - Yoo, öyle deme. Kovboyluk bitti. Artık gencecik oğlanlar kafalarına tüyler takıp... ...''ulelek ulelek'' diye, sabahtan başlayıp... ...akşama kadar kızıldericilik oynuyorlar. Çocuk işte, düşmanlıktan anlamıyor ki. Kızılları al karşına adam gibi konuş desen, konuşamazsın. Bunlar nehirle, dağla, taşla konuşan manyaklar. - Ateş suyundan olsa gerek. - Sadece ateş suyu mu? Barış çubuğu var, mantarı var. Daha ne herzeleler. Ama bitti, az kaldı... Bu civarda iki dönüm arazileri ya var, ya da yok. Yakında hepsinin köküne kibrit suyunu dökeceğim. - Lan, gidin başka yerde oynayın. - Bu da benim ikinci avrat. Betty. - Hoş geldiniz kovboy bey. - Hürmetler... - Kalacak mısınız kasabamızda? - Yani... Sana ne? İşine bak sen. - Buyur akşam vaazına katıl istersen. - Akşam okundu mu? Ne?",
-    "text_en": null,
+    "text": "Johnny Lesh... Essah mı? Şaka etmiyorsunuz değil mi? - Chuck duydun mu? Johnny Lesh... - Parayı ne zaman alabiliriz? Para mı? Ne parası be? Sen delirdin mi be adam? Böyle bir günde, böyle bir zamanda... ...birlik ve beraberliğe en çok ihtiyacımız olduğu bir anda... ...Johnny Lesh gibi bir kahramanı içeri tıkmamı mı istiyorsun benden? Fargoların oğluyla haber uçurdum, aldın değil mi? N'oluyor ya? Şerif bu yaptığın kanunlara aykırı. Hemen ödül parasını istiyoruz. Len sizin ödülünüz batsın. Paranız bende merak etmeyin. Ama Johnny Lesh'i içeri atamam. Sioux' lar anamızı belledi. Bak! - Deriyi almışlar. - He ya. Taze. Daha dün aldılar. Estirip duruyorlar. Buyrun. Bakın, bu işi halletse halletse, Johnny Lesh halleder. Siz de beyazsınız, halden anlarsınız. Chuck! Ulan, Chuck deyince çakma, kosnük! Fırla git otele haber ver... ...Johnny Lesh abimizle, ödül avcısı misafirlerimiz geliyor de. Haydi bakalım! Gel bakalım aslanım. Şerif! Macaulay. Johnny Lesh abinizi otele götürün. İç - dış bir güzel yıkayın. Tabii şerif. Buyrun. - Ödül işini yatırmasın. - Dur bakalım, konuşacağız. Hanım efendi otele buyurmuyorlar mı? Lütfen. Kendi eviniz gibi. Sıcak bir banyo iyi gelir. Bin dolarını alırım, anlamam. Alırsın, alırsın. Tuttuğunu koparan bir cinse benziyor. Tuttuğunu koparır da, biz ödülü koparacak mıyız acaba? Koparırsın, kafana takma. Şu yıldıza az hürmet edin... Ödül meselesini kafanıza takmayın... Şu Sioux'ların belini bir kıralım gerisi kolay. Sen de silahını hızlı bir kahramana benziyorsun. - Evvelallah. - Ne? - Öyleyimdir yani. - Yoo, öyle deme. Kovboyluk bitti. Artık gencecik oğlanlar kafalarına tüyler takıp... ...''ulelek ulelek'' diye, sabahtan başlayıp... ...akşama kadar kızıldericilik oynuyorlar. Çocuk işte, düşmanlıktan anlamıyor ki. Kızılları al karşına adam gibi konuş desen, konuşamazsın. Bunlar nehirle, dağla, taşla konuşan manyaklar. - Ateş suyundan olsa gerek. - Sadece ateş suyu mu? Barış çubuğu var, mantarı var. Daha ne herzeleler. Ama bitti, az kaldı... Bu civarda iki dönüm arazileri ya var, ya da yok. Yakında hepsinin köküne kibrit suyunu dökeceğim. - Lan, gidin başka yerde oynayın. - Bu da benim ikinci avrat. Betty. - Hoş geldiniz kovboy bey. - Hürmetler... - Kalacak mısınız kasabamızda? - Yani... Sana ne? İşine bak sen. - Buyur akşam vaazına katıl istersen. - Akşam okundu mu? Ne?",
     "is_frame_story": false,
     "characters": [
       "Johnny Lesh",
@@ -2296,8 +2158,7 @@
       767,
       768
     ],
-    "text_tr": "Ayağın biri arızalı olunca tabii... Buyrun. - Öyle ahım şahım bir kilise değil. - Maksat dini vecibeler yerine gelsin. Sakın çizmeyi çıkarma ha, çalarlar ibneler. Din ve devlet işlerini ayır şerif, böyle çok yorulursun vallahi. Kamu hizmeti, ne yapalım? Mecburen... - Hadisene lan, bitmedi mi yerler daha? - Kölelik kalkmadı mı ya? Yahu kölelik dediğin öyle birden bire kalkar mı, Allah'ını seversen? Yavaş yavaş kaldırıyoruz işte. Kalk lan! Bu var ya, bir gospel okusun, ağlarsın ağlarsın. Hadi giy bakayım üstünü. Yanık yanık oku ha! Hişşt! Ezdirme kendini! - Burası da bizim günah çıkarma kabinimiz. - Çıkıyor mu bari günahlar? Eh işte... Çıktığı kadar. İdare ediyoruz. Ne yapıyorsun lan sen orda? Çık lan dışarı cacıkçı. Çık! Bu da benim bir numara, Eugene. Bunun anasına atlayacağıma, dağa taşa atlasaydım. Elleşme Şerif, belii ki meczup. - Lan ne meczubu? Kendi yaptığımız açık viskiden delirdi. - Arkadaşları buna yürüyen Johnnie derler. - Yürüyen Johnny mi? He, merhaba de len abine! Merhaba abi. Yanlış anlama, bu kadın var ya? Ben bu karının günahını çıkarıyordum. Tam çıkardım abi, sen geldin. - Hoş geldin abi. Bir sigara var mı abi? - Sigara yok. - Sigara versin bana. - Hah. Al. Ayna. Hah, deli deli görünce sopasını saklarmış. Ayna iyi oldu. Artık bakar bakar durur. Abi. Bu benim annemin resmi. Sende kalabilir. Nerden aldın lan onu? Yürü bakayım sen, yürü! İşine bak hadi! Yürü! Aferin! Kollarını da! Kollarını da salla!",
-    "text_en": null,
+    "text": "Ayağın biri arızalı olunca tabii... Buyrun. - Öyle ahım şahım bir kilise değil. - Maksat dini vecibeler yerine gelsin. Sakın çizmeyi çıkarma ha, çalarlar ibneler. Din ve devlet işlerini ayır şerif, böyle çok yorulursun vallahi. Kamu hizmeti, ne yapalım? Mecburen... - Hadisene lan, bitmedi mi yerler daha? - Kölelik kalkmadı mı ya? Yahu kölelik dediğin öyle birden bire kalkar mı, Allah'ını seversen? Yavaş yavaş kaldırıyoruz işte. Kalk lan! Bu var ya, bir gospel okusun, ağlarsın ağlarsın. Hadi giy bakayım üstünü. Yanık yanık oku ha! Hişşt! Ezdirme kendini! - Burası da bizim günah çıkarma kabinimiz. - Çıkıyor mu bari günahlar? Eh işte... Çıktığı kadar. İdare ediyoruz. Ne yapıyorsun lan sen orda? Çık lan dışarı cacıkçı. Çık! Bu da benim bir numara, Eugene. Bunun anasına atlayacağıma, dağa taşa atlasaydım. Elleşme Şerif, belii ki meczup. - Lan ne meczubu? Kendi yaptığımız açık viskiden delirdi. - Arkadaşları buna yürüyen Johnnie derler. - Yürüyen Johnny mi? He, merhaba de len abine! Merhaba abi. Yanlış anlama, bu kadın var ya? Ben bu karının günahını çıkarıyordum. Tam çıkardım abi, sen geldin. - Hoş geldin abi. Bir sigara var mı abi? - Sigara yok. - Sigara versin bana. - Hah. Al. Ayna. Hah, deli deli görünce sopasını saklarmış. Ayna iyi oldu. Artık bakar bakar durur. Abi. Bu benim annemin resmi. Sende kalabilir. Nerden aldın lan onu? Yürü bakayım sen, yürü! İşine bak hadi! Yürü! Aferin! Kollarını da! Kollarını da salla!",
     "is_frame_story": false,
     "characters": [
       "Şerif Lloyd",
@@ -2329,8 +2190,7 @@
       778,
       779
     ],
-    "text_tr": "Senin bu Johnny Lesh'le ne işin var Şerif? Johnny Lesh geçen ay bir posta arabasını soymuş. Yumruk kadar elmas kaldırmış. Ama Sioux'lar onu alt geçitte kıstırıp elması elinden almışlar. Şimdi Sioux'ların yerini Johnny Lesh'e söylediğin zaman... ...Johnyy Lesh onların anasını beller. Biz de kurtuluruz o tüylülerden. İkibin kağıtlık ödülü kafana takma, devede kulak. Sen bu işe destek at, fazla da dillendirme. - Elmas Sioux'larda yani... - He vallahi. - Vallahi mı? - Aman işte, ağız alışkanlığı canım.",
-    "text_en": null,
+    "text": "Senin bu Johnny Lesh'le ne işin var Şerif? Johnny Lesh geçen ay bir posta arabasını soymuş. Yumruk kadar elmas kaldırmış. Ama Sioux'lar onu alt geçitte kıstırıp elması elinden almışlar. Şimdi Sioux'ların yerini Johnny Lesh'e söylediğin zaman... ...Johnyy Lesh onların anasını beller. Biz de kurtuluruz o tüylülerden. İkibin kağıtlık ödülü kafana takma, devede kulak. Sen bu işe destek at, fazla da dillendirme. - Elmas Sioux'larda yani... - He vallahi. - Vallahi mı? - Aman işte, ağız alışkanlığı canım.",
     "is_frame_story": false,
     "characters": [
       "Şerif Lloyd"
@@ -2354,8 +2214,7 @@
       784,
       785
     ],
-    "text_tr": "- Lemi! - Destur! Elmas Sioux'larda! Elmas Sioux'larda! Şerifin sana bir teklifi olacak, akşam saloonda buluşalım dedi. - Saloon mu? - Saloon dedi! E oha!",
-    "text_en": null,
+    "text": "- Lemi! - Destur! Elmas Sioux'larda! Elmas Sioux'larda! Şerifin sana bir teklifi olacak, akşam saloonda buluşalım dedi. - Saloon mu? - Saloon dedi! E oha!",
     "is_frame_story": false,
     "characters": [
       "Lemi Galip"
@@ -2378,8 +2237,7 @@
       788,
       789
     ],
-    "text_tr": "Ya, ben de elmasın peşindeyim. Kaç saattir tek kelime alamadım. Boşa vakit kaybı! Güzel güzel. Güzel, aferin. Konuş! Konuş elmas nerede?",
-    "text_en": null,
+    "text": "Ya, ben de elmasın peşindeyim. Kaç saattir tek kelime alamadım. Boşa vakit kaybı! Güzel güzel. Güzel, aferin. Konuş! Konuş elmas nerede?",
     "is_frame_story": false,
     "characters": [],
     "scene": "Karakter elmasın peşinde olduğunu belirtiyor.",
@@ -2407,8 +2265,7 @@
       799,
       800
     ],
-    "text_tr": "Gelin bakalım, hoş geldiniz. Şimdi size bir yer bulalım. Kalk ulan o masadan! Koca götlü! Bu masa senin harcın değil! Oraya Fidaların Murdock oturacak! Buyrun... Bol şanslar. Gelin bakalım sevgili meslektaşım. Hoş geldiniz. Bak buraya! Vıski ver! Bol şanslar. Birazdan gelirim yine. Ulan ben sana on sekiz yaşından küçükler buraya giremez demedim mi? Fotörüne sıçtığım!",
-    "text_en": null,
+    "text": "Gelin bakalım, hoş geldiniz. Şimdi size bir yer bulalım. Kalk ulan o masadan! Koca götlü! Bu masa senin harcın değil! Oraya Fidaların Murdock oturacak! Buyrun... Bol şanslar. Gelin bakalım sevgili meslektaşım. Hoş geldiniz. Bak buraya! Vıski ver! Bol şanslar. Birazdan gelirim yine. Ulan ben sana on sekiz yaşından küçükler buraya giremez demedim mi? Fotörüne sıçtığım!",
     "is_frame_story": false,
     "characters": [],
     "scene": "Bir karakter, bir masada oturan kişilere bağırıyor ve onları yerlerinden kaldırmaya çalışıyor.",
@@ -2441,8 +2298,7 @@
       815,
       816
     ],
-    "text_tr": "Chuck! Atın şunu dışarı. Kavga çıkmasın daha zamanı değil! Lan Johnnie ne yapıyorsun burada? - Babam Johnnie istedi! - Ver bakalım. E hadi vur bakalım. Ne oldu, yamuldun mu? Suzan Hanım, biz bu miktarı çocukken içiyorduk. Ayrıca iştirakiniz hoşuma gitti. Kankanlara hiç bakmıyorsun. Efendim, benim sünnet merasimimde dansöz çıkarmışlardı. O zamandan beri dansöze bakamıyorum. İyi akşamlar. - Johnny Lesh yok mu? - Gelir birazdan. Pompada mı yoksa? Hikayeni anlattım, ilgileniyor. Yarın yola çıkıcağız. yalnız bize kızılderili kıyafetleri lazım. Ayarlarız. Ooo!",
-    "text_en": null,
+    "text": "Chuck! Atın şunu dışarı. Kavga çıkmasın daha zamanı değil! Lan Johnnie ne yapıyorsun burada? - Babam Johnnie istedi! - Ver bakalım. E hadi vur bakalım. Ne oldu, yamuldun mu? Suzan Hanım, biz bu miktarı çocukken içiyorduk. Ayrıca iştirakiniz hoşuma gitti. Kankanlara hiç bakmıyorsun. Efendim, benim sünnet merasimimde dansöz çıkarmışlardı. O zamandan beri dansöze bakamıyorum. İyi akşamlar. - Johnny Lesh yok mu? - Gelir birazdan. Pompada mı yoksa? Hikayeni anlattım, ilgileniyor. Yarın yola çıkıcağız. yalnız bize kızılderili kıyafetleri lazım. Ayarlarız. Ooo!",
     "is_frame_story": false,
     "characters": [
       "Lemi Galip",
@@ -2474,8 +2330,7 @@
       825,
       826
     ],
-    "text_tr": "Gel bakalım yiğidim. Otur bakalım. - Postaneyi soruyor. - Tabii canım. Merak etmeyin, istediğiniz her şey halledilecek. Öncelikle şu Sioux şefinin kellesini aldık mı... ...daha da burada barınamaz, itoğluitler. Hem de Johnny Lesh'e yanlış yapmak... ...neymiş, öğrensin gavatlar, değil mi? Yarın şafak vakti Zozo The Kid'le yola çıkacağız. Yaşa. Sioux'lara bulaşma işi hiç hoşuma gitmedi ama, neyse.",
-    "text_en": null,
+    "text": "Gel bakalım yiğidim. Otur bakalım. - Postaneyi soruyor. - Tabii canım. Merak etmeyin, istediğiniz her şey halledilecek. Öncelikle şu Sioux şefinin kellesini aldık mı... ...daha da burada barınamaz, itoğluitler. Hem de Johnny Lesh'e yanlış yapmak... ...neymiş, öğrensin gavatlar, değil mi? Yarın şafak vakti Zozo The Kid'le yola çıkacağız. Yaşa. Sioux'lara bulaşma işi hiç hoşuma gitmedi ama, neyse.",
     "is_frame_story": false,
     "characters": [],
     "scene": "Bir karakter Sioux şefinin kellesini almayı planlıyor.",
@@ -2497,8 +2352,7 @@
       829,
       830
     ],
-    "text_tr": "- Doğru söyle pompada mıydın? - Şerif. Demin hanımın yanında da öyle konuştun. Bu şekilde konuşma. Ne var canım, benden çok bıyığı var. Şşşt!",
-    "text_en": null,
+    "text": "- Doğru söyle pompada mıydın? - Şerif. Demin hanımın yanında da öyle konuştun. Bu şekilde konuşma. Ne var canım, benden çok bıyığı var. Şşşt!",
     "is_frame_story": false,
     "characters": [
       "Şerif"
@@ -2526,8 +2380,7 @@
       838,
       839
     ],
-    "text_tr": "Neyin var Suzan? Suzan, bu elmas bizim için çok önemli. Ucunda kellemiz var. Yarın sabah gitmek zorundayız. Sen istersen gelme ama, gelirsen çok faydan dokunur. - İçeride bıyığı var dediler, duydum! - Yahu, benim de bıyığım var, ne olacak? - Sendeki güzelliği görememişler demek ki. - Ya, tabii tabii... Güzeli görmek de bir hüner ister Suzan. Bazısı bakar, göremez. Ayrıca, nereye baktığın değil... ...orada ne gördüğün önemli.",
-    "text_en": null,
+    "text": "Neyin var Suzan? Suzan, bu elmas bizim için çok önemli. Ucunda kellemiz var. Yarın sabah gitmek zorundayız. Sen istersen gelme ama, gelirsen çok faydan dokunur. - İçeride bıyığı var dediler, duydum! - Yahu, benim de bıyığım var, ne olacak? - Sendeki güzelliği görememişler demek ki. - Ya, tabii tabii... Güzeli görmek de bir hüner ister Suzan. Bazısı bakar, göremez. Ayrıca, nereye baktığın değil... ...orada ne gördüğün önemli.",
     "is_frame_story": false,
     "characters": [
       "Suzan Van Dyke"
@@ -2548,8 +2401,7 @@
     "block_ids": [
       840
     ],
-    "text_tr": "Yarın görüşürüz.",
-    "text_en": null,
+    "text": "Yarın görüşürüz.",
     "is_frame_story": false,
     "characters": [],
     "scene": "Karakterler birbirlerine veda ediyor.",
@@ -2565,8 +2417,7 @@
     "block_ids": [
       841
     ],
-    "text_tr": "- Kovboy, içeri gelsene! - Ben kovboy değilim anam!",
-    "text_en": null,
+    "text": "- Kovboy, içeri gelsene! - Ben kovboy değilim anam!",
     "is_frame_story": false,
     "characters": [],
     "scene": "Kovboy içeri girmesi isteniyor.",
@@ -2594,8 +2445,7 @@
       851,
       852
     ],
-    "text_tr": "Geç. Lan, geç! Vay be! Muhteşem bir hikaye! - Elmas Sioux'lara geçmiş demek? - Evet abi. Vay be! Ya ben en çok, bunu çizmeye nasıl bağlayacaksın, onu merak ediyorum. E çizme şeyin işte ya, Johnny Lesh'in çizmesi değil mi? Değil. Değil abi, ne alakası var? - Dinle. Bunlar... - Ya Zeki'cim, bir ara verelim mi be? - Ben bir su dökeyim ha? - Verelim abi. Evet ya, müsaadenizle, ben de bir gideyim geleyim.",
-    "text_en": null,
+    "text": "Geç. Lan, geç! Vay be! Muhteşem bir hikaye! - Elmas Sioux'lara geçmiş demek? - Evet abi. Vay be! Ya ben en çok, bunu çizmeye nasıl bağlayacaksın, onu merak ediyorum. E çizme şeyin işte ya, Johnny Lesh'in çizmesi değil mi? Değil. Değil abi, ne alakası var? - Dinle. Bunlar... - Ya Zeki'cim, bir ara verelim mi be? - Ben bir su dökeyim ha? - Verelim abi. Evet ya, müsaadenizle, ben de bir gideyim geleyim.",
     "is_frame_story": false,
     "characters": [
       "Zeki Abi",
@@ -2621,8 +2471,7 @@
       856,
       857
     ],
-    "text_tr": "Nasıl gidiyor? Muhteşem! - Ver bakayım şu kapuçinoyu ya. - Dur, sipsiyi takayım da bir dakika. - Hasst... - Ne oldu? Düştü. Şimdi işin yoksa on dakika ara.",
-    "text_en": null,
+    "text": "Nasıl gidiyor? Muhteşem! - Ver bakayım şu kapuçinoyu ya. - Dur, sipsiyi takayım da bir dakika. - Hasst... - Ne oldu? Düştü. Şimdi işin yoksa on dakika ara.",
     "is_frame_story": false,
     "characters": [],
     "scene": "Karakterler kapuçino içmek için hazırlık yapıyor.",
@@ -2644,8 +2493,7 @@
       861,
       862
     ],
-    "text_tr": "- Yakari! - Yakari mi? Hamle ba Yakari! Haride Yakari! Tannare Yakari! Hanyere had Yakari! Kam le Yakari! Koppe Yakari. Aziz Efendi, sezgilerimi kullanacağım. Selam sana Demirayak!",
-    "text_en": null,
+    "text": "- Yakari! - Yakari mi? Hamle ba Yakari! Haride Yakari! Tannare Yakari! Hanyere had Yakari! Kam le Yakari! Koppe Yakari. Aziz Efendi, sezgilerimi kullanacağım. Selam sana Demirayak!",
     "is_frame_story": false,
     "characters": [
       "Aziz Vefa"
@@ -2668,8 +2516,7 @@
       865,
       866
     ],
-    "text_tr": "- Merhaba Kartalgözü! - Dalga mı geçiyorsun lan! - Efendim Cherokee'lerden İstenmeyentüy. - Cherokee mi? Grand Cherokee. Arkadaşım Pajero ve Pontiac. Şefe selam getirdik.",
-    "text_en": null,
+    "text": "- Merhaba Kartalgözü! - Dalga mı geçiyorsun lan! - Efendim Cherokee'lerden İstenmeyentüy. - Cherokee mi? Grand Cherokee. Arkadaşım Pajero ve Pontiac. Şefe selam getirdik.",
     "is_frame_story": false,
     "characters": [],
     "scene": "Karakterler arasında esprili bir diyalog geçiyor.",
@@ -2688,8 +2535,7 @@
       868,
       869
     ],
-    "text_tr": "Üstünü koy. At hadi at! At! Merhabalar şef.",
-    "text_en": null,
+    "text": "Üstünü koy. At hadi at! At! Merhabalar şef.",
     "is_frame_story": false,
     "characters": [],
     "scene": "Karakterler bir şeyler atıyor ve şefe selam veriyor.",
@@ -2707,8 +2553,7 @@
     "block_ids": [
       870
     ],
-    "text_tr": "Buyrun şöyle oturalım.",
-    "text_en": null,
+    "text": "Buyrun şöyle oturalım.",
     "is_frame_story": false,
     "characters": [],
     "scene": "Karakterler oturuyor.",
@@ -2742,8 +2587,7 @@
       886,
       887
     ],
-    "text_tr": "Hoş geldiniz. Ben Kızılkayalar. Bu da oğlum Bambi. Sağol şef, tokuz. Bu Kısırkayalar, Ağlayankayalar, Pembekayalar, Kayalar. Kayalara geldik. Efendim, sebebi ziyaretimiz hayırlı bir iş. Oğlumuz İstenmeyentüy'le, kızımız Pajero'nun evlilik akdi için... ...kabilenin büyücüsünden bir hayır duası almaya geldik. İstenmeyentüy kız ismidir yalnız. - Efendim, annem hep kız istemiş... - Olmamış mı? E olmuş mu? Olmamış. Cherokee'ler bizim kardeşimizdir. Onların birleşip çoğalması bizim mutluluğumuzdur. Ağlayankaya, tütsüyü yak! Billurları getirin! - Billur ne? - Kristal kaseler. Geç bakalım damat şöyle ortaya.",
-    "text_en": null,
+    "text": "Hoş geldiniz. Ben Kızılkayalar. Bu da oğlum Bambi. Sağol şef, tokuz. Bu Kısırkayalar, Ağlayankayalar, Pembekayalar, Kayalar. Kayalara geldik. Efendim, sebebi ziyaretimiz hayırlı bir iş. Oğlumuz İstenmeyentüy'le, kızımız Pajero'nun evlilik akdi için... ...kabilenin büyücüsünden bir hayır duası almaya geldik. İstenmeyentüy kız ismidir yalnız. - Efendim, annem hep kız istemiş... - Olmamış mı? E olmuş mu? Olmamış. Cherokee'ler bizim kardeşimizdir. Onların birleşip çoğalması bizim mutluluğumuzdur. Ağlayankaya, tütsüyü yak! Billurları getirin! - Billur ne? - Kristal kaseler. Geç bakalım damat şöyle ortaya.",
     "is_frame_story": false,
     "characters": [],
     "scene": "Kızılkayalar kabilesi, İstenmeyentüy ve Pajero'nun evlilik akdi için dua almak üzere toplanıyor.",
@@ -2763,8 +2607,7 @@
       888,
       889
     ],
-    "text_tr": "Bu buffalo taşakları, ailenize bereket getirecektir. Epiesa!",
-    "text_en": null,
+    "text": "Bu buffalo taşakları, ailenize bereket getirecektir. Epiesa!",
     "is_frame_story": false,
     "characters": [],
     "scene": "Bir karakter buffalo taşakları hakkında konuşuyor.",
@@ -2782,8 +2625,7 @@
     "block_ids": [
       891
     ],
-    "text_tr": "Şeda! Üfle!",
-    "text_en": null,
+    "text": "Şeda! Üfle!",
     "is_frame_story": false,
     "characters": [],
     "scene": "Karakter bir şey üflüyor.",
@@ -2808,8 +2650,7 @@
       898,
       899
     ],
-    "text_tr": "Oh, yarasın. Güneş yere değdiğinde birer barış çubuğu içer, bu işi bağlarız. Şimdi geç bakalım yerine. Dağılın! Aziz Efendi. Kasabaya gidince bir de resmi nikah yaparız. Oh, üfle. - İyi misin? - İyiyim. Şef benle taşak geçti.",
-    "text_en": null,
+    "text": "Oh, yarasın. Güneş yere değdiğinde birer barış çubuğu içer, bu işi bağlarız. Şimdi geç bakalım yerine. Dağılın! Aziz Efendi. Kasabaya gidince bir de resmi nikah yaparız. Oh, üfle. - İyi misin? - İyiyim. Şef benle taşak geçti.",
     "is_frame_story": false,
     "characters": [
       "Aziz Vefa"
@@ -2832,8 +2673,7 @@
       901,
       902
     ],
-    "text_tr": "Keşke geçen hafta gelseydiniz. Yerli malı haftası vardı. Yerli malı mı? Tekrar hoş geldiniz. Buyrun.",
-    "text_en": null,
+    "text": "Keşke geçen hafta gelseydiniz. Yerli malı haftası vardı. Yerli malı mı? Tekrar hoş geldiniz. Buyrun.",
     "is_frame_story": false,
     "characters": [],
     "scene": "Karakter yerli malı haftasını hatırlatıyor.",
@@ -2852,8 +2692,7 @@
       903,
       904
     ],
-    "text_tr": "Alayınızın amına koyarım lan! Konuş damat konuş. Taşaklar işe yaradı.",
-    "text_en": null,
+    "text": "Alayınızın amına koyarım lan! Konuş damat konuş. Taşaklar işe yaradı.",
     "is_frame_story": false,
     "characters": [],
     "scene": "Bir karakter sinirli bir şekilde bağırıyor.",
@@ -2874,8 +2713,7 @@
       907,
       908
     ],
-    "text_tr": "Bunlar hiçbir şey değil. Daha büyük şeyler olacak. Siktiriniz gidiniz efendim! - Benim, oğlum. Aziz. - Ha... Bana pek bir şey olmadı.",
-    "text_en": null,
+    "text": "Bunlar hiçbir şey değil. Daha büyük şeyler olacak. Siktiriniz gidiniz efendim! - Benim, oğlum. Aziz. - Ha... Bana pek bir şey olmadı.",
     "is_frame_story": false,
     "characters": [
       "Aziz Vefa"
@@ -2921,8 +2759,7 @@
       934,
       935
     ],
-    "text_tr": "Ben buranın yerlisi miyim kardeşim? O zaman benim buranın... ...yerlisi gibi muamele görmem gerekiyor ya! Yok bunun toprağını alayım. Yok bunu şey yapayım. Benden boncuk al, ateş suyu ver. Sahte ateş suyu verdi herif ya! Sahte. Oğlanın gözler gitti. Kör oldu. Bak. Ağaçla konuşuyor, nehirle konuşuyor diyorlar. Çocuk göremiyor ki kardeşim kimle konuştuğunu! Geçen bizim oğlanlar, bu şerifin yanında bir tane var... Chuck? Onun kafasındaki keneyi alayım darken, adam rahat duramıyor tabii... ...çocuklar da yanlışlıkla, şak deriyi alıyorlar. Ondan sonra kızılderililer kötü! Kollayacaksın götü! Yok öyle! Ben bir şey söyleyeceğim. Ben sizi çok sevdim efendim. Çok muhterem bir insansınız. Yani,eEfendim size yapılan zulüm... Gerek... Şef... Bir bisküvi misküvi var mı ya? Hadi artık yatma vakti. Aziz Efendi, benim ayağım yok! Aziz Efendi ayağım yok! Oğlum var bende iki tane. Nerede lazım olacak? Ayak ayak üstüne mi atacaksın? Yok. Ayağa kalkacağız ya ondan... Oğlum kalk, direkt kalk ya. Suzan nerede oğlum? Hayt! Bana bir şey olmadı. Hiçbir şey olmadı bana. Ben şurada biraz karıncalarla konuşup geleceğim. Oldu. Haydi bay bay! - Biraz çalışsınlar, çalışsınlar! <- Oldu.",
-    "text_en": null,
+    "text": "Ben buranın yerlisi miyim kardeşim? O zaman benim buranın... ...yerlisi gibi muamele görmem gerekiyor ya! Yok bunun toprağını alayım. Yok bunu şey yapayım. Benden boncuk al, ateş suyu ver. Sahte ateş suyu verdi herif ya! Sahte. Oğlanın gözler gitti. Kör oldu. Bak. Ağaçla konuşuyor, nehirle konuşuyor diyorlar. Çocuk göremiyor ki kardeşim kimle konuştuğunu! Geçen bizim oğlanlar, bu şerifin yanında bir tane var... Chuck? Onun kafasındaki keneyi alayım darken, adam rahat duramıyor tabii... ...çocuklar da yanlışlıkla, şak deriyi alıyorlar. Ondan sonra kızılderililer kötü! Kollayacaksın götü! Yok öyle! Ben bir şey söyleyeceğim. Ben sizi çok sevdim efendim. Çok muhterem bir insansınız. Yani,eEfendim size yapılan zulüm... Gerek... Şef... Bir bisküvi misküvi var mı ya? Hadi artık yatma vakti. Aziz Efendi, benim ayağım yok! Aziz Efendi ayağım yok! Oğlum var bende iki tane. Nerede lazım olacak? Ayak ayak üstüne mi atacaksın? Yok. Ayağa kalkacağız ya ondan... Oğlum kalk, direkt kalk ya. Suzan nerede oğlum? Hayt! Bana bir şey olmadı. Hiçbir şey olmadı bana. Ben şurada biraz karıncalarla konuşup geleceğim. Oldu. Haydi bay bay! - Biraz çalışsınlar, çalışsınlar! <- Oldu.",
     "is_frame_story": false,
     "characters": [
       "Lemi Galip",
@@ -2948,8 +2785,7 @@
       938,
       939
     ],
-    "text_tr": "Destur! Totem! Totem bize bakıyor Aziz! Folklorik olarak sana saygım var ama, sana tapamam totem! Totem... Jötem...",
-    "text_en": null,
+    "text": "Destur! Totem! Totem bize bakıyor Aziz! Folklorik olarak sana saygım var ama, sana tapamam totem! Totem... Jötem...",
     "is_frame_story": false,
     "characters": [
       "Aziz Vefa"
@@ -2970,8 +2806,7 @@
     "block_ids": [
       940
     ],
-    "text_tr": "Oğlum, yaramıyorsa içme lan!",
-    "text_en": null,
+    "text": "Oğlum, yaramıyorsa içme lan!",
     "is_frame_story": false,
     "characters": [],
     "scene": "Bir karakter başka birine sert bir şekilde hitap ediyor.",
@@ -3002,8 +2837,7 @@
       953,
       954
     ],
-    "text_tr": "- Ne oldu yavrum? Verdiniz mi elması? Yok. Vermedik. Al. Almıyor musun? - Yıkıl! Hey! Lemi! Lemi! - Lemi! - Hı? Kalk ulan! Lemi! Buraya niye geldiğimizi unutma! - Şşt! Lemi! Kimim ben? - Komutan Logar. Komutan Logar mı? Onun ben amına koyayım! Ne diyorsun lan! Aziz ben fenayım. Bana bak! Ben elması yoklamaya gidiyorum. Ayrılma bir yere. Olur.",
-    "text_en": null,
+    "text": "- Ne oldu yavrum? Verdiniz mi elması? Yok. Vermedik. Al. Almıyor musun? - Yıkıl! Hey! Lemi! Lemi! - Lemi! - Hı? Kalk ulan! Lemi! Buraya niye geldiğimizi unutma! - Şşt! Lemi! Kimim ben? - Komutan Logar. Komutan Logar mı? Onun ben amına koyayım! Ne diyorsun lan! Aziz ben fenayım. Bana bak! Ben elması yoklamaya gidiyorum. Ayrılma bir yere. Olur.",
     "is_frame_story": false,
     "characters": [
       "Lemi",
@@ -3055,8 +2889,7 @@
       985,
       986
     ],
-    "text_tr": "Kıpırdama! Kumarbaz! İstenmeyentüy! Değil. Aziz Vefa, Teşkilat-ı Mahsusa'dan. Gizli polis. - Ama söyledik artık. Çık! - At o silahı elinden! - Kızılkayalar ben. - Anladık o kadarını. Sultan'ın emaneti elması, almaya geldim. Türksün demek. Türkler Kızılderili diyorlar, doğru mu? Öyle bir şey değil lan o! Kızılderililer Türktür derler. Bırak tatavayı de çıkar elması! Vay! Vay! Vay! Çıkar elması da gidelim diyorsun ha? Öyle demedim. ''Ver elması!'' dedim. - Pajero! - Değil be! Suzan Van Dyke! Herkes uyurken elması alıp ilerleyecektin değil mi? Ne alakası var Suzan! Vesvese yapma! - Kimse kıpırdamasın! - Lemi! - Pontiac! - Nam-ı diğer, Johnny Lesh! - Bir karar verin amına koyayım be! - En son Johnny Lesh! Johnny Lesh'im ben! Canını almaya geldim. Johnny Lesh! Sen ha! Mary Lou'nun katili! Mary Lou mu? Annemin adını sakın ağzına alma! Sen mi anlattın? - Hayır canım, ne alakası var? - İstenmeyentüy. İstenmeyentüy benim! Konuşurken yüzüme bak! - İstenmeyentüy, kızım. - Ne tüyü? Ne kızı? Neden bahsediyorsun sen? Bana bak çıkar elması! Vurdurtma kendini! Ulu Manitu! Johnny Lesh, her yerde seni aradım. Can düşmanımla böyle aciz bir durumda mı karşılaşacaktım? - Kız bende. Sen şefe bak! - Lemi. Sakın Suzan'ı vurma! Suzan! Biliyorsun. Johnny Lesh değil o! Anlattık sana konuyu! Ah! Aziz sakın! Baba dur! - Bana niye sıktın lan! - O kadar karıştı ki. - Kızım. - Baba.",
-    "text_en": null,
+    "text": "Kıpırdama! Kumarbaz! İstenmeyentüy! Değil. Aziz Vefa, Teşkilat-ı Mahsusa'dan. Gizli polis. - Ama söyledik artık. Çık! - At o silahı elinden! - Kızılkayalar ben. - Anladık o kadarını. Sultan'ın emaneti elması, almaya geldim. Türksün demek. Türkler Kızılderili diyorlar, doğru mu? Öyle bir şey değil lan o! Kızılderililer Türktür derler. Bırak tatavayı de çıkar elması! Vay! Vay! Vay! Çıkar elması da gidelim diyorsun ha? Öyle demedim. ''Ver elması!'' dedim. - Pajero! - Değil be! Suzan Van Dyke! Herkes uyurken elması alıp ilerleyecektin değil mi? Ne alakası var Suzan! Vesvese yapma! - Kimse kıpırdamasın! - Lemi! - Pontiac! - Nam-ı diğer, Johnny Lesh! - Bir karar verin amına koyayım be! - En son Johnny Lesh! Johnny Lesh'im ben! Canını almaya geldim. Johnny Lesh! Sen ha! Mary Lou'nun katili! Mary Lou mu? Annemin adını sakın ağzına alma! Sen mi anlattın? - Hayır canım, ne alakası var? - İstenmeyentüy. İstenmeyentüy benim! Konuşurken yüzüme bak! - İstenmeyentüy, kızım. - Ne tüyü? Ne kızı? Neden bahsediyorsun sen? Bana bak çıkar elması! Vurdurtma kendini! Ulu Manitu! Johnny Lesh, her yerde seni aradım. Can düşmanımla böyle aciz bir durumda mı karşılaşacaktım? - Kız bende. Sen şefe bak! - Lemi. Sakın Suzan'ı vurma! Suzan! Biliyorsun. Johnny Lesh değil o! Anlattık sana konuyu! Ah! Aziz sakın! Baba dur! - Bana niye sıktın lan! - O kadar karıştı ki. - Kızım. - Baba.",
     "is_frame_story": false,
     "characters": [
       "Aziz Vefa",
@@ -3082,8 +2915,7 @@
       987,
       988
     ],
-    "text_tr": "Gençliğimde Greenville'de tanıştım onunla. Dans ediyordu. Sevdik birbirimizi.",
-    "text_en": null,
+    "text": "Gençliğimde Greenville'de tanıştım onunla. Dans ediyordu. Sevdik birbirimizi.",
     "is_frame_story": true,
     "characters": [
       "Zeki Abi"
@@ -3108,8 +2940,7 @@
       992,
       993
     ],
-    "text_tr": "Kaçtı geldi benimle. Büyükler kızdı. İstemediler. Direndim. Mutluyduk. Sonra sen doğdun. Avda olduğum bir gün, Johnny Lesh köyü basmış. Mary Lou'mu orada vurmuş.",
-    "text_en": null,
+    "text": "Kaçtı geldi benimle. Büyükler kızdı. İstemediler. Direndim. Mutluyduk. Sonra sen doğdun. Avda olduğum bir gün, Johnny Lesh köyü basmış. Mary Lou'mu orada vurmuş.",
     "is_frame_story": true,
     "characters": [
       "Zeki Abi"
@@ -3131,8 +2962,7 @@
       995,
       996
     ],
-    "text_tr": "Sana uğursuz dediler, cezayı bana kestiler. Yavrumu, seni öldürmemi istediler. Kıyamadım.",
-    "text_en": null,
+    "text": "Sana uğursuz dediler, cezayı bana kestiler. Yavrumu, seni öldürmemi istediler. Kıyamadım.",
     "is_frame_story": true,
     "characters": [],
     "scene": "Zeki Abi, hikayeyi anlatıyor.",
@@ -3151,8 +2981,7 @@
       997,
       998
     ],
-    "text_tr": "Seni Ağlayan Nehir'e bıraktım. Affettin mi beni? Beni affettin mi kızım?",
-    "text_en": null,
+    "text": "Seni Ağlayan Nehir'e bıraktım. Affettin mi beni? Beni affettin mi kızım?",
     "is_frame_story": true,
     "characters": [],
     "scene": "Bir karakter, Ağlayan Nehir'e bırakıldığını ve affedilip affedilmediğini soruyor.",
@@ -3182,8 +3011,7 @@
       1010,
       1011
     ],
-    "text_tr": "Johnny Lesh belasını buldu şef! Gömdük onu. Yalnız, Sultan'ın emaneti sendeymiş. Onu bize vermek zorundasın. Bu Kızılderili - Beyaz savaşı değil şef! Bizim size bir düşmanlığımız yok. Hele ki Suzan'ın babasıysan. Sağ olasın damat. Ama benim bir zaafım var. Sevdiklerim gittikten sonra, kendimi kumara verdim. Ne toprak kaldı, ne çit çubuk. Her akşam Cannonball'da verdiğimi almak için daha da bittim. - Sizin elmas... - Evet! - Az evvel kumarda gitti. - Tüh! - Ah! Nereye gitti? - Lloyd. Elmas şerif Lloyd'da.",
-    "text_en": null,
+    "text": "Johnny Lesh belasını buldu şef! Gömdük onu. Yalnız, Sultan'ın emaneti sendeymiş. Onu bize vermek zorundasın. Bu Kızılderili - Beyaz savaşı değil şef! Bizim size bir düşmanlığımız yok. Hele ki Suzan'ın babasıysan. Sağ olasın damat. Ama benim bir zaafım var. Sevdiklerim gittikten sonra, kendimi kumara verdim. Ne toprak kaldı, ne çit çubuk. Her akşam Cannonball'da verdiğimi almak için daha da bittim. - Sizin elmas... - Evet! - Az evvel kumarda gitti. - Tüh! - Ah! Nereye gitti? - Lloyd. Elmas şerif Lloyd'da.",
     "is_frame_story": false,
     "characters": [
       "Johnny Lesh",
@@ -3207,8 +3035,7 @@
       1013,
       1014
     ],
-    "text_tr": "Aşkta kaybeden, kumarda kazanır! Geri zekalı! Takma sakalına sıçayım senin! Sanki ben anlamadım. Chuck! Hemen şunu sağlam bir yere saklayalım oğlum.",
-    "text_en": null,
+    "text": "Aşkta kaybeden, kumarda kazanır! Geri zekalı! Takma sakalına sıçayım senin! Sanki ben anlamadım. Chuck! Hemen şunu sağlam bir yere saklayalım oğlum.",
     "is_frame_story": false,
     "characters": [],
     "scene": "Karakterler arasında tartışma geçiyor.",
@@ -3241,8 +3068,7 @@
       1029,
       1030
     ],
-    "text_tr": "Aziz! - Nereye gidiyorsunuz? - Cannonball'a dönüyoruz Suzan. - Ben de geliyorum. - Sen babanla hasret gider. Biz işimizi halledip, bir eyvallah demeye geliriz. Durun çocuklar! Elması ben verdim. Ben alacağım! Nasıl alacaksın şef? Kasabada senin kelleni istiyorlar. Alsınlar da görelim bakalım! Aferin. Aferin size aslanlarım. Aferin, güzel olmuş. Chuck! Şunun boyasını tamamla gel oğlum. Buna da. İkisine de. Tak bakayım onu kafaya! Tak! Güzel oldu. Aferin. İyi dinleyin oğlum beni: ... ''Ulelek! Ulelek!'' diye ortalığı karıştırın. Kasabalı ''Kızılderiliden yıldık!'' desin. ''Yıldık!'' Tamam mı?",
-    "text_en": null,
+    "text": "Aziz! - Nereye gidiyorsunuz? - Cannonball'a dönüyoruz Suzan. - Ben de geliyorum. - Sen babanla hasret gider. Biz işimizi halledip, bir eyvallah demeye geliriz. Durun çocuklar! Elması ben verdim. Ben alacağım! Nasıl alacaksın şef? Kasabada senin kelleni istiyorlar. Alsınlar da görelim bakalım! Aferin. Aferin size aslanlarım. Aferin, güzel olmuş. Chuck! Şunun boyasını tamamla gel oğlum. Buna da. İkisine de. Tak bakayım onu kafaya! Tak! Güzel oldu. Aferin. İyi dinleyin oğlum beni: ... ''Ulelek! Ulelek!'' diye ortalığı karıştırın. Kasabalı ''Kızılderiliden yıldık!'' desin. ''Yıldık!'' Tamam mı?",
     "is_frame_story": false,
     "characters": [
       "Aziz Vefa",
@@ -3263,8 +3089,7 @@
     "block_ids": [
       1031
     ],
-    "text_tr": "Anladınız mı?",
-    "text_en": null,
+    "text": "Anladınız mı?",
     "is_frame_story": false,
     "characters": [],
     "scene": "Bir karakter diğerine bir şey soruyor.",
@@ -3283,8 +3108,7 @@
       1034,
       1035
     ],
-    "text_tr": "Bir dakika lan! Şefi getiriyor. Eee? Herifin kellesi omzunda duruyor. Kaybol, kaç! Kaçın lan! Geri zekalılar! Chuck! Şimdi çakacağım ha! Git bir kola getir lan!",
-    "text_en": null,
+    "text": "Bir dakika lan! Şefi getiriyor. Eee? Herifin kellesi omzunda duruyor. Kaybol, kaç! Kaçın lan! Geri zekalılar! Chuck! Şimdi çakacağım ha! Git bir kola getir lan!",
     "is_frame_story": false,
     "characters": [],
     "scene": "Karakterler tehlikeden kaçıyor.",
@@ -3313,8 +3137,7 @@
       1047,
       1048
     ],
-    "text_tr": "Sioux şefi Kızılkayalar! Yakından görmek isteyen varsa gelsin! Suzan, biz geliyoruz şimdi. Aaa! Ben sizi tanıdım! Siz beyaz bir kızla evlenmiştiniz de, kadını vurmuşlardı. Küçük kızı da kaybolmuştu. Hatırladım. Greenville'dendi değil mi? Baker! Gel fotoğrafımızı çek! Gel! Çekilebilir miyiz? Çekiyorum. Beni de çek! Beni de! Buradan da çek! Şefle de çek beni! Buradan da çek! Böyle de çek! Şimdi bir de yana çek! Tamam yeter, çekme! İyi ki bir çek dedik! Başka fotoğraf çektirmek isteyen var mı?",
-    "text_en": null,
+    "text": "Sioux şefi Kızılkayalar! Yakından görmek isteyen varsa gelsin! Suzan, biz geliyoruz şimdi. Aaa! Ben sizi tanıdım! Siz beyaz bir kızla evlenmiştiniz de, kadını vurmuşlardı. Küçük kızı da kaybolmuştu. Hatırladım. Greenville'dendi değil mi? Baker! Gel fotoğrafımızı çek! Gel! Çekilebilir miyiz? Çekiyorum. Beni de çek! Beni de! Buradan da çek! Şefle de çek beni! Buradan da çek! Böyle de çek! Şimdi bir de yana çek! Tamam yeter, çekme! İyi ki bir çek dedik! Başka fotoğraf çektirmek isteyen var mı?",
     "is_frame_story": false,
     "characters": [
       "Suzan Van Dyke"
@@ -3336,8 +3159,7 @@
       1049,
       1050
     ],
-    "text_tr": "Evet! Sıraya! Sıraya! Buraya! Buyrun!",
-    "text_en": null,
+    "text": "Evet! Sıraya! Sıraya! Buraya! Buyrun!",
     "is_frame_story": false,
     "characters": [],
     "scene": "Karakterler sıraya girmeye çağrılıyor.",
@@ -3379,8 +3201,7 @@
       1074,
       1075
     ],
-    "text_tr": "Ya sen ne yapıyorsun? Bu yaptığın sana hiç yakışıyor mu Lesh? Size herifin kellesini getirin dedik, meşhur ettiniz adamı! Şu hale bak! Kaç poz resim çektirdi! Bırak lan kolayı şimdi! Elmas şefte dedin, sendeymiş! Ben bir kere size ''Elmas şefte'' falan demedim! İşinizi hallettiniz de mi elması soruyorsunuz? Hem sen ne karışıyorsun? Benim işim Johnny Lesh'le! Johnny Lesh falan yok ulan! Osmanlıyız biz. Ben Lemi Galip. Bu kardeşim de Aziz Vefa. Osmanlı ha! Aksanınızdan anlamalıydım, ''Gala gulu gala gulu gala gulu...'' Çıkar ulan elması! Ağzına yüzüne mermi doldururum şimdi ha! Bu yıldız benim göğsüme gökten düşmedi anladın mı? Burada kanun benim! Kafama da sıkacakmış da, elması alıp gidecekmiş... Hadi! Sıkıysa sık! Elmasın yerini söyle! Adamın ölür! Ölsün, ölsün. Kasabalı kurtulur. Kovboyluk oynamaya gelmiş çılgın Türkler. Yer miyim lan ben? Elması öyle bir saklarım ki, senin yedi sülalen gelse bulamaz! - Hadi sık! - Çıkar ulan! - Hadi. - Çıkar ulan! - Hadi... >- Aziz sakin! - Hadi... >- Aziz tamam!",
-    "text_en": null,
+    "text": "Ya sen ne yapıyorsun? Bu yaptığın sana hiç yakışıyor mu Lesh? Size herifin kellesini getirin dedik, meşhur ettiniz adamı! Şu hale bak! Kaç poz resim çektirdi! Bırak lan kolayı şimdi! Elmas şefte dedin, sendeymiş! Ben bir kere size ''Elmas şefte'' falan demedim! İşinizi hallettiniz de mi elması soruyorsunuz? Hem sen ne karışıyorsun? Benim işim Johnny Lesh'le! Johnny Lesh falan yok ulan! Osmanlıyız biz. Ben Lemi Galip. Bu kardeşim de Aziz Vefa. Osmanlı ha! Aksanınızdan anlamalıydım, ''Gala gulu gala gulu gala gulu...'' Çıkar ulan elması! Ağzına yüzüne mermi doldururum şimdi ha! Bu yıldız benim göğsüme gökten düşmedi anladın mı? Burada kanun benim! Kafama da sıkacakmış da, elması alıp gidecekmiş... Hadi! Sıkıysa sık! Elmasın yerini söyle! Adamın ölür! Ölsün, ölsün. Kasabalı kurtulur. Kovboyluk oynamaya gelmiş çılgın Türkler. Yer miyim lan ben? Elması öyle bir saklarım ki, senin yedi sülalen gelse bulamaz! - Hadi sık! - Çıkar ulan! - Hadi. - Çıkar ulan! - Hadi... >- Aziz sakin! - Hadi... >- Aziz tamam!",
     "is_frame_story": false,
     "characters": [
       "Lemi Galip",
@@ -3417,8 +3238,7 @@
       1088,
       1089
     ],
-    "text_tr": "Aziz'le Lemi... Adlarına birer ''wanted'' çıkarayım da görsün ibneler. Kendimiz yakalayalım şerif! Buradalar! Chuck... İndir ulan elini! Fırla çabuk git bana bir kola getir. Şöyle bir gırtlatsın bakalım. Çek! Tamamdır sağ ol. Büyük şefi kasabada ne çok seven varmış. Ne oldu? Ne diyor şerif? Konuşuruz otelde. Söylemiyor nerede olduğunu. Çocuklar, akşama poker var. Bana bir şans verin. Elması ondan alacağım. Hıh!",
-    "text_en": null,
+    "text": "Aziz'le Lemi... Adlarına birer ''wanted'' çıkarayım da görsün ibneler. Kendimiz yakalayalım şerif! Buradalar! Chuck... İndir ulan elini! Fırla çabuk git bana bir kola getir. Şöyle bir gırtlatsın bakalım. Çek! Tamamdır sağ ol. Büyük şefi kasabada ne çok seven varmış. Ne oldu? Ne diyor şerif? Konuşuruz otelde. Söylemiyor nerede olduğunu. Çocuklar, akşama poker var. Bana bir şans verin. Elması ondan alacağım. Hıh!",
     "is_frame_story": false,
     "characters": [
       "Aziz",
@@ -3442,8 +3262,7 @@
       1090,
       1091
     ],
-    "text_tr": "Kapıda tüylüler giremez yazıyor. Görmedin galiba. Donuna kadar almaya geldim Lloyd! Para peşin.",
-    "text_en": null,
+    "text": "Kapıda tüylüler giremez yazıyor. Görmedin galiba. Donuna kadar almaya geldim Lloyd! Para peşin.",
     "is_frame_story": false,
     "characters": [
       "Lemi Galip",
@@ -3465,8 +3284,7 @@
       1092,
       1093
     ],
-    "text_tr": "Kağıt tutmasını biliyorsan, otur bakalım karşıma. Kaybolun!",
-    "text_en": null,
+    "text": "Kağıt tutmasını biliyorsan, otur bakalım karşıma. Kaybolun!",
     "is_frame_story": false,
     "characters": [],
     "scene": "Bir karakter kağıt tutmasını öğreniyor.",
@@ -3484,8 +3302,7 @@
     "block_ids": [
       1094
     ],
-    "text_tr": "Yancılara da benden birer tane meyveli gazoz verin!",
-    "text_en": null,
+    "text": "Yancılara da benden birer tane meyveli gazoz verin!",
     "is_frame_story": false,
     "characters": [],
     "scene": "Birine meyveli gazoz siparişi veriliyor.",
@@ -3503,8 +3320,7 @@
     "block_ids": [
       1095
     ],
-    "text_tr": "Kes bakalım!",
-    "text_en": null,
+    "text": "Kes bakalım!",
     "is_frame_story": false,
     "characters": [],
     "scene": "Bir karakter birine emir veriyor.",
@@ -3523,8 +3339,7 @@
       1096,
       1097
     ],
-    "text_tr": "- Yüz potla açık. - Gördük. Doll.",
-    "text_en": null,
+    "text": "- Yüz potla açık. - Gördük. Doll.",
     "is_frame_story": false,
     "characters": [],
     "scene": "Karakterler bir durumu değerlendiriyor.",
@@ -3544,8 +3359,7 @@
       1099,
       1100
     ],
-    "text_tr": "Üç kart da bana. İki yüz elli pot daha. Beş yüz.",
-    "text_en": null,
+    "text": "Üç kart da bana. İki yüz elli pot daha. Beş yüz.",
     "is_frame_story": false,
     "characters": [],
     "scene": "Bir oyun masasında bahis yapılıyor.",
@@ -3567,8 +3381,7 @@
       1104,
       1105
     ],
-    "text_tr": "Dam döper! İyisin... Poker talimini totemle mi yaptın? - Manitu senden yana. - Bana bir kahve daha! Yancıların hesabını ayrı yazın! Yetti gari! Kaçıncı kahve oldu bu?",
-    "text_en": null,
+    "text": "Dam döper! İyisin... Poker talimini totemle mi yaptın? - Manitu senden yana. - Bana bir kahve daha! Yancıların hesabını ayrı yazın! Yetti gari! Kaçıncı kahve oldu bu?",
     "is_frame_story": false,
     "characters": [],
     "scene": "Bir karakter kahve siparişi veriyor ve poker hakkında konuşuyor.",
@@ -3586,8 +3399,7 @@
     "block_ids": [
       1106
     ],
-    "text_tr": "Full kız.",
-    "text_en": null,
+    "text": "Full kız.",
     "is_frame_story": false,
     "characters": [],
     "scene": "Bir karakter birine hitap ediyor.",
@@ -3608,8 +3420,7 @@
       1109,
       1110
     ],
-    "text_tr": "Full dokuz. - Biraz çıkıyoruz. - Ben buradayım. İyisin şef. İyisin. Çok iyi gidiyor be.",
-    "text_en": null,
+    "text": "Full dokuz. - Biraz çıkıyoruz. - Ben buradayım. İyisin şef. İyisin. Çok iyi gidiyor be.",
     "is_frame_story": false,
     "characters": [],
     "scene": "Karakterler bir durum değerlendirmesi yapıyor.",
@@ -3630,8 +3441,7 @@
       1113,
       1114
     ],
-    "text_tr": "- Çok iyi gidiyoruz Aziz. - Vallahi mi? - Maşallah! Topluyor, topluyor! - Oh! Elması istiyorum Lloyd! Bekle!",
-    "text_en": null,
+    "text": "- Çok iyi gidiyoruz Aziz. - Vallahi mi? - Maşallah! Topluyor, topluyor! - Oh! Elması istiyorum Lloyd! Bekle!",
     "is_frame_story": false,
     "characters": [
       "Aziz Vefa",
@@ -3654,8 +3464,7 @@
       1116,
       1117
     ],
-    "text_tr": "- Aziz! Bir onluk atsana! - Hayırdır? Sıkıntı yok. Beti arttırıyorum. Aman şef!",
-    "text_en": null,
+    "text": "- Aziz! Bir onluk atsana! - Hayırdır? Sıkıntı yok. Beti arttırıyorum. Aman şef!",
     "is_frame_story": false,
     "characters": [
       "Aziz"
@@ -3678,8 +3487,7 @@
       1120,
       1121
     ],
-    "text_tr": "- Ha! - Aa! - Ne oldu? - Baba? - Şef? - Sıkıntı yok! - Şef, sana ne oldu? - Baba!",
-    "text_en": null,
+    "text": "- Ha! - Aa! - Ne oldu? - Baba? - Şef? - Sıkıntı yok! - Şef, sana ne oldu? - Baba!",
     "is_frame_story": false,
     "characters": [],
     "scene": "Karakterler arasında panik ve endişe var.",
@@ -3774,8 +3582,7 @@
       1198,
       1199
     ],
-    "text_tr": "''Ve İzadora, tatlı meltemin yaladığı... ...pembeleşmiş yanaklarını saklamaya çalışırken... ...Jack onu belinden yakalayıp, kendine çekti. Vücutları birleştiğinde, dudakları da bu birleşmeye boyun eğdi. Ve Jack artık yalnızca bir kovboy değil, erkekti de. '' Aman Tanrım! Yok öyle bir kovboy! - Destur! Erkek var! - Vay. Aziz! - Roman mı okuyorsun Suzan? - Ha? Silahımı temizliyorum! Bir silah ne kadar temiz olabilir ki? Sen de tam kovboy oldun ha! Banjo falan... Yok yahu. Can sıkıntısından, öyle takılıyordum da. Ama bizim havalar pek çıkmıyor. Sistem tamamen farklı olduğu için. - Bizim notalar biraz arızalıdır da. - Arıza mı? Hmm... - Benim gibi yani. - Estağfurullah. Müzik sistemi farklıdır. Sizde do - re - mi diye gider; bizde komalar vardır. Haa... Mi'ye dikkat et derler sizde, komadan mı o? O yüzden. Şöyle mesela, Do... Re... Doo... Ree... Miii... Miii... Faa... Mii... - ''Mi'' bu? Hepsi ''mi'' mi bunun? - Komple ''mi''dir. Komadan dolayı. Haa, güzelmiş. E, çalsana bir şeyler? - Çalayım mı? - Çal. Haydi bakalım. # Down to the railroad. # Ain't mama let me go again. # Down to the... Ah. Bizim tarz bir şeyler. # Kimseye etmem şikayet. # Ağlarım ben halime. # Titrerim mücrim gibi # Baktıkça istikbalime. Vay! Ne tuhaf sözleri var ha. Yahu İngilizceye çevrilince biraz manasını yitiriyor tabii. Sanki beni anlatıyor ama. Ağlarım ben halime... - Sen niye ağlayasın be Suzan? - Daha ne olsun be Aziz? 22 yaşındayım, annemin kankan kızı... ...babamın Kızılderili olduğunu, daha yeni öğreniyorum. Benim babam da hamaldı. Bütün yükü annem çekerdi. Eee? Yani etraftan alay ederlerdi falan. Babadır neticede, bağrına basacaksın. - Birazcık kumarı var. - Kızılderili diyorum! Yahu, öyle kızılı beyazı yoktur böyle şeyler. Er geç herkes anlayacak, bütün dünyanın kardeş olduğunu. - Yapma. Bütün dünya mı kardeş? - İkimiz hariç. Al. Münferit olaylar var tabii. Herkes birbirini yiyor ama... ...yani bir dünya savaşı yok, en nihayetinde. Var mı cihan harbi şimdiye kadar? Ondokuzuncu yüzyıldayız, bir dünya savaşı var mı? Dünya savaşı olmadı. Ama hiç olmayacağı anlamına da gelmez yani. Yahu, bir olur, iki olur Suzan. Tut bunu da. Yalnızca notalar değil, sen de komadasın galiba. Komadayım elbet. Sana hastayım! Hasta mısın bana? Biz, birbirimize pek uygun gibi değiliz sanki, ha? Yani. Ayrı dünyalar gibi. Bir kere. Bir kere ben tütün çiğniyorum, sizde tütün yasak! Yuh! 4. Murat! Onyedinci yüzyıl! Bırakın bu önyargıları ya! Yok deveye biniyorsunuz! Yok şu yasak, bu yasak! Yok böyle şeyler! E dört kadın meselesi var sizde? Ne yapacaksın? Üç tane daha alıp beni eve mi kapatacaksın? Hep de bunu anlatırlar. Dört kadınmış. Bizde Yedi Kocalı Hürmüz diye bir karakter var. Kimse ondan bahsetmiyor! Sen bir kere doğulusun! İşte bu yüzden bana göresin ya! At - avrat - silah! Hepsi sende! Yok. Yok, ben biliyorum bu hikayeyi. Sen şimdi beni alıp götüreceksin, ne olacak? Büyükler beni istemeyecek, bir sürü tantana. Bir kere Ağlayan Nehir'e bırakıldım ben. Sen ne yapacaksın? Haliç'e mi bırakacaksın? Seni Haliç'e bırakacak adamı, Haliç'e gömerim Suzan! Yüz sene sona Japonlar çıkaramaz onu! Bırak bu doğu- batı savaşını! Doğunun iyi yanları da var. - Ne gibi? - Benim gibi. - Bıyıkların çok enteresan. - Senin de yavrum.",
-    "text_en": null,
+    "text": "''Ve İzadora, tatlı meltemin yaladığı... ...pembeleşmiş yanaklarını saklamaya çalışırken... ...Jack onu belinden yakalayıp, kendine çekti. Vücutları birleştiğinde, dudakları da bu birleşmeye boyun eğdi. Ve Jack artık yalnızca bir kovboy değil, erkekti de. '' Aman Tanrım! Yok öyle bir kovboy! - Destur! Erkek var! - Vay. Aziz! - Roman mı okuyorsun Suzan? - Ha? Silahımı temizliyorum! Bir silah ne kadar temiz olabilir ki? Sen de tam kovboy oldun ha! Banjo falan... Yok yahu. Can sıkıntısından, öyle takılıyordum da. Ama bizim havalar pek çıkmıyor. Sistem tamamen farklı olduğu için. - Bizim notalar biraz arızalıdır da. - Arıza mı? Hmm... - Benim gibi yani. - Estağfurullah. Müzik sistemi farklıdır. Sizde do - re - mi diye gider; bizde komalar vardır. Haa... Mi'ye dikkat et derler sizde, komadan mı o? O yüzden. Şöyle mesela, Do... Re... Doo... Ree... Miii... Miii... Faa... Mii... - ''Mi'' bu? Hepsi ''mi'' mi bunun? - Komple ''mi''dir. Komadan dolayı. Haa, güzelmiş. E, çalsana bir şeyler? - Çalayım mı? - Çal. Haydi bakalım. # Down to the railroad. # Ain't mama let me go again. # Down to the... Ah. Bizim tarz bir şeyler. # Kimseye etmem şikayet. # Ağlarım ben halime. # Titrerim mücrim gibi # Baktıkça istikbalime. Vay! Ne tuhaf sözleri var ha. Yahu İngilizceye çevrilince biraz manasını yitiriyor tabii. Sanki beni anlatıyor ama. Ağlarım ben halime... - Sen niye ağlayasın be Suzan? - Daha ne olsun be Aziz? 22 yaşındayım, annemin kankan kızı... ...babamın Kızılderili olduğunu, daha yeni öğreniyorum. Benim babam da hamaldı. Bütün yükü annem çekerdi. Eee? Yani etraftan alay ederlerdi falan. Babadır neticede, bağrına basacaksın. - Birazcık kumarı var. - Kızılderili diyorum! Yahu, öyle kızılı beyazı yoktur böyle şeyler. Er geç herkes anlayacak, bütün dünyanın kardeş olduğunu. - Yapma. Bütün dünya mı kardeş? - İkimiz hariç. Al. Münferit olaylar var tabii. Herkes birbirini yiyor ama... ...yani bir dünya savaşı yok, en nihayetinde. Var mı cihan harbi şimdiye kadar? Ondokuzuncu yüzyıldayız, bir dünya savaşı var mı? Dünya savaşı olmadı. Ama hiç olmayacağı anlamına da gelmez yani. Yahu, bir olur, iki olur Suzan. Tut bunu da. Yalnızca notalar değil, sen de komadasın galiba. Komadayım elbet. Sana hastayım! Hasta mısın bana? Biz, birbirimize pek uygun gibi değiliz sanki, ha? Yani. Ayrı dünyalar gibi. Bir kere. Bir kere ben tütün çiğniyorum, sizde tütün yasak! Yuh! 4. Murat! Onyedinci yüzyıl! Bırakın bu önyargıları ya! Yok deveye biniyorsunuz! Yok şu yasak, bu yasak! Yok böyle şeyler! E dört kadın meselesi var sizde? Ne yapacaksın? Üç tane daha alıp beni eve mi kapatacaksın? Hep de bunu anlatırlar. Dört kadınmış. Bizde Yedi Kocalı Hürmüz diye bir karakter var. Kimse ondan bahsetmiyor! Sen bir kere doğulusun! İşte bu yüzden bana göresin ya! At - avrat - silah! Hepsi sende! Yok. Yok, ben biliyorum bu hikayeyi. Sen şimdi beni alıp götüreceksin, ne olacak? Büyükler beni istemeyecek, bir sürü tantana. Bir kere Ağlayan Nehir'e bırakıldım ben. Sen ne yapacaksın? Haliç'e mi bırakacaksın? Seni Haliç'e bırakacak adamı, Haliç'e gömerim Suzan! Yüz sene sona Japonlar çıkaramaz onu! Bırak bu doğu- batı savaşını! Doğunun iyi yanları da var. - Ne gibi? - Benim gibi. - Bıyıkların çok enteresan. - Senin de yavrum.",
     "is_frame_story": true,
     "characters": [
       "Suzan Van Dyke",
@@ -3800,8 +3607,7 @@
       1202,
       1203
     ],
-    "text_tr": "Yine sabahı ettik. Haydi bakalım. Yıllarımızı verdik, beni tokatlayacakmış. Geri zekalı. Şunu fakire fukaraya verin. Şunun tüyerini de karılara verin, yastık yorgan doldursunlar.",
-    "text_en": null,
+    "text": "Yine sabahı ettik. Haydi bakalım. Yıllarımızı verdik, beni tokatlayacakmış. Geri zekalı. Şunu fakire fukaraya verin. Şunun tüyerini de karılara verin, yastık yorgan doldursunlar.",
     "is_frame_story": false,
     "characters": [],
     "scene": "Karakterler sabah hazırlıkları yapıyor.",
@@ -3828,8 +3634,7 @@
       1211,
       1212
     ],
-    "text_tr": "Elmasın onda olduğunu bilip de ulaşamamak... ...deli ediyor beni. Bonjour. Günaydın Aziz. Kellesini uçuracağım ama, sonra ne bok yiyeceğiz? Maşallah. Şef de dün akşam pokerde paraları berhava etti efendim. Kabileye gittim. Üstüme başıma bir şeyler aldım. Bunlar da sizinmiş galiba, bizim oğlanlar getirdi. Kusura bakmayın.",
-    "text_en": null,
+    "text": "Elmasın onda olduğunu bilip de ulaşamamak... ...deli ediyor beni. Bonjour. Günaydın Aziz. Kellesini uçuracağım ama, sonra ne bok yiyeceğiz? Maşallah. Şef de dün akşam pokerde paraları berhava etti efendim. Kabileye gittim. Üstüme başıma bir şeyler aldım. Bunlar da sizinmiş galiba, bizim oğlanlar getirdi. Kusura bakmayın.",
     "is_frame_story": false,
     "characters": [
       "Aziz Vefa"
@@ -3861,8 +3666,7 @@
       1223,
       1224
     ],
-    "text_tr": "Ne oldu ya? Yüzünüzden düşen bin parça. Ha? Ne oldu? Ben şerifin ağzından laf alabilirim belki? - Kadınlığımı kullanarak. - Hayır! Kullandırtmam! - Hangi kadınlığı Suzan? - Ne varmış efendim kadınlığında? Kasabada herkes çalışacak. En ufak ipucunu bile değerlendirmemiz lazım. Öğrenelim bakalım elması nereye saklamış. - Kızılderili sezgilerim diyor ki... - Aman Şef! Gördük dün akşam sezgilerini. - Haklısın damat. - Damat mı? Sezgiler... Haydi arkadaşlar, haydi.",
-    "text_en": null,
+    "text": "Ne oldu ya? Yüzünüzden düşen bin parça. Ha? Ne oldu? Ben şerifin ağzından laf alabilirim belki? - Kadınlığımı kullanarak. - Hayır! Kullandırtmam! - Hangi kadınlığı Suzan? - Ne varmış efendim kadınlığında? Kasabada herkes çalışacak. En ufak ipucunu bile değerlendirmemiz lazım. Öğrenelim bakalım elması nereye saklamış. - Kızılderili sezgilerim diyor ki... - Aman Şef! Gördük dün akşam sezgilerini. - Haklısın damat. - Damat mı? Sezgiler... Haydi arkadaşlar, haydi.",
     "is_frame_story": false,
     "characters": [
       "Suzan Van Dyke",
@@ -3887,8 +3691,7 @@
       1227,
       1228
     ],
-    "text_tr": "- N'aber Betty? - Gel, gel. Sen mi yaptın? Annene selam söyle. Haydi bakalım...",
-    "text_en": null,
+    "text": "- N'aber Betty? - Gel, gel. Sen mi yaptın? Annene selam söyle. Haydi bakalım...",
     "is_frame_story": false,
     "characters": [],
     "scene": "Betty ile selamlaşma",
@@ -3908,8 +3711,7 @@
       1230,
       1231
     ],
-    "text_tr": "Günah çıkarmak istiyorum peder. Ulan senin günahın boyunu aşmıştır ya. Neyse. Geç bakalım içeri.",
-    "text_en": null,
+    "text": "Günah çıkarmak istiyorum peder. Ulan senin günahın boyunu aşmıştır ya. Neyse. Geç bakalım içeri.",
     "is_frame_story": false,
     "characters": [],
     "scene": "Günah çıkarma isteği ile içeri giriliyor.",
@@ -3966,8 +3768,7 @@
       1270,
       1271
     ],
-    "text_tr": "İstersen ayağa kalk konuş, seni daha rahat duyayım yavrum. Zaten ayaktayım. Affedersin. Adın ne? Adım Alejandro Gomez Arias Hose Lobredo Alfonzo Vılla de Sandoz. Lan senin adın batsın. Uzatma. Öksür hadi, taksimetre çalışıyor. - Juan Jimenez Garcia' nın atlarını, ben çaldım! - Devam et oğlum. İçimdeki çocuğu da ben öldürdüm peder! Ahh... Kürtaj. En büyük günah! - Yüce Tanrı beni affeder mi? - Metin ol, eder. Çık bakayım dışarıya. Tanrı her zaman büyüktür. Elbet affeder. Kaldır lan ellerini! Kanun namına tutuklusun! Günah çıkaracakmış. İbnecik! O iş ayrı, bu iş ayrı! - Yürü, yürü! - Bir şans daha şerif... Başlarım senin şansına! Şerif, şöyle halledebilir miyiz? Ne oluyor lan? - Ay, bakayım küpene? - Aaa. Bak. Bak ya. E sen takı makı hiçbir şey takmıyorsun Betty. Niye? Aa valla doğru söylüyorsun. Şerif karısıyım ama hiç öyle takısı nesi yoktur. Yaa canım olur mu? Şerif seni seviyor, belli... Elmas bir kolye almış sana, bütün kasaba bunu konuşuyor. Yok be o bana değil. Satacakmış onu. Ver takayım dedim, taktırmadı. Taktırmaz tabii. Babam bana takacak onu. Ne be? Kendi ağzıyla dedi. Sana takacağım dedi. Eh, iyi. Sizin evde elmas varmış, baban bahsetti mi hiç? Ne elması be? Sen işine bak. Babam dedi zaten, yirmi sene sonra Amerikan mandasına girecekmişsiniz. Amerikan mandası diye anana demiştir o! - Yürüyün lan! - Yürüyün çocuklar! - Çok da bayıldık! Avradını siktiğimin Chucky'si. Yüce Tanrım... ...bugün işlediğim günahlar şunlar: Jessy'lerin arazi işinden rüşvet... ...komşu kızı Mary Lane'i elledik. Az önce de bir yirmilik sakal. Şimdilik aklıma gelen bu.",
-    "text_en": null,
+    "text": "İstersen ayağa kalk konuş, seni daha rahat duyayım yavrum. Zaten ayaktayım. Affedersin. Adın ne? Adım Alejandro Gomez Arias Hose Lobredo Alfonzo Vılla de Sandoz. Lan senin adın batsın. Uzatma. Öksür hadi, taksimetre çalışıyor. - Juan Jimenez Garcia' nın atlarını, ben çaldım! - Devam et oğlum. İçimdeki çocuğu da ben öldürdüm peder! Ahh... Kürtaj. En büyük günah! - Yüce Tanrı beni affeder mi? - Metin ol, eder. Çık bakayım dışarıya. Tanrı her zaman büyüktür. Elbet affeder. Kaldır lan ellerini! Kanun namına tutuklusun! Günah çıkaracakmış. İbnecik! O iş ayrı, bu iş ayrı! - Yürü, yürü! - Bir şans daha şerif... Başlarım senin şansına! Şerif, şöyle halledebilir miyiz? Ne oluyor lan? - Ay, bakayım küpene? - Aaa. Bak. Bak ya. E sen takı makı hiçbir şey takmıyorsun Betty. Niye? Aa valla doğru söylüyorsun. Şerif karısıyım ama hiç öyle takısı nesi yoktur. Yaa canım olur mu? Şerif seni seviyor, belli... Elmas bir kolye almış sana, bütün kasaba bunu konuşuyor. Yok be o bana değil. Satacakmış onu. Ver takayım dedim, taktırmadı. Taktırmaz tabii. Babam bana takacak onu. Ne be? Kendi ağzıyla dedi. Sana takacağım dedi. Eh, iyi. Sizin evde elmas varmış, baban bahsetti mi hiç? Ne elması be? Sen işine bak. Babam dedi zaten, yirmi sene sonra Amerikan mandasına girecekmişsiniz. Amerikan mandası diye anana demiştir o! - Yürüyün lan! - Yürüyün çocuklar! - Çok da bayıldık! Avradını siktiğimin Chucky'si. Yüce Tanrım... ...bugün işlediğim günahlar şunlar: Jessy'lerin arazi işinden rüşvet... ...komşu kızı Mary Lane'i elledik. Az önce de bir yirmilik sakal. Şimdilik aklıma gelen bu.",
     "is_frame_story": false,
     "characters": [
       "Juan Jimenez Garcia",
@@ -4003,8 +3804,7 @@
       1284,
       1285
     ],
-    "text_tr": "- Ne haber? Nasıl gitti? - İşte... Var gibi bir şeyler. Turta murta yedik. Sende? Çocuktan al haberi demişler ama hiçbir şey çıkmadı. Neyse, bir kaynağım daha var, dur bakalım. - Sarsana bana da bir tane. - Valla? - Aziz! Aziz! Ben otele geçiyorum! - Ah! - Ah. Yapıştı. Yapıştı. - Dur. - Yavaş ama. - Dur. Ama dur. Çek. Ah! Aa. Bıyık da gitmiş oldu. - Allah Allah... Nasıl oldu peki böyle? - İyi. - Küpeler yakışmış. - Öyle mi diyorsun?",
-    "text_en": null,
+    "text": "- Ne haber? Nasıl gitti? - İşte... Var gibi bir şeyler. Turta murta yedik. Sende? Çocuktan al haberi demişler ama hiçbir şey çıkmadı. Neyse, bir kaynağım daha var, dur bakalım. - Sarsana bana da bir tane. - Valla? - Aziz! Aziz! Ben otele geçiyorum! - Ah! - Ah. Yapıştı. Yapıştı. - Dur. - Yavaş ama. - Dur. Ama dur. Çek. Ah! Aa. Bıyık da gitmiş oldu. - Allah Allah... Nasıl oldu peki böyle? - İyi. - Küpeler yakışmış. - Öyle mi diyorsun?",
     "is_frame_story": false,
     "characters": [
       "Lemi Galip",
@@ -4034,8 +3834,7 @@
       1293,
       1294
     ],
-    "text_tr": "Bunu da yiyemedik. Macunu bulduk, kıllısını aramayalım. Oldu... O zaman ben... Otele gidip şey yapayım... - Bir temizleneyim de... - Haydi bakalım. Karısının pek bir şeyden haberi yok. Ama elması satacakmış, öyle demiş. Yani, bu bir tehlike olabilir tabii. - Lemi? - Hah? Kilisede bir şeyler geveledi ama... ...gramofonu ters bağlayıp kaydetmeye çalıştım. Kayıt çok kötü. Bakın.",
-    "text_en": null,
+    "text": "Bunu da yiyemedik. Macunu bulduk, kıllısını aramayalım. Oldu... O zaman ben... Otele gidip şey yapayım... - Bir temizleneyim de... - Haydi bakalım. Karısının pek bir şeyden haberi yok. Ama elması satacakmış, öyle demiş. Yani, bu bir tehlike olabilir tabii. - Lemi? - Hah? Kilisede bir şeyler geveledi ama... ...gramofonu ters bağlayıp kaydetmeye çalıştım. Kayıt çok kötü. Bakın.",
     "is_frame_story": false,
     "characters": [],
     "scene": "Karakterler bir tehlike hakkında konuşuyorlar.",
@@ -4089,8 +3888,7 @@
       1331,
       1332
     ],
-    "text_tr": "''Çaldığı sütle dağda, surda güttüğü iki tane keçi eşşoleşşeğin...'' - l-ıh... - Değil... ''Onların canına ot tıkamak benim boynumun borcu olsun.'' Yok. ''Elması da sattım mıydı, daha da burada benim tozumu... bulamaz itoğluitler...'' - Aa... - Evet! İşte! Gizlice fotoğrafını da çektim ama on gün sonra veriyor fotoğrafçı. Gizlice mi? Ne oluyor lan? Ha... - Sende önemli bir şey vardı hani? - Var. - Elmasın yerini biliyorum. - Nasıl biliyorsun? Chuck'ı konuşturdum. - Chuck! Elmas nerede? - Kasada. - Peki, kasadan nasıl alacağız elması? - Biz almayacağız, kendisi verecek. İşte kafamdaki kumpanya. Forty Rivers - Oil wrestling - Championship. - Yağlı güreşler? - Ha ha. Bizde de vardı bir dönem. Ama yağ bitince kaldırdık. Ha? 18 Haziran ne? Cannonball'un kurtuluşu. Bu pezevenk kimden korkar? Valilikten, mutasarrıflıktan. Lemi, derhal valiye bir telgraf çekiyorsun. ''Osmanlı Sultanı, Cannonball kasabasını, Tophane ile kardeş kasaba ilan etmiştir. Kurtuluş gününde düzenlenecek güreş müsabakalarının ödülü... ...elmas bir kolyedir. Teşrifleriniz...'' falan. İmza diye de Şerif Lloyd yazdım mı, tamam bu iş. Aziz, sen büyük bir beyinsin. Aferin. Çok iyi. İşe yarar mı dersin? - Kısmet. - E kıspet? Ayarlayacağız. Hala toz olup gitmediler. Bir dümen çeviriyorlar ama, anlarız. Bakalım. Chuck! Şuradan bana, azılı haydutların listesini ver hele. Onların hakkından gelecek bir delibozuk bulmam lazım.",
-    "text_en": null,
+    "text": "''Çaldığı sütle dağda, surda güttüğü iki tane keçi eşşoleşşeğin...'' - l-ıh... - Değil... ''Onların canına ot tıkamak benim boynumun borcu olsun.'' Yok. ''Elması da sattım mıydı, daha da burada benim tozumu... bulamaz itoğluitler...'' - Aa... - Evet! İşte! Gizlice fotoğrafını da çektim ama on gün sonra veriyor fotoğrafçı. Gizlice mi? Ne oluyor lan? Ha... - Sende önemli bir şey vardı hani? - Var. - Elmasın yerini biliyorum. - Nasıl biliyorsun? Chuck'ı konuşturdum. - Chuck! Elmas nerede? - Kasada. - Peki, kasadan nasıl alacağız elması? - Biz almayacağız, kendisi verecek. İşte kafamdaki kumpanya. Forty Rivers - Oil wrestling - Championship. - Yağlı güreşler? - Ha ha. Bizde de vardı bir dönem. Ama yağ bitince kaldırdık. Ha? 18 Haziran ne? Cannonball'un kurtuluşu. Bu pezevenk kimden korkar? Valilikten, mutasarrıflıktan. Lemi, derhal valiye bir telgraf çekiyorsun. ''Osmanlı Sultanı, Cannonball kasabasını, Tophane ile kardeş kasaba ilan etmiştir. Kurtuluş gününde düzenlenecek güreş müsabakalarının ödülü... ...elmas bir kolyedir. Teşrifleriniz...'' falan. İmza diye de Şerif Lloyd yazdım mı, tamam bu iş. Aziz, sen büyük bir beyinsin. Aferin. Çok iyi. İşe yarar mı dersin? - Kısmet. - E kıspet? Ayarlayacağız. Hala toz olup gitmediler. Bir dümen çeviriyorlar ama, anlarız. Bakalım. Chuck! Şuradan bana, azılı haydutların listesini ver hele. Onların hakkından gelecek bir delibozuk bulmam lazım.",
     "is_frame_story": false,
     "characters": [
       "Aziz Vefa",
@@ -4113,8 +3911,7 @@
     "block_ids": [
       1333
     ],
-    "text_tr": "Lan bu değil. Şu anasını babasını kesenleri ver.",
-    "text_en": null,
+    "text": "Lan bu değil. Şu anasını babasını kesenleri ver.",
     "is_frame_story": false,
     "characters": [],
     "scene": "Karakter bir şeyin yanlış olduğunu belirtiyor.",
@@ -4173,8 +3970,7 @@
       1374,
       1375
     ],
-    "text_tr": "Jesse James, yaramaz. Billy The Kid, daha dünkü bebe. Bonanza'dan Hoss, lan bu melek gibi oğlan, kim koydu bunu buraya? Sonra kaldır bunu oğlanın başı derde girmesin. - İşte. Buck Berry! - Buyur Şerif? Chuck! Ulan rahat dur! Brokeback'lli Buck Berry. Bu işi ancak sen halledersin Buck Berry! Öyle dağdan gelip burada boru öttürmek olmaz! Öyle değil mi? O kel kafalıyı var ya... ...öyle bir yere ser ki, bir Cannonball'lu olarak göğsüm... ...kabarsın! Kabarsın! Kabarsın! - Selamün aleyküm. - Ve aleyk... Hı, geldi işte. Güreş turnuvası düzenliyormuşsun Şerif! - Adımı yazdırmaya geldim. - Bırak şimdi güreşi de geç bakalım şöyle. Brokeback'li Buck Berry. Buck Berry senden şikayetçi. Ben kanun adamıyım, aranıza girmek olmaz. Buck Berry seni düelloya davet ediyor. Davetine icabet ederiz, geri çevirmeyiz. Osmanlı'ymışsınız galiba, Aziz Bey? Evet, İstanbulluyuz. İstanbul'un hamamlarını çok duydum. Türk hamamı! Evet. Gerçi biz Samatyalıyız ama Galata'da da arkadaşlarımız var. - Teşrif ederseniz İstanbul'a... - Ay hiç çıkamıyoruz ki! Hep böyle at üstünde... Aslında gidilse bir gün hamamlara, böyle sıcacık, bol köpüklü... Hamama giren terler yalnız... - Anladım ne dediğinizi... - Ben anlayamadım. Ne oluyor lan? Düello dedik. Düelloya ne oldu? Böyle hazade bir beyefendiye ateş edilmez. Salonda bir şeyler içer miyiz Aziz Bey? Siz için, biz sonra iştirak ederiz. Herkese saygımız vardır. Şerif, adımı yaz. Hadi selametle... Görüşmek üzere. Bir gün bir kadeh içkinizi içerim. - Başımla beraber... - Aaaaa! Umarım. Ne yapıyorsun lan? Biz sana adamı vur dedik, sen kendine vurduracaksın. Civelek! Şerif, seni var ya buraya çivilerim. Delirtme beni! Aziz Efendi... Aziz Efendi, böyle kuru kuru olmaz. Dur, antrenman yapalım, hamlığın gitsin. Dur ulan yağlama. Daha fazla yağlama. Başımızı belaya sokacaksın. - Sırtıma sür biraz. - Dur lan. Gel konuyu bilmiyorsun. Yürü. - Bu kim? - Yürü yürü!",
-    "text_en": null,
+    "text": "Jesse James, yaramaz. Billy The Kid, daha dünkü bebe. Bonanza'dan Hoss, lan bu melek gibi oğlan, kim koydu bunu buraya? Sonra kaldır bunu oğlanın başı derde girmesin. - İşte. Buck Berry! - Buyur Şerif? Chuck! Ulan rahat dur! Brokeback'lli Buck Berry. Bu işi ancak sen halledersin Buck Berry! Öyle dağdan gelip burada boru öttürmek olmaz! Öyle değil mi? O kel kafalıyı var ya... ...öyle bir yere ser ki, bir Cannonball'lu olarak göğsüm... ...kabarsın! Kabarsın! Kabarsın! - Selamün aleyküm. - Ve aleyk... Hı, geldi işte. Güreş turnuvası düzenliyormuşsun Şerif! - Adımı yazdırmaya geldim. - Bırak şimdi güreşi de geç bakalım şöyle. Brokeback'li Buck Berry. Buck Berry senden şikayetçi. Ben kanun adamıyım, aranıza girmek olmaz. Buck Berry seni düelloya davet ediyor. Davetine icabet ederiz, geri çevirmeyiz. Osmanlı'ymışsınız galiba, Aziz Bey? Evet, İstanbulluyuz. İstanbul'un hamamlarını çok duydum. Türk hamamı! Evet. Gerçi biz Samatyalıyız ama Galata'da da arkadaşlarımız var. - Teşrif ederseniz İstanbul'a... - Ay hiç çıkamıyoruz ki! Hep böyle at üstünde... Aslında gidilse bir gün hamamlara, böyle sıcacık, bol köpüklü... Hamama giren terler yalnız... - Anladım ne dediğinizi... - Ben anlayamadım. Ne oluyor lan? Düello dedik. Düelloya ne oldu? Böyle hazade bir beyefendiye ateş edilmez. Salonda bir şeyler içer miyiz Aziz Bey? Siz için, biz sonra iştirak ederiz. Herkese saygımız vardır. Şerif, adımı yaz. Hadi selametle... Görüşmek üzere. Bir gün bir kadeh içkinizi içerim. - Başımla beraber... - Aaaaa! Umarım. Ne yapıyorsun lan? Biz sana adamı vur dedik, sen kendine vurduracaksın. Civelek! Şerif, seni var ya buraya çivilerim. Delirtme beni! Aziz Efendi... Aziz Efendi, böyle kuru kuru olmaz. Dur, antrenman yapalım, hamlığın gitsin. Dur ulan yağlama. Daha fazla yağlama. Başımızı belaya sokacaksın. - Sırtıma sür biraz. - Dur lan. Gel konuyu bilmiyorsun. Yürü. - Bu kim? - Yürü yürü!",
     "is_frame_story": false,
     "characters": [
       "Buck Berry",
@@ -4201,8 +3997,7 @@
       1379,
       1380
     ],
-    "text_tr": "Kel, kör, kendi işini kendin gör... Bak beri. Ulan beri bak! Git söyle, ''Akşam vaazından sonra, şerif seni düelloya çağırıyor'' de. Sen de her zamanki gibi çanın oraya geç.",
-    "text_en": null,
+    "text": "Kel, kör, kendi işini kendin gör... Bak beri. Ulan beri bak! Git söyle, ''Akşam vaazından sonra, şerif seni düelloya çağırıyor'' de. Sen de her zamanki gibi çanın oraya geç.",
     "is_frame_story": false,
     "characters": [],
     "scene": "Bir karakter şerife düello çağrısı yapıyor.",
@@ -4250,8 +4045,7 @@
       1410,
       1411
     ],
-    "text_tr": "Hadi şimdi hareketlenin biraz. İçine biraz cilve katın. # Bizi görenler sakın kıskanmasınlar... # Bir eş bulup evlenerek mesut olsunlar... - Evlenerrek... - Evlenerrek mesut olsunlar... - Bizi göre... - Suzan. Evde bunları bulabildim. Bir de şemsiye var. Sağ ol Betty. Ay ben ilk defa böyle bir şey giyeceğim. Bak bakayım, nasıl? Gel bakalım böyle. - Aziz... - He? Umarım boşuna uğraşmıyorsundur. Daha telgrafa cevap gelmedi. Gelecek yavrum. İnşallah gelecek. - O atla gösteri yapan adam vardı. Ne oldu? - Cevap bekliyoruz. Aziz, şiir okuyacak kızımız geldi. Oku yavrum. Bir apaçi ağlıyor... Gözleri yaşlı... - Yalnız bir... - Aziz Bey... Ne var lan? Şerif Lloyd seni meydanda düelloya davet ediyor. Saat 6'da... - Aziz, bırak ben gideyim. - Şerifin karşısına ben çıkacağım. - Suzan seni ateşe atamam. - Aziz, benim işim bu. Benim için çocuk oyuncağı. Benden daha hızlı silah çekemezsin. - Ben de hızlı silah çekiyorum. Bak! - Benim silahım lan o! Haa... Çek bakalım silahını, ne kadar hızlısın? Suzan, sana nasıl silah çekeyim? Benden daha hızlıysan düelloya sen gidersin. Haydi çek! - Suzan... - Çek! - Şef... - Çek! - Chuck! - Lemi! - Çek! - Bir karar verin amına koyayım be!",
-    "text_en": null,
+    "text": "Hadi şimdi hareketlenin biraz. İçine biraz cilve katın. # Bizi görenler sakın kıskanmasınlar... # Bir eş bulup evlenerek mesut olsunlar... - Evlenerrek... - Evlenerrek mesut olsunlar... - Bizi göre... - Suzan. Evde bunları bulabildim. Bir de şemsiye var. Sağ ol Betty. Ay ben ilk defa böyle bir şey giyeceğim. Bak bakayım, nasıl? Gel bakalım böyle. - Aziz... - He? Umarım boşuna uğraşmıyorsundur. Daha telgrafa cevap gelmedi. Gelecek yavrum. İnşallah gelecek. - O atla gösteri yapan adam vardı. Ne oldu? - Cevap bekliyoruz. Aziz, şiir okuyacak kızımız geldi. Oku yavrum. Bir apaçi ağlıyor... Gözleri yaşlı... - Yalnız bir... - Aziz Bey... Ne var lan? Şerif Lloyd seni meydanda düelloya davet ediyor. Saat 6'da... - Aziz, bırak ben gideyim. - Şerifin karşısına ben çıkacağım. - Suzan seni ateşe atamam. - Aziz, benim işim bu. Benim için çocuk oyuncağı. Benden daha hızlı silah çekemezsin. - Ben de hızlı silah çekiyorum. Bak! - Benim silahım lan o! Haa... Çek bakalım silahını, ne kadar hızlısın? Suzan, sana nasıl silah çekeyim? Benden daha hızlıysan düelloya sen gidersin. Haydi çek! - Suzan... - Çek! - Şef... - Çek! - Chuck! - Lemi! - Çek! - Bir karar verin amına koyayım be!",
     "is_frame_story": true,
     "characters": [
       "Suzan",
@@ -4279,8 +4073,7 @@
       1415,
       1416
     ],
-    "text_tr": "Şerife söyle, Suzan Van Dyke'la dövüşecek. Bizim deliye bir bakayım ben. - Kızım... - Baba... Dur Aziz... Ulan bana bak, hatıratına bunu yazarsan gebertirim seni ha!",
-    "text_en": null,
+    "text": "Şerife söyle, Suzan Van Dyke'la dövüşecek. Bizim deliye bir bakayım ben. - Kızım... - Baba... Dur Aziz... Ulan bana bak, hatıratına bunu yazarsan gebertirim seni ha!",
     "is_frame_story": false,
     "characters": [
       "Şerif Lloyd",
@@ -4303,8 +4096,7 @@
       1418,
       1419
     ],
-    "text_tr": "Fırtına öncesi sessizlik bu. Daha büyük şeyler olacak... Lan git!",
-    "text_en": null,
+    "text": "Fırtına öncesi sessizlik bu. Daha büyük şeyler olacak... Lan git!",
     "is_frame_story": false,
     "characters": [],
     "scene": "Karakter fırtına öncesi sessizliği tanımlıyor.",
@@ -4330,8 +4122,7 @@
       1429,
       1430
     ],
-    "text_tr": "Ne yapıyor lan bu akbaba? Ne yapıyorsun lan sen? Hanımefendinin ölçüsünü alıyoruz. Tabut için. Ölçü lazımsa vereyim. Al. Yirmi beş santim. Yürü! Suzan, sana annemin muskasını vereceğim. Her türlü musibetten, badireden korur. Vermiyorum, tamam. Seni seviyorum Suzan. - Ben de seni seviyorum Aziz. >- Hadi ulan keloğlan! Kaybol oradan, götünden zımbalayacağım şimdi. - Kaybolun ulan sizde. - Hayırlı işler. Düellodan sonra, kasabadan siktir olup gideceksiniz!",
-    "text_en": null,
+    "text": "Ne yapıyor lan bu akbaba? Ne yapıyorsun lan sen? Hanımefendinin ölçüsünü alıyoruz. Tabut için. Ölçü lazımsa vereyim. Al. Yirmi beş santim. Yürü! Suzan, sana annemin muskasını vereceğim. Her türlü musibetten, badireden korur. Vermiyorum, tamam. Seni seviyorum Suzan. - Ben de seni seviyorum Aziz. >- Hadi ulan keloğlan! Kaybol oradan, götünden zımbalayacağım şimdi. - Kaybolun ulan sizde. - Hayırlı işler. Düellodan sonra, kasabadan siktir olup gideceksiniz!",
     "is_frame_story": false,
     "characters": [
       "Aziz Vefa",
@@ -4355,8 +4146,7 @@
       1432,
       1434
     ],
-    "text_tr": "Orada! Çatıda! Ahh...",
-    "text_en": null,
+    "text": "Orada! Çatıda! Ahh...",
     "is_frame_story": false,
     "characters": [],
     "scene": "Bir karakter çatıda bir şey gördüğünü haykırıyor.",
@@ -4385,8 +4175,7 @@
       1444,
       1445
     ],
-    "text_tr": "Senden de bu beklenirdi zaten. Eşşekoğlueşşek! - Suzan... - Aziz... - Aziz abi, al aynanı. - Aferin lan Johnnie... Ayinesi iştir kişinin lafa bakılmaz. Şahsın görünür rütbe-i aklı eserinde. Aferin Johnnie. İdrak-ı meali bu küçük akla gerekmez, zira bu terazi bu kadar sikleti çekmez. Ziya Paşa. Aslanım benim... Şerif Lloyd. Size telgraf var efendim. Çekil lan.",
-    "text_en": null,
+    "text": "Senden de bu beklenirdi zaten. Eşşekoğlueşşek! - Suzan... - Aziz... - Aziz abi, al aynanı. - Aferin lan Johnnie... Ayinesi iştir kişinin lafa bakılmaz. Şahsın görünür rütbe-i aklı eserinde. Aferin Johnnie. İdrak-ı meali bu küçük akla gerekmez, zira bu terazi bu kadar sikleti çekmez. Ziya Paşa. Aslanım benim... Şerif Lloyd. Size telgraf var efendim. Çekil lan.",
     "is_frame_story": false,
     "characters": [
       "Suzan Van Dyke",
@@ -4431,8 +4220,7 @@
       1467,
       1468
     ],
-    "text_tr": "Valilik diyor... Teşrifleri mi? Kırkpınar güreşleri... Koskoca Osmanlı Sultanı himayesinde diyor. Hem de ben organize etmişim. O telgrafı çeken ellerin kırılsın. Vali Wilson geliyor. Belediye başkanı gelir. Mutasarrıflıktan da gelen olur. Kendi ellerimle koskoca elması nasıl vereyim ben? - Aman... Ver kurtul sen de be! - Lan sirkeli suyunu siktirme lan! - Lan çık dışarıda oyna sen de! Hadi! - Vur, vur, vur o küçüğe de vur. Kafasına vur ki ağabeyi gibi onu da delirt. Ya ben ne edeceğim? Ben kafayı yiyeceğim. Yarın öğlen burada olur hepsi. Kendimi vuracağım. Kendimi vuracağım! Kolay değil yenge, avize taşı gibi taş! - Ne dedin lan sen? - Avize taşı! - Aferin lan Chuck. Çak. - Yapma şerif. Lan bu sefer essahtan çak! Aahhh! Babanın düşmanlarını sikeyim. Avize taşı değil mi? Aahhh... Kırkpınar Güreşleri Gösteri Alanı 18 Haziran 1881.",
-    "text_en": null,
+    "text": "Valilik diyor... Teşrifleri mi? Kırkpınar güreşleri... Koskoca Osmanlı Sultanı himayesinde diyor. Hem de ben organize etmişim. O telgrafı çeken ellerin kırılsın. Vali Wilson geliyor. Belediye başkanı gelir. Mutasarrıflıktan da gelen olur. Kendi ellerimle koskoca elması nasıl vereyim ben? - Aman... Ver kurtul sen de be! - Lan sirkeli suyunu siktirme lan! - Lan çık dışarıda oyna sen de! Hadi! - Vur, vur, vur o küçüğe de vur. Kafasına vur ki ağabeyi gibi onu da delirt. Ya ben ne edeceğim? Ben kafayı yiyeceğim. Yarın öğlen burada olur hepsi. Kendimi vuracağım. Kendimi vuracağım! Kolay değil yenge, avize taşı gibi taş! - Ne dedin lan sen? - Avize taşı! - Aferin lan Chuck. Çak. - Yapma şerif. Lan bu sefer essahtan çak! Aahhh! Babanın düşmanlarını sikeyim. Avize taşı değil mi? Aahhh... Kırkpınar Güreşleri Gösteri Alanı 18 Haziran 1881.",
     "is_frame_story": false,
     "characters": [],
     "scene": "Kırkpınar güreşleri organizasyonu hakkında konuşuluyor.",
@@ -4462,8 +4250,7 @@
       1481,
       1482
     ],
-    "text_tr": "Sizin yerel kıyafetler de çok güzelmiş. - Damat gibi olmuşsun. - Sağ ol, şef. - Nasılım baba? - Annen gibi çok güzelsin yavrum. Hadi ben içeri geçiyorum. - Hadi, iyi geçsin. - Sağ ol yavrum. - Lemi! - Aziz! - Kim geldi bil! - Hı? Buffalo Bill! Açılış konuşmasını sen yapacaksın. E bu laflar boy boy... Daha sonra da atlı kovboy. Atlı kovboya para verdim... - Buyurun geldim... - Güzel. Atının başına... Vali geliyor. Vali geliyor. Vali!",
-    "text_en": null,
+    "text": "Sizin yerel kıyafetler de çok güzelmiş. - Damat gibi olmuşsun. - Sağ ol, şef. - Nasılım baba? - Annen gibi çok güzelsin yavrum. Hadi ben içeri geçiyorum. - Hadi, iyi geçsin. - Sağ ol yavrum. - Lemi! - Aziz! - Kim geldi bil! - Hı? Buffalo Bill! Açılış konuşmasını sen yapacaksın. E bu laflar boy boy... Daha sonra da atlı kovboy. Atlı kovboya para verdim... - Buyurun geldim... - Güzel. Atının başına... Vali geliyor. Vali geliyor. Vali!",
     "is_frame_story": false,
     "characters": [
       "Lemi Galip",
@@ -4499,8 +4286,7 @@
       1495,
       1496
     ],
-    "text_tr": "Efendim Lemi Galip, hazineden. Hoş geldiniz. Aziz Vefa. Teşkilattan. Ama gizli. - Memnun oldum canım. - Hoş geldiniz. Sayın Valim. Cannonball kasabasının Şerifi William Lloyd. - Memnun oldum canım. - Ben de karısıyım, Betty Lloyd. Memnun oldum hanımefendi. Her tarafı temizlettik efendim. Lütfen buyurun. Buyurun. Bütün organizasyon bana ait. Kalk len oradan. Ben seni başka bir yere oturtacağım. Kaybol. Sayın Valim, Kızılderili kardeşlerimizle etle tırnak gibiyiz, yıllardır. Ayrıca kazanana takdim edeceğimiz ödülü de zat-ı alinize veriyorum. Sağ olun. - Efendim, başlıyoruz. - Buyurun.",
-    "text_en": null,
+    "text": "Efendim Lemi Galip, hazineden. Hoş geldiniz. Aziz Vefa. Teşkilattan. Ama gizli. - Memnun oldum canım. - Hoş geldiniz. Sayın Valim. Cannonball kasabasının Şerifi William Lloyd. - Memnun oldum canım. - Ben de karısıyım, Betty Lloyd. Memnun oldum hanımefendi. Her tarafı temizlettik efendim. Lütfen buyurun. Buyurun. Bütün organizasyon bana ait. Kalk len oradan. Ben seni başka bir yere oturtacağım. Kaybol. Sayın Valim, Kızılderili kardeşlerimizle etle tırnak gibiyiz, yıllardır. Ayrıca kazanana takdim edeceğimiz ödülü de zat-ı alinize veriyorum. Sağ olun. - Efendim, başlıyoruz. - Buyurun.",
     "is_frame_story": false,
     "characters": [
       "Lemi Galip",
@@ -4525,8 +4311,7 @@
       1498,
       1499
     ],
-    "text_tr": "Yek... dü... Tecrübe... Yek... dü... Tecrübe... Tecrübe... Aziz... Ya... yay...",
-    "text_en": null,
+    "text": "Yek... dü... Tecrübe... Yek... dü... Tecrübe... Tecrübe... Aziz... Ya... yay...",
     "is_frame_story": false,
     "characters": [
       "Aziz Vefa"
@@ -4552,8 +4337,7 @@
       1505,
       1506
     ],
-    "text_tr": "Sayın Vali. Sayın Kaymakam. Kıymetli Belediye Başkanı. Birbirinden değerli Kızılderili kardeşlerimiz ve Cannonball Ahalisi. Unuttuğum biri var mı diye bakıyorum... Şimdi, sultanımızın, Tophane nahiyemizle... ...kardeş kasaba ilan ettiği, bu güzide beldemizin... ...Cannonball'un, düşman işgalinden kurtuluşunun... ...temsili milisler tarafından canlandırılması! Arz ederim!",
-    "text_en": null,
+    "text": "Sayın Vali. Sayın Kaymakam. Kıymetli Belediye Başkanı. Birbirinden değerli Kızılderili kardeşlerimiz ve Cannonball Ahalisi. Unuttuğum biri var mı diye bakıyorum... Şimdi, sultanımızın, Tophane nahiyemizle... ...kardeş kasaba ilan ettiği, bu güzide beldemizin... ...Cannonball'un, düşman işgalinden kurtuluşunun... ...temsili milisler tarafından canlandırılması! Arz ederim!",
     "is_frame_story": false,
     "characters": [],
     "scene": "Vali, Kaymakam ve Belediye Başkanı'nın konuşması.",
@@ -4576,8 +4360,7 @@
       1512,
       1513
     ],
-    "text_tr": "Bir apaçi ağlıyor... Gözleri yaşlı... Yalnız bir kovboydu... Dağları aştı... Ağla kovboy ağla! Ben de ağlayayım! Bu topraklardan sana arsa bağlayayım! Kalk lan! Sen de bir şeyler yap, Vali'nin gözüne girelim. Hadi! Amerika kovboyları donsuz gezerler, çıplak atın üstünde...",
-    "text_en": null,
+    "text": "Bir apaçi ağlıyor... Gözleri yaşlı... Yalnız bir kovboydu... Dağları aştı... Ağla kovboy ağla! Ben de ağlayayım! Bu topraklardan sana arsa bağlayayım! Kalk lan! Sen de bir şeyler yap, Vali'nin gözüne girelim. Hadi! Amerika kovboyları donsuz gezerler, çıplak atın üstünde...",
     "is_frame_story": false,
     "characters": [],
     "scene": "Bir kovboyun yalnızlığı ve çaresizliği üzerine bir monolog.",
@@ -4597,8 +4380,7 @@
       1514,
       1515
     ],
-    "text_tr": "Şimdi de Suzan Van Dyke'tan atış gösterisi. Fırla! Fırla! Dikkat et, Vali'yi vurma.",
-    "text_en": null,
+    "text": "Şimdi de Suzan Van Dyke'tan atış gösterisi. Fırla! Fırla! Dikkat et, Vali'yi vurma.",
     "is_frame_story": false,
     "characters": [],
     "scene": "Suzan Van Dyke atış gösterisi yapıyor.",
@@ -4617,8 +4399,7 @@
     "block_ids": [
       1518
     ],
-    "text_tr": "Çocuklar, beş dakikamız var.",
-    "text_en": null,
+    "text": "Çocuklar, beş dakikamız var.",
     "is_frame_story": false,
     "characters": [],
     "scene": "Çocuklar zamanın az olduğunu bildiriyor.",
@@ -4644,8 +4425,7 @@
       1529,
       1530
     ],
-    "text_tr": "Pehlivan... Pehlivan! Yiğitler çıktı meydana... ...her biri birbirinden merdane... Atlar gibi tepişin, aslanlar gibi güreşin. İşte meydan, işte pehlivan. Alta geldim diye erinme. Üste çıktım diye şişinme. Alta gelirsen apış... Üste gelirsen paça kazıktan yapış. Kazanan: Aziz Vefa! Bravo Aziz! - Kazanan ne alıyordu? - Kafasını... İşine bak len. Önüne bak len.",
-    "text_en": null,
+    "text": "Pehlivan... Pehlivan! Yiğitler çıktı meydana... ...her biri birbirinden merdane... Atlar gibi tepişin, aslanlar gibi güreşin. İşte meydan, işte pehlivan. Alta geldim diye erinme. Üste çıktım diye şişinme. Alta gelirsen apış... Üste gelirsen paça kazıktan yapış. Kazanan: Aziz Vefa! Bravo Aziz! - Kazanan ne alıyordu? - Kafasını... İşine bak len. Önüne bak len.",
     "is_frame_story": false,
     "characters": [
       "Aziz Vefa"
@@ -4667,8 +4447,7 @@
       1531,
       1532
     ],
-    "text_tr": "Kazanan: Küçük Joe! Kazanan: Aziz Vefa!",
-    "text_en": null,
+    "text": "Kazanan: Küçük Joe! Kazanan: Aziz Vefa!",
     "is_frame_story": false,
     "characters": [
       "Aziz Vefa"
@@ -4690,8 +4469,7 @@
       1534,
       1535
     ],
-    "text_tr": "Kazanan: Keş John! - Hadi Aziz! Aferin! Bravo! - Kazanan: Aziz Vefa! Kazanan: Büyük Ben!",
-    "text_en": null,
+    "text": "Kazanan: Keş John! - Hadi Aziz! Aferin! Bravo! - Kazanan: Aziz Vefa! Kazanan: Büyük Ben!",
     "is_frame_story": false,
     "characters": [
       "Aziz Vefa"
@@ -4718,8 +4496,7 @@
       1542,
       1543
     ],
-    "text_tr": "Bravo Aziz! Harbiden indiriyor musun, yoksa kıyak mı geçiyorlar? Haa kıyak geçiyorlar... - Aldık be emaneti Aziz, ha? - Aldık kardeşim. - Küçük bir teferruat kaldı. - Bu mu? O değil lan. Bu! Sen ne istiyorsun? Adam yeterince yağlı. Git hadi. Hadi Aziz... Aferin sana. Allah'a emanet!",
-    "text_en": null,
+    "text": "Bravo Aziz! Harbiden indiriyor musun, yoksa kıyak mı geçiyorlar? Haa kıyak geçiyorlar... - Aldık be emaneti Aziz, ha? - Aldık kardeşim. - Küçük bir teferruat kaldı. - Bu mu? O değil lan. Bu! Sen ne istiyorsun? Adam yeterince yağlı. Git hadi. Hadi Aziz... Aferin sana. Allah'a emanet!",
     "is_frame_story": false,
     "characters": [
       "Aziz Vefa"
@@ -4745,8 +4522,7 @@
       1548,
       1549
     ],
-    "text_tr": "- Bravo Aziz! Bravo! - Öldü mü lan? - Yok yahu. Müsabakalardan evvel iki kazan kuru pilav yedirdim. İyi bile dayandı. Turnuvanın galibi: Aziz Vefa! Hadi Aziz! Vali bekliyor.",
-    "text_en": null,
+    "text": "- Bravo Aziz! Bravo! - Öldü mü lan? - Yok yahu. Müsabakalardan evvel iki kazan kuru pilav yedirdim. İyi bile dayandı. Turnuvanın galibi: Aziz Vefa! Hadi Aziz! Vali bekliyor.",
     "is_frame_story": false,
     "characters": [
       "Aziz Vefa"
@@ -4773,8 +4549,7 @@
       1555,
       1556
     ],
-    "text_tr": "Çok bahtiyarım Suzan kardeş. Aferin kel oğlan. Tebrik ederim. Bileğinin hakkıyla kazandın. Sayın Valim, lütfen siz takdim edin. Buyurun. - Tebrikler Aziz Bey. - Sağ olun efendim. Nasıl söylüyorsunuz, bu er meydanında büyük bir zafer kazandınız. Onun için bu ödülü size veriyorum. Buyurun.",
-    "text_en": null,
+    "text": "Çok bahtiyarım Suzan kardeş. Aferin kel oğlan. Tebrik ederim. Bileğinin hakkıyla kazandın. Sayın Valim, lütfen siz takdim edin. Buyurun. - Tebrikler Aziz Bey. - Sağ olun efendim. Nasıl söylüyorsunuz, bu er meydanında büyük bir zafer kazandınız. Onun için bu ödülü size veriyorum. Buyurun.",
     "is_frame_story": false,
     "characters": [
       "Suzan Van Dyke",
@@ -4813,8 +4588,7 @@
       1573,
       1574
     ],
-    "text_tr": "- Aziz Bey? - Buyurun efendim. Buyurun. - Aziz, elmas sahteymiş. - Belli... - Gerçek elmas kasadaymış. - Galiba kasanın anahtarı nerede biliyorum. - Nasıl yani? - Nasıl yani? - Chuck'ı konuşturdum. - Chuck'ı mı konuşturdun? - Chuck! Elmas nerede? - Kasada. - Kasanın anahtarı nerede? - Şerifin götünde. Siktir lan! İlk söylediğinde ciddiye almamıştım. Ama şimdi taşlar yerine oturuyor. Bekleyin beni. - Sayın Valim? >- Buyurun? Müsaade ederseniz Şerif Lloyd'u er meydanında... ...bir gösteri maçına davet etmek istiyorum. Buyurun tabii. İstediğiniz gibi... - Yürü! Düzenbaz! - Fakat Sayın Valim... - Kispeti getirin! - Fakat Sayın Valim, beni böyle... Davullar çalsın! Lloooyd!",
-    "text_en": null,
+    "text": "- Aziz Bey? - Buyurun efendim. Buyurun. - Aziz, elmas sahteymiş. - Belli... - Gerçek elmas kasadaymış. - Galiba kasanın anahtarı nerede biliyorum. - Nasıl yani? - Nasıl yani? - Chuck'ı konuşturdum. - Chuck'ı mı konuşturdun? - Chuck! Elmas nerede? - Kasada. - Kasanın anahtarı nerede? - Şerifin götünde. Siktir lan! İlk söylediğinde ciddiye almamıştım. Ama şimdi taşlar yerine oturuyor. Bekleyin beni. - Sayın Valim? >- Buyurun? Müsaade ederseniz Şerif Lloyd'u er meydanında... ...bir gösteri maçına davet etmek istiyorum. Buyurun tabii. İstediğiniz gibi... - Yürü! Düzenbaz! - Fakat Sayın Valim... - Kispeti getirin! - Fakat Sayın Valim, beni böyle... Davullar çalsın! Lloooyd!",
     "is_frame_story": false,
     "characters": [
       "Aziz Vefa",
@@ -4847,8 +4621,7 @@
       1585,
       1586
     ],
-    "text_tr": "Ulen, lastiğin biri patlak ama sen kaşındın kel oğlan. Gel bakalım üçüncü dünyanın vatandaşı. Benim bildiğim bir tane dünya var Lloyd! Orada da sana yer yok. Biz de aya gideriz. Ulan siz gitmeseniz de gittik dersiniz zaten! Konuşma lan. Götü boklu emperyalist. Elli sene içinde Balkanlar'dan götünüze tekmeyi vurup kovacaklar. - Sen de götüne kına yakarsın o zaman. - Yok ya! Ah! Lan dur... Oraya değil lan... Oraya... Hasancık kemiğim lan... Suzan!",
-    "text_en": null,
+    "text": "Ulen, lastiğin biri patlak ama sen kaşındın kel oğlan. Gel bakalım üçüncü dünyanın vatandaşı. Benim bildiğim bir tane dünya var Lloyd! Orada da sana yer yok. Biz de aya gideriz. Ulan siz gitmeseniz de gittik dersiniz zaten! Konuşma lan. Götü boklu emperyalist. Elli sene içinde Balkanlar'dan götünüze tekmeyi vurup kovacaklar. - Sen de götüne kına yakarsın o zaman. - Yok ya! Ah! Lan dur... Oraya değil lan... Oraya... Hasancık kemiğim lan... Suzan!",
     "is_frame_story": false,
     "characters": [
       "Lloyd",
@@ -4873,8 +4646,7 @@
       1589,
       1590
     ],
-    "text_tr": "Kazanan, Aziz Vefa! Rahatladın mı? Baba, sana emanet! Şimdi de evlilik düeti!",
-    "text_en": null,
+    "text": "Kazanan, Aziz Vefa! Rahatladın mı? Baba, sana emanet! Şimdi de evlilik düeti!",
     "is_frame_story": false,
     "characters": [
       "Aziz Vefa"
@@ -4926,8 +4698,7 @@
       1623,
       1624
     ],
-    "text_tr": "# Bu bekârlıktan bıktım usandım. # Metreslerimden hiç tat almadım. # Bu bekârlıktan bıktım usandım. # Metreslerimden hiç tat almadım. # Şimdi tek arzum, evlenmektir kararım. # Lakin münasip bir bayan nerden bulayım? # Şimdi tek arzum, evlenmektir kararım. # Lakin münasip bir bayan nerden bulayım? # Bu bekârlıktan bıktım usandım. # Âşıklarımdan hiç tat almadım. # Bu bekârlıktan bıktım usandım. # Nasiplerimden hiç tat almadım. # Şimdi tek arzum, evlenmektir kararım. # Lakin münasip bir koca nerden bulayım? - Senin ismin neydi delikanlı? - Chuuuck! Derhal! # Lakin münasip bir koca nerden bulayım? # İşte bir bayan pek mini mini... # Acep söylesem sever mi beni? # İşte bir bayan pek mini mini... # Acep söylesem sever mi beni? # Matmazel bana verir misin elini? # Al elimin, hem kalbimin sensin sahibi. # Matmazel bana verir misin kalbini? # Al elimin, hem kalbimin sensin sahibi. # İşte kavuştum ben aşığıma. # Tanrı çıkardı seni karşıma. # Aç kollarını gel aguşuma. # Darısı bekârların başına... # Bizi görenler sakın kıskanmasınlar. # Bir eş bulup evlenerek mesut olsunlar. # Bizi görenler sakın kıskanmasınlar. # Bir eş bulup evlenerek mesut olsunlar.",
-    "text_en": null,
+    "text": "# Bu bekârlıktan bıktım usandım. # Metreslerimden hiç tat almadım. # Bu bekârlıktan bıktım usandım. # Metreslerimden hiç tat almadım. # Şimdi tek arzum, evlenmektir kararım. # Lakin münasip bir bayan nerden bulayım? # Şimdi tek arzum, evlenmektir kararım. # Lakin münasip bir bayan nerden bulayım? # Bu bekârlıktan bıktım usandım. # Âşıklarımdan hiç tat almadım. # Bu bekârlıktan bıktım usandım. # Nasiplerimden hiç tat almadım. # Şimdi tek arzum, evlenmektir kararım. # Lakin münasip bir koca nerden bulayım? - Senin ismin neydi delikanlı? - Chuuuck! Derhal! # Lakin münasip bir koca nerden bulayım? # İşte bir bayan pek mini mini... # Acep söylesem sever mi beni? # İşte bir bayan pek mini mini... # Acep söylesem sever mi beni? # Matmazel bana verir misin elini? # Al elimin, hem kalbimin sensin sahibi. # Matmazel bana verir misin kalbini? # Al elimin, hem kalbimin sensin sahibi. # İşte kavuştum ben aşığıma. # Tanrı çıkardı seni karşıma. # Aç kollarını gel aguşuma. # Darısı bekârların başına... # Bizi görenler sakın kıskanmasınlar. # Bir eş bulup evlenerek mesut olsunlar. # Bizi görenler sakın kıskanmasınlar. # Bir eş bulup evlenerek mesut olsunlar.",
     "is_frame_story": true,
     "characters": [],
     "scene": "Zeki Abi bekarlık ve evlilik üzerine düşüncelerini paylaşıyor.",
@@ -4958,8 +4729,7 @@
       1636,
       1637
     ],
-    "text_tr": "Beyaz Saray, Washington (Kolombiya Bölgesi) Kadını anlat kadını. Posta arabası diye bir posta gidiyordu valla. Aziz efendi nükteyi bırakın efendim. Bir bayan vardı... Hmmm... Vay, kilisedeki oğlan... Lan ne yaptın ettin, Beyaz Saray'a girdin ha? - Aferin valla. - Daha bu bir şey değil. Şimdilik limonatalarına işiyorum. Daha neler yapacağım. Ziyade olsun. Aaaa, ne arıyorsunuz efendim burada? Ben size söylemedim mi daha büyük şeyler olacak diye? Afiyet olsun. Başkan James Abraham Garfield...",
-    "text_en": null,
+    "text": "Beyaz Saray, Washington (Kolombiya Bölgesi) Kadını anlat kadını. Posta arabası diye bir posta gidiyordu valla. Aziz efendi nükteyi bırakın efendim. Bir bayan vardı... Hmmm... Vay, kilisedeki oğlan... Lan ne yaptın ettin, Beyaz Saray'a girdin ha? - Aferin valla. - Daha bu bir şey değil. Şimdilik limonatalarına işiyorum. Daha neler yapacağım. Ziyade olsun. Aaaa, ne arıyorsunuz efendim burada? Ben size söylemedim mi daha büyük şeyler olacak diye? Afiyet olsun. Başkan James Abraham Garfield...",
     "is_frame_story": false,
     "characters": [],
     "scene": "Zeki Abi Beyaz Saray'dan bahsediyor",
@@ -5030,8 +4800,7 @@
       1689,
       1690
     ],
-    "text_tr": "Lemi? Efendim gecikmiş de olsa, Sultanımızın hediyesini, müsaade buyurursanız... - Buyurun. - Dostluğumuzun bir nişanesi olarak... Vay! İnanılmaz... Nereden buldunuz bunu ya? Ha? Çaldınız mı yoksa ha? - Böyle şeyler var mı sizde? - Efendim, sultanımızın gönlünden kopmuş. İyi de, ben takamam bunu yahu. Öyle değil mi Benson? Yahu, size bir şey soracağım, sizin memlekette deve var mı? Efendim var. Var ama sizin ayarınızda yok. İyi, oh varsa... Başkanlığımızın Aziz Bey size küçük bir hediyesi... Hani yolda nasıl olsa çarıkları da çaldırırsınız... ...memlekete yalınayak, başı kabak dönmeyin. Aziz'cim... Sinirlenme Aziz. Efendim size şöyle cevap vereyim... Yalın ayak başı kabak, gezdik hep garb-ı alem... Kimi yahşi, kimi vahşi, kimi erbab-ı kalem... Unvanın hıyardır ama, diyelim bari badem... Ver sokayım çizmene, hediye olundu madem. Çak Lemi. İşte Vedat abicim hikâye böyle. Hatta... ...Aziz Baba'nın o finalde başkana çektiği cilanın eski Türkçe olarak... ...burada yazılı hali mevcut. - Yani her şey olduğu gibi... - Gerçek abi. Bakayım abi şuna. - Burada abi, eski Türkçe. - Vay be! Böyle bir şey yok. Muhteşem! Ya Zeki'ciğim, ne güzel anlattın. Uçurdun bizi ya, valla. Eeee, ne diyorsun şimdi çizmeye? Yirmi abi... - Yirmi ne? - Afyon dinarı. Yirmi bin dolar abi. Yirmi bin dolar, o da gerçekten sizin gibi bir abimize. Alpay abim bilir bunu... ...Vedat Abi, ihtiyacım olmasa hakikaten satacak bir insan değilim. Çok kıymetli... Şimdi Zeki'cim, yani, elması getirmiş olsan... Abi onlar hep müzededir. Onları biz de göremeyiz yani. Müzededir. Şaka tabii canım. Ama yani şimdi işin gerçeği çizme pek benim ilgimi çekmedi. - Yani meraklısına göstermek lazım. - Evet. - Siz ilgilenmiyorsunuz çizmeyle. - Maalesef... - Alpay abi müsaade var mı? - Tabii... Vedat abi, ben yine yanımda belki ilgi alanınıza girer diyerekten ...şöyle bir şey yaptım. Bu abi, Zümrüt kaplama... ...tamamen zümrüt Nançaku. - Vay be... - Mımçıka yanında mıydı ya? - Mımçıka değil, nançaku. Did you mean Mımçıka? / Mımçıka mı demek istedin? Bu nançaku, tamamen zümrüt abi. Bu, Osmanlı Sultanının, Çin hükümdarına bir hediyesi. Ve, bunu şöyle yapmışlar, bu zümrütleri... - Eee? - Vedat abi, alıcıysan anlatacağım. E anlat tabii ya... Sultan, Aziz'le Lemi'yi huzuruna çağırıyor...",
-    "text_en": null,
+    "text": "Lemi? Efendim gecikmiş de olsa, Sultanımızın hediyesini, müsaade buyurursanız... - Buyurun. - Dostluğumuzun bir nişanesi olarak... Vay! İnanılmaz... Nereden buldunuz bunu ya? Ha? Çaldınız mı yoksa ha? - Böyle şeyler var mı sizde? - Efendim, sultanımızın gönlünden kopmuş. İyi de, ben takamam bunu yahu. Öyle değil mi Benson? Yahu, size bir şey soracağım, sizin memlekette deve var mı? Efendim var. Var ama sizin ayarınızda yok. İyi, oh varsa... Başkanlığımızın Aziz Bey size küçük bir hediyesi... Hani yolda nasıl olsa çarıkları da çaldırırsınız... ...memlekete yalınayak, başı kabak dönmeyin. Aziz'cim... Sinirlenme Aziz. Efendim size şöyle cevap vereyim... Yalın ayak başı kabak, gezdik hep garb-ı alem... Kimi yahşi, kimi vahşi, kimi erbab-ı kalem... Unvanın hıyardır ama, diyelim bari badem... Ver sokayım çizmene, hediye olundu madem. Çak Lemi. İşte Vedat abicim hikâye böyle. Hatta... ...Aziz Baba'nın o finalde başkana çektiği cilanın eski Türkçe olarak... ...burada yazılı hali mevcut. - Yani her şey olduğu gibi... - Gerçek abi. Bakayım abi şuna. - Burada abi, eski Türkçe. - Vay be! Böyle bir şey yok. Muhteşem! Ya Zeki'ciğim, ne güzel anlattın. Uçurdun bizi ya, valla. Eeee, ne diyorsun şimdi çizmeye? Yirmi abi... - Yirmi ne? - Afyon dinarı. Yirmi bin dolar abi. Yirmi bin dolar, o da gerçekten sizin gibi bir abimize. Alpay abim bilir bunu... ...Vedat Abi, ihtiyacım olmasa hakikaten satacak bir insan değilim. Çok kıymetli... Şimdi Zeki'cim, yani, elması getirmiş olsan... Abi onlar hep müzededir. Onları biz de göremeyiz yani. Müzededir. Şaka tabii canım. Ama yani şimdi işin gerçeği çizme pek benim ilgimi çekmedi. - Yani meraklısına göstermek lazım. - Evet. - Siz ilgilenmiyorsunuz çizmeyle. - Maalesef... - Alpay abi müsaade var mı? - Tabii... Vedat abi, ben yine yanımda belki ilgi alanınıza girer diyerekten ...şöyle bir şey yaptım. Bu abi, Zümrüt kaplama... ...tamamen zümrüt Nançaku. - Vay be... - Mımçıka yanında mıydı ya? - Mımçıka değil, nançaku. Did you mean Mımçıka? / Mımçıka mı demek istedin? Bu nançaku, tamamen zümrüt abi. Bu, Osmanlı Sultanının, Çin hükümdarına bir hediyesi. Ve, bunu şöyle yapmışlar, bu zümrütleri... - Eee? - Vedat abi, alıcıysan anlatacağım. E anlat tabii ya... Sultan, Aziz'le Lemi'yi huzuruna çağırıyor...",
     "is_frame_story": false,
     "characters": [
       "Lemi Galip",
@@ -5079,8 +4848,7 @@
       1714,
       1715
     ],
-    "text_tr": "Ulan bunun içine ne koyuyorlarsa adamın canına can katıyor be! - Yapana helal olsun. - Afiyet olsun. - Vereyim mi formülünü? - Ver! Al! Efendim o değil de, siz İstanbul'u hiç mi görmediniz? l-ıh! Ama arkadaşlarım Bodrum'a gitmiş, çok anlattılar. Torba bozulmuş diyorlar? Torba bozulur tabii. Torba niye bozulmasın? Bana bak, bir çocuğunuz olursa torunuma abuk subuk isimler koymayın ha? - Ne koyalım baba? - Dilli kaşarlı... - Nasıl yani? - Kızılkayalar, Bambi, Dilli Kaşarlı... - Olmadı mı? - Oldu mu? Olmadı... Chuck! - Bu karıyı buldunuz mu lan? - Yooo... Oğlum, bu karı var ya... Aranıyor. Suzan, sana çok özeniyorum. Kasaba kadınlarının sesi olmak istiyorum ben. Bu sesle mi? Benim kanaatim, doğunun iyi yanlarını alacaksın. Benim atalarımın da Orta Anadolu'dan geldiği söylenir, biliyor musun? Haa, belli... Aksandan anladın değil mi? Haa... Ne kadar dikkat etsek de kaçıyor demek ki... Günah çıkarmak istiyorum peder.",
-    "text_en": null,
+    "text": "Ulan bunun içine ne koyuyorlarsa adamın canına can katıyor be! - Yapana helal olsun. - Afiyet olsun. - Vereyim mi formülünü? - Ver! Al! Efendim o değil de, siz İstanbul'u hiç mi görmediniz? l-ıh! Ama arkadaşlarım Bodrum'a gitmiş, çok anlattılar. Torba bozulmuş diyorlar? Torba bozulur tabii. Torba niye bozulmasın? Bana bak, bir çocuğunuz olursa torunuma abuk subuk isimler koymayın ha? - Ne koyalım baba? - Dilli kaşarlı... - Nasıl yani? - Kızılkayalar, Bambi, Dilli Kaşarlı... - Olmadı mı? - Oldu mu? Olmadı... Chuck! - Bu karıyı buldunuz mu lan? - Yooo... Oğlum, bu karı var ya... Aranıyor. Suzan, sana çok özeniyorum. Kasaba kadınlarının sesi olmak istiyorum ben. Bu sesle mi? Benim kanaatim, doğunun iyi yanlarını alacaksın. Benim atalarımın da Orta Anadolu'dan geldiği söylenir, biliyor musun? Haa, belli... Aksandan anladın değil mi? Haa... Ne kadar dikkat etsek de kaçıyor demek ki... Günah çıkarmak istiyorum peder.",
     "is_frame_story": false,
     "characters": [
       "Lemi Galip",
@@ -5106,8 +4874,7 @@
       1719,
       1720
     ],
-    "text_tr": "Al. Bununla çıkarabilir misin? Kendi kendine, şurada köşede... Hadi, hadi canım... Aaah, ulan karı ah! Zamansız gittin, beni Allah'ın delisiyle baş başa bıraktın.",
-    "text_en": null,
+    "text": "Al. Bununla çıkarabilir misin? Kendi kendine, şurada köşede... Hadi, hadi canım... Aaah, ulan karı ah! Zamansız gittin, beni Allah'ın delisiyle baş başa bıraktın.",
     "is_frame_story": false,
     "characters": [],
     "scene": "Karakter birine hitap ederek duygusal bir çıkış yapıyor.",
@@ -5149,8 +4916,7 @@
       1743,
       1744
     ],
-    "text_tr": "Ah... Geçen gün öyle atıp tuttun ama, evlenince beni kafese kapatmayacaksın inşallah. Yavrum kafese kapatacak olsak aslan besleriz. Yani... Mantıklı. En fazla şöyle olur. Samatya'da annemlerin bir evi var cumbalı. - Orada oturacağız. - Kayınvalideyle oturacağız yani! E şöyle yapalım, Emirgan'da bir köşk alayım sana... ...içine oturtayım seni. Kucağına da bir kanun... Haa... Kanundan kaçılmaz diyorsun yani ha? Yani müzikal olarak evet... Doooo reeee miii fa miii... - Sıkıntı var mi'de. - Arıza var. La miiiii... Öyle değil lan. Önce öne... Şu... Önce bu... Filmde hiç lazım olmadı ki bu. Bir kere ateş etmedik anasını satıyım koca filmde. Eeee, yazana bakacaksın. Bırakıyorum zaten, bu son komedi filmim. Komediyi bırakıyorsun. Kime bırakıyorsun? Soru sorma bak. Soru sorma, oralara çok hazırlıklı değilim. Neyse ama bir sakatlık çıkmadan bitti koca film. Aman maşallah de maşallah. - Aaahhh! - Hassiktir! - Aaaahhh! Ne yaptın be abi ya? - Dur zehrini alacağım...",
-    "text_en": null,
+    "text": "Ah... Geçen gün öyle atıp tuttun ama, evlenince beni kafese kapatmayacaksın inşallah. Yavrum kafese kapatacak olsak aslan besleriz. Yani... Mantıklı. En fazla şöyle olur. Samatya'da annemlerin bir evi var cumbalı. - Orada oturacağız. - Kayınvalideyle oturacağız yani! E şöyle yapalım, Emirgan'da bir köşk alayım sana... ...içine oturtayım seni. Kucağına da bir kanun... Haa... Kanundan kaçılmaz diyorsun yani ha? Yani müzikal olarak evet... Doooo reeee miii fa miii... - Sıkıntı var mi'de. - Arıza var. La miiiii... Öyle değil lan. Önce öne... Şu... Önce bu... Filmde hiç lazım olmadı ki bu. Bir kere ateş etmedik anasını satıyım koca filmde. Eeee, yazana bakacaksın. Bırakıyorum zaten, bu son komedi filmim. Komediyi bırakıyorsun. Kime bırakıyorsun? Soru sorma bak. Soru sorma, oralara çok hazırlıklı değilim. Neyse ama bir sakatlık çıkmadan bitti koca film. Aman maşallah de maşallah. - Aaahhh! - Hassiktir! - Aaaahhh! Ne yaptın be abi ya? - Dur zehrini alacağım...",
     "is_frame_story": false,
     "characters": [],
     "scene": "Karakterler evlilik ve yaşam planları hakkında konuşuyor.",
