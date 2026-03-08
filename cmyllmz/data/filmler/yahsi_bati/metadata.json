@@ -1,0 +1,17 @@
+{
+  "source_type": "film",
+  "source_name": "Yahşi Batı",
+  "source_name_slug": "yahsi_bati",
+  "source_year": 2010,
+  "director": "Ömer Faruk Sorak",
+  "language": "tr",
+  "raw_file": "yahsi_bati.srt",
+  "main_characters": [
+    "Aziz Vefa",
+    "Lemi Galip",
+    "Suzan Van Dyke",
+    "Johnny Lesh",
+    "Şerif Lloyd"
+  ],
+  "notes": "Çerçeve hikaye: Zeki Abi, Vedat abiye anlatıyor (günümüz). Ana hikaye: 1881 Amerika Vahşi Batı. <i> tagları çerçeve hikayeyi belirtiyor."
+}
