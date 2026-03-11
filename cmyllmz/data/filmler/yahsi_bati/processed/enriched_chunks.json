@@ -30,7 +30,7 @@
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "alpay karakteri ortama komik bir hikaye anlatiyor. hep birlikte guluyor egleniyorlar. ortamda raki iciliyor."
   },
   {
     "id": "yb_002",
@@ -88,7 +88,7 @@
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "alpay 'istersen sey yapalim' diyerek zekiyi tesvik ediyor. zeki karakteri posetteki cizmeyi cikariyor. cizmenin hikayesini ortama anlatmaya basliyor. hikayeyi anlatirken arkdadasi olan ramazan karakteri zaman zaman araya giriyor. zeki bu cizmeyi hikayesini anlatarak birilerine satmaya calisan birisi."
   },
   {
     "id": "yb_003",
@@ -116,7 +116,7 @@
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "zeki hikayeyi anlatmaya baslayinca, gecmisi anlattigi icin, flashback oluyor ve osmanlidaki sahnelerini gormeye basliyoruz. lemi, aziz, sultan gibi karakterleri goruyoruz. zeki hikayeyi anlatmaya devam ediyor."
   },
   {
     "id": "yb_004",
@@ -138,7 +138,7 @@
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "zeki hikayeyi anlatmaya devam ediyor. bu kisimda dunya haritasi uzerinde karakterlerin istikameti gozukuyor. ve ayni zamanda filmin introsu oynuyor."
   },
   {
     "id": "yb_005",
@@ -155,7 +155,7 @@
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "buradan itibaren filmin anlattigi yer ve zamana yani yahsi batiya tam olarak gecmis oluyoruz."
   },
   {
     "id": "yb_006",
@@ -190,7 +190,7 @@
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "dekolteli bayan 1 karakteri yolda giderken bir iki kere dengesini kaybedip lemi galip'in uzerine dusuyor. ardindan sohbet etmeye basliyorlar. lemi galip eski bir ottoman sakasi yapiyor."
   },
   {
     "id": "yb_007",
@@ -236,7 +236,7 @@
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "lemi ile aziz kendi arasinda turkce konusmaya basliyor. bayan 1 ve jack karakteri turkce bilmedigi icin aralarinda konustuklari bu turkce ifadeleri anlamiyorlar. ancak aziz karakteri 'village people' ifadesini kullaninca jack karakteri araya giriyor. jack karakteri aziz karakterini deveye binme lafi ile alaya almaya calisiyor. bayan 1 karakteri aziz karakterinin meslegini merak ediyor. lemi karakteri tuvaleti geldigini soyluyor. aziz karakteri ise litte water sakasi yapiyor."
   },
   {
     "id": "yb_008",
@@ -253,17 +253,16 @@
       149,
       151
     ],
-    "text": "- That's you? - Me! - You look fantastic. - I... Oil wrestling. Oil, everywhere. - Scotch? - Ottoman.",
+    "text": "- That's you? - Me! - You look fantastic. - I... Oil wrestling. Oil, everywhere.",
     "is_frame_story": false,
     "characters": [
       "Bayan 1",
-      "Aziz Vefa",
-      "Jack"
+      "Aziz Vefa"
     ],
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "aziz karakteri bayan 1 karakterine yagli gures fotografini gosteriyor"
   },
   {
     "id": "yb_009",
@@ -297,7 +296,7 @@
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "azizin fotografi gosterdigini goren lemi galip de elmasi gosteriyor. aziz ile bu konuda tartisiyorlar. tam bu sirada jack karakteri bunun tehlikeli olabilecegini ifade ederken silah sesleri geliyor ve arabayla giderken etraflarini atli haydutlar sariyor"
   },
   {
     "id": "yb_010",
@@ -325,7 +324,7 @@
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "aziz arabanin icindeki herkesi sakinlestirmeye calisiyor."
   },
   {
     "id": "yb_011",
@@ -356,7 +355,7 @@
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "aziz ile lemi karakteri bu zor durumda cop cekme oyunu oynayip kimin elmasi kimin parayi alacagina karar veriyor."
   },
   {
     "id": "yb_012",
@@ -379,7 +378,7 @@
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "haydutlar arabayi durduruyor. haydutlardan birisi 'arabayi durdurun demedik mi' anlaminda ingilizce bir ifade kullaniyor. tam bu sirada filmdeki flashback bozuluyor ve hikayeyi anlatan zeki karakterinin tarihine donuyoruz. onu dinleyen ramazan karakteri ingilizce kismini anlamadigini soyluyor. zeki karakteri de filmi ingilizceden turkceye aliyor. ve haydutun repliginden itibaren turkce sekilde devam ediyor."
   },
   {
     "id": "yb_013",
@@ -398,7 +397,7 @@
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "haydut 1 bu ifadeyi kullanip posta arabasini suren kisiye ates ediyor"
   },
   {
     "id": "yb_014",
@@ -419,7 +418,7 @@
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "haydutlar herkesi arabadan indiriyor. o sirada arabanin arkasina saklanan aziz vefa elindeki eski osmanli silahinin icine barut dolduruyor."
   },
   {
     "id": "yb_015",
@@ -434,16 +433,15 @@
       213,
       214
     ],
-    "text": "- Bağırmayın efendim. Sıranızda durun, bağırmayın! - Sayın yolcular... ...ben Johnny Lesh ve ekibim yolculuğunuzun rahat geçmesi için... ...sizleri bazı yüklerinizden kurtarmak amacıyla hizmetinizdeyiz. Bağırmak serbest. Kahramanlık yapanı gömerim.",
+    "text": "Sayın yolcular... ...ben Johnny Lesh ve ekibim yolculuğunuzun rahat geçmesi için... ...sizleri bazı yüklerinizden kurtarmak amacıyla hizmetinizdeyiz. Bağırmak serbest. Kahramanlık yapanı gömerim.",
     "is_frame_story": false,
     "characters": [
-      "Lemi Galip",
       "Johnny Lesh"
     ],
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "herkes aractan indikten sonra haydutlarin basindaki johnny lesh karakteri konusuyor."
   },
   {
     "id": "yb_016",
@@ -466,7 +464,7 @@
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "aziz doldurdugu silahi atesliyor ama hicbir ise yaramiyor. haydut 2 karakterine yakalaniyor."
   },
   {
     "id": "yb_017",
@@ -490,17 +488,18 @@
       231,
       232
     ],
-    "text": "- Saat. - Jack, kurtar beni! - Jack! Ay! - Bakın beyefendi, biz taa İstanbullardan geliyoruz. Öyle boş kimseler de değiliz. - Öyle mi? Belli. Buffalo Bill'in şovunda bile böyle kostüm görmedim. Bu ne lan? - Festir. İstiyorsan kaval da var. - Kes lan! - Yapm... - Lesh! - Ne yaptın lan? - Lesh.. - Ne yaptın lan! - Var mı lan böyle bir şey? - Yalnız biz Haramidere'den Çatapat Ahmet'in arkadaşlarıyız, ona göre!",
+    "text": "- Jack, kurtar beni! - Jack! Ay! - Bakın beyefendi, biz taa İstanbullardan geliyoruz. Öyle boş kimseler de değiliz. - Öyle mi? Belli. Buffalo Bill'in şovunda bile böyle kostüm görmedim. Bu ne lan? - Festir. İstiyorsan kaval da var. - Kes lan! - Yapm... - Lesh! - Ne yaptın lan? - Lesh.. - Ne yaptın lan! - Var mı lan böyle bir şey? - Yalnız biz Haramidere'den Çatapat Ahmet'in arkadaşlarıyız, ona göre!",
     "is_frame_story": false,
     "characters": [
-      "Haydut 1",
+      "Bayan 1",
       "Lemi Galip",
+      "Haydut 1",
       "Aziz Vefa"
     ],
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "jack karakteri silah cekmeye calisirken johnny lesh tarafindan vuruluyor. haydut ile lemi ve aziz tartisiyor. bu sirada haydut leminin fesini kaldiriyor ve altindaki elmasi goruyor. cop cekmislerdi ve elmas lemiye kalmisti. aziz karakteri parayi gotune soktu ama lemi karakteri bunu yapmak yerine fesin icine koymus. aziz karakteri bunu anladigi icin lemiye kiziyor. haydut 1 karakteri lemi galipin biyiginin yarisini usturayla kesiyor"
   },
   {
     "id": "yb_018",
@@ -521,7 +520,7 @@
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "johnny lesh haydutlari topluyor ve gidelim diyor. haydut 1 karakteri lemi ve azize donerek 'see you' diyor. giderken bayani da goturuyorlar."
   },
   {
     "id": "yb_019",
@@ -542,7 +541,7 @@
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "see you ifadesi hakkinda tartisiyorlar."
   },
   {
     "id": "yb_020",
@@ -562,7 +561,7 @@
       245,
       246
     ],
-    "text": "- Çatapat Ahmet kim ulan? - Efendim zaten ben bu adamın ismini ne zaman zikretsem başım derde giriyor. - Monşer, adamı delirtme! Talimatmane açık: ... ...''Cereyan-ı tehlike-i vuku, emanetlerin mabadına dühulu. - Sarih! - Efendim, adilane mi? Koca elmas! - Ulan ben müptelası mıyım da 1000 doları götüme sokuyorum? - Onu bilemiyorum. - Efendim! Beyimiz kıçına kıyamıyor, burada kellemiz gidecek! Gel buraya! Aç şu mendili.",
+    "text": "- Çatapat Ahmet kim ulan? - Efendim zaten ben bu adamın ismini ne zaman zikretsem başım derde giriyor. - Monşer, adamı delirtme! Talimatmane açık: ... ...''Cereyan-ı tehlike-i vuku, emanetlerin mabadına dühulu. Sarih! - Efendim, adilane mi? Koca elmas! - Ulan ben müptelası mıyım da 1000 doları götüme sokuyorum? - Onu bilemiyorum. - Efendim! Beyimiz kıçına kıyamıyor, burada kellemiz gidecek! Gel buraya! Aç şu mendili.",
     "is_frame_story": false,
     "characters": [
       "Aziz Vefa",
@@ -571,7 +570,7 @@
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "aziz karakteri elmas hakkinda kizmaya devam ediyor. kendi kicina soktuklarini cikartmaya basliyor"
   },
   {
     "id": "yb_021",
@@ -590,7 +589,7 @@
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "aziz nesneleri kicindan cikarmaya basliyor"
   },
   {
     "id": "yb_022",
@@ -609,7 +608,7 @@
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "aziz karakteri 10a yakin nesneyi kicindan cikardigi icin lemi karakteri sasiriyor"
   },
   {
     "id": "yb_023",
@@ -630,7 +629,7 @@
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "aziz kicindan fincan cikardigi icin lemi tabagini soruyor."
   },
   {
     "id": "yb_024",
@@ -653,7 +652,7 @@
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "lemi jack oldukten sonra yuz ustu dusmesi hakkinda saka yapiyor. olayi ciddiye almayan lemiye aziz gicik oluyor ve ok yaydan cikti diyor. tam o anda bir ok arabaya saplaniyor. bu sefer de etraflarini kizilderililer sariyor."
   },
   {
     "id": "yb_025",
@@ -672,7 +671,7 @@
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "kizilderilileri goren lemi bu ifadeyi kullanip korkuyor"
   },
   {
     "id": "yb_026",
@@ -691,12 +690,13 @@
     "characters": [
       "Lemi Galip",
       "Kızılderili 1",
+      "Aziz Vefa",
       "Richard Thomas"
     ],
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "lemi galip kizilderililerle nasil iletisim kuracagini bilemeyip 'ugh' ifadesini kullanir. kizilderili de bunu garipser. aziz farkli hitap dener. kizilderili reisi olan richard thomas ise ortami yumusatmak icin kendini tanitir."
   },
   {
     "id": "yb_027",
@@ -721,7 +721,7 @@
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "aziz gotu kurtarmak icin kizilderililerin turk oldugu iddiasini kullanir. uzerini arayan kizilderili ise sasirip bunu kenan isimli diger kizilderiliye sorar. kenan yok diyince toplamaya devam ederler. haydut surusunden kurtardiklari esyalarini da kizilderililere kaptiriyorlar."
   },
   {
     "id": "yb_028",
@@ -746,7 +746,7 @@
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "aziz ve lemi karakterlerinin ustu aranirken her seyleri alindigi ve hatta kiyafetleri bile alindigi icin 'sikmeseler bari' gibi cekingen bir ifade kullanir. kizilderililer alacaklarini alir ve giderler. herkes gittikten sonra lemi ve aziz yalniz kalir. lemi karakteri konsolosluga haber etmeleri gerektigini hatirlatir. muskanin ise yaramadigini anlayan aziz aglamaya baslar."
   },
   {
     "id": "yb_029",
@@ -766,7 +766,7 @@
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "telgraf cekmeye gelirler."
   },
   {
     "id": "yb_030",
@@ -794,7 +794,7 @@
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "ulak ile tartisirlarken redkit gelir."
   },
   {
     "id": "yb_031",
@@ -813,7 +813,7 @@
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "dis ses olarak hikayeyi anlatan zeki konusuyor."
   },
   {
     "id": "yb_032",
@@ -840,7 +840,7 @@
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "aziz ve lemi saraydan gelen cevap hakkinda konusuyorlar. simsek cakiyor ve yagmur yagiyor. dramatik bir muzik caliyor."
   },
   {
     "id": "yb_033",
@@ -860,7 +860,7 @@
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "lemi caresizce olumu kabulleniyor. ama aziz karakteri bu sahnede ipi boynuna gecirse de lemiyi olduremiyor arkadasi oldugu icin. ipi atip son kalan esyasi mizikayi eline aliyor. mizikayla uzucu bir sarki calmaya basliyor"
   },
   {
     "id": "yb_034",
@@ -885,7 +885,7 @@
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "haydutlara esyalari kaptirmamak icin aziz karakteri esyalari gotune sokmustu. haydutlar gidince esyalari cikarmisti. mizikayi cikarmamis. azizin mizikayi caldigini goren lemi 'ona bi sus tutsaydin' diyor."
   },
   {
     "id": "yb_035",
@@ -910,15 +910,18 @@
       318,
       319
     ],
-    "text": "Bir hafta, on gün aç bilaç dolanıyorlar etrafta. Bir ara diyorlar, silahlanalım; silah alalım, peşlerine düşelim elması alanların. Ama silah da öyle öpücükle verilmiyor tabi. Para yok, pul yok. Siktir git lan zübüş. Defol! Sonra diyorlar, ulan bari karnımızı doyuracak bir iki işe girip çıkalım. Öyle iş dediysek, öyle yatırım gerektiren işler değil tabi. Horse washing! In and out! Horse washing! Horse washing! ln and out! Sıhhatler olsun! Horse washing! Bir iki boktan işle içli dışlı olduktan sonra affedersin... ...Aziz Efendi diyor ki;... ...\"neden diyor biz kendi çizgimizi ortaya koymuyoruz\" diyor. En sevilen yanlarıyla, en sevilen halleriyle efendim!",
+    "text": "- Bir hafta, on gün aç bilaç dolanıyorlar etrafta. Bir ara diyorlar, silahlanalım; silah alalım, peşlerine düşelim elması alanların. Ama silah da öyle öpücükle verilmiyor tabi. Para yok, pul yok. - Siktir git lan zübüş. Defol! - Sonra diyorlar, ulan bari karnımızı doyuracak bir iki işe girip çıkalım. Öyle iş dediysek, öyle yatırım gerektiren işler değil tabi. - Horse washing! In and out! Horse washing! Horse washing! ln and out! Sıhhatler olsun! Horse washing! - Bir iki boktan işle içli dışlı olduktan sonra affedersin... ...Aziz Efendi diyor ki;... ...\"neden diyor biz kendi çizgimizi ortaya koymuyoruz\" diyor. - En sevilen yanlarıyla, en sevilen halleriyle efendim!",
     "is_frame_story": true,
     "characters": [
-      "Zeki Abi"
+      "Zeki",
+      "Silah Saticisi",
+      "Aziz Vefa",
+      "Lemi Galip"
     ],
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "zeki anlatima devam ediyor. ellerinde kalan son esya olan mizikayi satiyorlar ve yiyecek bir seyler aliyorlar. silah almaya gidiyorlar kovuluyorlar. ic dis at yikama isi yapiyorlar. hacivatla karagoz oynatmaya basliyorlar"
   },
   {
     "id": "yb_036",
@@ -931,13 +934,15 @@
       321,
       322
     ],
-    "text": "- Karagözüm, Ramazan-ı Şeriflerin hayrola. - Hadi oradan, balkabağı! Karagözüm yapma, mübarek Ramazandayız. Hiç tasa etme Hacı cavcav, sülalece arkandayız!",
+    "text": "- Karagözüm, Ramazan-ı Şeriflerin hayrola. Hadi oradan, balkabağı! Karagözüm yapma, mübarek Ramazandayız. Hiç tasa etme Hacı cavcav, sülalece arkandayız!",
     "is_frame_story": false,
-    "characters": [],
+    "characters": [
+      "Aziz Vefa"
+    ],
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "hacivatla karagoz oynatiyor ama kimse gulmuyor."
   },
   {
     "id": "yb_037",
@@ -959,13 +964,17 @@
       334,
       335
     ],
-    "text": "Geçen sene Sultanahmet'te en çok tutan gösteri bu be. Biraz gülün ya! Maalesef komik değil. Biraz yeniliklere açık olun açık. Karagöz bu! - Komik olsa gülerdik, değil mi kız? - Bence de. Aaaa... Seneye size Moliere'i getireyim. Moliere'den ''Cimri''. Tuzsuz Deli Bekir'i yaptım. Beberuhi'yi yaptım. Hiçbirine gülmediler. - Zenne'yi yaptın da gülmediler mi efendim? - Efendim, Zenne'ye gelene kadar. Hümor yok hümor! Amerikan Hümoru! Siktiğimin humoru! İngilizceye çevirince manasını kaybediyor tabii. Bırak Allah aşkına!",
+    "text": "- Geçen sene Sultanahmet'te en çok tutan gösteri bu be. Biraz gülün ya! - Maalesef komik değil. - Biraz yeniliklere açık olun açık. Karagöz bu! - Komik olsa gülerdik, değil mi kız? - Bence de. - Aaaa... Seneye size Moliere'i getireyim. Moliere'den ''Cimri''. Tuzsuz Deli Bekir'i yaptım. Beberuhi'yi yaptım. Hiçbirine gülmediler. - Zenne'yi yaptın da gülmediler mi efendim? - Efendim, Zenne'ye gelene kadar. Hümor yok hümor! Amerikan Hümoru! Siktiğimin humoru! - İngilizceye çevirince manasını kaybediyor tabii. Bırak Allah aşkına!",
     "is_frame_story": false,
-    "characters": [],
+    "characters": [
+      "Aziz Vefa",
+      "Bayanlar",
+      "Lemi Galip"
+    ],
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "aziz izleyicilerle tartisiyor. ardindan lemi ve aziz konu hakkinda tartisiyorlar."
   },
   {
     "id": "yb_038",
@@ -983,13 +992,17 @@
       342,
       343
     ],
-    "text": "Yumurta. Ayır bunları. Şunda ne var? Şeker. Limon. Şeker. Limon-Şeker! Macuncu! Macuncu! Bereket versin. - Macuncu! - Sar, bir tane de bana sar. - Emrin olur abi. - Ona değil, buna sar. - Osmanlı macunudur, ağır gelir. - Yorum yapma ulan!",
+    "text": "- Yumurta. Ayır bunları. Şunda ne var? - Şeker. - Limon. Şeker. Limon-Şeker! - Biyron, biyron, biyron! Macuncu! Macuncu! Bereket versin. Macuncu! - Sar, bir tane de bana sar. - Emrin olur abi. - Ona değil, buna sar. - Osmanlı macunudur, ağır gelir. - Yorum yapma ulan!",
     "is_frame_story": false,
-    "characters": [],
+    "characters": [
+      "Aziz Vefa",
+      "Lemi Galip",
+      "Zorba"
+    ],
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "aziz ve lemi kahvalti yaparken limon seker'den cagrisimla osmanli macunu yapmaya karar veriyor. zorba bir adam tum macunu alip gidiyor."
   },
   {
     "id": "yb_039",
@@ -1012,13 +1025,18 @@
       355,
       356
     ],
-    "text": "100 Dolar parayı denkleştirmek için yapmadıkları iş kalmıyor. Yahu, Lemi Bey'in kendi yaptığı makineyle miki filmi oynatıyorlar ya! Miki filmi diyorum usta. Daha Walt Disney yok, Mickey Mouse yok! Hayat kadar gerçek! Bir aşk hikayesi. Bir de ya şeyi diyeceğim, yanlış anlayacaksınız. Şeyi buluyorlar. Hani o formülü bilinmiyor deniyor ya. - O ne ya? - Kola ulan! Meyan kökü, karbonat. Özü zaten şerbet. Bir dakika ya, bir dakika ben anlamadım. Yani şimdi bunlar gerçekten kolayı mı buluyorlar? Buluyorlar, buluyorlar. Ama...",
+    "text": "- 100 Dolar parayı denkleştirmek için yapmadıkları iş kalmıyor. Yahu, Lemi Bey'in kendi yaptığı makineyle miki filmi oynatıyorlar ya! Miki filmi diyorum usta. Daha Walt Disney yok, Mickey Mouse yok! - Hayat kadar gerçek! Bir aşk hikayesi. - Bir de ya şeyi diyeceğim, yanlış anlayacaksınız. Şeyi buluyorlar. Hani o formülü bilinmiyor deniyor ya. - O ne ya? - Kola ulan! Meyan kökü, karbonat. Özü zaten şerbet. - Bir dakika ya, bir dakika ben anlamadım. Yani şimdi bunlar gerçekten kolayı mı buluyorlar? - Buluyorlar, buluyorlar. Ama...",
     "is_frame_story": true,
-    "characters": [],
+    "characters": [
+      "Zeki",
+      "Lemi Galip",
+      "Ramazan",
+      "Vedat"
+    ],
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "zeki hikayeyi anlatmaya devam ediyor. lemi galip bir makineyle miki filmi oynatiyor. bir erkekle bir kadinin ciftlesmesini goruyor insanlar makinenin icinde."
   },
   {
     "id": "yb_040",
@@ -1032,15 +1050,16 @@
       359,
       360
     ],
-    "text": "Aziz. Nasıl? Vaay! Çok güzel, çok güzel. Bak...",
+    "text": "- Aziz. Nasıl? - Vaay! Çok güzel, çok güzel. Bak...",
     "is_frame_story": false,
     "characters": [
-      "Aziz"
+      "Lemi Galip",
+      "Aziz Vefa"
     ],
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "lemi azize yaptiklari kolayi koyup tasiyacaklari gugumu gosteriyor"
   },
   {
     "id": "yb_041",
@@ -1070,13 +1089,17 @@
       379,
       380
     ],
-    "text": "Tat bakayım. Nasıl? Şahane. Aziz... ...güğüme şey yazayım mı? ''Soğuk içiniz.'' Bırak ulan. Milleti zapt-ı rapt altına alma. İster soğuk içer ister sıcak. Gel abicim, gel! Gel abicim! Eyvallah. Gel abicim! Gel! Gel! Gel! - Param olsa da ben alsam! - Kuru kuru gitmez! Var mı acıkan? Var mı acıkan! - Parasını alayım. - Buyur abi. Abi butum daha pişiyor, kanat vereceğim. Şunu bozsana bana. Param olsa da ben alsam. Ayıp olmuyor mu kardeşim, ne bağırıyorsunuz? Esnaf değil misin kardeşim? Sen de bağır! Ağlamayana meme yok. Biz Kentucy'liyiz lan, artistlik yapma! Biz de Samatya'lıyız lan, bize mi artistlik yapıyorsunuz?",
+    "text": "- Tat bakayım. Nasıl? - Şahane. Aziz... ...güğüme şey yazayım mı? ''Soğuk içiniz.'' - Bırak ulan. Milleti zapt-ı rapt altına alma. İster soğuk içer ister sıcak. - Gel abicim, gel! Gel abicim! Eyvallah. Gel abicim! Gel! Gel! Gel! Param olsa da ben alsam! - Kuru kuru gitmez! Var mı acıkan? Var mı acıkan! - Parasını alayım. - Buyur abi. Abi butum daha pişiyor, kanat vereceğim. Şunu bozsana bana. Param olsa da ben alsam. - Ayıp olmuyor mu kardeşim, ne bağırıyorsunuz? - Esnaf değil misin kardeşim? Sen de bağır! Ağlamayana meme yok. - Biz Kentucy'liyiz lan, artistlik yapma! - Biz de Samatya'lıyız lan, bize mi artistlik yapıyorsunuz?",
     "is_frame_story": false,
-    "characters": [],
+    "characters": [
+      "Aziz Vefa",
+      "Lemi Galip",
+      "Esnaflar"
+    ],
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "azizle lemi yaptiklari kolayi tadarlar. tavuk ekmek kola satmaya baslarlar. diger esnaflar aziz ve lemiye saldirir. kavga etmeye baslarlar."
   },
   {
     "id": "yb_042",
@@ -1088,13 +1111,15 @@
       381,
       382
     ],
-    "text": "Bırakın lan! Şişeyle vururum!",
+    "text": "- Bırakın lan! Şişeyle vururum!",
     "is_frame_story": false,
-    "characters": [],
+    "characters": [
+      "Aziz Vefa"
+    ],
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "aziz lemi ve esnaflarin kavgasi devam eder."
   },
   {
     "id": "yb_043",
@@ -1111,13 +1136,16 @@
       388,
       389
     ],
-    "text": "Allah! Yaa, Kentucky'de tavuk ekmek satacaklarmış. Sattırırlar mı adama? Adam orda tezgahını kurmuş, yedirir mi sana hiç? Tanıdın mı? - Kimi abicim? - Kim olacak, amblem. Şimdi bana adamın reklamını yaptırtma. Bizimkilerin durumu yine hüsran, yine hüsran.",
+    "text": "- Yaa, Kentucky'de tavuk ekmek satacaklarmış. Sattırırlar mı adama? Adam orda tezgahını kurmuş, yedirir mi sana hiç? Tanıdın mı? - Kimi abicim? - Kim olacak, amblem. Şimdi bana adamın reklamını yaptırtma. Bizimkilerin durumu yine hüsran, yine hüsran.",
     "is_frame_story": false,
-    "characters": [],
+    "characters": [
+      "Zeki",
+      "Ramazan"
+    ],
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "esnaflar lemi ve azizi doverler. tavuk ekmek satmaya calistiklari kentucky yerinin sheriff'i kfc markasinin logosundaki adama benziyor. kavgayi o ayirir. zeki ile ramazan bu konu hakkinda konusuyorlar. aziz ve lemi sheriff'in binasinin onune oturuyorlar caresizce. lemi karakteri azizin muskasini cikarmaya calisiyor aziz izin vermiyor."
   },
   {
     "id": "yb_044",
@@ -1146,16 +1174,16 @@
       407,
       408
     ],
-    "text": "Lehimleriz olur biter. Namusumuzla da çalıştırtmıyor, tutucu pezevenkler! Kaç paramız var? - 50-55 dolar kadar. - Ver şunu arkadaş. Bir tane altı patlar alacağım, dalacağım aralarına. Yeter artık ulan! Uyandım artık ben o Amerikan rüyasından. - Aziz Efendi, sen aranıyorsun. - O Johnny Lesh denilen teresi de bulacağım. İndireceğim onu da. - Aziz Efendi, sen aranıyorsun. - Ne aranması birader, olaylar bizi buluyor! Efendim öyle değil, bayağı aranıyorsun. Aa! Aynı ben! - 10 dolar. Alır mıyız bu parayı? - Alırız valla. Horse... Horse Whisper... Horse Whisperer... Horse, at! Buna ne diyorsun? Johnny Lesh, 500 dolar! Wanted alemine girmiş demek ki eşek oğlu eşek! Şu güğümü bir tamir edelim hele.",
+    "text": "- Lehimleriz olur biter. - Namusumuzla da çalıştırtmıyor, tutucu pezevenkler! Kaç paramız var? - 50-55 dolar kadar. - Ver şunu arkadaş. Bir tane altı patlar alacağım, dalacağım aralarına. Yeter artık ulan! Uyandım artık ben o Amerikan rüyasından. - Aziz Efendi, sen aranıyorsun. - O Johnny Lesh denilen teresi de bulacağım. İndireceğim onu da. - Aziz Efendi, sen aranıyorsun. - Ne aranması birader, olaylar bizi buluyor! - Efendim öyle değil, bayağı aranıyorsun. - Aa! Aynı ben! 10 dolar. Alır mıyız bu parayı? - Alırız valla. - Horse... Horse Whisper... Horse Whisperer... Horse, at! - Buna ne diyorsun? Johnny Lesh, 500 dolar! - Wanted alemine girmiş demek ki eşek oğlu eşek! Şu güğümü bir tamir edelim hele.",
     "is_frame_story": false,
     "characters": [
-      "Aziz Vefa",
-      "Johnny Lesh"
+      "Lemi Galip",
+      "Aziz Vefa"
     ],
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "esnaflar gugume zarar vermistir. lemi ile aziz aralarinda konusmaya baslarlar. oturduklari yer sheriff binasinin onudur. bu sohbet gecerken lemi arkalarindaki duvarda asili wanted ilanlarini gorur. aziz'e benzeyen birinin ilani dikkatlarini cekiyor."
   },
   {
     "id": "yb_045",
@@ -1182,16 +1210,17 @@
       424,
       425
     ],
-    "text": "Merhabalar Şerif. Ben kelle avcısı Lenny. - Bu kovboy için bana 10 dolar ödeyeceksin. - Hangi kovboy? - Atını siken kov...boy. - Ne diyorsun lan? Yok mu bu atlara fısıldayan kovboy? Şerefsiz! lrz düşmanı seni! Ulan! Ben bir şey yapmadım abi, at başlattı. Böyle ırz düşmanlarını içeri tıkmak sizin boynunuzun borcu Şerif. Lou, at şu köpeği içeri. Ahırlardan uzak kalsın biraz pezevenk. Al, 10 doların. Bu ufak iş. Ben asıl Johnny Lesh'in peşindeyim. Johnny Lesh mi? Onu bulsam ben emekli olurum, sen ne diyorsun? Al. 500 dolar. - Bir kola içer miyiz? - Kola mı? İçiliyor mu?",
+    "text": "- Merhabalar Şerif. Ben kelle avcısı Lenny. Bu kovboy için bana 10 dolar ödeyeceksin. - Hangi kovboy? - Atını siken kov...boy. - Ne diyorsun lan? - Yok mu bu atlara fısıldayan kovboy? - Şerefsiz! lrz düşmanı seni! Ulan! - Ben bir şey yapmadım abi, at başlattı. - Böyle ırz düşmanlarını içeri tıkmak sizin boynunuzun borcu Şerif. - Lou, at şu köpeği içeri. Ahırlardan uzak kalsın biraz pezevenk. Al, 10 doların. - Bu ufak iş. Ben asıl Johnny Lesh'in peşindeyim. - Johnny Lesh mi? Onu bulsam ben emekli olurum, sen ne diyorsun? Al. 500 dolar. - Bir kola içer miyiz? - Kola mı? İçiliyor mu?",
     "is_frame_story": false,
     "characters": [
-      "Lenny",
-      "Şerif"
+      "Lemi Galip",
+      "Aziz Vefa",
+      "Şerif 1"
     ],
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "lemi ve aziz kendilerini wanted ilanlarindaki kisilere benzeterek odulleri toplamaya karar verir. ornegin burada lemi kendini Lenny olarak tanitir, aziz vefa da wanteddaki kovboy olur. odulu aldiktan sonra sheriffleri de yaptiklari kolaya uyku getiren bir madde koyarak uyutmayi ve oradan kacmayi planlarlar. ilk kurbanlari olan herhangi bir sheriffin yanina giderler."
   },
   {
     "id": "yb_046",
@@ -1203,15 +1232,15 @@
       426,
       427
     ],
-    "text": "Buyurun Şerif. Almaz mıydınız?",
+    "text": "- Buyurun Şerif. Almaz mıydınız?",
     "is_frame_story": false,
     "characters": [
-      "Şerif Lloyd"
+      "Lemi Galip"
     ],
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "kolayi serife ve yardimcisi lou'ya takdim eder."
   },
   {
     "id": "yb_047",
@@ -1228,45 +1257,32 @@
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
-  },
-  {
-    "id": "yb_048",
-    "start": "00:26:25",
-    "end": "00:26:26",
-    "duration_sec": 1.0,
-    "block_count": 1,
-    "block_ids": [
-      429
-    ],
-    "text": "Şerif Cheko?",
-    "is_frame_story": false,
-    "characters": [],
-    "scene": "",
-    "context": "",
-    "tags": [],
-    "note": ""
+    "note": "serif ve lou bayilirlar. aziz ve lemi ise parayi da alip kacarlar. bu sekilde onlarca serifi kandirirlar ve odul paralarini alirlar."
   },
   {
     "id": "yb_049",
-    "start": "00:26:31",
+    "start": "00:26:25",
     "end": "00:26:47",
     "duration_sec": 16.0,
     "block_count": 5,
     "block_ids": [
+      429,
       430,
       431,
       432,
       433,
       434
     ],
-    "text": "At hırsızı Timothy. At hırsızı Timothy ha? Kaç yaşındasın sen? Aç ağzını! Aç! - Beş para etmez. - 20 dolar.",
+    "text": "- Şerif Cheko? At hırsızı Timothy. - At hırsızı Timothy ha? Kaç yaşındasın sen? Aç ağzını! Aç! - Beş para etmez. - 20 dolar.",
     "is_frame_story": false,
-    "characters": [],
+    "characters": [
+      "Aziz Vefa",
+      "Şerif Cheko"
+    ],
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "sira serif cheko'ya gelmistir. bu sefer at hirsizi timoty rolundeki lemi'dir, kelle avcisi ise azizdir."
   },
   {
     "id": "yb_050",
@@ -1280,13 +1296,16 @@
       437,
       438
     ],
-    "text": "10 dolar. Ben at hırsızlarını hiç sevmem Timothy. - Tamam 10 dolar. 10 dolar. 10 dolar. - Anlaştık. Al içeri.",
+    "text": "- 10 dolar. Ben at hırsızlarını hiç sevmem Timothy. - Tamam 10 dolar. 10 dolar. 10 dolar. - Anlaştık. Al içeri.",
     "is_frame_story": false,
-    "characters": [],
+    "characters": [
+      "Aziz Vefa",
+      "Şerif Cheko"
+    ],
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "sherif cheko silah ceker. 10 dolari kabul etmezse timothy'yi vuracagini ima eder."
   },
   {
     "id": "yb_051",
@@ -1300,10 +1319,11 @@
       441,
       442
     ],
-    "text": "Şerif, bir kola içer miyiz? Kola mı? Ver bakayım. Hooppaa...",
+    "text": "- Şerif, bir kola içer miyiz? - Kola mı? Ver bakayım. Hooppaa...",
     "is_frame_story": false,
     "characters": [
-      "Şerif Lloyd"
+      "Aziz Vefa",
+      "Şerif Cheko"
     ],
     "scene": "",
     "context": "",
@@ -1313,53 +1333,23 @@
   {
     "id": "yb_052",
     "start": "00:27:19",
-    "end": "00:27:20",
-    "duration_sec": 1.0,
-    "block_count": 1,
-    "block_ids": [
-      443
-    ],
-    "text": "Siz?",
-    "is_frame_story": false,
-    "characters": [],
-    "scene": "",
-    "context": "",
-    "tags": [],
-    "note": ""
-  },
-  {
-    "id": "yb_053",
-    "start": "00:27:24",
-    "end": "00:27:25",
-    "duration_sec": 1.0,
-    "block_count": 1,
-    "block_ids": [
-      444
-    ],
-    "text": "Buz gibi.",
-    "is_frame_story": false,
-    "characters": [],
-    "scene": "",
-    "context": "",
-    "tags": [],
-    "note": ""
-  },
-  {
-    "id": "yb_054",
-    "start": "00:27:31",
     "end": "00:27:33",
-    "duration_sec": 2.0,
+    "duration_sec": 1.0,
     "block_count": 1,
     "block_ids": [
+      443,
+      444,
       445
     ],
-    "text": "Yarasın.",
+    "text": "- Siz? Buz gibi. Yarasın.",
     "is_frame_story": false,
-    "characters": [],
+    "characters": [
+      "Aziz Vefa"
+    ],
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "aziz chekonun yardimcisina da kola ikram eder."
   },
   {
     "id": "yb_055",
@@ -1371,15 +1361,15 @@
       446,
       447
     ],
-    "text": "Johnny Lesh. 900 dolar. Dolardan hızlı yükseliyor pezevenk.",
+    "text": "- Johnny Lesh. 900 dolar. Dolardan hızlı yükseliyor pezevenk.",
     "is_frame_story": false,
     "characters": [
-      "Johnny Lesh"
+      "Aziz Vefa"
     ],
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "serif cheko ve yardimcisi da kolayi icip bayildiktan sonra chekonun odasinda aziz ve lemi johnny lesh'in baska bir wanted ilanini bulur."
   },
   {
     "id": "yb_056",
