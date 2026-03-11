@@ -9,3 +9,6 @@ Karakterler
 - ulak, redkit
 - Silah Saticisi, Bayanlar, Zorba, Esnaflar
 - Serif 1, Serif Cheko
+- Peder, Şerif Murphy, Trenci Jack, Gardiyan, Deli
+- Suzan Van Dyke
+- serif lloyd, Macaulay, Betty

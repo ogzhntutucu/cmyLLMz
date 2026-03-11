@@ -1388,15 +1388,16 @@
       455,
       456
     ],
-    "text": "Şşşt, bana bak! Öyle az buz bir şey yazma, 100 dolar yaz. Tren soydu deriz. - Aziz Efendi, isim ne yazayım? - İsim? Yaz, Jack Daniel. Zaten son işimiz oğlum. Yarın trenle White Lake'e gidiyoruz. - Jack. - Daniel. Daniel. Trenci Jack.",
+    "text": "- Şşşt, bana bak! Öyle az buz bir şey yazma, 100 dolar yaz. Tren soydu deriz. - Aziz Efendi, isim ne yazayım? - İsim? Yaz, Jack Daniel. Zaten son işimiz oğlum. Yarın trenle White Lake'e gidiyoruz. - Jack. - Daniel. - Daniel. Trenci Jack. - Hahahaha.",
     "is_frame_story": false,
     "characters": [
-      "Aziz Vefa"
+      "Aziz Vefa",
+      "Lemi Galip"
     ],
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "yine yeni sahte bir wanted ilani yaratiyorlar, onun hakkinda konusuyorlar."
   },
   {
     "id": "yb_057",
@@ -1410,13 +1411,15 @@
       459,
       460
     ],
-    "text": "Küller küllere, toprak toprağa karışır. Yüce Tanrı, bu günahkar kardeşimizin ruhuna merhamet etsin. Ve onu uğurlayan bizler, onun ruhu için dua edelim. Tanrı onu korusun ve gözetsin. Amen.",
+    "text": "- Küller küllere, toprak toprağa karışır. Yüce Tanrı, bu günahkar kardeşimizin ruhuna merhamet etsin. Ve onu uğurlayan bizler, onun ruhu için dua edelim. Tanrı onu korusun ve gözetsin. Amen.",
     "is_frame_story": false,
-    "characters": [],
+    "characters": [
+      "Peder"
+    ],
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "trenci jack'i teslim edip 100 dolari alma planiyla baska bir kasabaya gelmislerdir. ama geldikleri yerde idam edilmek uzere bekletilen biri vardir. peder onun icin dua ediyor. buradaki peder karakterini cem yilmaz'in agabeyi canlandirmaktadir."
   },
   {
     "id": "yb_058",
@@ -1443,15 +1446,19 @@
       476,
       477
     ],
-    "text": "Kolay gelsin. Allah taksiratını affetsin birader. Birader değil, peder. Şerife bakmıştık da... Ben Şerif Murphy. Şerif, sana Trenci Jack'i getirdim. - Trenci Jack? - Trenci Jack. - Trenci Jack! - Evet. Trenci Jack duydun mu? Arkadaşlar seni yakalamışlar. Lanet olsun size! Bitirin şu işi artık! - Trenci Jack mi? - Şansımızı sikeyim! - Sen söyledin trenci diye. - Jack Daniel diyen kimdi? Trenci Jack haaaa diye gülen ben miyim? Şerif, müsaade ederseniz size bir kola ikram etmek istiyorum. Dur! Karbondioksit var içinde! - Yapma. - Karbondioksit! Aaghhh! Aman! Bunları katran ve tüye bulayın, sonra da atın içeri! Yürüyün! Yürüyün!",
+    "text": "- Kolay gelsin. Allah taksiratını affetsin birader. - Birader değil, peder. - Şerife bakmıştık da... - Ben Şerif Murphy. - Şerif, sana Trenci Jack'i getirdim. - Trenci Jack? - Trenci Jack. - Trenci Jack! - Evet. - Trenci Jack duydun mu? Arkadaşlar seni yakalamışlar. - Lanet olsun size! Bitirin şu işi artık! - Trenci Jack mi? - Şansımızı sikeyim! Sen söyledin trenci diye. - Jack Daniel diyen kimdi? - Trenci Jack haaaa diye gülen ben miyim? Şerif, müsaade ederseniz size bir kola ikram etmek istiyorum. Dur! Karbondioksit var içinde! - Yapma. - Karbondioksit! Aaghhh! Aman! - Bunları katran ve tüye bulayın, sonra da atın içeri! - Yürüyün! Yürüyün!",
     "is_frame_story": false,
     "characters": [
-      "Şerif Murphy"
+      "Aziz Vefa",
+      "Peder",
+      "Şerif Murphy",
+      "Trenci Jack",
+      "Lemi Galip"
     ],
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "aziz pedere birader dedigi icin peder onu duzeltir. idam edilmek uzere bekletilen kisinin adi da jack cikar ve o da tren soymustur. trenci jack ismi talihsizce ayni oldugu icin aziz ve lemi kavga ederler. yaptiklari sahtecilik ifsa olmustur. o sirada serif murphy silahini cekip kola gugumune ates eder. aziz ve lemi tutuklanir."
   },
   {
     "id": "yb_059",
@@ -1462,13 +1469,15 @@
     "block_ids": [
       478
     ],
-    "text": "İhtiyacınızı bu kaba giderin. Her tarafı da kuş pisliği yapmayın.",
+    "text": "- İhtiyacınızı bu kaba giderin. Her tarafı da kuş pisliği yapmayın.",
     "is_frame_story": false,
-    "characters": [],
+    "characters": [
+      "Gardiyan"
+    ],
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "'Ballstone Jailhouse, WV' konumunda hapse girmislerdir. katran ve tuye bulanmislardir, tavuk gibi geziyorlar. serif murphy;nin yardimcisi olan gardiyan aziz ve lemiyi uyarir."
   },
   {
     "id": "yb_060",
@@ -1484,13 +1493,17 @@
       483,
       484
     ],
-    "text": "- Muska boynunuzda mı efendim? - Boynumda. O badirelerden koruyan? Kumardan mı? İnnallahe sabirin... Fırtına öncesi sessizlik bu. Daha büyük şeyler olacak. Her hapishanede senden bir tane olmak zorunda mı lan?",
+    "text": "- Muska boynunuzda mı efendim? - Boynumda. - O badirelerden koruyan? - Kumardan mı? - İnnallahe sabirin... - Fırtına öncesi sessizlik bu. Daha büyük şeyler olacak. - Her hapishanede senden bir tane olmak zorunda mı lan?",
     "is_frame_story": false,
-    "characters": [],
+    "characters": [
+      "Lemi Galip",
+      "Aziz Vefa",
+      "Deli"
+    ],
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "aziz ve lemi sohbet etmeye baslarlar, muska hakkinda konusurlar. arkadan deli biri gelir. kumardan mi girdiniz diye sorar."
   },
   {
     "id": "yb_061",
@@ -1501,15 +1514,15 @@
     "block_ids": [
       485
     ],
-    "text": "Johnny Lesh!",
+    "text": "- Johnny Lesh!",
     "is_frame_story": false,
     "characters": [
-      "Johnny Lesh"
+      "Lemi Galip"
     ],
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "aziz ve lemi hucrelerinde yemeklerini yerken yandaki kogusa johnny lesh'i getirirler. o da yakalanmistir. lemi galip onu gorunce sasirir."
   },
   {
     "id": "yb_062",
@@ -1523,47 +1536,37 @@
       488,
       489
     ],
-    "text": "Kim derdi ki böyle bir silahşor buralara düşecek. - Gitti bizim 1000 dolar. - Saçmalama ulan. Elmas ayağımıza geldi işte. Usta, yemiyorsan alabilir miyim?",
+    "text": "- Kim derdi ki böyle bir silahşor buralara düşecek. - Gitti bizim 1000 dolar. - Saçmalama ulan. Elmas ayağımıza geldi işte. - Usta, yemiyorsan alabilir miyim?",
     "is_frame_story": false,
-    "characters": [],
+    "characters": [
+      "Deli",
+      "Lemi Galip",
+      "Aziz Vefa"
+    ],
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "3lu johnny lesh hakkinda konusmaya baslar. deli lemi'nin tabagini ister."
   },
   {
     "id": "yb_063",
     "start": "00:30:51",
-    "end": "00:30:52",
-    "duration_sec": 1.0,
-    "block_count": 1,
-    "block_ids": [
-      490
-    ],
-    "text": "Çalışın!",
-    "is_frame_story": false,
-    "characters": [],
-    "scene": "",
-    "context": "",
-    "tags": [],
-    "note": ""
-  },
-  {
-    "id": "yb_064",
-    "start": "00:31:03",
     "end": "00:31:04",
     "duration_sec": 1.0,
     "block_count": 1,
     "block_ids": [
+      490,
       491
     ],
-    "text": "Kalk ayağa!",
+    "text": "- Çalışın! Kalk ayağa!",
     "is_frame_story": false,
-    "characters": [],
+    "characters": [
+      "Gardiyan"
+    ],
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "kasabadaki mahkumlar bos durmasinlar diye bazi islerde calistiriliyorlar. gardiyan mahkumlari azarliyor. aziz ve lemi de burada calismak uzere getirildi. johnny lesh de burada. ve calisilan bolgede tepeden johnny lesh'in adamlari at ustunde izliyorlar."
   },
   {
     "id": "yb_065",
@@ -1578,13 +1581,17 @@
       495,
       496
     ],
-    "text": "Bir boş bıraksalar, gidip kafasını gözünü yaracağım ama... Hiç boş bırakmıyorlar ki. Sakin ol, prosedürü uygulayacağız. Acele yok. Fırtına öncesi sessizlik bu. İyiye alamet değil. Gidiniz ulan beyefendi, gidiniz.",
+    "text": "- Bir boş bıraksalar, gidip kafasını gözünü yaracağım ama... Hiç boş bırakmıyorlar ki. - Sakin ol, prosedürü uygulayacağız. Acele yok. - Fırtına öncesi sessizlik bu. İyiye alamet değil. - Gidiniz ulan beyefendi, gidiniz.",
     "is_frame_story": false,
-    "characters": [],
+    "characters": [
+      "Lemi Galip",
+      "Aziz Vefa",
+      "Deli"
+    ],
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "aziz ve lemi johnny lesh hakkinda konusuyor. deli gelip endise verici bir sey soyluyor. lemi uzaklastiriyor."
   },
   {
     "id": "yb_066",
@@ -1595,13 +1602,15 @@
     "block_ids": [
       497
     ],
-    "text": "Hey tavuklar! Su.",
+    "text": "- Hey tavuklar! Su.",
     "is_frame_story": false,
-    "characters": [],
+    "characters": [
+      "Gardiyan"
+    ],
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "gardiyan aziz ve lemiye su getirme gorevi verir."
   },
   {
     "id": "yb_067",
@@ -1616,11 +1625,14 @@
     ],
     "text": "- Prosedür dedin ya, ne yapacağız? - Aceleye gerek yok. Tîz-reftâr olanın pâyına dâmen dolaşır. Erişir menzil-i maksuda aheste giden. Dinle.",
     "is_frame_story": false,
-    "characters": [],
+    "characters": [
+      "Lemi Galip",
+      "Aziz Vefa"
+    ],
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "lemi ve aziz kendi aralarina konusmaya baslarlar. tam bu sirada silahlar patlamaya baslar. johnny lesh'in adamlari alani basarlar ve gorevlilerle catismaya baslarlar. aziz ve lemi bir yere saklanir."
   },
   {
     "id": "yb_068",
@@ -1633,7 +1645,7 @@
       503,
       504
     ],
-    "text": "- Lemi! - Aziz Efendi! Kurşun yağdı birader. Kurşun yağdı! Çok karanlık içerisi.",
+    "text": "- Lemi! - Aziz Efendi! - Kurşun yağdı birader. Kurşun yağdı!",
     "is_frame_story": false,
     "characters": [
       "Lemi Galip",
@@ -1642,7 +1654,7 @@
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "aziz ve lemi saklandiklari yerden cikarlar. ciktiklarinda bakarlar ki kendileri disinda herkes vurulmus. herkes olmus sadece johnny lesh yarali kalmis."
   },
   {
     "id": "yb_069",
@@ -1676,15 +1688,17 @@
       527,
       528
     ],
-    "text": "Su isteyen? - Yok herhalde. - Lesh! Lesh! Lesh! Ölme lan! Ölemezsin, dur! Elmas nerede? Elmasın yerini söyle, söyle! Nerede elmas lan! - Bill. - Bill... Su ver biraz. Bill ne? Bill? Bill ne? Pacos Bill? - Buffalo Bill. - Hangi Bil... Bil mi? - Akbil mi ne? - Bill... Bill... miyo... ruum. Gebertirim lan! Ölemezsin, gebertirim seni! - Cannon'da... - Bill Cannon! Bill Cannon? - Cannon? - Cannon. - Ball. - Cannonball. Cannonball ne? Yerli mi yabancı mı? - Siii... - İlkine geç! İlkine geç! Si... Sioux... Sioux dedi. Sioux' lar! Sioux... Sioux dedi. Sioux' lar... Hayır ulan, öldüm diye ''see you'' diyor. ''See you!'' dedi! Çok vakitsiz gitti. Ah canım, atı da öyle mahzun kaldı. - Bu atlar çok hisli hayvanlardır. - Haa...",
+    "text": "- Su isteyen? Yok herhalde. - Lesh! Lesh! Lesh! Ölme lan! Ölemezsin, dur! Elmas nerede? Elmasın yerini söyle, söyle! Nerede elmas lan! - Bill. - Bill... Su ver biraz. Bill ne? Bill? Bill ne? Pacos Bill? - Buffalo Bill. - Hangi Bil... Bil mi? - Akbil mi ne? - Bill... Bill... miyo... ruum. - Gebertirim lan! Ölemezsin, gebertirim seni! - Cannon'da... - Bill Cannon! Bill Cannon? - Cannon? Cannon. - Ball. - Cannonball. - Cannonball ne? Yerli mi yabancı mı? - Siii... - İlkine geç! İlkine geç! - Si... - Sioux... Sioux dedi. Sioux' lar! - Hayır ulan, öldüm diye ''see you'' diyor. ''See you!'' dedi! - Çok vakitsiz gitti. Ah canım, atı da öyle mahzun kaldı. Bu atlar çok hisli hayvanlardır. - Haa...",
     "is_frame_story": false,
     "characters": [
+      "Lemi Galip",
+      "Aziz Vefa",
       "Johnny Lesh"
     ],
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "johnny lesh'ten son nefesini verirken elmasin yerini ogrenmeye calisirlar. ne demek istedigini bi turlu anlayamazlar. johnny lesh olur."
   },
   {
     "id": "yb_070",
@@ -1696,15 +1710,16 @@
       529,
       530
     ],
-    "text": "Aziz Efendi? Johnny Lesh'sin. Hapisten kaçtın. İki bin dolarsın.",
+    "text": "- Aziz Efendi? - Johnny Lesh'sin. Hapisten kaçtın. İki bin dolarsın.",
     "is_frame_story": false,
     "characters": [
-      "Johnny Lesh"
+      "Lemi Galip",
+      "Aziz Vefa"
     ],
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "aziz orada sadece ikisinin kaldiginin farkina varinca, lemi galip'in johnny lesh'e olan benzerligini kullanmak ister."
   },
   {
     "id": "yb_071",
@@ -1719,13 +1734,17 @@
       534,
       535
     ],
-    "text": "Tamam. Al. Ay! Fırtına öncesi sessizlik bu. Daha büyük şeyler olacak. Vuruyorum?",
+    "text": "- Ay! - Fırtına öncesi sessizlik bu. Daha büyük şeyler olacak. - Vuruyorum?",
     "is_frame_story": false,
-    "characters": [],
+    "characters": [
+      "Aziz Vefa",
+      "Deli",
+      "Lemi Galip"
+    ],
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "birden deli ortaya cikar ve azizin bacagindan tutar. aziz korkar. lemi aziz'e deli'yi vurmayi teklif eder. ama vurmaz."
   },
   {
     "id": "yb_072",
@@ -1736,18 +1755,18 @@
     "block_ids": [
       536
     ],
-    "text": "Neymiş bakalım bu Cannonball?",
+    "text": "- Neymiş bakalım bu Cannonball?",
     "is_frame_story": false,
     "characters": [],
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "aziz ve lemi tum oluleri gomerler. ardindan iki ata binip yola koyulurlar. deli orada kalir, onlara el sallar."
   },
   {
     "id": "yb_073",
     "start": "00:35:17",
-    "end": "00:36:04",
+    "end": "00:36:13",
     "duration_sec": 47.0,
     "block_count": 16,
     "block_ids": [
@@ -1766,32 +1785,19 @@
       549,
       551,
       552,
-      553
-    ],
-    "text": "Hiç aklıma gelmezdi. Mekteb-i Sultaniye, Robert Kolej... ...Maliye Nazırlığı'nda dört sene staj... ...şu halimize bak. Yazarsın işte hatıratında. Başkanın hediyesini verip, balı böreği yiyip dönecektik. Bokun tezeğin içinden çıkamadık. Şuraya bak hala ağzımdan tüy çıkıyor. Benim şu batı hayranlığını gözden geçirip, tekrar etüd etmem lazımmış demek ki. Güzel kardeşim, Batı'yı ne gözünde bu kadar büyütüyorsun. Bundan yüz sene evvel Versay sarayında tuvalet yoktu ya. Kral direk saraya sıçıyordu. O vals dediğin oyun, boka basmamak için icat edilmiş bir dans. Aman bunu da hep söylerler. Sonra ne oldu peki? İşte matbaanın bize geç gelmesi... Falan filan... Ne oluyor ya? - Hoo... - Hoo... Hoo...",
-    "is_frame_story": false,
-    "characters": [],
-    "scene": "",
-    "context": "",
-    "tags": [],
-    "note": ""
-  },
-  {
-    "id": "yb_074",
-    "start": "00:36:11",
-    "end": "00:36:13",
-    "duration_sec": 2.0,
-    "block_count": 1,
-    "block_ids": [
+      553,
       554
     ],
-    "text": "Sakin...",
+    "text": "- Hiç aklıma gelmezdi. Mekteb-i Sultaniye, Robert Kolej... ...Maliye Nazırlığı'nda dört sene staj... ...şu halimize bak. - Yazarsın işte hatıratında. Başkanın hediyesini verip, balı böreği yiyip dönecektik. Bokun tezeğin içinden çıkamadık. Şuraya bak hala ağzımdan tüy çıkıyor. - Benim şu batı hayranlığını gözden geçirip, tekrar etüd etmem lazımmış demek ki. - Güzel kardeşim, Batı'yı ne gözünde bu kadar büyütüyorsun. Bundan yüz sene evvel Versay sarayında tuvalet yoktu ya. Kral direk saraya sıçıyordu. O vals dediğin oyun, boka basmamak için icat edilmiş bir dans. - Aman bunu da hep söylerler. Sonra ne oldu peki? - İşte matbaanın bize geç gelmesi... Falan filan... Ne oluyor ya? - Hoo... - Hoo... Hoo... Sakin...",
     "is_frame_story": false,
-    "characters": [],
+    "characters": [
+      "Lemi Galip",
+      "Aziz Vefa"
+    ],
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "lemi ve aziz at surerlerken sohbet ederler. tam o sirada silah sesleri duyarlar. birisi atis talimi yapmaktadir."
   },
   {
     "id": "yb_075",
@@ -1807,15 +1813,16 @@
       559,
       560
     ],
-    "text": "- Kadın mı bu ya? - Kadın tabii oğlum. Baksana nereye ateş ediyor nereyi vuruyor. Oradan anla. Aziz Efendi, ne oldu ya? Bir Batı hayranlığı başladı. Oğlum, Batı'nın iyi yanlarını alacaksın. Bana bak, çıkar silahlarını. Tutuklusun unutma. Gözlük.",
+    "text": "- Kadın mı bu ya? - Kadın tabii oğlum. Baksana nereye ateş ediyor nereyi vuruyor. Oradan anla. - Aziz Efendi, ne oldu ya? Bir Batı hayranlığı başladı. - Oğlum, Batı'nın iyi yanlarını alacaksın. Bana bak, çıkar silahlarını. Tutuklusun unutma.",
     "is_frame_story": false,
     "characters": [
+      "Lemi Galip",
       "Aziz Vefa"
     ],
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "kadin hakkinda gizlice kendi aralarinda konusurlar"
   },
   {
     "id": "yb_076",
@@ -1841,16 +1848,17 @@
       575,
       576
     ],
-    "text": "Merhaba güzel bayan! Atış taliminizi zevkle izledik. Öyle mi? Suzan Van Dyke'ın gösterisi öyle bedava izlenmez ama. Üç - beş atın bakayım. Üzerimizde para yok. Bir kahve ikram etsek? Kahve ha? - Suzan Van Dyke. - Aziz Vef... eee... Zozo The Kid. Kid ayrı. Kahve atta, hemen gidip alıyım geleyim. - Erkek gibi. Hiç sevmem. - Alırım. Hiç affetmem. Kahvenin köpüğü ala, nişancılığınız Ali- ül ala. Mersi... 3 Yaşından beri meraklısıyım. 5 sene Buffalo Bill'in şovundaydım. İşte; atıcılık, kement, aşçılık, trickshot. Sonra bir ara otelde takıldım. Van Dyke... Hangi vicdansız kovboy sizi böyle çalıştırıyor efendim? Hangi kovboy? Yok öyle bir kovboy.",
+    "text": "- Merhaba güzel bayan! Atış taliminizi zevkle izledik. - Öyle mi? Suzan Van Dyke'ın gösterisi öyle bedava izlenmez ama. Üç beş atın bakayım. - Üzerimizde para yok. Bir kahve ikram etsek? - Kahve ha? Suzan Van Dyke. - Aziz Vef... eee... Zozo The Kid. Kid ayrı. Kahve atta, hemen gidip alıyım geleyim. - Erkek gibi. Hiç sevmem. - Alırım. Hiç affetmem. Kahvenin köpüğü ala, nişancılığınız Ali-ül ala. - Mersi... 3 Yaşından beri meraklısıyım. 5 sene Buffalo Bill'in şovundaydım. İşte; atıcılık, kement, aşçılık, trickshot. Sonra bir ara otelde takıldım. - Van Dyke... - Hangi vicdansız kovboy sizi böyle çalıştırıyor efendim? - Hangi kovboy? Yok öyle bir kovboy.",
     "is_frame_story": false,
     "characters": [
+      "Aziz Vefa",
       "Suzan Van Dyke",
-      "Aziz Vefa"
+      "Lemi Galip"
     ],
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "aziz, lemi ve suzan sohbet ediyorlar. aziz suzandan hoslandi."
   },
   {
     "id": "yb_077",
@@ -1933,18 +1941,17 @@
       648,
       649
     ],
-    "text": "Fotoğraf sizden mi düştü acaba? Evet. Lezzo... - Ehemmiyetli biri galiba. - Öyle... Sevdiğim biri. Eee... Siz ne tarafa gidiyorsunuz? Efendim ben kelle avcısıyım. Johnny Lesh'l teslim etmeye götürüyorum. - Lanet olsun! Neden bahsediyorsunuz siz? - Ne oluyor ya? Bir dakika. - Johnny Lesh! Sonunda, sen ha? - Değil değil! Aziz söylesene! - Suzan kardeş, Allah aşkına! - Suzan Hanım bir saniye! Sen çekil! Çekil! Yoksa seni de gebertirim. Aslında çekilmene de gerek yok. Dur! Hayır! Johnny Lesh değil efendim. Johnny Lesh değil. Sahte. Yalan. Biz Osmanlı'yız. Sahte Johnny Lesh, ödül için. Değil. Vallahi Johhny Lesh değilim efendim. Amerikalı bile değilim. Osmanlıyım ben. İstanbul çocuğuyum. Ben dört lisan biliyorum. - Osmanlı mı? - Osmanlı. Hani saray. Müzik. Dın dın dın... Ortaoyunu, harem. - İbiş, yavrum konağa misafirler gelecek. - Gelecek de bana mı gelecek? - Zengin mutfak, zeytinyağlı dolma, sarma. >- Hünkarbeğendi, imam bayıldı. At meydanı, Sultanahmet, Ramazan eğlenceleri... Bak mahya... - Olsaydı da açsaydık. - Onbir ayın sultanı. Beyzadeler, nazlı hanımlar... Gidelim Göksu'ya bir alem-i ab eyleyelim. Aman çekelim kürekleri ruhu şad eyleyelim. Eski bir konak, tulumbacılar, yangın... - Bekçi baba yangın nerede? - Yüreğimde, yüreğimde! - Ya!. Galata, Tophane, külhanbeyleri... - Anamı kesen ben, babamı kesen ben... - Arap bacıyı yap! - Küçük hanım bu akşam ne yemek isterler? Öyle değil lan, sesini öne al... Küçük hanım yemek hiç yapamadım, bugün kilerde hiçbir şey kalmamış. - Biraz sert olmuyor mu öyle? Şu, izle yüzümü biraz kara yapayım, tam arap bacı. Tam. Başörtü olsa aynısını yapıyoruz. Lokum! Turkish delight! Lokum! Arap bacıyı anlamadım ama lokum mantıklı geldi. - Buyrun efendim. - Turkish delight. Lokum zaten bizden çıkmadır efendim. - İnandınız değil mi Johnny Lesh olmadığıma? - İnandım. Suzan Hanım, bir de bizde şey vardır: O silah çıktı mı illa patlar. Haa... Olmadı bir şey olmadı. Sıyırdı. Kalk! Kalk, kalk! Dayan Aziz Efendi, dayan. Ahh! - Ayyy! - Tamam. Tamam. Kıpırdama. Alkol mü efendim? Ahh! Allah! - Demek Lesh öldü ha? - Öldü. Gözümüzle gördük. Aziz Efendi kendi elleriyle defnetti cesedi. Onun canını ben almak isterdim. Johnny Lesh annemin katilidir. Annem, Mary Lou. Ohh... Ahh... - Allah... - Ver şunu. Johnny Lesh bizim de canımızı yaktı. Sultanın hediyesini getirmiştik, binlerce dolarlık. Posta arabasında gidiyoruz. Pat! Haydutlar! ''Stop the carriage, you son of a bitch!'' demesinler mi? Tabii orada Aziz Efendi'nin telaşı, benim cesaretim. - Kısa çöp, uzun çöp derken... - Teferruata girme ulan! Lemi'yi Johnny Lesh diye teslim edip... ...2000 dolarımızı kurtaralım dedik. Fena mı ettik? Nehrin öteki tarafına geçmeniz lazım, buralarda Lesh'i çok iyi tanırlar. Cannonball'a gidin bence. - Cannonball? - Cannonball... See you. Ha! Orada Lesh'i iki bin dolara okutabilirsiniz. Gerzek bir şerifi var. Yaşa! Haa, bin dolarını ben alırım ama. Olur. Bak anesinin fotoğrafıymış lan, ne dedikodu yapıyorsun? Şuhu vukuundan beter derler ya. Sen de bin doları verdin hemen. Ömrümü veririm. Erkek gibi hiç sevmem. He, erkek gibi. Sırta bak. Aynı bizim Hamal Hasan.",
+    "text": "- Fotoğraf sizden mi düştü acaba? - Evet. - Lezzo... - Ehemmiyetli biri galiba. - Öyle... Sevdiğim biri. Eee... Siz ne tarafa gidiyorsunuz? - Efendim ben kelle avcısıyım. Johnny Lesh'i teslim etmeye götürüyorum. - Lanet olsun! Neden bahsediyorsunuz siz? - Ne oluyor ya? Bir dakika. - Johnny Lesh! Sonunda, sen ha? - Değil değil! Aziz söylesene! Suzan kardeş, Allah aşkına! - Suzan Hanım bir saniye! - Sen çekil! Çekil! Yoksa seni de gebertirim. Aslında çekilmene de gerek yok. - Dur! Hayır! Johnny Lesh değil efendim. Johnny Lesh değil. Sahte. Yalan. Biz Osmanlı'yız. Sahte Johnny Lesh, ödül için. - Değil. Vallahi Johhny Lesh değilim efendim. Amerikalı bile değilim. Osmanlıyım ben. İstanbul çocuğuyum. Ben dört lisan biliyorum. - Osmanlı mı? - Osmanlı. Hani saray. Müzik. Dın dın dın... - Ortaoyunu, harem. - İbiş, yavrum konağa misafirler gelecek. - Gelecek de bana mı gelecek? - Zengin mutfak, zeytinyağlı dolma, sarma. - Hünkarbeğendi, imam bayıldı. At meydanı, Sultanahmet, Ramazan eğlenceleri... Bak mahya... Olsaydı da açsaydık. - Onbir ayın sultanı. - Beyzadeler, nazlı hanımlar... Gidelim Göksu'ya bir alem-i ab eyleyelim. - Aman çekelim kürekleri ruhu şad eyleyelim. - Eski bir konak, tulumbacılar, yangın... - Bekçi baba yangın nerede? - Yüreğimde, yüreğimde! - Ya!. Galata, Tophane, külhanbeyleri... - Anamı kesen ben, babamı kesen ben... Arap bacıyı yap! - Küçük hanım bu akşam ne yemek isterler acaba? - Öyle değil lan, sesini öne al... Küçük hanım yemek hiç yapamadım, bugün kilerde hiçbir şey kalmamış. - Biraz sert olmuyor mu öyle? - Şu, isle yüzümü biraz kara yapayım, tam arap bacı. Tam. - Başörtü olsa aynısını yapıyoruz. - Lokum! Turkish delight! Lokum! - Arap bacıyı anlamadım ama lokum mantıklı geldi. - Buyrun efendim. - Turkish delight. - Lokum zaten bizden çıkmadır efendim. - İnandınız değil mi Johnny Lesh olmadığıma? - İnandım. - Suzan Hanım, bir de bizde şey vardır: O silah çıktı mı illa patlar. - Haa... Olmadı bir şey olmadı. Sıyırdı. Kalk! Kalk, kalk! - Dayan Aziz Efendi, dayan. - Ahh! Ayyy! - Tamam. Tamam. Kıpırdama. - Alkol mü efendim? Ahh! Allah! - Demek Lesh öldü ha? - Öldü. Gözümüzle gördük. Aziz Efendi kendi elleriyle defnetti cesedi. - Onun canını ben almak isterdim. Johnny Lesh annemin katilidir. Annem, Mary Lou. - Ohh... Ahh... Allah... - Ver şunu. - Johnny Lesh bizim de canımızı yaktı. Sultanın hediyesini getirmiştik, binlerce dolarlık. Posta arabasında gidiyoruz. Pat! Haydutlar! 'Stop the carriage, you son of a bitch!' demesinler mi? Tabii orada Aziz Efendi'nin telaşı, benim cesaretim. Kısa çöp, uzun çöp derken... - Teferruata girme ulan! Lemi'yi Johnny Lesh diye teslim edip... ...2000 dolarımızı kurtaralım dedik. Fena mı ettik? - Nehrin öteki tarafına geçmeniz lazım, buralarda Lesh'i çok iyi tanırlar. Cannonball'a gidin bence. - Cannonball? - Cannonball... See you. Ha! - Orada Lesh'i iki bin dolara okutabilirsiniz. Gerzek bir şerifi var. - Yaşa! - Haa, bin dolarını ben alırım ama. - Olur. Bak anesinin fotoğrafıymış lan, ne dedikodu yapıyorsun? Şuhu vukuundan beter derler ya. - Sen de bin doları verdin hemen. - Ömrümü veririm. - Erkek gibi hiç sevmem. - He, erkek gibi. Sırta bak. Aynı bizim Hamal Hasan.",
     "is_frame_story": false,
     "characters": [
-      "Aziz Vefa",
+      "Lemi Galip",
       "Suzan Van Dyke",
-      "Johnny Lesh",
-      "Lemi Galip"
+      "Aziz Vefa"
     ],
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "sohbet ederlerken johnny lesh'ten bahsedince suzan aziz ve lemi'ye silah ceker. lemi'nin johnny lesh olmadigini itiraf etmek zorunda kalirlar. ama suzan ikna olmadigi icin ikna edebilmek icin osmanli olduklarini kanitlamak icin birsuru seyden bahsederler. nihayetinde suzan ikna olur. ama aziz 'bizde cikan silah patlar' dedigi icin azizi kolundan vurur. ardindan johnny lesh hakkinda konusurlar. Cannonball'a gitme karari alirlar."
   },
   {
     "id": "yb_078",
@@ -1957,13 +1964,16 @@
       651,
       652
     ],
-    "text": "Bana bak, sen hatıratını hangi elle yazıyorsun? Güzel. Ben o elleri bir bağlayayım da, gece rahat uyuyayım. - Hiç mi itimatımız kalmadı? - Yok efendim.",
+    "text": "- Bana bak, sen hatıratını hangi elle yazıyorsun? Güzel. Ben o elleri bir bağlayayım da, gece rahat uyuyayım. - Hiç mi itimatımız kalmadı? - Yok efendim.",
     "is_frame_story": false,
-    "characters": [],
+    "characters": [
+      "Aziz Vefa",
+      "Lemi Galip"
+    ],
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "suzan uzerini cikarmis arkasi donuk halde temizlenmektedir. bunu goren aziz lemi'nin hangi el agirlikli oldugunu anlamak icin soru yoneltir. lemi sag elini gosterir. gece biter. yola cikarlar. uzun sure uzun yol yaparlar."
   },
   {
     "id": "yb_079",
@@ -1987,18 +1997,20 @@
       667,
       668,
       669,
-      670
+      670,
+      671
     ],
-    "text": "- Lan bana bak. Akşam vaazına bekliyorum... ...ona gore ha, beni deli etmeyin! Al şu tüfeği, koy kenara. Bir yandan kanun işleri... ...bir yandan kilisede papazlık... ...beş dakika oturacak vaktimiz yok be. Cenaze vardı da. Chuck, bir ara fırla da kiliseye mum götür. Yine çalıp duruyor ibneler. Evet, hoş geldiniz. - Şerif Lloyd? - Benim. Bir ödül işi için gelmiştik. Önce birer viski içer miyiz? Açık viski, kendi dükkanımızdan. Ya da, Chuck! Fırla oğlum şurdan bize buz gibi kola getir. - Kola mı? - Evet. Yeni çıkmış. İçimi nasıl biliyor musun? Peh... Şişeye koymuşlar.",
+    "text": "- Lan bana bak. Akşam vaazına bekliyorum... ...ona gore ha, beni deli etmeyin! Al şu tüfeği, koy kenara. Bir yandan kanun işleri... ...bir yandan kilisede papazlık... ...beş dakika oturacak vaktimiz yok be. Cenaze vardı da. Chuck, bir ara fırla da kiliseye mum götür. Yine çalıp duruyor ibneler. Evet, hoş geldiniz. - Şerif Lloyd? - Benim. - Bir ödül işi için gelmiştik. - Önce birer viski içer miyiz? Açık viski, kendi dükkanımızdan. Ya da, Chuck! Fırla oğlum şurdan bize buz gibi kola getir. - Kola mı? - Evet. Yeni çıkmış. İçimi nasıl biliyor musun? Peh... - Şişeye koymuşlar. Resmen araklamışlar.",
     "is_frame_story": false,
     "characters": [
       "Şerif Lloyd",
-      "Chuck"
+      "Suzan Van Dyke",
+      "Aziz Vefa"
     ],
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "artik cannonball'a ulastilar. serifin odasinda oturuyorlarken serif soylene soylene iceri girer. suzan konuyu acar. serif lloyd kola ikram eder. aziz siseye koymalarina sasirir."
   },
   {
     "id": "yb_080",
@@ -2007,19 +2019,18 @@
     "duration_sec": 7.0,
     "block_count": 3,
     "block_ids": [
-      671,
       672,
       673
     ],
-    "text": "Resmen araklamışlar. Neyse Şerif, iş konuşalım. Sana Johnny Lesh'i getirdik.",
+    "text": "- Neyse Şerif, iş konuşalım. Sana Johnny Lesh'i getirdik.",
     "is_frame_story": false,
     "characters": [
-      "Şerif Lloyd"
+      "Aziz Vefa"
     ],
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "aziz konuyu acar. serif donar kalir. johnny lesh taklidi yapan lemi'yi gorunce cok sasirir."
   },
   {
     "id": "yb_081",
@@ -2089,18 +2100,19 @@
       732,
       734
     ],
-    "text": "Johnny Lesh... Essah mı? Şaka etmiyorsunuz değil mi? - Chuck duydun mu? Johnny Lesh... - Parayı ne zaman alabiliriz? Para mı? Ne parası be? Sen delirdin mi be adam? Böyle bir günde, böyle bir zamanda... ...birlik ve beraberliğe en çok ihtiyacımız olduğu bir anda... ...Johnny Lesh gibi bir kahramanı içeri tıkmamı mı istiyorsun benden? Fargoların oğluyla haber uçurdum, aldın değil mi? N'oluyor ya? Şerif bu yaptığın kanunlara aykırı. Hemen ödül parasını istiyoruz. Len sizin ödülünüz batsın. Paranız bende merak etmeyin. Ama Johnny Lesh'i içeri atamam. Sioux' lar anamızı belledi. Bak! - Deriyi almışlar. - He ya. Taze. Daha dün aldılar. Estirip duruyorlar. Buyrun. Bakın, bu işi halletse halletse, Johnny Lesh halleder. Siz de beyazsınız, halden anlarsınız. Chuck! Ulan, Chuck deyince çakma, kosnük! Fırla git otele haber ver... ...Johnny Lesh abimizle, ödül avcısı misafirlerimiz geliyor de. Haydi bakalım! Gel bakalım aslanım. Şerif! Macaulay. Johnny Lesh abinizi otele götürün. İç - dış bir güzel yıkayın. Tabii şerif. Buyrun. - Ödül işini yatırmasın. - Dur bakalım, konuşacağız. Hanım efendi otele buyurmuyorlar mı? Lütfen. Kendi eviniz gibi. Sıcak bir banyo iyi gelir. Bin dolarını alırım, anlamam. Alırsın, alırsın. Tuttuğunu koparan bir cinse benziyor. Tuttuğunu koparır da, biz ödülü koparacak mıyız acaba? Koparırsın, kafana takma. Şu yıldıza az hürmet edin... Ödül meselesini kafanıza takmayın... Şu Sioux'ların belini bir kıralım gerisi kolay. Sen de silahını hızlı bir kahramana benziyorsun. - Evvelallah. - Ne? - Öyleyimdir yani. - Yoo, öyle deme. Kovboyluk bitti. Artık gencecik oğlanlar kafalarına tüyler takıp... ...''ulelek ulelek'' diye, sabahtan başlayıp... ...akşama kadar kızıldericilik oynuyorlar. Çocuk işte, düşmanlıktan anlamıyor ki. Kızılları al karşına adam gibi konuş desen, konuşamazsın. Bunlar nehirle, dağla, taşla konuşan manyaklar. - Ateş suyundan olsa gerek. - Sadece ateş suyu mu? Barış çubuğu var, mantarı var. Daha ne herzeleler. Ama bitti, az kaldı... Bu civarda iki dönüm arazileri ya var, ya da yok. Yakında hepsinin köküne kibrit suyunu dökeceğim. - Lan, gidin başka yerde oynayın. - Bu da benim ikinci avrat. Betty. - Hoş geldiniz kovboy bey. - Hürmetler... - Kalacak mısınız kasabamızda? - Yani... Sana ne? İşine bak sen. - Buyur akşam vaazına katıl istersen. - Akşam okundu mu? Ne?",
+    "text": "- Johnny Lesh... Essah mı? Şaka etmiyorsunuz değil mi? Chuck duydun mu? Johnny Lesh... - Parayı ne zaman alabiliriz? - Para mı? Ne parası be? Sen delirdin mi be adam? Böyle bir günde, böyle bir zamanda... ...birlik ve beraberliğe en çok ihtiyacımız olduğu bir anda... ...Johnny Lesh gibi bir kahramanı içeri tıkmamı mı istiyorsun benden? Fargoların oğluyla haber uçurdum, aldın değil mi? - N'oluyor ya? - Şerif bu yaptığın kanunlara aykırı. Hemen ödül parasını istiyoruz. - Len sizin ödülünüz batsın. Paranız bende merak etmeyin. Ama Johnny Lesh'i içeri atamam. Sioux'lar anamızı belledi. Bak! - Deriyi almışlar. - He ya. Taze. Daha dün aldılar. Estirip duruyorlar. Buyrun. Bakın, bu işi halletse halletse, Johnny Lesh halleder. Siz de beyazsınız, halden anlarsınız. Chuck! Ulan, Chuck deyince çakma, kosnük! Fırla git otele haber ver... ...Johnny Lesh abimizle, ödül avcısı misafirlerimiz geliyor de. Haydi bakalım! Gel bakalım aslanım. - Şerif! - Macaulay. Johnny Lesh abinizi otele götürün. İç dış bir güzel yıkayın. - Tabii şerif. Buyrun. - Ödül işini yatırmasın. - Dur bakalım, konuşacağız. - Hanım efendi otele buyurmuyorlar mı? Lütfen. Kendi eviniz gibi. - Sıcak bir banyo iyi gelir. Bin dolarını alırım, anlamam. - Alırsın, alırsın. Tuttuğunu koparan bir cinse benziyor. Tuttuğunu koparır da, biz ödülü koparacak mıyız acaba? - Koparırsın, kafana takma. Şu yıldıza az hürmet edin... Ödül meselesini kafanıza takmayın... Şu Sioux'ların belini bir kıralım gerisi kolay. Sen de silahını hızlı bir kahramana benziyorsun. - Evvelallah. - Ne? - Öyleyimdir yani. - Yoo, öyle deme. Kovboyluk bitti. Artık gencecik oğlanlar kafalarına tüyler takıp... ...'ulelek ulelek' diye, sabahtan başlayıp... ...akşama kadar kızılderilicilik oynuyorlar. Çocuk işte, düşmanlıktan anlamıyor ki. Kızılları al karşına adam gibi konuş desen, konuşamazsın. Bunlar nehirle, dağla, taşla konuşan manyaklar. - Ateş suyundan olsa gerek. - Sadece ateş suyu mu? Barış çubuğu var, mantarı var. Daha ne herzeleler. Ama bitti, az kaldı... Bu civarda iki dönüm arazileri ya var, ya da yok. Yakında hepsinin köküne kibrit suyunu dökeceğim. - Lan, gidin başka yerde oynayın. - Bu da benim ikinci avrat. Betty. - Hoş geldiniz kovboy bey. - Hürmetler... - Kalacak mısınız kasabamızda? - Yani... - Sana ne? İşine bak sen. - Buyur akşam vaazına katıl istersen. - Akşam okundu mu? - Ne?",
     "is_frame_story": false,
     "characters": [
-      "Johnny Lesh",
-      "Şerif",
-      "Chuck",
+      "Şerif Lloyd",
+      "Aziz Vefa",
+      "Suzan Van Dyke",
+      "Macaulay",
       "Betty"
     ],
     "scene": "",
     "context": "",
     "tags": [],
-    "note": ""
+    "note": "lloyd getirdikleri kisinin johnny lesh oldugunu duyunca onu serbest birakir. kendi isi icin kullanmak ister. lesh'i ve suzani otele yollar. aziz ile sohbet etmeye ve yurumeye baslarlar. serif bi yandan azizle yururken birilerine ates eder keyfi olarak. burasi kovboylucuk sakasi icerir. aziz betty ile tanisir. serif azizi aksam vaazina davet eder. aziz osmanlidan aliskanlik aksam okundu mu diye sorar, serif anlamaz."
   },
   {
     "id": "yb_082",
