@@ -1,6 +1,8 @@
 # Hatalar
 
-Karakterler
+
+# Karakterler
+
 - zeki, vedat, alpay, ramazan
 - aziz vefa, lemi galip
 - jack, bayan 1
