@@ -1,0 +1,23 @@
+# Arayüz
+streamlit
+
+# Vektör veritabanı
+chromadb
+
+# Embedding
+sentence-transformers
+
+# LLM entegrasyonları
+ollama
+google-generativeai
+
+# NLP
+nltk
+spacy
+zeyrek
+
+# Ortam yönetimi
+python-dotenv
+
+# Görselleştirme
+matplotlib

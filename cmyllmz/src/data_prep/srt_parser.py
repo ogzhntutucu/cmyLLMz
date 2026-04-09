@@ -4,7 +4,7 @@ srt_parser.py
 Yahşi Batı .srt dosyasını parse eder ve ham JSON'a çevirir.
 
 Birleştirme stratejisi:
-- Aynı zaman damgasında hem {\a6} (İngilizce orijinal) hem Türkçe çeviri 
+- Aynı zaman damgasında hem {\\a6} (İngilizce orijinal) hem Türkçe çeviri 
   bulunuyorsa: İngilizce orijinali kullan, Türkçe çeviriyi AT.
   Çünkü İngilizce orijinal sahnede gerçekten söylenen, Türkçe sadece altyazı çevirisi.
 - Sadece Türkçe → doğrudan kullan (sahne zaten Türkçe).
@@ -18,6 +18,9 @@ import json
 from pathlib import Path
 from collections import defaultdict
 
+
+# Proje kök dizini (src/data_prep/ → iki seviye yukarı)
+PROJECT_ROOT = Path(__file__).parent.parent.parent
 
 # Atlanacak reklam/teknik satırlar
 SKIP_PATTERNS = [
@@ -154,9 +157,8 @@ def parse_srt(filepath: Path) -> list[dict]:
 
 
 def main():
-    base = Path(__file__).parent.parent
-    srt_file = base / "data" / "filmler" / "yahsi_bati" / "raw" / "yahsi_bati.srt"
-    out_file = base / "data" / "filmler" / "yahsi_bati" / "processed" / "raw_subtitles.json"
+    srt_file = PROJECT_ROOT / "data" / "raw" / "yahsi_bati.srt"
+    out_file = PROJECT_ROOT / "data" / "processing" / "ham_chunks.json"
     
     print(f"Okunuyor: {srt_file}")
     blocks, skipped = parse_srt(srt_file)

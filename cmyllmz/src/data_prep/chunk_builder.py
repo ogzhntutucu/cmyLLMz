@@ -1,16 +1,20 @@
 """
 chunk_builder.py
 ----------------
-raw_subtitles.json'u okur, ardışık blokları sahne bazında birleştirir.
+ham_chunks.json'u (raw_subtitles) okur, ardışık blokları sahne bazında birleştirir.
 
 Birleştirme mantığı:
 - İki ardışık bloğun zaman farkı > 3 saniye → yeni chunk
-- Her chunk'ta tek `text` alanı var (TR + EN birleşik)
 - Chunk ID formatı: yb_001, yb_002, ...
+- Çıktı şeması proje planındaki JSON şemasıyla uyumlu
 """
 
 import json
 from pathlib import Path
+
+
+# Proje kök dizini (src/data_prep/ → iki seviye yukarı)
+PROJECT_ROOT = Path(__file__).parent.parent.parent
 
 
 def time_to_seconds(t: str) -> float:
@@ -44,37 +48,47 @@ def build_chunks(blocks: list[dict], gap_threshold_sec: float = 3.0) -> list[dic
     for idx, chunk_blocks in enumerate(chunks):
         chunk_id = f"yb_{idx + 1:03d}"
         
-        # Tek text alanı (EN + TR birleşik)
+        # Tek text alanı
         text_parts = [b["text"] for b in chunk_blocks if b["text"]]
         text = " ".join(text_parts).strip()
         
         is_frame = any(b["is_frame_story"] for b in chunk_blocks)
         start = chunk_blocks[0]["start"]
         end = chunk_blocks[-1]["end"]
-        block_ids = [b["block_id"] for b in chunk_blocks]
         
+        # Yeni proje planı şemasına uygun çıktı
         result.append({
             "id": chunk_id,
             "start": start,
             "end": end,
             "duration_sec": round(time_to_seconds(end) - time_to_seconds(start), 1),
-            "block_count": len(chunk_blocks),
-            "block_ids": block_ids,
             "text": text,
-            "is_frame_story": is_frame,
             "characters": [],
-            "scene": "",
-            "context": "",
-            "tags": []
+            "scene_type": "frame_story" if is_frame else "",
+            "location": "",
+            "note": "",
+            "related_chunks": [],
+            "humor_analysis": {
+                "techniques": [],
+                "why_funny": "",
+                "cultural_context": "",
+                "comedic_timing": ""
+            },
+            "entities": {
+                "persons": [],
+                "locations": [],
+                "orgs": [],
+                "misc": []
+            },
+            "summary": ""
         })
     
     return result
 
 
 def main():
-    base = Path(__file__).parent.parent
-    in_file = base / "data" / "filmler" / "yahsi_bati" / "processed" / "raw_subtitles.json"
-    out_file = base / "data" / "filmler" / "yahsi_bati" / "processed" / "chunks.json"
+    in_file = PROJECT_ROOT / "data" / "processing" / "ham_chunks.json"
+    out_file = PROJECT_ROOT / "data" / "processing" / "chunks.json"
     
     GAP_THRESHOLD = 3.0
     
@@ -86,14 +100,10 @@ def main():
     
     print(f"\n✅ Oluşturulan chunk sayısı: {len(chunks)}")
     
-    frame_chunks = sum(1 for c in chunks if c["is_frame_story"])
-    multi_block = sum(1 for c in chunks if c["block_count"] > 1)
-    avg_blocks = sum(c["block_count"] for c in chunks) / len(chunks)
+    frame_chunks = sum(1 for c in chunks if c["scene_type"] == "frame_story")
     avg_len = sum(len(c["text"]) for c in chunks) / len(chunks)
     
     print(f"   ├─ Çerçeve hikaye chunk: {frame_chunks}")
-    print(f"   ├─ Birden fazla bloktan oluşan: {multi_block}")
-    print(f"   ├─ Ortalama blok/chunk: {avg_blocks:.1f}")
     print(f"   └─ Ortalama chunk uzunluğu: {avg_len:.0f} karakter")
     
     out_file.parent.mkdir(parents=True, exist_ok=True)
@@ -105,7 +115,7 @@ def main():
     
     print("\n--- İlk 3 chunk:")
     for c in chunks[:3]:
-        print(f"  [{c['id']}] {c['start']} → {c['end']} ({c['block_count']} blok)")
+        print(f"  [{c['id']}] {c['start']} → {c['end']}")
         preview = c['text'][:120] + "..." if len(c['text']) > 120 else c['text']
         print(f"  {preview}")
         print()
