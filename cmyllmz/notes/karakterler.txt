@@ -1,0 +1,37 @@
+# Yahşi Batı — Karakter Kodları
+# --------------------------------
+# Kullanım: block_referans.txt'te her konuşmanın başına -KOD- yaz
+# Örnek: -AZ- Dinle beni, çöp çekeceğiz.
+#
+# Yeni karakter eklerken buraya da ekle, kodun benzersiz olduğundan emin ol.
+# İsimsiz karakterler için sıra numarası kullan (H1, H2, K1 gibi).
+
+# === ÇERÇEVE HİKAYE (Günümüz — Rakı masası) ===
+ZE = Zeki
+AL = Alpay
+RA = Ramazan
+VE = Vedat
+
+# === ANA HİKAYE (1881 — Osmanlı / Vahşi Batı) ===
+AZ = Aziz Vefa
+LE = Lemi Galip
+SU = Suzan Van Dyke
+JO = Johnny Lesh
+LO = Şerif Lloyd
+PE = Peder
+MA = Macaulay
+BE = Betty
+CH = Şerif Cheko
+MU = Şerif Murphy
+TR = Trenci Jack
+RK = Redkit
+GA = Gardiyan
+JA = Jack
+DE = Deli
+
+# === İSİMSİZ / YAN KARAKTERLER ===
+# Bunları filmi izlerken kendin ekle.
+# Örnek:
+# H1 = Haydut 1
+# H2 = Haydut 2
+# K1 = Kadın 1

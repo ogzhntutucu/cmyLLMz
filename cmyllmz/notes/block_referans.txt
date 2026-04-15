@@ -1,25 +1,25 @@
 YAHŞI BATI — BLOCK REFERANSI
 ============================================================
 Kullanım:
+  - Karakter konuşmasının başına -KOD- yaz  (örn: -AZ-, -LE-, -H1-)
+  - Kodlar için notes/karakterler.txt'e bak
   - Chunk sınırı koymak istediğin yere === yaz (tek başına satır)
-  - Karakter değişiminde o bloğun başına "- " ekle
-  - --- satırları zaman boşluğu göstergesi, bunlara dokunma
+  - --- satırları zaman boşluğu göstergesi, gerekirse üstüne === ekle
 ============================================================
 
-0001 [00:00:14] - Şimdi kadın, ince uzun da olur, kalın da olur, damarlı da olur...
-0002 [00:00:18] ...şöyle de olur, böyle de olur deyince...
-0003 [00:00:20] ...bizim usta dayanamıyor, birden ayağa kalkıyor.
+0001 [00:00:14] -ZE- Şimdi kadın, ince uzun da olur, kalın da olur, damarlı da olur, 
+0002 [00:00:18] şöyle de olur, böyle de olur deyince... 
+0003 [00:00:20] bizim usta dayanamıyor, birden ayağa kalkıyor.
 0004 [00:00:22] Ablacım öylesini bulsam diyor, ben diyor, şey yaparım diyor.
-0005 [00:00:26] - Ustaya bak!
---- [3s boşluk] ---
-0006 [00:00:30] Tabii canım, eskiden ona zıbık derler.
+0005 [00:00:26] -RA- Ustaya bak!
+0006 [00:00:30] -VE- Tabii canım, eskiden ona zıbık derler.
 0007 [00:00:33] Böyle, kahve değirmeni gibi olur. Şu kadar böyle...
-0008 [00:00:35] - Tahtadan, değil mi abi? Tahtadan. - Yaşa.
-0009 [00:00:37] Ben görmedim ama duydum yani.
-0010 [00:00:41] Of be abi, ne güldük ya! Vedat abi, buyur abi.
-0011 [00:00:44] - Hadi bakalım. - Abi hoş geldin.
-0012 [00:00:46] - Hoş geldin abi. - Sağlığınıza.
---- [7s boşluk] ---
+0008 [00:00:35] -ZE- Tahtadan, değil mi abi? Tahtadan. -VE- Yaşa.
+0009 [00:00:37] -ZE- Ben görmedim ama duydum yani.
+0010 [00:00:41] -RA- Of be abi, ne güldük ya! Vedat abi, buyur abi.
+0011 [00:00:44] -VE- Hadi bakalım. -ZE- Abi hoş geldin.
+0012 [00:00:46] -RA- Hoş geldin abi. -VE- Sağlığınıza.
+===
 0013 [00:00:56] Zekicim, istersen şey yapalım.
 0014 [00:00:58] Abi o kadar güldük ettik, Vedat abimiz...
 0015 [00:01:01] ...beklemesin.
