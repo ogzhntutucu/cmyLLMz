@@ -15,8 +15,9 @@ VE = Vedat
 # === ANA HİKAYE (1881 — Osmanlı / Vahşi Batı) ===
 AZ = Aziz Vefa
 LE = Lemi Galip
-SU = Suzan Van Dyke
+JA = Jack
 JO = Johnny Lesh
+SU = Suzan Van Dyke
 LO = Şerif Lloyd
 PE = Peder
 MA = Macaulay
@@ -26,12 +27,11 @@ MU = Şerif Murphy
 TR = Trenci Jack
 RK = Redkit
 GA = Gardiyan
-JA = Jack
 DE = Deli
 
 # === İSİMSİZ / YAN KARAKTERLER ===
 # Bunları filmi izlerken kendin ekle.
-# Örnek:
-# H1 = Haydut 1
-# H2 = Haydut 2
-# K1 = Kadın 1
+
+K1 = Kadın 1
+H1 = Haydut 1
+H2 = Haydut 2

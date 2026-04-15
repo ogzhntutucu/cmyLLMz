@@ -120,7 +120,7 @@ def build_chunks(
         end_time = last_block['end']
         duration = round(time_to_seconds(end_time) - time_to_seconds(start_time), 1)
 
-        text = ' '.join(t for t in texts if t).strip()
+        text = ' '.join(f'[{seq:04d}] {t}' for seq, t in zip(seq_nums, texts) if t).strip()
         characters = extract_characters(text, char_map)
 
         chunks.append({
@@ -154,7 +154,7 @@ def build_chunks(
 
 
 def main():
-    ref_file = PROJECT_ROOT / "notes" / "block_referans.txt"
+    ref_file = PROJECT_ROOT / "notes" / "block_referans.md"
     blocks_file = PROJECT_ROOT / "data" / "processing" / "ham_chunks.json"
     char_file = PROJECT_ROOT / "notes" / "karakterler.txt"
     out_file = PROJECT_ROOT / "data" / "processing" / "base_chunks.json"

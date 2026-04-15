@@ -20,194 +20,178 @@ Kullanım:
 0011 [00:00:44] -VE- Hadi bakalım. -ZE- Abi hoş geldin.
 0012 [00:00:46] -RA- Hoş geldin abi. -VE- Sağlığınıza.
 ===
-0013 [00:00:56] Zekicim, istersen şey yapalım.
-0014 [00:00:58] Abi o kadar güldük ettik, Vedat abimiz...
-0015 [00:01:01] ...beklemesin.
-0016 [00:01:04] Ne yaptın oğlum, naylona mı koydun onu ya?
-0017 [00:01:06] Oğlum, ambalaj dandik olacak ki dikkat çekmeyeceksin, değil mi abi?
-0018 [00:01:10] Tabii ya.
-0019 [00:01:11] Abi mal bu.
+0013 [00:00:56] -AL- Zekicim, istersen şey yapalım.
+0014 [00:00:58] -ZE- Abi o kadar güldük ettik, Vedat abimiz...
+0015 [00:01:01] beklemesin.
+0016 [00:01:04] -RA- Ne yaptın oğlum, naylona mı koydun onu ya?
+0017 [00:01:06] -ZE- Oğlum, ambalaj dandik olacak ki dikkat çekmeyeceksin, değil mi abi?
+0018 [00:01:10] -AL- Tabii ya.
+0019 [00:01:11] -ZE- Abi mal bu.
 0020 [00:01:13] Zaten dikişiyle falan kendini belli ediyor, Vedat abi.
-0021 [00:01:16] - Peki dokunabiliyor muyuz? - Ne demek!
+0021 [00:01:16] -VE- Peki dokunabiliyor muyuz? -ZE- Ne demek!
 0022 [00:01:17] Şöyle vereyim abi, buyur.
 0023 [00:01:21] Abi buna uzun Wellington diyorlar. Bu aşağı yukarı 130-140 yıllık abi.
 0024 [00:01:24] Tam şimdi yalan olmasın ama aşağı yukarı...
-0025 [00:01:27] Peki size bunun gelişi...
-0026 [00:01:28] Abi bize bunun gelişi tabii, enteresan oldu.
-0027 [00:01:32] Anlat oğlum, Vedat kardeşimiz yabancı değil ya.
+0025 [00:01:27] -VE- Peki size bunun gelişi...
+0026 [00:01:28] -ZE- Abi bize bunun gelişi tabii, enteresan oldu.
+0027 [00:01:32] -VE- Anlat oğlum, Vedat kardeşimiz yabancı değil ya.
 0028 [00:01:35] Kimse yok, biz bizeyiz.
-0029 [00:01:36] - Abi, Amerikan Başkanı Garfield... - O kedi olan mı?
-0030 [00:01:39] - Ne kedisi amına koyayım ya! - Ya Garfield kedi değil mi ya?
-0031 [00:01:42] Oğlum bir açın da bir Google'a girin bakın be!
+0029 [00:01:36] -ZE- Abi, Amerikan Başkanı Garfield... -RA- O kedi olan mı?
+0030 [00:01:39] -ZE- Ne kedisi amına koyayım ya! -RA- Ya Garfield kedi değil mi ya?
+0031 [00:01:42] -ZE- Oğlum bir açın da bir Google'a girin bakın be!
 0032 [00:01:45] Dönemin Amerikan Başkanı Garfield.
-0033 [00:01:47] Al tamam, giriyorum. Garfield...
+0033 [00:01:47] -RA- Al tamam, giriyorum. Garfield...
 0034 [00:01:49] Did you mean Garfield?
-0035 [00:01:51] Gene kedi, Başkan nerede, yok. Tatilde.
-0036 [00:01:54] - Şekerim sen devam et. - Alpay abi.
-0037 [00:01:56] Devam et sen ya.
-0038 [00:01:59] Vedat abi... Amerikan Başkanı, Sultan'a bir hediye gönderiyor. Sultanımıza.
+0035 [00:01:51] Gene kedi, Başkan nerede, yok. Tatilde. Hehehe...
+0036 [00:01:54] -VE- Şekerim sen devam et. -ZE- Alpay abi.
+0037 [00:01:56] -AL- Devam et sen ya.
+0038 [00:01:59] -ZE- Vedat abi... Amerikan Başkanı, Sultan'a bir hediye gönderiyor. Sultanımıza.
 0039 [00:02:03] Sultanımız da diyor ki, ben de diyor karşı bir hediye göndereyim diyor.
 0040 [00:02:08] Benim dedemin babası, Teşkilât-ı Mahsusa'dan Aziz Vefa...
 0041 [00:02:12] ...bir de Hazine'den, yine memur... Lemi Galip...
 0042 [00:02:16] Bunlara bir görev veriyor. Diyor ki; ne diyor...
 0043 [00:02:18] Benim diyor, hediyeyi diyor, Başkan'a diyor, götürün diyor.
---- [3s boşluk] ---
-0044 [00:02:25] - Çıkıyorlar saraya. - Saraya mı çıkıyorlar?
-0045 [00:02:28] Yok, Dolmabahçe sahilinde mi buluşacaklar Sultan'la ya?
-0046 [00:02:31] - Saraya çıkıyorlar. - Tamam anlat, ne bozuyorsun ya?
-0047 [00:02:34] Oğlum anlatacağım da siz önce bir dinlemesini öğrenin.
+===
+0044 [00:02:25] -ZE- Çıkıyorlar saraya. -RA- Saraya mı çıkıyorlar?
+0045 [00:02:28] -ZE- Yok, Dolmabahçe sahilinde mi buluşacaklar Sultan'la ya?
+0046 [00:02:31] Saraya çıkıyorlar. -RA- Tamam anlat, ne bozuyorsun ya?
+0047 [00:02:34] -ZE- Oğlum anlatacağım da siz önce bir dinlemesini öğrenin.
 0048 [00:02:38] Bir insanın anlattığı karşısındakinin dinleyebildiği kadardır.
-0049 [00:02:41] Hee.
---- [6s boşluk] ---
-0050 [00:02:48] Sultanın huzuruna geliyorlar. İşte Sultanın elini öpüyorlar.
-0051 [00:02:52] - Sultan da bunları öpüyor mu? - Ya bir dakika be oğlum, sulandırma ya!
---- [3s boşluk] ---
+0049 [00:02:41] -RA- Hee.
+0050 [00:02:48] -ZE- Sultanın huzuruna geliyorlar. İşte Sultanın elini öpüyorlar.
+0051 [00:02:52] -RA- Sultan da bunları öpüyor mu? -ZE- Ya bir dakika be oğlum, sulandırma ya!
 0052 [00:02:58] Hemen emanet takdim ediliyor.
 0053 [00:03:01] Nedir emanet? Elmas bir kolye.
 0054 [00:03:05] Bu diyor, bundan sonra size emanet.
 0055 [00:03:07] Bir de diyor, alın size 1000 dolar, yolluk.
 0056 [00:03:09] Konfederasyon doları.
 0057 [00:03:13] Şimdi, Amerika sapa yer...
-0058 [00:03:15] ...Sultanım ben götüremem diyebilir misin? Mutlak götüreceksin.
---- [12s boşluk] ---
+0058 [00:03:15] Sultanım ben götüremem diyebilir misin? Mutlak götürücen.
 0059 [00:03:31] Görevi aldıktan sonra zaten istikamet belli.
 0060 [00:03:34] Tak, buradan Orient Express'le Paris yapıyorlar.
 0061 [00:03:37] Tak, oradan gemiyle Londra.
 0062 [00:03:40] Tak Atlantik üzerinden yine gemiyle Amerika.
---- [78s boşluk] ---
-0063 [00:05:01] Greenland Vadisi 27 Nisan 1881
---- [13s boşluk] ---
-0064 [00:05:17] I did it again, I'm terribly sorry.
-0065 [00:05:20] Bumper road, isn't it darling.
-0066 [00:05:23] Rica ederim, bayan.
-0067 [00:05:26] Excuse my curiosity sir, but...
+===
+0063 [00:05:01] Greenland Vadisi - 27 Nisan 1881
+0064 [00:05:17] -K1- I did it again, I'm terribly sorry.
+0065 [00:05:20] Bumper road, isn't it darling. Hahaha...
+0066 [00:05:23] -LE- S'il vous plait, Madam.
+0067 [00:05:26] -K1- Excuse my curiosity sir, but...
 0068 [00:05:28] ...are you French?
-0069 [00:05:30] Oh, no madam. I'm Ottoman.
-0070 [00:05:33] Oh my... Ottoman, that's marvelous.
+0069 [00:05:30] -LE- Oh, no madam. I'm Ottoman.
+0070 [00:05:33] -K1- Oh my... Ottoman, that's marvelous.
 0071 [00:05:38] Jack, did you hear that?
-0072 [00:05:40] Oh yes, I know. Ottoman's.
+0072 [00:05:40] -JA- Oh yes, I know. Ottoman's.
 0073 [00:05:44] You're at the doors in Viyana, ha?
 0074 [00:05:48] Once upon a time!
-0075 [00:05:49] Yes yes.
-0076 [00:05:50] Tık tık. Who is there? Ottoman.
-0077 [00:05:53] Ottoman who?
-0078 [00:05:54] Ottoman Empire.
---- [7s boşluk] ---
-0079 [00:06:03] Öküz efendi nükteyi anlamadı Aziz.
-0080 [00:06:06] Şeyi sorsana, Mr. and Mrs. Brown piknikten döndü mü?
-0081 [00:06:09] Aman nerede efendim, çok ince bir humor.
+0075 [00:05:49] -LE- Yes yes.
+0076 [00:05:50] Knock knock. Who is there? Ottoman.
+0077 [00:05:53] -JA- Ottoman who?
+0078 [00:05:54] -LE- Ottoman Empire.
+===
+0079 [00:06:03] -LE- Öküz efendi nükteyi anlamadı Aziz.
+0080 [00:06:06] -AZ- Şeyi sorsana, Mr. and Mrs. Brown piknikten döndü mü?
+0081 [00:06:09] -LE- Aman nerede efendim, çok ince bir humor.
 0082 [00:06:12] İngilizin köylüsü.
-0083 [00:06:13] Village people!
-0084 [00:06:15] Village people?
-0085 [00:06:16] Başımızın tacıdır diyorum köylümüz.
-0086 [00:06:19] You ride camels, don't you?
-0087 [00:06:21] Jack!
-0088 [00:06:23] Camels.
+0083 [00:06:13] -AZ- Village people!
+0084 [00:06:15] -JA- Village people?
+0085 [00:06:16] -AZ- Başımızın tacıdır diyorum köylümüz.
+0086 [00:06:19] -JA- You ride camels, don't you?
+0087 [00:06:21] -K1- Jack!
+0088 [00:06:23] -AZ- Camels.
 0089 [00:06:25] Yes, every time. Always!
 0090 [00:06:28] Camels everywhere.
 0091 [00:06:31] Hep de bunu söylerler. Başka da bir şey bilmezler.
 0092 [00:06:33] Camel, everywhere.
---- [3s boşluk] ---
-0093 [00:06:38] And you sir?
+0093 [00:06:38] -K1- And you sir?
 0094 [00:06:39] What do you do?
-0095 [00:06:41] Me?
-0096 [00:06:43] Secret, secret police.
-0097 [00:06:46] Oh! Well, I can keep secret.
-0098 [00:06:51] Sır diyor, tutarım diyor.
-0099 [00:06:53] Bir molada duralım tutarsın bir ara.
+0095 [00:06:41] -AZ- Me?
+0096 [00:06:43] -LE- Secret, secret police.
+0097 [00:06:46] -K1- Oh! Well, I can keep secret.
+0098 [00:06:51] -LE- Sır diyor, tutarım diyor.
+0099 [00:06:53] -AZ- Bir molada duralım tutarsın bir ara.
 0100 [00:06:56] Later.
---- [3s boşluk] ---
-0101 [00:07:00] Bir yerde dursak da, bir... küçük su döksek.
-0102 [00:07:03] Excuse me?
-0103 [00:07:05] Little water.
---- [47s boşluk] ---
-0104 [00:07:53] That's you?
-0105 [00:07:55] Me!
-0106 [00:07:58] You look fantastic. I...
-0107 [00:08:01] Oil wrestling.
+0101 [00:07:00] -LE- Bir yerde dursak da, bir... küçük su döksek.
+0102 [00:07:03] -K1- Excuse me?
+0103 [00:07:05] -AZ- Little water.
+===
+0104 [00:07:53] -K1- That's you?
+0105 [00:07:55] -AZ- Me!
+0106 [00:07:58] -K1- You look fantastic. I...
+0107 [00:08:01] -AZ- Oil wrestling.
 0108 [00:08:03] Oil, everywhere.
-0109 [00:08:06] Scotch?
-0110 [00:08:07] Ottoman.
---- [6s boşluk] ---
-0111 [00:08:14] In fact...
-0112 [00:08:17] ...we are here on a special mission.
+0109 [00:08:06] -JA- Scotch?
+0110 [00:08:07] -AZ- Ottoman.
+0111 [00:08:14] -LE- In fact, 
+0112 [00:08:17] we are here on a special mission.
 0113 [00:08:22] Did you see this diamond?
-0114 [00:08:25] My God! Is priceless.
-0115 [00:08:28] Of course!
+0114 [00:08:25] -K1- My Gosh! Is priceless.
+0115 [00:08:28] -LE- Of course!
 0116 [00:08:30] It's a gift from our Sultan...
 0117 [00:08:32] ...for your President.
-0118 [00:08:35] Ne yapıyorsun birader?
-0119 [00:08:37] - Ne var yahu? - Elma şekeri gibi çıkarılır mı o be!
-0120 [00:08:40] - E sen fotoğrafı çıkartıyorsun. - Koy ulan şunu yerine!
-0121 [00:08:44] Tamam ne kızıyorsun ya. Ben mesulüm.
+0118 [00:08:35] -AZ- Ne yapıyorsun birader?
+0119 [00:08:37] -LE- Ne var yahu? -AZ- Elma şekeri gibi çıkarılır mı o be!
+0120 [00:08:40] -LE- E sen fotografı çıkartıyorsun. -AZ- Koy ulan şunu yerine!
+0121 [00:08:44] -LE- Tamam ne kızıyorsun ya. Ben mesulüm.
 0122 [00:08:47] Sorry.
-0123 [00:08:49] Sir, it can be very dangerous.
---- [4s boşluk] ---
-0124 [00:08:55] - Haydutlar... - Sakin...
+0123 [00:08:49] -JA- Sir, it can be very dangero...
+===
+0124 [00:08:55] -LE- Haydutlar... -AZ- Sakin...
 0125 [00:08:56] Calm down.
 0126 [00:08:59] I have a gun. Don't worry.
 0127 [00:09:01] How many people, how many?
 0128 [00:09:03] Did you see? How many?
 0129 [00:09:06] Be careful.
-0130 [00:09:07] Şunu bana tutma!
-0131 [00:09:09] Dinle beni.
+0130 [00:09:07] -LE- Şunu bana tutma!
+0131 [00:09:09] -AZ- Dinle beni.
 0132 [00:09:10] Normal prosedürü uygulayacağız. Sakin ol.
---- [7s boşluk] ---
 0133 [00:09:19] Dinle beni. Çöp çekeceğiz.
 0134 [00:09:21] Elmas mı? Para mı? Çek çabuk!
-0135 [00:09:23] - Çok müşkül durumdayım Aziz Efendi. Çek çabuk!
+0135 [00:09:23] -LE- Çok müşkül durumdayım Aziz Efendi. -AZ- Çek çabuk!
 0136 [00:09:26] Elmas.
 0137 [00:09:29] Calm down, calm down.
---- [3s boşluk] ---
-0138 [00:09:33] - Çok kalabalık geldiler Aziz Efendi. - Sakin. Sakin ol, sakin ol. Sakin.
-0139 [00:09:37] - Ben sakinim. - Sakin.
+0138 [00:09:33] -LE- Çok kalabalık geldiler Aziz Efendi. -AZ- Sakin. Sakin ol, sakin ol. Sakin.
+0139 [00:09:37] -LE- Ben sakinim. -AZ- Sakin.
 0140 [00:09:39] Bismillahirrahmanirrahim.
-0141 [00:09:42] Allah'ım bizi mahcup etme ya Rabbim.
-0142 [00:09:44] Don't worry, don't worry.
+0141 [00:09:42] -LE- Allah'ım bizi mahcup etme ya Rabbim.
+0142 [00:09:44] -AZ- Don't worry, don't worry.
 0143 [00:09:48] Ölmek var, emanetleri teslim etmek yok.
-0144 [00:09:50] - Haydi aslanım. - Haydi inşallah.
---- [4s boşluk] ---
-0145 [00:09:56] I said stop the car you son of a bitch!
-0146 [00:10:00] Ya Zeki abi, ben oraları pek anlamadım ya. Posta arabasından sonra yok bende.
-0147 [00:10:05] Dur o zaman şöyle yapalım...
---- [8s boşluk] ---
-0148 [00:10:15] Lan arabayı durdurun demedik mi avratını siktiklerimin!
---- [6s boşluk] ---
-0149 [00:10:23] İnin aşağıya! İn aşağıya!
---- [3s boşluk] ---
-0150 [00:10:28] - Çabuk çabuk çabuk! - Tanrım Jack, hayır!
---- [7s boşluk] ---
-0151 [00:10:37] Bağırmayın efendim. Sıranızda durun, bağırmayın!
-0152 [00:10:39] Sayın yolcular...
-0153 [00:10:40] ...ben Johnny Lesh ve ekibim yolculuğunuzun rahat geçmesi için...
-0154 [00:10:44] ...sizleri bazı yüklerinizden kurtarmak amacıyla hizmetinizdeyiz.
+0144 [00:09:50] Haydi aslanım. -LE- Haydi inşallah.
+0145 [00:09:56] -H1- I said stop the car you son of a bitch!
+0146 [00:10:00] -RA- Ya Zeki abi, ben oraları pek anlamadım ya. Posta arabasından sonra yok bende.
+0147 [00:10:05] -ZE- Dur o zaman şöyle yapalım...
+0148 [00:10:15] -H1- Lan arabayı durdurun demedik mi avratını siktiklerimin!
+===
+0149 [00:10:23] -H1- İnin aşağıya! İn aşağıya!
+0150 [00:10:28] Çabuk çabuk çabuk! -K1- Tanrım Jack, hayır!
+0151 [00:10:37] -LE- Bağırmayın efendim. Sıranızda durun, bağırmayın!
+0152 [00:10:39] -JO- Sayın yolcular,
+0153 [00:10:40] ben Johnny Lesh ve ekibim yolculuğunuzun rahat geçmesi için 
+0154 [00:10:44] sizleri bazı yüklerinizden kurtarmak amacıyla hizmetinizdeyiz.
 0155 [00:10:48] Bağırmak serbest. Kahramanlık yapanı gömerim.
---- [5s boşluk] ---
-0156 [00:10:55] 150 yıllık silah.
+0156 [00:10:55] -AZ- 150 yıllık silah.
 0157 [00:10:56] İdareye yazdık, yenisini verin dedik. Sikine takan olmadı!
-0158 [00:11:01] Gel lan buraya, yürü!
+0158 [00:11:01] -H2- Gel lan buraya, yürü!
 0159 [00:11:03] Geç şöyle, geç!
---- [7s boşluk] ---
-0160 [00:11:11] Saat.
-0161 [00:11:13] Jack, kurtar beni!
---- [3s boşluk] ---
+0160 [00:11:11] -H1- Saat.
+0161 [00:11:13] -K1- Jack, kurtar beni!
 0162 [00:11:17] Jack! Ay!
-0163 [00:11:19] Bakın beyefendi, biz taa İstanbullardan geliyoruz.
+0163 [00:11:19] -LE- Bakın beyefendi, biz taa İstanbullardan geliyoruz.
 0164 [00:11:21] Öyle boş kimseler de değiliz.
-0165 [00:11:23] Öyle mi? Belli.
+0165 [00:11:23] -H1- Öyle mi? Belli.
 0166 [00:11:26] Buffalo Bill'in şovunda bile böyle kostüm görmedim.
 0167 [00:11:28] Bu ne lan?
-0168 [00:11:29] - Festir. İstiyorsan kaval da var. - Kes lan!
-0169 [00:11:33] Yapm...
-0170 [00:11:36] - Lesh! - Ne yaptın lan?
-0171 [00:11:38] - Lesh.. - Ne yaptın lan!
-0172 [00:11:39] Var mı lan böyle bir şey?
---- [3s boşluk] ---
-0173 [00:11:43] Yalnız biz Haramidere'den Çatapat Ahmet'in arkadaşlarıyız, ona göre!
+0168 [00:11:29] -AZ- Festir. İstiyorsan kaval da var. -H1- Kes lan!
+0169 [00:11:33] -LE- Yapm...
+0170 [00:11:36] -H1- Lesh! -AZ- Ne yaptın lan?
+0171 [00:11:38] -H1- Lesh.. -AZ- Ne yaptın lann!
+0172 [00:11:39] -H1- Var mı lan böyle bir şey?
+0173 [00:11:43] -LE- Yalnız biz Haramidere'den Çatapat Ahmet'in arkadaşlarıyız, ona göre!
 --- [9s boşluk] ---
-0174 [00:11:55] Hadi gidiyoruz. Kızılların kokusunu almaya başladım.
-0175 [00:11:59] See you.
+0174 [00:11:55] -JO- Hadi gidiyoruz. Kızılların kokusunu almaya başladım.
+0175 [00:11:59] -H1- See you.
 --- [13s boşluk] ---
+===
 0176 [00:12:13] Sioux dedi. Sioux'lar...
 0177 [00:12:15] Efendim o hoşça kalın manasında. See you, görüşürüz.
 --- [4s boşluk] ---
