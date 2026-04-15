@@ -126,10 +126,6 @@ Bu, projenin en kritik ve en çok emek gerektiren kısmı. Veri setinin kalitesi
 - Yahşi Batı filmi (.srt altyazı dosyası)
 - Senin film izleme notların
 
-### Hedef Chunk Sayısı: 60-100
-
-Bu aralık kritik. 30'un altında chunk olursa RAG'ın eklediği değer sınırlı kalır ve metrikler etkileyici olmaz. 150+ chunk olursa elle annotation işi katlanarak artar ve 3 haftada bitmez. SRT parser'ı ilk çalıştırdığında ham chunk sayısına bak, zaman boşluğu threshold'unu (kaç saniye boşluk = yeni sahne) buna göre ayarla.
-
 ### Chunk Yapısı (JSON Şeması)
 
 Her chunk şu alanlara sahip olacak:
@@ -247,33 +243,33 @@ Lütfen aşağıdaki JSON formatında cevap ver (sadece JSON, başka bir şey ya
 
 ### scene_type Değerleri
 
-| Değer | Açıklama | Örnek |
-|---|---|---|
-| `frame_story` | Ana çerçeve hikayesi (rakı masası) | Karakterlerin masa başında sohbet ettiği sahneler |
-| `flashback` | Geçmişe dönüş sahnesi (Osmanlı/Vahşi Batı) | Zeki'nin anlattığı hikayenin canlandırıldığı sahneler |
-| `action` | Aksiyon/macera sahnesi | Kavga, kaçış, at sürme sahneleri |
-| `transition` | Geçiş sahnesi | Sahne değişimi, yolculuk, bekleme |
-| `emotional` | Duygusal/ciddi sahne | Karakterlerin ciddi konuşmaları |
+| Değer         | Açıklama                                   | Örnek                                                 |
+| ------------- | ------------------------------------------ | ----------------------------------------------------- |
+| `frame_story` | Ana çerçeve hikayesi (rakı masası)         | Karakterlerin masa başında sohbet ettiği sahneler     |
+| `flashback`   | Geçmişe dönüş sahnesi (Osmanlı/Vahşi Batı) | Zeki'nin anlattığı hikayenin canlandırıldığı sahneler |
+| `action`      | Aksiyon/macera sahnesi                     | Kavga, kaçış, at sürme sahneleri                      |
+| `transition`  | Geçiş sahnesi                              | Sahne değişimi, yolculuk, bekleme                     |
+| `emotional`   | Duygusal/ciddi sahne                       | Karakterlerin ciddi konuşmaları                       |
 
 ### Mizah Teknikleri Referansı
 
-| Teknik | Açıklama | Yahşi Batı Örneği |
-|---|---|---|
-| `irony` | Söylenenin tam tersinin kastedilmesi | — |
-| `sarcasm` | İğneleme, alaycı konuşma | — |
-| `wordplay` | Kelime oyunu, çift anlamlılık | — |
-| `exaggeration` | Abartı | — |
-| `anachronism` | Zamana aykırılık (modern şeylerin eski dönemde kullanılması) | Google'a girmek, modern Türkçe argo kullanımı |
-| `cultural_reference` | Kültürel gönderme | Garfield kedisi ile ABD Başkanı karışıklığı |
-| `slapstick` | Fiziksel komedi | — |
-| `absurd` | Saçmalık, mantık dışılık | — |
-| `anecdote` | Hikaye anlatma yoluyla komedi | Alpay'ın usta hikayesi |
-| `character_contrast` | Karakter çelişkisi | — |
-| `breaking_fourth_wall` | Dördüncü duvarı kırma | — |
-| `callback` | Daha önceki bir espriye geri dönüş | — |
-| `misunderstanding` | Yanlış anlama | Garfield kedi mi başkan mı |
-| `deadpan` | Düz yüzle komiklik | — |
-| `timing` | Zamanlama ile gelen komiklik | — |
+| Teknik                 | Açıklama                                                     | Yahşi Batı Örneği                             |
+| ---------------------- | ------------------------------------------------------------ | --------------------------------------------- |
+| `irony`                | Söylenenin tam tersinin kastedilmesi                         | —                                             |
+| `sarcasm`              | İğneleme, alaycı konuşma                                     | —                                             |
+| `wordplay`             | Kelime oyunu, çift anlamlılık                                | —                                             |
+| `exaggeration`         | Abartı                                                       | —                                             |
+| `anachronism`          | Zamana aykırılık (modern şeylerin eski dönemde kullanılması) | Google'a girmek, modern Türkçe argo kullanımı |
+| `cultural_reference`   | Kültürel gönderme                                            | Garfield kedisi ile ABD Başkanı karışıklığı   |
+| `slapstick`            | Fiziksel komedi                                              | —                                             |
+| `absurd`               | Saçmalık, mantık dışılık                                     | —                                             |
+| `anecdote`             | Hikaye anlatma yoluyla komedi                                | Alpay'ın usta hikayesi                        |
+| `character_contrast`   | Karakter çelişkisi                                           | —                                             |
+| `breaking_fourth_wall` | Dördüncü duvarı kırma                                        | —                                             |
+| `callback`             | Daha önceki bir espriye geri dönüş                           | —                                             |
+| `misunderstanding`     | Yanlış anlama                                                | Garfield kedi mi başkan mı                    |
+| `deadpan`              | Düz yüzle komiklik                                           | —                                             |
+| `timing`               | Zamanlama ile gelen komiklik                                 | —                                             |
 
 **Not:** Yahşi Batı örnek sütununu film izlerken doldurabilirsin. Bu referans tablosu, etiketleme yaparken sana rehber olacak. Her sahne için birden fazla teknik seçilebilir.
 
@@ -680,7 +676,7 @@ python -m spacy download xx_ent_wiki_sm
 **Gün 1-2: SRT → Ham Chunk'lar (srt_parser.py)**
 - SRT dosyasını oku
 - Zaman boşluklarına göre sahne ayır (örneğin 3+ saniye boşluk = yeni sahne)
-- HTML taglarını temizle (<i>, {\a6} gibi)
+- HTML taglarını temizle ({\a6} gibi)
 - ham_chunks.json oluştur
 - Ham chunk sayısını kontrol et, threshold'u ayarlayarak 60-100 arası chunk hedefle
 - Ön işleme çıktısını gözden geçir, temizlik kalitesini kontrol et
