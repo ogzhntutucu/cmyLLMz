@@ -1,18 +1,19 @@
 """
 chunk_merger.py
 ---------------
-notes/block_referans.txt dosyasındaki === sınırlarını okur,
+notes/block_referans.md dosyasındaki === sınırlarını okur,
 ham_chunks.json ile birleştirerek base_chunks.json oluşturur.
 
-Beklenen block_referans.txt formatı:
-    -AZ- Dinle beni, çöp çekeceğiz.
-    -LE- Çok müşkül durumdayım Aziz Efendi.
+Beklenen block_referans.md formatı:
+    0001 [00:00:14] [rakı masasında oturuyorlar] -AL- Şimdi kadın...
+    0002 [00:00:20] -RA- Ustaya bak! [herkes gülüyor]
     --- [3s boşluk] ---        ← bunlara dokunma
-    -AZ- Calm down, calm down.
+    0003 [00:00:25] -AZ- Calm down, calm down.
     ===                        ← chunk sınırı (senin eklediğin)
-    -ZE- Zekicim, istersen şey yapalım.
+    0004 [00:00:30] -ZE- Zekicim, istersen şey yapalım.
     ...
 
+Satır içi notlar [...] köşeli parantezle doğrudan block satırına yazılır.
 Karakter kodları notes/karakterler.txt'ten yüklenir.
 characters alanı -XX- etiketlerinden otomatik doldurulur.
 
@@ -111,7 +112,6 @@ def build_chunks(
             continue
 
         seq_nums = [s for s, _ in block_entries]
-        texts = [t for _, t in block_entries]
 
         first_block = blocks[seq_nums[0] - 1]
         last_block = blocks[seq_nums[-1] - 1]
@@ -120,7 +120,7 @@ def build_chunks(
         end_time = last_block['end']
         duration = round(time_to_seconds(end_time) - time_to_seconds(start_time), 1)
 
-        text = ' '.join(f'[{seq:04d}] {t}' for seq, t in zip(seq_nums, texts) if t).strip()
+        text = ' '.join(t for _, t in block_entries if t).strip()
         characters = extract_characters(text, char_map)
 
         chunks.append({

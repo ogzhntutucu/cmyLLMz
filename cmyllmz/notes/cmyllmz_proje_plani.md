@@ -136,13 +136,14 @@ Her chunk şu alanlara sahip olacak:
   "start": "00:00:14",
   "end": "00:00:49",
   "duration_sec": 35.0,
-  "text": "Sahnenin tüm diyalogları birleştirilmiş halde",
+  "block_range": "0001-0012",
+  "text": "[0001] -AL- Şimdi kadın, ince uzun da olur... [0005] -RA- Ustaya bak! [0006] -VE- Tabii canım...",
 
-  "characters": ["Alpay", "Zeki", "Vedat", "Ramazan"],
-  "scene_type": "frame_story",
+  "characters": ["Alpay", "Ramazan", "Vedat", "Zeki"],
   "location": "Rakı masası",
 
-  "note": "Senin kısa notun — filmi izlerken aldığın",
+  "scene_description": "Alpay masada zıbık hakkında komik bir hikaye anlatıyor, herkes gülüyor.",
+  "humor_note": "Marangoz ustasının tepkisi ve 'zıbık' kelimesinin günlük konuşmaya sokulması espriyi oluşturuyor.",
 
   "related_chunks": ["yb_005", "yb_012"],
 
@@ -164,56 +165,85 @@ Her chunk şu alanlara sahip olacak:
 }
 ```
 
+**`text` alanı formatı:**
+- Her block'un başına `[NNNN]` sıra numarası eklenir (chunk_merger.py otomatik yapar)
+- Karakter değişimlerinde `-KOD-` eklenir (sen eklersin, örn: `-AL-`, `-ZE-`)
+- Karakter kodları `notes/karakterler.txt`'te tanımlı; `characters` alanı bu kodlardan otomatik çıkarılır
+
 ### Alan Açıklamaları
 
 | Alan | Kim dolduracak? | Açıklama |
 |---|---|---|
 | `id` | Otomatik (script) | `yb_001`, `yb_002`... formatında sıralı ID |
-| `start`, `end` | Otomatik (script) + senin düzeltmen | SRT dosyasından çıkarılan zaman damgaları. Sahne geçişlerinde sen düzelteceksin |
+| `start`, `end` | Otomatik (script) | Ham block'lardan alınan zaman damgaları |
 | `duration_sec` | Otomatik (script) | start ve end'den hesaplanır |
-| `text` | Otomatik (script) + senin düzeltmen | SRT'den çıkarılan replikler birleştirilmiş. HTML tagları ve artefaktlar temizlenmiş |
-| `characters` | Sen (izlerken) | O sahnede konuşan karakterlerin listesi |
-| `scene_type` | Sen (izlerken) | `frame_story`, `flashback`, `action`, `transition`, `emotional` gibi değerler |
-| `location` | Sen (izlerken) | Sahnenin geçtiği mekan |
-| `note` | Sen (izlerken) | 1-3 cümlelik kısa not. Neler oluyor, komik olan ne, dikkat çeken ne |
-| `related_chunks` | Sen (ikinci geçişte) | Bu sahneyle bağlantılı diğer chunk ID'leri. Bir espri birden fazla sahneye yayılıyorsa (setup bir sahnede, punchline başka sahnede) burada birbirlerine referans ver. **ÖNEMLİ:** İlk izlemede bu alanı boş bırak. Tüm chunk'lar hazır olduktan sonra ikinci bir geçişle doldur çünkü ilk izlemede chunk ID'lerini henüz bilmiyorsun. Retrieval sırasında ilişkili chunk'lar da getirilir (ancak toplam maksimum 5 chunk ile sınırlı — context bütçesini aşmamak için) |
-| `humor_analysis` | LLM (senin notuna dayanarak) | Detaylı mizah analizi. Sen gözden geçirip düzelteceksin |
-| `entities` | Otomatik (NER scripti) | spaCy + regex ile çıkarılan kişi, yer, kurum isimleri |
-| `summary` | LLM (otomatik) | Sahnenin kısa özeti |
+| `block_range` | Otomatik (script) | Chunk'a dahil edilen block'ların aralığı (örn: `"0001-0012"`) |
+| `text` | Sen (izlerken) + script | `block_referans.md`'deki karakter kodlu diyaloglar; `[NNNN]` block markerleri script tarafından eklenir. Anlamsız blok numaralarını annotation sırasında temizleyebilirsin. |
+| `characters` | Otomatik (script) | `text` içindeki `-KOD-` etiketlerinden çıkarılır; `karakterler.txt`'teki eşlemeden tam isimlere dönüştürülür |
+| `location` | Sen (annotation sırasında) | Sahnenin geçtiği mekan. Tutarlı isimler kullan |
+| `scene_description` | Sen (annotation sırasında) | 1-2 cümle. Ne oluyor, nerede, kim ne yapıyor |
+| `humor_note` | Sen (annotation sırasında) | 1-2 cümle. Esprinin mekanizması, neden komik, nüans nerede. Komik olmayan sahnelerde boş bırakılabilir |
+| `related_chunks` | Sen (son geçişte) | Bağlantılı chunk ID'leri. Tüm chunk'lar hazır olunca doldur |
+| `humor_analysis` | LLM (otomatik) | `scene_description` + `humor_note` + `text` girdi alarak Gemini üretir. Sen gözden geçirirsin |
+| `entities` | Otomatik (NER scripti) | spaCy + regex ile kişi, yer, kurum isimleri |
+| `summary` | LLM (otomatik) | Sahnenin 1-2 cümlelik özeti |
 
 ### Veri Hazırlama İş Akışı
 
 ```
-Adım 1: SRT → Ham Chunk'lar (Otomatik)
-─────────────────────────────────────────
-Python scripti ile SRT dosyası okunur.
-Replikler arasındaki zaman boşluklarına göre sahne ayırımı yapılır.
-Her sahne bir chunk olur.
-Çıktı: ham_chunks.json (sadece id, start, end, duration_sec, text)
+Faz 1: SRT → Ham Block'lar (Otomatik — tamamlandı)
+─────────────────────────────────────────────────────
+srt_parser.py ile SRT okunur, temizlenir.
+İngilizce orijinal/Türkçe çeviri çakışmaları çözülür.
+Çıktı: ham_chunks.json (1653 block, her biri birkaç saniyelik altyazı birimi)
 
-Adım 2: Sen İzle, Düzelt, Not Al (Manuel)
-─────────────────────────────────────────
-Filmi izlerken ham_chunks.json üzerinde çalış:
-- Yanlış bölünmüş chunk'ları birleştir veya ayır
-- text alanındaki hataları düzelt
-- characters, scene_type, location, note alanlarını doldur
-Çıktı: annotated_chunks.json
+Faz 2: Referans Dosyası (Otomatik — tamamlandı)
+─────────────────────────────────────────────────────
+ham_chunks.json'dan block_referans.md oluşturuldu.
+Her satır: 0001 [00:00:14] altyazı metni
+Zaman boşlukları --- ile gösterilmiş.
+Dosyalar: notes/block_referans.md, notes/karakterler.txt
 
-Adım 3: LLM ile Zenginleştir (Yarı-otomatik)
-─────────────────────────────────────────
-Her chunk'ı (text + note + characters) Gemini/ChatGPT'ye ver.
+Faz 3: Chunk Sınırları + Karakter Kodları (Manuel — devam ediyor)
+─────────────────────────────────────────────────────
+Filmi izlerken block_referans.md üzerinde çalış:
+- Chunk sınırına === yaz (tek başına satır)
+- Karakter değişimlerinde -KOD- yaz (örn: -AL-, -ZE-, -H1-)
+- Yeni karakter ekleyince karakterler.txt'e de ekle
+Hedef: 60-80 chunk
+
+Faz 4: Base Chunk'lar Oluştur (Otomatik)
+─────────────────────────────────────────────────────
+chunk_merger.py çalıştır:
+- block_referans.md'deki === sınırlarını okur
+- Blokları birleştirir, [NNNN] block markerlerini ekler
+- characters alanını -KOD- etiketlerinden otomatik doldurur
+Çıktı: base_chunks.json
+
+Faz 5: Annotation (Manuel)
+─────────────────────────────────────────────────────
+base_chunks.json üzerinde her chunk için doldur:
+- location: sahne mekanı
+- scene_description: ne oluyor (1-2 cümle)
+- humor_note: esprinin mekanizması (1-2 cümle, boş bırakılabilir)
+- text temizliği: anlamsız [NNNN] markerlarını sil, işine yarayanları bırak
+Aynı izlemede test sorularını da not al (metrik ölçümü için)
+
+Faz 6: LLM ile Zenginleştir (Yarı-otomatik)
+─────────────────────────────────────────────────────
+enricher.py ile her chunk'ı Gemini'ye gönder.
+Girdi: text + scene_description + humor_note + characters + location
 LLM, humor_analysis ve summary alanlarını doldursun.
-Prompt örneği aşağıda verilmiştir.
 Çıktı: enriched_chunks.json
 
-Adım 4: Gözden Geçir (Manuel)
-─────────────────────────────────────────
-LLM'in ürettiği analizleri hızlıca kontrol et.
-Saçma veya yanlış olanları düzelt.
-Çıktı: final_chunks.json (bu dosya RAG'a yüklenecek)
+Faz 7: Gözden Geçir + related_chunks (Manuel)
+─────────────────────────────────────────────────────
+LLM çıktılarını kontrol et, yanlışları düzelt.
+related_chunks alanlarını doldur (tüm chunk ID'leri artık belli).
+Çıktı: final_chunks.json (RAG'a yüklenecek)
 ```
 
-### Adım 3 İçin LLM Prompt Örneği
+### Faz 6 İçin LLM Prompt Örneği
 
 ```
 Sen bir mizah analisti ve film eleştirmenisin. Sana Cem Yılmaz'ın "Yahşi Batı" filminden
@@ -222,8 +252,8 @@ bir sahne vereceğim. Bu sahneyi mizah açısından analiz etmeni istiyorum.
 Sahne bilgileri:
 - Karakterler: {characters}
 - Mekan: {location}
-- Sahne türü: {scene_type}
-- İzleyici notu: {note}
+- Sahne açıklaması: {scene_description}
+- Mizah notu: {humor_note}
 
 Diyaloglar:
 {text}
@@ -240,16 +270,6 @@ Lütfen aşağıdaki JSON formatında cevap ver (sadece JSON, başka bir şey ya
   "summary": "Sahnenin 1-2 cümlelik kısa özeti."
 }
 ```
-
-### scene_type Değerleri
-
-| Değer         | Açıklama                                   | Örnek                                                 |
-| ------------- | ------------------------------------------ | ----------------------------------------------------- |
-| `frame_story` | Ana çerçeve hikayesi (rakı masası)         | Karakterlerin masa başında sohbet ettiği sahneler     |
-| `flashback`   | Geçmişe dönüş sahnesi (Osmanlı/Vahşi Batı) | Zeki'nin anlattığı hikayenin canlandırıldığı sahneler |
-| `action`      | Aksiyon/macera sahnesi                     | Kavga, kaçış, at sürme sahneleri                      |
-| `transition`  | Geçiş sahnesi                              | Sahne değişimi, yolculuk, bekleme                     |
-| `emotional`   | Duygusal/ciddi sahne                       | Karakterlerin ciddi konuşmaları                       |
 
 ### Mizah Teknikleri Referansı
 
@@ -354,10 +374,10 @@ MBU ders notlarında RAG pipeline'ının zorunlu adımlarından biri olarak NER 
 
 # Her chunk için ChromaDB'ye yüklenecek veriler:
 # - id: chunk ID'si (yb_001, yb_002...)
-# - documents: chunk'ın text + summary + humor_analysis birleştirilmiş hali
+# - documents: chunk'ın text + scene_description + summary + humor_analysis birleştirilmiş hali
 #   (Bu, retrieval sırasında daha zengin eşleştirme sağlar)
 # - embeddings: yukarıdaki birleştirilmiş metnin embedding'i
-# - metadatas: tüm chunk alanları (filtreleme için)
+# - metadatas: tüm chunk alanları — characters, location, block_range vs. (filtreleme için)
 ```
 
 **ÖNEMLİ — Embedding için birleştirilecek metin:**
@@ -366,6 +386,8 @@ Sadece `text` alanını embed etmek yeterli olmayabilir çünkü diyaloglar tek 
 ```
 {text}
 
+Sahne: {scene_description}
+Mizah notu: {humor_note}
 Özet: {summary}
 Mizah teknikleri: {humor_analysis.techniques}
 Neden komik: {humor_analysis.why_funny}
@@ -497,7 +519,7 @@ response = model.generate_content(
 
 - LLM seçimi (local/bulut) radio button ile
 - Soru girişi text input
-- **Opsiyonel filtreler (sidebar):** Karakter seçimi dropdown, sahne türü seçimi dropdown. Kullanıcı bunları seçerse ChromaDB'de metadata filtreleme uygulanır. Seçmezse tüm chunk'lar arasında aranır.
+- **Opsiyonel filtreler (sidebar):** Karakter seçimi dropdown, mekan seçimi dropdown. Kullanıcı bunları seçerse ChromaDB'de metadata filtreleme uygulanır. Seçmezse tüm chunk'lar arasında aranır.
 - Cevap alanı (markdown formatında, **streaming destekli** — kelimeler daktilo gibi tek tek ekrana düşer)
 - Kaynak chunk'lar expander içinde (şeffaflık için)
 - Metrikler sekmesi (bar chart'lar ile)
@@ -602,15 +624,22 @@ cmyllmz/
 │   ├── raw/
 │   │   └── yahsi_bati.srt              # Orijinal altyazı dosyası
 │   ├── processing/
-│   │   ├── ham_chunks.json             # Adım 1 çıktısı (otomatik)
-│   │   ├── annotated_chunks.json       # Adım 2 çıktısı (sen doldurdun)
-│   │   └── enriched_chunks.json        # Adım 3 çıktısı (LLM zenginleştirdi)
+│   │   ├── ham_chunks.json             # Faz 1 çıktısı — 1653 ham block (değiştirilmez)
+│   │   ├── base_chunks.json            # Faz 4 çıktısı — chunk_merger.py ile oluşturulur
+│   │   └── enriched_chunks.json        # Faz 6 çıktısı — LLM zenginleştirdi
 │   └── final/
-│       └── final_chunks.json           # Adım 4 çıktısı (son hali)
+│       └── final_chunks.json           # Faz 7 çıktısı — RAG'a yüklenecek son hali
+│
+├── notes/
+│   ├── block_referans.md              # Faz 3'te düzenliyorsun (=== ve -KOD-)
+│   ├── karakterler.txt                # Karakter kodu → tam isim eşlemesi
+│   ├── cmyllmz_proje_plani.md         # Bu dosya
+│   └── notes.md                       # Serbest notlar
 │
 ├── src/
 │   ├── data_prep/
-│   │   ├── srt_parser.py              # SRT → ham chunk'lar
+│   │   ├── srt_parser.py              # SRT → ham_chunks.json
+│   │   ├── chunk_merger.py            # block_referans.md → base_chunks.json
 │   │   ├── enricher.py                # LLM ile zenginleştirme scripti
 │   │   ├── ner_extractor.py           # NER ile entity çıkarma
 │   │   └── preprocessor.py            # NLP ön işleme (tokenizasyon, stop-word vs.)
@@ -673,30 +702,28 @@ python -m spacy download xx_ent_wiki_sm
 - Gemini API anahtarını al (Google AI Studio'dan ücretsiz)
 - Proje dosya yapısını oluştur
 
-**Gün 1-2: SRT → Ham Chunk'lar (srt_parser.py)**
-- SRT dosyasını oku
-- Zaman boşluklarına göre sahne ayır (örneğin 3+ saniye boşluk = yeni sahne)
-- HTML taglarını temizle ({\a6} gibi)
-- ham_chunks.json oluştur
-- Ham chunk sayısını kontrol et, threshold'u ayarlayarak 60-100 arası chunk hedefle
-- Ön işleme çıktısını gözden geçir, temizlik kalitesini kontrol et
+**Gün 1-2: SRT → Ham Block'lar (tamamlandı)**
+- srt_parser.py ile ham_chunks.json oluşturuldu (1653 block)
+- block_referans.md referans dosyası hazırlandı
+- karakterler.txt karakter kodu listesi oluşturuldu
 
-**Gün 2-7: Film İzle, Not Al (Manuel — en çok zaman alan kısım)**
-- Filmi sahne sahne izle (muhtemelen 2-3 kez izlemen gerekecek)
-- ham_chunks.json üzerinde çalış
-- Her chunk için: chunk sınırlarını düzelt, characters/scene_type/location/note doldur
+**Gün 2-7: Film İzle — Chunk Sınırları + Karakter Kodları (Faz 3, devam ediyor)**
+- block_referans.md'i açık tut, filmi izle
+- Chunk sınırlarına === yaz, karakter değişimlerinde -KOD- ekle
+- Yeni karakterleri karakterler.txt'e ekle
 - İzlerken aklına gelen test sorularını ayrı bir yere not al
-- annotated_chunks.json oluştur
+- Bitince chunk_merger.py çalıştır → base_chunks.json
+- Ardından base_chunks.json'da location / scene_description / humor_note doldur (Faz 5)
 - NOT: related_chunks alanını bu aşamada boş bırak
 
 ### Hafta 2: Zenginleştirme + RAG Sistemi + Arayüz
 
-**Gün 8-10: LLM ile Zenginleştirme + Gözden Geçirme**
-- annotated_chunks.json'daki her chunk'ı Gemini'ye gönder
-- humor_analysis ve summary alanlarını doldurt
-- enriched_chunks.json oluştur
+**Gün 8-10: LLM ile Zenginleştirme + Gözden Geçirme (Faz 6-7)**
+- base_chunks.json'daki her chunk'ı enricher.py ile Gemini'ye gönder
+- Girdi: text + scene_description + humor_note + characters + location
+- humor_analysis ve summary alanlarını doldurt → enriched_chunks.json
 - Gözden geçirme (kritik!): her chunk'ın analizini oku, yanlış/saçma olanları düzelt
-- related_chunks alanlarını doldur (tüm chunk'lar hazır, artık ID'leri biliyorsun)
+- related_chunks alanlarını doldur (tüm chunk ID'leri artık belli)
 - final_chunks.json oluştur
 
 **Gün 11-12: NLP Ön İşleme + NER + Embedding + ChromaDB**

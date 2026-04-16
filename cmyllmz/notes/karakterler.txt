@@ -17,21 +17,35 @@ AZ = Aziz Vefa
 LE = Lemi Galip
 JA = Jack
 JO = Johnny Lesh
-SU = Suzan Van Dyke
-LO = Şerif Lloyd
-PE = Peder
-MA = Macaulay
-BE = Betty
+RT = Richard Thomas
 CH = Şerif Cheko
+PE = Peder
 MU = Şerif Murphy
 TR = Trenci Jack
-RK = Redkit
-GA = Gardiyan
 DE = Deli
 
-# === İSİMSİZ / YAN KARAKTERLER ===
+SU = Suzan Van Dyke
+LO = Şerif Lloyd
+MA = Macaulay
+BE = Betty
+GA = Gardiyan
+
+# === ANA HIKAYE - İSİMSİZ / YAN KARAKTERLER ===
 # Bunları filmi izlerken kendin ekle.
 
 K1 = Kadın 1
 H1 = Haydut 1
 H2 = Haydut 2
+D1 = Kızılderili 1
+D2 = Kızılderili Kenan
+UL = Ulak
+RE = Redkit
+SA = Silah Saticisi
+K2 = KADIN 2
+K3 - KADIN 3
+ZO = zorba adam
+E1 = Esnaf 1
+E2 = Esnaf 2
+S1 = SERIF 1
+Y1 = Yardimci 1 (serif chekonun yardimcisi)
+Y2 = yARIMCI 2 (SHERIF CHEKONUN YARDIMCISI)
