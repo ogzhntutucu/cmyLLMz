@@ -23,8 +23,8 @@ PE = Peder
 MU = Şerif Murphy
 TR = Trenci Jack
 DE = Deli
-
 SU = Suzan Van Dyke
+
 LO = Şerif Lloyd
 MA = Macaulay
 BE = Betty

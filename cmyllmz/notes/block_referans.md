@@ -576,114 +576,117 @@ Kullanım:
 --- [7s boşluk] ---
 0484 [00:36:11] -AZ- Sakin...
 --- [15s boşluk] ---
-0485 [00:36:28] - Kadın mı bu ya? - Kadın tabii oğlum.
+0485 [00:36:28] -LE- Kadın mı bu ya? -AZ- Kadın tabii oğlum.
 0486 [00:36:30] Baksana nereye ateş ediyor nereyi vuruyor. Oradan anla.
-0487 [00:36:34] Aziz Efendi, ne oldu ya? Bir Batı hayranlığı başladı.
-0488 [00:36:38] Oğlum, Batı'nın iyi yanlarını alacaksın.
+0487 [00:36:34] -LE- Aziz Efendi, ne oldu ya? Bir Batı hayranlığı başladı.
+0488 [00:36:38] -AZ- Oğlum, Batı'nın iyi yanlarını alıcan.
 0489 [00:36:40] Bana bak, çıkar silahlarını. Tutuklusun unutma.
 0490 [00:36:44] Gözlük.
 --- [4s boşluk] ---
 0491 [00:36:50] Merhaba güzel bayan! Atış taliminizi zevkle izledik.
-0492 [00:36:55] Öyle mi?
+0492 [00:36:55] -SU- Öyle mi?
 0493 [00:36:56] Suzan Van Dyke'ın gösterisi öyle bedava izlenmez ama.
 0494 [00:36:59] Üç - beş atın bakayım.
-0495 [00:37:02] Üzerimizde para yok. Bir kahve ikram etsek?
-0496 [00:37:05] Kahve ha?
-0497 [00:37:08] - Suzan Van Dyke. - Aziz Vef... eee... Zozo The Kid. Kid ayrı.
+0495 [00:37:02] -AZ- Üzerimizde para yok. Bir kahve ikram etsek?
+0496 [00:37:05] -SU- Kahve ha?
+0497 [00:37:08] Suzan Van Dyke. -AZ- Aziz Vef... eee... Zozo The Kid. Kid ayrı.
 0498 [00:37:13] Kahve atta, hemen gidip alıyım geleyim.
-0499 [00:37:16] - Erkek gibi. Hiç sevmem. - Alırım. Hiç affetmem.
-0500 [00:37:22] Kahvenin köpüğü ala, nişancılığınız Ali- ül ala.
-0501 [00:37:26] Mersi...
+0499 [00:37:16] -LE- Erkek gibi. Hiç sevmem. -AZ- Alırım. Hiç affetmem.
+0500 [00:37:22] Kahvenin köpüğü ala, nişancılığınız Ali-ül ala.
+0501 [00:37:26] -SU- Mersi...
 0502 [00:37:27] 3 Yaşından beri meraklısıyım. 5 sene Buffalo Bill'in şovundaydım.
 0503 [00:37:31] İşte; atıcılık, kement, aşçılık, trickshot. Sonra bir ara otelde takıldım.
-0504 [00:37:37] Van Dyke...
-0505 [00:37:40] Hangi vicdansız kovboy sizi böyle çalıştırıyor efendim?
-0506 [00:37:43] Hangi kovboy? Yok öyle bir kovboy.
+0504 [00:37:37] -LE- Van Dyke...
+0505 [00:37:40] -AZ- Hangi vicdansız kovboy sizi böyle çalıştırıyor efendim?
+0506 [00:37:43] -SU- Hangi kovboy? Yok öyle bir kovboy.
 --- [4s boşluk] ---
-0507 [00:37:51] Fotoğraf sizden mi düştü acaba?
-0508 [00:37:54] Evet.
+0507 [00:37:51] -LE- Fotograf sizden mi düştü acaba?
+0508 [00:37:54] -SU- Evet.
 --- [3s boşluk] ---
-0509 [00:37:58] Lezzo...
-0510 [00:37:59] - Ehemmiyetli biri galiba. - Öyle... Sevdiğim biri.
-0511 [00:38:04] Eee... Siz ne tarafa gidiyorsunuz?
-0512 [00:38:06] Efendim ben kelle avcısıyım. Johnny Lesh'l teslim etmeye götürüyorum.
-0513 [00:38:11] - Lanet olsun! Neden bahsediyorsunuz siz? - Ne oluyor ya? Bir dakika.
-0514 [00:38:14] - Johnny Lesh! Sonunda, sen ha? - Değil değil! Aziz söylesene!
-0515 [00:38:18] - Suzan kardeş, Allah aşkına! - Suzan Hanım bir saniye!
-0516 [00:38:20] Sen çekil! Çekil! Yoksa seni de gebertirim. Aslında çekilmene de gerek yok.
-0517 [00:38:24] Dur! Hayır! Johnny Lesh değil efendim. Johnny Lesh değil.
-0518 [00:38:27] Sahte. Yalan. Biz Osmanlı'yız. Sahte Johnny Lesh, ödül için.
-0519 [00:38:31] Değil. Vallahi Johhny Lesh değilim efendim. Amerikalı bile değilim.
+0509 [00:37:58] -LE- Lezzo...
+0510 [00:37:59] -AZ- Ehemmiyetli biri galiba. -SU- Öyle... Sevdiğim biri.
+===
+0511 [00:38:04] -SU- Eee... Siz ne tarafa gidiyorsunuz?
+0512 [00:38:06] -AZ- Efendim ben kelle avcısıyım. Johnny Lesh'i teslim etmeye götürüyorum.
+0513 [00:38:11] -SU- Lanet olsun! Neden bahsediyorsunuz siz? -AZ- Ne oluyor ya? Bir dakika.
+0514 [00:38:14] -SU- Johnny Lesh! Sonunda, sen ha? -LE- Değil değil! Aziz söylesene!
+0515 [00:38:18] Suzan kardeş, Allah aşkına! -AZ- Suzan Hanım bir saniye!
+0516 [00:38:20] -SU- Sen çekil! Çekil! Yoksa seni de gebertirim. Aslında çekilmene de gerek yok.
+0517 [00:38:24] -AZ- Dur! Hayır! Johnny Lesh değil efendim. Johnny Lesh değil.
+0518 [00:38:27] Sahte. Yalan. Biz Osmanlı'yız. Sahte Johnny Lesh, ödül için. Sahte Johnny Lesh.
+0519 [00:38:31] -LE- Değil. Vallahi Johhny Lesh değilim efendim. Amerikalı bile değilim.
 0520 [00:38:33] Osmanlıyım ben. İstanbul çocuğuyum. Ben dört lisan biliyorum.
-0521 [00:38:36] - Osmanlı mı? - Osmanlı. Hani saray. Müzik. Dın dın dın...
+0521 [00:38:36] -SU- Osmanlı mı? -AZ- Osmanlı. Hani saray. Müzik. Dın dın dın...
 --- [3s boşluk] ---
-0522 [00:38:44] Ortaoyunu, harem.
-0523 [00:38:46] - İbiş, yavrum konağa misafirler gelecek. - Gelecek de bana mı gelecek?
-0524 [00:38:49] - Zengin mutfak, zeytinyağlı dolma, sarma. >- Hünkarbeğendi, imam bayıldı.
-0525 [00:38:54] At meydanı, Sultanahmet, Ramazan eğlenceleri...
-0526 [00:38:56] Bak mahya...
-0527 [00:38:57] - Olsaydı da açsaydık. - Onbir ayın sultanı.
-0528 [00:39:00] Beyzadeler, nazlı hanımlar... Gidelim Göksu'ya bir alem-i ab eyleyelim.
-0529 [00:39:04] Aman çekelim kürekleri ruhu şad eyleyelim.
-0530 [00:39:06] Eski bir konak, tulumbacılar, yangın...
-0531 [00:39:09] - Bekçi baba yangın nerede? - Yüreğimde, yüreğimde!
-0532 [00:39:12] - Ya!. Galata, Tophane, külhanbeyleri... - Anamı kesen ben, babamı kesen ben...
-0533 [00:39:17] - Arap bacıyı yap! - Küçük hanım bu akşam ne yemek isterler?
-0534 [00:39:20] Öyle değil lan, sesini öne al...
+0522 [00:38:44] -LE- Ortaoyunu, harem.
+0523 [00:38:46] -AZ- İbiş, yavrum konağa misafirler gelecek. -LE- Gelecek de bana mı gelecek?
+0524 [00:38:49] -AZ- Zengin mutfak, zeytinyağlı dolma, sarma. -LE- Hünkarbeğendi, imam bayıldı.
+0525 [00:38:54] -AZ- At meydanı, Sultanahmet, Ramazan eğlenceleri...
+0526 [00:38:56] -LE- Bak mahya...
+0527 [00:38:57] -AZ- Olsaydı da açsaydık. -LE- Onbir ayın sultanı.
+0528 [00:39:00] -AZ- Beyzadeler, nazlı hanımlar... Gidelim Göksu'ya bir alem-i ab eyleyelim.
+0529 [00:39:04] -LE- Aman çekelim kürekleri ruhu şad eyleyelim.
+0530 [00:39:06] -AZ- Eski bir konak, tulumbacılar, yangın...
+0531 [00:39:09] -LE- Bekçi baba yangın nerede? -AZ- Yüreğimde, yüreğimde!
+0532 [00:39:12] -LE- Ya!. Galata, Tophane, külhanbeyleri... -AZ- Anamı kesen ben, babamı kesen ben...
+0533 [00:39:17] Arap bacıyı yap! -LE- Küçük hanım bu akşam ne yemek isterler acaba?
+0534 [00:39:20] -AZ- Öyle değil lan, sesini öne al...
 0535 [00:39:22] Küçük hanım yemek hiç yapamadım, bugün kilerde hiçbir şey kalmamış.
-0536 [00:39:25] - Biraz sert olmuyor mu öyle?
-0537 [00:39:27] Şu, izle yüzümü biraz kara yapayım, tam arap bacı. Tam.
-0538 [00:39:29] Başörtü olsa aynısını yapıyoruz.
-0539 [00:39:31] Lokum! Turkish delight! Lokum!
-0540 [00:39:35] Arap bacıyı anlamadım ama lokum mantıklı geldi.
-0541 [00:39:37] - Buyrun efendim. - Turkish delight.
-0542 [00:39:40] Lokum zaten bizden çıkmadır efendim.
-0543 [00:39:43] - İnandınız değil mi Johnny Lesh olmadığıma? - İnandım.
-0544 [00:39:46] Suzan Hanım, bir de bizde şey vardır: O silah çıktı mı illa patlar.
-0545 [00:39:50] Haa...
+0536 [00:39:25] -LE- Biraz sert olmuyor mu öyle?
+0537 [00:39:27] -AZ- Şu, izle yüzümü biraz kara yapayım, tam arap bacı. Tam.
+0538 [00:39:29] -LE- Başörtü olsa aynısını yapıyoruz.
+0539 [00:39:31] -AZ- Lokum! Turkish delight! Lokum!
+0540 [00:39:35] -SU- Arap bacıyı anlamadım ama lokum mantıklı geldi.
+0541 [00:39:37] -AZ- Buyrun efendim. -SU- Turkish delight.
+0542 [00:39:40] -AZ- Lokum zaten bizden çıkmadır efendim.
+0543 [00:39:43] -LE- İnandınız değil mi Johnny Lesh olmadığıma? -SU- İnandım.
+0544 [00:39:46] -AZ- Suzan Hanım, bir de bizde şey vardır: O silah çıktı mı illa patlar.
+0545 [00:39:50] -SU- Haa...
 0546 [00:39:53] Olmadı bir şey olmadı. Sıyırdı. Kalk! Kalk, kalk!
 --- [3s boşluk] ---
-0547 [00:39:59] Dayan Aziz Efendi, dayan.
+===
+0547 [00:39:59] LE- Dayan Aziz Efendi, dayan.
 --- [3s boşluk] ---
-0548 [00:40:05] Ahh!
-0549 [00:40:06] - Ayyy! - Tamam. Tamam. Kıpırdama.
-0550 [00:40:11] Alkol mü efendim?
+0548 [00:40:05] -AZ- Ahh!
+0549 [00:40:06] Ayyy! -SU- Tamam. Tamam. Kıpırdama.
+0550 [00:40:11] -AZ- Alkol mü efendim?
 0551 [00:40:14] Ahh! Allah!
-0552 [00:40:16] - Demek Lesh öldü ha? - Öldü. Gözümüzle gördük.
+0552 [00:40:16] -SU- Demek Lesh öldü ha? -LE- Öldü. Gözümüzle gördük.
 0553 [00:40:20] Aziz Efendi kendi elleriyle defnetti cesedi.
-0554 [00:40:23] Onun canını ben almak isterdim. Johnny Lesh annemin katilidir.
+0554 [00:40:23] -SU- Onun canını ben almak isterdim. Johnny Lesh annemin katilidir.
 0555 [00:40:28] Annem, Mary Lou.
 --- [3s boşluk] ---
-0556 [00:40:34] Ohh... Ahh...
-0557 [00:40:38] - Allah... - Ver şunu.
+0556 [00:40:34] -AZ- Ohh... Ahh...
+0557 [00:40:38] Allah... -SU- Ver şunu.
 --- [3s boşluk] ---
-0558 [00:40:43] Johnny Lesh bizim de canımızı yaktı.
+0558 [00:40:43] -LE- Johnny Lesh bizim de canımızı yaktı.
 0559 [00:40:47] Sultanın hediyesini getirmiştik, binlerce dolarlık.
 0560 [00:40:50] Posta arabasında gidiyoruz. Pat! Haydutlar!
 0561 [00:40:53] ''Stop the carriage, you son of a bitch!'' demesinler mi?
 0562 [00:40:58] Tabii orada Aziz Efendi'nin telaşı, benim cesaretim.
-0563 [00:41:02] - Kısa çöp, uzun çöp derken... - Teferruata girme ulan!
+0563 [00:41:02] Kısa çöp, uzun çöp derken... -AZ- Teferruata girme ulan!
 0564 [00:41:06] Lemi'yi Johnny Lesh diye teslim edip...
 0565 [00:41:08] ...2000 dolarımızı kurtaralım dedik. Fena mı ettik?
-0566 [00:41:11] Nehrin öteki tarafına geçmeniz lazım, buralarda Lesh'i çok iyi tanırlar.
+0566 [00:41:11] -SU- Nehrin öteki tarafına geçmeniz lazım, buralarda Lesh'i çok iyi tanırlar.
 0567 [00:41:14] Cannonball'a gidin bence.
-0568 [00:41:17] - Cannonball? - Cannonball... See you.
-0569 [00:41:21] Ha!
-0570 [00:41:22] Orada Lesh'i iki bin dolara okutabilirsiniz. Gerzek bir şerifi var.
-0571 [00:41:25] Yaşa!
-0572 [00:41:27] Haa, bin dolarını ben alırım ama.
-0573 [00:41:32] Olur.
+0568 [00:41:17] -AZ- Cannonball? -LE- Cannonball... See you.
+0569 [00:41:21] -AZ- Ha!
+0570 [00:41:22] -SU- Orada Lesh'i iki bin dolara okutabilirsiniz. Gerzek bir şerifi var.
+0571 [00:41:25] -AZ- Yaşa!
+0572 [00:41:27] -SU- Haa, bin dolarını ben alırım ama.
+0573 [00:41:32] -AZ- Olur.
 0574 [00:41:34] Bak anesinin fotoğrafıymış lan, ne dedikodu yapıyorsun?
-0575 [00:41:37] Şuhu vukuundan beter derler ya.
-0576 [00:41:39] Sen de bin doları verdin hemen.
-0577 [00:41:41] Ömrümü veririm.
-0578 [00:41:44] Erkek gibi hiç sevmem.
-0579 [00:41:46] He, erkek gibi. Sırta bak. Aynı bizim Hamal Hasan.
+0575 [00:41:37] Şüyuu vukuundan beter derler ya.
+0576 [00:41:39] -LE- Sen de bin doları verdin hemen.
+0577 [00:41:41] -AZ- Ömrümü veririm.
+0578 [00:41:44] -LE- Erkek gibi hiç sevmem.
+0579 [00:41:46] -AZ- He, erkek gibi. Sırta bak. Aynı bizim Hamal Hasan.
 --- [4s boşluk] ---
 0580 [00:41:53] Bana bak, sen hatıratını hangi elle yazıyorsun?
 0581 [00:41:57] Güzel. Ben o elleri bir bağlayayım da, gece rahat uyuyayım.
-0582 [00:42:03] - Hiç mi itimatımız kalmadı? - Yok efendim.
+0582 [00:42:03] -LE- Hiç mi itimatımız kalmadı? -AZ- Yok efendim.
 --- [54s boşluk] ---
+===
 0583 [00:42:59] - Lan bana bak. Akşam vaazına bekliyorum...
 0584 [00:43:02] ...ona gore ha, beni deli etmeyin!
 0585 [00:43:03] Al şu tüfeği, koy kenara.
