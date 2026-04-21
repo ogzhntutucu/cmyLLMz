@@ -1346,27 +1346,27 @@ Kullanım:
 1147 [01:22:57] -LO- Anana selam söyle.
 1148 [01:23:00] Haydi bağalım...
 --- [7s boşluk] ---
-1149 [01:23:08] -AL- Günah çıkarmak istiyorum peder.
+1149 [01:23:08] -AG- Günah çıkarmak istiyorum peder.
 1150 [01:23:11] -LO- Ulan senin günahın boyunu aşmıştır ya.
 1151 [01:23:14] Neyse. Geç bakalım içeri.
 --- [6s boşluk] ---
 1152 [01:23:23] -LO- İstersen ayağa galk gonuş, seni daha rahat duyiyim yavrum.
-1153 [01:23:27] -AL- Zaten ayaktayım.
+1153 [01:23:27] -AG- Zaten ayaktayım.
 1154 [01:23:29] -LO- Affedersin. Adın ne?
-1155 [01:23:32] -AL- Adım Alejandro Gomez Arias Jose Robledo Alfonso Villas des Sandos.
+1155 [01:23:32] -AG- Adım Alejandro Gomez Arias Jose Robledo Alfonso Villas des Sandos.
 1156 [01:23:37] -LO- Lan senin adın batsın. Uzatma. Öksür hadi, taksimetre çalışıyor.
-1157 [01:23:42] -AL- Juan Jimenez Garcia'nın atlarını, ben çaldım! -LO- Devam et oğlum.
-1158 [01:23:47] -AL- İçimdeki çocuğu da ben öldürdüm peder!
+1157 [01:23:42] -AG- Juan Jimenez Garcia'nın atlarını, ben çaldım! -LO- Devam et oğlum.
+1158 [01:23:47] -AG- İçimdeki çocuğu da ben öldürdüm peder!
 1159 [01:23:50] -LO- Hhiiihhh...
 1160 [01:23:53] Kürtaj. En büyük günah!
-1161 [01:23:56] -AL- Yüce Tanrı beni affeder mi? -LO- Metin ol, eder.
+1161 [01:23:56] -AG- Yüce Tanrı beni affeder mi? -LO- Metin ol, eder.
 1162 [01:24:00] Çık bakayım dışarıya.
 1163 [01:24:02] Tanrı her zaman büyüktür. Elbet affeder.
 1164 [01:24:07] Galdır lan ellerini! Ganun namına tutuklusun!
 1165 [01:24:11] Günah çıkaraca'mış. İtnecik! O iş ayrı, bu iş ayrı!
-1166 [01:24:15] Yörü, yörü! -AL- Bir şans daha şerif...
+1166 [01:24:15] Yörü, yörü! -AG- Bir şans daha şerif...
 1167 [01:24:18] Başlarım senin şansına!
-1168 [01:24:22] -AL- Şerif, şöyle halledebilir miyiz?
+1168 [01:24:22] -AG- Şerif, şöyle halledebilir miyiz?
 --- [3s boşluk] ---
 1169 [01:24:28] -LO- Ne oluyor lan?
 ===
@@ -1384,7 +1384,7 @@ Kullanım:
 1180 [01:25:00] -C1- Ne elması be? Sen işine bak.
 1181 [01:25:02] Babam dedi zaten, yirmi sene sonra Amerikan mandasına girecekmişsiniz. Hahahaha...
 1182 [01:25:09] Amerikan mandası diye anana demiştir o!
-1183 [01:25:11] Yürüyün lan! -CO- Yürüyün çocuklar!
+1183 [01:25:11] Yürüyün lan! -C1- Yürüyün çocuklar!
 1184 [01:25:14] -C2- Çok da bayıldık!
 1185 [01:25:15] -AZ- Avradını siktiğimin Chucky'si.
 ===
@@ -1892,7 +1892,7 @@ Kullanım:
 1622 [01:53:37] -KK- Hee... -LO- Heheehe... -KK- Hahahah...
 1623 [01:53:40] -LO- Ne kadar digat etsek de gaçıyor demek ki...
 ===
-1624 [01:53:44] -AL- Günah çıkarmak istiyorum peder.
+1624 [01:53:44] -AG- Günah çıkarmak istiyorum peder.
 --- [6s boşluk] ---
 1625 [01:53:52] -LE- Al.
 1626 [01:53:53] Bununla çıkarabilir misin?
