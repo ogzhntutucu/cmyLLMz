@@ -16,6 +16,11 @@
 
 - Greenland Vadisi - 27 Nisan 1881
 - serif lloyd koylu ali sen agizina benzer bir agizla konusuyor.
+- zeki ve ramazan pek tanismiyor gibi yapiyorlar. aslinda birlikte dolandirmaya calisiyorlar.
+- Cannonball Town
+- Rose Hills, WC (kizilderililerin koyu)
+- Kırkpınar Güreşleri Gösteri Alanı 18 Haziran 1881.
+- Beyaz Saray, Washington (Kolombiya Bölgesi)
 
 # plana gore opsiyonel kisimlar
 
@@ -43,3 +48,13 @@ Dikkat Edilmesi Gerekenler
 karakterler hakkinda aciklama girilmeli. ekstra olarak biliniyorsa oyuncularin adlari da verilmeli. yani film icin bir wiki olusturmak lazim rag icinde.
 
 ai duzelttirme islerini adim adim ayri ayri yapalim. her seyi tekte yapmasin?
+
+
+-AZ- oncesi [bla bla] -AZ- devam
+seklinde repligi de bolebilirsin. sonuc olarak ses ve goruntuyu replige aktariyoruz. boyle bi kisinin replikleri arasinda da bolunmeler olur.
+
+replik icindeki alintilari nasil yapalim? " mi yoksa ' mi yoksa '' mi kullanalim?
+
+.... oldugu icin ... oldu. simdi bu yuzden .... diyecek/ olacak. seklinde ileri ve gerideki repliklere referans verilebilir.
+
+az ama cok dolu chunk mi daha kotu yoksa cok ama ici daha az chunk mi? ona gore kucultelim chunklari ve cogaltalim.

@@ -675,7 +675,7 @@ Kullanım:
 0571 [00:41:25] -AZ- Yaşa!
 0572 [00:41:27] -SU- Haa, bin dolarını ben alırım ama.
 0573 [00:41:32] -AZ- Olur.
-0574 [00:41:34] Bak anesinin fotoğrafıymış lan, ne dedikodu yapıyorsun?
+0574 [00:41:34] Bak annesinin fotoğrafıymış lan, ne dedikodu yapıyorsun?
 0575 [00:41:37] Şüyuu vukuundan beter derler ya.
 0576 [00:41:39] -LE- Sen de bin doları verdin hemen.
 0577 [00:41:41] -AZ- Ömrümü veririm.
@@ -687,289 +687,295 @@ Kullanım:
 0582 [00:42:03] -LE- Hiç mi itimatımız kalmadı? -AZ- Yok efendim.
 --- [54s boşluk] ---
 ===
-0583 [00:42:59] - Lan bana bak. Akşam vaazına bekliyorum...
+0583 [00:42:59] -LO- Lan bana bak. Akşam vaazına bekliyorum...
 0584 [00:43:02] ...ona gore ha, beni deli etmeyin!
-0585 [00:43:03] Al şu tüfeği, koy kenara.
+0585 [00:43:03] Al şu tüfeği, goy kenara.
 0586 [00:43:05] Bir yandan kanun işleri...
 0587 [00:43:08] ...bir yandan kilisede papazlık...
 0588 [00:43:12] ...beş dakika oturacak vaktimiz yok be. Cenaze vardı da.
-0589 [00:43:16] Chuck, bir ara fırla da kiliseye mum götür.
-0590 [00:43:19] Yine çalıp duruyor ibneler.
+0589 [00:43:16] Chuck, bir ara fırla da kiliseye mum gotür.
+0590 [00:43:19] Yine çalıp duruyor itneler.
 0591 [00:43:21] Evet, hoş geldiniz.
-0592 [00:43:23] - Şerif Lloyd? - Benim.
-0593 [00:43:26] Bir ödül işi için gelmiştik.
-0594 [00:43:29] Önce birer viski içer miyiz? Açık viski, kendi dükkanımızdan.
+0592 [00:43:23] -SU- Şerif Lloyd? -LO- Benim.
+0593 [00:43:26] -LO- Bir ödül işi için gelmiştik.
+0594 [00:43:29] -SU- Hee. Önce birer viski içer miyik? Açık viski, kendi tükanımızdan.
 0595 [00:43:33] Ya da, Chuck! Fırla oğlum şurdan bize buz gibi kola getir.
-0596 [00:43:37] - Kola mı? - Evet. Yeni çıkmış.
-0597 [00:43:40] İçimi nasıl biliyor musun? Peh...
+0596 [00:43:37] -AZ- Kola mı? -LO- Evet. Yeni çıkmış.
+0597 [00:43:40] İçimi nasıl biliyor musun? Peeeh...
 --- [3s boşluk] ---
-0598 [00:43:45] Şişeye koymuşlar.
+0598 [00:43:45] -AZ- Şişeye koymuşlar.
 --- [7s boşluk] ---
 0599 [00:43:54] Resmen araklamışlar.
 0600 [00:43:57] Neyse Şerif, iş konuşalım.
 0601 [00:43:59] Sana Johnny Lesh'i getirdik.
 --- [8s boşluk] ---
-0602 [00:44:09] Johnny Lesh...
-0603 [00:44:12] Essah mı? Şaka etmiyorsunuz değil mi?
-0604 [00:44:16] - Chuck duydun mu? Johnny Lesh... - Parayı ne zaman alabiliriz?
-0605 [00:44:21] Para mı? Ne parası be? Sen delirdin mi be adam?
-0606 [00:44:27] Böyle bir günde, böyle bir zamanda...
+0602 [00:44:09] -LO- Johnny Lesh...
+0603 [00:44:12] Essah mı? Şaka etmiyonuz değil mi?
+0604 [00:44:16] Chuck duydun mu? Johnny Lesh... -AZ- Parayı ne zaman alabiliriz?
+0605 [00:44:21] Para mı? Ne parası be? Sen dellendin mi be adam?
+0606 [00:44:27] Böyle bir gunde, böyle bir zamanda...
 0607 [00:44:31] ...birlik ve beraberliğe en çok ihtiyacımız olduğu bir anda...
 0608 [00:44:35] ...Johnny Lesh gibi bir kahramanı içeri tıkmamı mı istiyorsun benden?
-0609 [00:44:40] Fargoların oğluyla haber uçurdum, aldın değil mi?
-0610 [00:44:43] N'oluyor ya?
-0611 [00:44:44] Şerif bu yaptığın kanunlara aykırı. Hemen ödül parasını istiyoruz.
-0612 [00:44:47] Len sizin ödülünüz batsın. Paranız bende merak etmeyin.
+0609 [00:44:40] Fargoların oğlanla haber uçurdum, aldın di' mi? Hehehe...
+0610 [00:44:43] -AZ- N'oluyor ya?
+0611 [00:44:44] -SU- Şerif bu yaptığın kanunlara aykırı. Hemen ödül parasını istiyoruz.
+0612 [00:44:47] -LO- Len sizin ödülünüz batsın. Paranız bende merak etmeyin.
 0613 [00:44:54] Ama Johnny Lesh'i içeri atamam.
-0614 [00:44:57] Sioux' lar anamızı belledi.
+0614 [00:44:57] Sioux'lar anamızı belledi.
 0615 [00:45:00] Bak!
-0616 [00:45:02] - Deriyi almışlar. - He ya. Taze.
+0616 [00:45:02] -AZ- Deriyi almışlar. -LO- He ya. Taze.
 0617 [00:45:05] Daha dün aldılar. Estirip duruyorlar.
 0618 [00:45:09] Buyrun.
 0619 [00:45:12] Bakın, bu işi halletse halletse, Johnny Lesh halleder.
 0620 [00:45:16] Siz de beyazsınız, halden anlarsınız.
 0621 [00:45:19] Chuck!
-0622 [00:45:20] Ulan, Chuck deyince çakma, kosnük!
+0622 [00:45:20] Ulan, Chuck deyince çakma, kösnük!
 0623 [00:45:23] Fırla git otele haber ver...
 0624 [00:45:24] ...Johnny Lesh abimizle, ödül avcısı misafirlerimiz geliyor de.
 0625 [00:45:28] Haydi bakalım!
 --- [3s boşluk] ---
 0626 [00:45:32] Gel bakalım aslanım.
-0627 [00:45:35] Şerif!
+0627 [00:45:35] -AZ- Şerif!
 0628 [00:45:37] Macaulay.
 0629 [00:45:38] Johnny Lesh abinizi otele götürün.
-0630 [00:45:41] İç - dış bir güzel yıkayın.
-0631 [00:45:43] Tabii şerif. Buyrun.
-0632 [00:45:45] - Ödül işini yatırmasın. - Dur bakalım, konuşacağız.
-0633 [00:45:50] Hanım efendi otele buyurmuyorlar mı? Lütfen. Kendi eviniz gibi.
+0630 [00:45:41] İç dış bir güzel yıkayın.
+0631 [00:45:43] -MA- Tabii şerif. Buyrun.
+0632 [00:45:45] -SU- Ödül işini yatırmasın. -AZ- Dur bakalım, konuşacağız.
+0633 [00:45:50] -LO- Hanım efendi otele buyurmuyorlar mı? Lütfen. Gendi eviniz gibi.
 0634 [00:45:55] Sıcak bir banyo iyi gelir.
 0635 [00:45:59] Bin dolarını alırım, anlamam.
-0636 [00:46:03] Alırsın, alırsın. Tuttuğunu koparan bir cinse benziyor.
-0637 [00:46:07] Tuttuğunu koparır da, biz ödülü koparacak mıyız acaba?
-0638 [00:46:10] Koparırsın, kafana takma.
-0639 [00:46:13] Şu yıldıza az hürmet edin... Ödül meselesini kafanıza takmayın...
+0636 [00:46:03] -LO- Alırsın, alırsın. Tuttuğunu goparan bir cinse benziyor.
+0637 [00:46:07] -AZ- Tuttuğunu koparır da, biz ödülü koparacak mıyız acaba?
+0638 [00:46:10] -LO- Goparırsın, gafana takmaa.
+===
+0639 [00:46:13] -LO- Şu yıldıza az hörmet edin... Ödül meselesini gafanıza takmayın...
 0640 [00:46:18] Şu Sioux'ların belini bir kıralım gerisi kolay.
 0641 [00:46:21] Sen de silahını hızlı bir kahramana benziyorsun.
-0642 [00:46:24] - Evvelallah. - Ne?
-0643 [00:46:26] - Öyleyimdir yani. - Yoo, öyle deme.
-0644 [00:46:30] Kovboyluk bitti.
+0642 [00:46:24] -AZ- Evvelallah. -LO- Ne?
+0643 [00:46:26] -AZ- Öyleyimdir yani. -LO- Yoo, öyle deme.
+0644 [00:46:30] Govboyluk bitti.
 0645 [00:46:32] Artık gencecik oğlanlar kafalarına tüyler takıp...
-0646 [00:46:37] ...''ulelek ulelek'' diye, sabahtan başlayıp...
-0647 [00:46:39] ...akşama kadar kızıldericilik oynuyorlar.
-0648 [00:46:41] Çocuk işte, düşmanlıktan anlamıyor ki.
-0649 [00:46:45] Kızılları al karşına adam gibi konuş desen, konuşamazsın.
+0646 [00:46:37] ...''ulelek ulelek ulelek'' diye, sabahtan başlayıp...
+0647 [00:46:39] ...akşama kadar kızılderilicilik oynuyorlar.
+0648 [00:46:41] Çocuk işte, düşmanlıktan anlamıyor ki. 
+0649 [00:46:45] Kızılları al karşına adam gibi konuş desen, gonuşaman.
 0650 [00:46:48] Bunlar nehirle, dağla, taşla konuşan manyaklar.
-0651 [00:46:52] - Ateş suyundan olsa gerek. - Sadece ateş suyu mu?
+0651 [00:46:52] -AZ- Ateş suyundan olsa gerek. -LO- Sadece ateş suyu mu?
 0652 [00:46:55] Barış çubuğu var, mantarı var. Daha ne herzeleler.
 0653 [00:46:58] Ama bitti, az kaldı...
 0654 [00:47:01] Bu civarda iki dönüm arazileri ya var, ya da yok.
-0655 [00:47:04] Yakında hepsinin köküne kibrit suyunu dökeceğim.
-0656 [00:47:07] - Lan, gidin başka yerde oynayın. - Bu da benim ikinci avrat. Betty.
-0657 [00:47:12] - Hoş geldiniz kovboy bey. - Hürmetler...
-0658 [00:47:14] - Kalacak mısınız kasabamızda? - Yani...
-0659 [00:47:17] Sana ne? İşine bak sen.
-0660 [00:47:19] - Buyur akşam vaazına katıl istersen. - Akşam okundu mu?
-0661 [00:47:24] Ne?
+0655 [00:47:04] Yakında hepsinin köküne kibrit suyunu dökeceem.
+0656 [00:47:07] -BE- Len, gidin başka yerde oynayın. -LO- Bu da benim ikinci avrat. Betty.
+0657 [00:47:12] -Be- Hoş geldiniz govboy bey. -LO- Hürmetler...
+0658 [00:47:14] -BE- Galıcaa' mısınız gasabamızda? -LO- Yani...
+0659 [00:47:17] -LO- Sana ne? İşine bak sen.
+0660 [00:47:19] Buyur akşam vaazına katıl istersen. -AZ- Akşam okundu mu?
+0661 [00:47:24] -LO- Ne? -AZ- Hehehe...
 --- [12s boşluk] ---
-0662 [00:47:37] Ayağın biri arızalı olunca tabii...
+0662 [00:47:37] -LO- Ayağın biri arızalı olunca tabii...
 0663 [00:47:41] Buyrun.
 --- [3s boşluk] ---
-0664 [00:47:46] - Öyle ahım şahım bir kilise değil.
-0665 [00:47:49] - Maksat dini vecibeler yerine gelsin.
-0666 [00:47:54] Sakın çizmeyi çıkarma ha, çalarlar ibneler.
-0667 [00:47:59] Din ve devlet işlerini ayır şerif, böyle çok yorulursun vallahi.
-0668 [00:48:02] Kamu hizmeti, ne yapalım? Mecburen...
-0669 [00:48:06] - Hadisene lan, bitmedi mi yerler daha? - Kölelik kalkmadı mı ya?
-0670 [00:48:09] Yahu kölelik dediğin öyle birden bire kalkar mı, Allah'ını seversen?
-0671 [00:48:13] Yavaş yavaş kaldırıyoruz işte. Kalk lan!
+0664 [00:47:46] Öyle ahım şahım bir kilise değil.
+0665 [00:47:49] Maksat dini vecibeler yerine gelsin.
+0666 [00:47:54] Şş, sakın çizmeyi çıkarma ha, çalarlar itneler.
+0667 [00:47:59] -AZ- Din ve devlet işlerini ayır şerif, böyle çok yorulursun valla.
+0668 [00:48:02] -LO- Gamu hizmeti, ne yapalım? Mecburen...
+0669 [00:48:06] Hadisene lan, bitmedi mi yerler daha? -AZ- Kölelik kalkmadı mı ya?
+0670 [00:48:09] -LO- Yahu kolelik dediğin öyle birden bire kalkar mı, Allah'ını seversen?
+0671 [00:48:13] Yavaş yavaş kaldırıyok işte. Kalk lan! Kalk.
 0672 [00:48:18] Bu var ya, bir gospel okusun, ağlarsın ağlarsın.
 0673 [00:48:23] Hadi giy bakayım üstünü. Yanık yanık oku ha!
-0674 [00:48:28] Hişşt! Ezdirme kendini!
-0675 [00:48:32] - Burası da bizim günah çıkarma kabinimiz. - Çıkıyor mu bari günahlar?
-0676 [00:48:35] Eh işte... Çıktığı kadar. İdare ediyoruz.
-0677 [00:48:40] Ne yapıyorsun lan sen orda? Çık lan dışarı cacıkçı. Çık!
+0674 [00:48:28] -AZ- Hişşt! Ezdirme kendini!
+0675 [00:48:32] -LO- Burası da bizim günah çıkarma kabinimiz. -AZ- Çıkıyor mu bari günahlar?
+0676 [00:48:35] -LO- Eh işte... Çıktığı kadar. İdare ediyok.
+0677 [00:48:40] Ne yapıyon lan sen orda? Çık lan dışarı cacıkçı. Çık!
 0678 [00:48:45] Bu da benim bir numara, Eugene.
-0679 [00:48:49] Bunun anasına atlayacağıma, dağa taşa atlasaydım.
-0680 [00:48:52] Elleşme Şerif, belii ki meczup.
-0681 [00:48:54] - Lan ne meczubu? Kendi yaptığımız açık viskiden delirdi.
-0682 [00:48:57] - Arkadaşları buna yürüyen Johnnie derler. - Yürüyen Johnny mi?
-0683 [00:49:00] He, merhaba de len abine!
-0684 [00:49:02] Merhaba abi.
-0685 [00:49:03] Yanlış anlama, bu kadın var ya? Ben bu karının günahını çıkarıyordum.
+0679 [00:48:49] Bunun anasına atlayacağıma, dağa daşa atlayaydım. -EU- Ahhyyy...
+0680 [00:48:52] -AZ- Elleşme Şerif, belii ki meczup.
+0681 [00:48:54] -LO- Lan ne meczubu? Kendi yaptığımız açık viskiden dellendi.
+0682 [00:48:57] Arkadaşları buna Yürüyen Johnnie derler. -AZ- Yürüyen Johnny mi?
+0683 [00:49:00] -LO- He, merhaba de len abine!
+0684 [00:49:02] -EU- Merhaba abi.
+0685 [00:49:03] Yanlış anlama ha, bu kadın var ya? Ben bu karının günahını çıkarıyordum.
 0686 [00:49:07] Tam çıkardım abi, sen geldin.
-0687 [00:49:08] - Hoş geldin abi. Bir sigara var mı abi? - Sigara yok.
-0688 [00:49:12] - Sigara versin bana. - Hah. Al. Ayna.
-0689 [00:49:15] Hah, deli deli görünce sopasını saklarmış.
+0687 [00:49:08] Hoş geldin abi. Bir sigara var mı abi? -AZ- Sigara yok.
+0688 [00:49:12] -EU- Sigara versin bana. -AZ- Hah. Al. Ayna.
+0689 [00:49:15] -LO- Hah, deli deli gurünce sopasını saklarmış.
 0690 [00:49:19] Ayna iyi oldu. Artık bakar bakar durur.
-0691 [00:49:22] Abi. Bu benim annemin resmi. Sende kalabilir.
-0692 [00:49:26] Nerden aldın lan onu? Yürü bakayım sen, yürü! İşine bak hadi!
+0691 [00:49:22] -EU- Abi. Bu benim annemin resmi. Sende kalabilir.
+0692 [00:49:26] -LO- Nerden aldın lan onu? Yürü bakayım sen, yürü! İşine bak hadi!
 0693 [00:49:30] Yürü!
-0694 [00:49:31] Aferin! Kollarını da!
-0695 [00:49:35] Kollarını da salla!
+0694 [00:49:31] Aferin! Gollarını da!
+0695 [00:49:35] Gollarını da salla! Heeeeh.
 --- [8s boşluk] ---
-0696 [00:49:45] Senin bu Johnny Lesh'le ne işin var Şerif?
-0697 [00:49:48] Johnny Lesh geçen ay bir posta arabasını soymuş.
+===
+0696 [00:49:45] -LO- Aaah ah... -AZ- Senin bu Johnny Lesh'le ne işin var Şerif?
+0697 [00:49:48] -LO- Johnny Lesh geçen ay bir posta arabasını soymuş.
 0698 [00:49:52] Yumruk kadar elmas kaldırmış.
-0699 [00:49:55] Ama Sioux'lar onu alt geçitte kıstırıp elması elinden almışlar.
+0699 [00:49:55] Emme Sioux'lar onu alt geçitte gıstırıp elması elinden almışlar.
 0700 [00:49:59] Şimdi Sioux'ların yerini Johnny Lesh'e söylediğin zaman...
 0701 [00:50:03] ...Johnyy Lesh onların anasını beller.
-0702 [00:50:05] Biz de kurtuluruz o tüylülerden.
-0703 [00:50:08] İkibin kağıtlık ödülü kafana takma, devede kulak.
+0702 [00:50:05] Biz de gurtuluruk o tüylülerden.
+0703 [00:50:08] İki bin kağıtlık ödülü kafana takma, devede gulak.
 0704 [00:50:12] Sen bu işe destek at, fazla da dillendirme.
-0705 [00:50:16] - Elmas Sioux'larda yani... - He vallahi.
-0706 [00:50:19] - Vallahi mı? - Aman işte, ağız alışkanlığı canım.
+0705 [00:50:16] -AZ- Elmas Sioux'larda yani... -LO- He vallah.
+0706 [00:50:19] -Az- Vallahi mı? -LO- Aman işte, ağız alışkanlığı canım.
 --- [5s boşluk] ---
-0707 [00:50:28] - Lemi! - Destur!
-0708 [00:50:29] Elmas Sioux'larda! Elmas Sioux'larda!
-0709 [00:50:31] Şerifin sana bir teklifi olacak, akşam saloonda buluşalım dedi.
-0710 [00:50:35] - Saloon mu? - Saloon dedi!
-0711 [00:50:36] E oha!
+0707 [00:50:28] -AZ- Lemi! -LE- Destur!
+0708 [00:50:29] -AZ- Elmas Sioux'larda! Elmas Sioux'larda!
+0709 [00:50:31] Şerifin sana bir teklifi olacak, akşam saloon'da buluşalım dedi.
+0710 [00:50:35] -LE- Saloon mu? -AZ- Saloon dedi!
+0711 [00:50:36] -LE- Ya...
 --- [4s boşluk] ---
 0712 [00:50:41] Ya, ben de elmasın peşindeyim. Kaç saattir tek kelime alamadım.
 0713 [00:50:45] Boşa vakit kaybı!
-0714 [00:50:46] Güzel güzel. Güzel, aferin.
-0715 [00:50:50] Konuş! Konuş elmas nerede?
+0714 [00:50:46] -AZ- Güzel güzel. Güzel, aferin.
+0715 [00:50:50] -LE- Konuş! Konuş elmas nerede?
 --- [11s boşluk] ---
-0716 [00:51:04] Gelin bakalım, hoş geldiniz.
+0716 [00:51:04] -LO- Gelin bakalım, hoş geldiniz.
 0717 [00:51:08] Şimdi size bir yer bulalım.
-0718 [00:51:13] Kalk ulan o masadan! Koca götlü!
-0719 [00:51:16] Bu masa senin harcın değil!
+0718 [00:51:13] Kalk lan o masadan! goca gotlü!
+0719 [00:51:16] Bu masa senin harcın değeel!
 0720 [00:51:18] Oraya Fidaların Murdock oturacak! Buyrun...
 0721 [00:51:21] Bol şanslar.
-0722 [00:51:23] Gelin bakalım sevgili meslektaşım. Hoş geldiniz.
-0723 [00:51:28] Bak buraya! Vıski ver!
+0722 [00:51:23] Gelin bahalım sevgili meslektaşım. Hoş geldiniz.
+0723 [00:51:28] Bak buraya! Viski ver!
 0724 [00:51:30] Bol şanslar. Birazdan gelirim yine.
 --- [3s boşluk] ---
-0725 [00:51:36] Ulan ben sana on sekiz yaşından küçükler buraya giremez demedim mi?
-0726 [00:51:41] Fotörüne sıçtığım!
+0725 [00:51:36] Ulan ben sana on sekiz yaşından kuçükler buraya giremez dimedim mi?
+0726 [00:51:41] Fotörene sıçtığım!
 --- [4s boşluk] ---
 0727 [00:51:47] Chuck! Atın şunu dışarı.
 0728 [00:51:49] Kavga çıkmasın daha zamanı değil!
-0729 [00:51:54] Lan Johnnie ne yapıyorsun burada?
-0730 [00:51:56] - Babam Johnnie istedi! - Ver bakalım.
-0731 [00:52:01] E hadi vur bakalım. Ne oldu, yamuldun mu?
-0732 [00:52:05] Suzan Hanım, biz bu miktarı çocukken içiyorduk. Ayrıca iştirakiniz hoşuma gitti.
-0733 [00:52:12] Kankanlara hiç bakmıyorsun.
-0734 [00:52:15] Efendim, benim sünnet merasimimde dansöz çıkarmışlardı.
-0735 [00:52:18] O zamandan beri dansöze bakamıyorum.
-0736 [00:52:20] İyi akşamlar.
-0737 [00:52:24] - Johnny Lesh yok mu? - Gelir birazdan.
-0738 [00:52:27] Pompada mı yoksa?
-0739 [00:52:31] Hikayeni anlattım, ilgileniyor.
-0740 [00:52:32] Yarın yola çıkıcağız. yalnız bize kızılderili kıyafetleri lazım.
-0741 [00:52:36] Ayarlarız.
-0742 [00:52:39] Ooo!
+0729 [00:51:54] Lan Johnnie ne yapıyon burada?
+0730 [00:51:56] -EU- Babam Johnnie istedi! -LO- Ver bakalım.
+===
+0731 [00:52:01] -SU- E hadi vur bakalım. Ne oldu, yamuldun mu?
+0732 [00:52:05] -AZ- Suzan Hanım, biz bu miktarı çocukken içiyorduk. Ayrıca iştirakiniz hoşuma gitti.
+0733 [00:52:12] -SU- Kankanlara hiç bakmıyorsun.
+0734 [00:52:15] -AZ- Efendim, benim sünnet merasimimde dansöz çıkarmışlardı.
+0735 [00:52:18] O zamandan beri dansöze bakamıyorum...
+0736 [00:52:20] -LO- İyi akşamlar.
+0737 [00:52:24] Johnny Lesh yok mu? -AZ- Gelir birazdan.
+0738 [00:52:27] -LO- Pompada mı yoksa?
+0739 [00:52:31] -AZ- Hikayeni anlattım, ilgileniyor.
+0740 [00:52:32] Yarın yola çıkacağız. yalnız bize kızılderili kıyafetleri lazım.
+0741 [00:52:36] -LO- Ayarlarız.
+0742 [00:52:39] Ooo! Hahahaha...
 --- [4s boşluk] ---
 0743 [00:52:44] Gel bakalım yiğidim. Otur bakalım.
-0744 [00:52:47] - Postaneyi soruyor. - Tabii canım.
+0744 [00:52:47] -LE- Postaneyi soruyor. -LO- Tabii canım.
 0745 [00:52:50] Merak etmeyin, istediğiniz her şey halledilecek.
 0746 [00:52:54] Öncelikle şu Sioux şefinin kellesini aldık mı...
 0747 [00:52:58] ...daha da burada barınamaz, itoğluitler.
 0748 [00:53:00] Hem de Johnny Lesh'e yanlış yapmak...
-0749 [00:53:03] ...neymiş, öğrensin gavatlar, değil mi?
-0750 [00:53:06] Yarın şafak vakti Zozo The Kid'le yola çıkacağız.
-0751 [00:53:09] Yaşa.
-0752 [00:53:10] Sioux'lara bulaşma işi hiç hoşuma gitmedi ama, neyse.
+0749 [00:53:03] ...neymiş, öğrensin gavatlar, de' mi?
+0750 [00:53:06] -LE- Yarın şafak vakti Zozo The Kid'le yola çıkacağız.
+0751 [00:53:09] -LO- Yaşa.
+0752 [00:53:10] -SU- Bu Sioux'lara bulaşma işi hiç hoşuma gitmedi ama, neyse.
 --- [4s boşluk] ---
-0753 [00:53:18] - Doğru söyle pompada mıydın? - Şerif.
+0753 [00:53:18] -LO- Doğru söyle pompada mıydın? -AZ- Şerif.
 0754 [00:53:22] Demin hanımın yanında da öyle konuştun. Bu şekilde konuşma.
-0755 [00:53:26] Ne var canım, benden çok bıyığı var.
-0756 [00:53:29] Şşşt!
+0755 [00:53:26] -LO- Ne var canım, benden çok bıyığı var.
+0756 [00:53:29] -LE- Şşşt!
 --- [6s boşluk] ---
-0757 [00:53:37] Neyin var Suzan?
+0757 [00:53:37] -AZ- Ne'n var Suzan?
 --- [3s boşluk] ---
 0758 [00:53:42] Suzan, bu elmas bizim için çok önemli. Ucunda kellemiz var.
 0759 [00:53:46] Yarın sabah gitmek zorundayız.
 0760 [00:53:49] Sen istersen gelme ama, gelirsen çok faydan dokunur.
 --- [3s boşluk] ---
-0761 [00:53:55] - İçeride bıyığı var dediler, duydum! - Yahu, benim de bıyığım var, ne olacak?
-0762 [00:54:00] - Sendeki güzelliği görememişler demek ki. - Ya, tabii tabii...
-0763 [00:54:04] Güzeli görmek de bir hüner ister Suzan. Bazısı bakar, göremez.
+0761 [00:53:55] -SU- İçeride bıyığı var dediler, duydum! -Az- Yahu, benim de bıyığım var, ne olacak?
+0762 [00:54:00] Sendeki güzelliği görememişler demek ki. -SU- Ya, tabii tabii...
+0763 [00:54:04] -AZ- Güzeli görmek de bir hüner ister Suzan. Bazısı bakar, göremez.
 0764 [00:54:08] Ayrıca, nereye baktığın değil...
 0765 [00:54:13] ...orada ne gördüğün önemli.
 --- [9s boşluk] ---
-0766 [00:54:24] Yarın görüşürüz.
+0766 [00:54:24] -SU- Yarın görüşürüz.
 --- [7s boşluk] ---
-0767 [00:54:32] - Kovboy, içeri gelsene! - Ben kovboy değilim anam!
+0767 [00:54:32] -P1- Kovboy, içeri gelsene! -AZ- Ben kovboy değilim anam!
 --- [4s boşluk] ---
 0768 [00:54:40] Geç.
 0769 [00:54:43] Lan, geç!
-0770 [00:54:45] Vay be! Muhteşem bir hikaye!
-0771 [00:54:48] - Elmas Sioux'lara geçmiş demek? - Evet abi.
-0772 [00:54:51] Vay be!
-0773 [00:54:52] Ya ben en çok, bunu çizmeye nasıl bağlayacaksın, onu merak ediyorum.
-0774 [00:54:55] E çizme şeyin işte ya, Johnny Lesh'in çizmesi değil mi?
-0775 [00:54:59] Değil. Değil abi, ne alakası var?
-0776 [00:55:01] - Dinle. Bunlar... - Ya Zeki'cim, bir ara verelim mi be?
-0777 [00:55:04] - Ben bir su dökeyim ha? - Verelim abi.
-0778 [00:55:06] Evet ya, müsaadenizle, ben de bir gideyim geleyim.
+===
+0770 [00:54:45] -VE- Vay be! Muhteşeem bir hikaye!
+0771 [00:54:48] -AL- Elmas Sioux'lara geçmiş demek? -ZE- Evet abi.
+0772 [00:54:51] -AL- Vay be!
+0773 [00:54:52] -RA- Ya ben en çok, bunu çizmeye nasıl bağlayacaksın, onu merak ediyorum.
+0774 [00:54:55] -VE- E çizme şeyin işte ya, Johnny Lesh'in çizmesi değil mi?
+0775 [00:54:59] -ZE- Değil. Değil abi, ne alakası var?
+0776 [00:55:01] Dinle. Bunlar... -AL- Ya Zeki'cim, bir ara verelim mi be?
+0777 [00:55:04] Ben bir su dökeyim ha? -ZE- Verelim abi.
+0778 [00:55:06] -VE- Evet ya, müsaadenizle, ben de bir gideyim geleyim.
 --- [5s boşluk] ---
-0779 [00:55:14] Nasıl gidiyor?
-0780 [00:55:18] Muhteşem!
-0781 [00:55:20] - Ver bakayım şu kapuçinoyu ya. - Dur, sipsiyi takayım da bir dakika.
-0782 [00:55:24] - Hasst... - Ne oldu?
-0783 [00:55:26] Düştü. Şimdi işin yoksa on dakika ara.
+0779 [00:55:14] -ZE- Psst. Nasıl gidiyor?
+0780 [00:55:18] -RA- Muhteşeem!
+0781 [00:55:20] Ver bakayım şu kapuçinoyu ya. -ZE- Dur, sipsiyi takayım da bir dakika.
+0782 [00:55:24] -ZE- Hassi... -RA- Ne oldu?
+0783 [00:55:26] -ZE- Düştü. Şimdi işin yoksa on dakika ara.
 --- [25s boşluk] ---
-0784 [00:55:54] - Yakari! - Yakari mi?
-0785 [00:55:57] Hamle ba Yakari! Haride Yakari! Tannare Yakari!
+===
+0784 [00:55:54] -Az- Yakari! -BA- Yakari mi?
+0785 [00:55:57] -AZ- Hamle ba Yakari! Haride Yakari! Tannare Yakari!
 0786 [00:56:02] Hanyere had Yakari! Kam le Yakari! Koppe Yakari.
-0787 [00:56:08] Aziz Efendi, sezgilerimi kullanacağım. Selam sana Demirayak!
+0787 [00:56:08] -LE- Aziz Efendi, sezgilerimi kullanacağım. Selam sana Demirayak!
 --- [4s boşluk] ---
-0788 [00:56:16] - Merhaba Kartalgözü! - Dalga mı geçiyorsun lan!
-0789 [00:56:20] - Efendim Cherokee'lerden İstenmeyentüy. - Cherokee mi?
-0790 [00:56:25] Grand Cherokee. Arkadaşım Pajero ve Pontiac.
+0788 [00:56:16] -AZ- Merhaba Kartalgözü! -BA- Dalga mı geçiyorsun lan!
+0789 [00:56:20] -AZ- Efendim Cherokee'lerden İstenmeyentüy. -BA- Cherokee mi?
+0790 [00:56:25] -AZ- Grand Cherokee. Arkadaşım Pajero ve Pontiac.
 0791 [00:56:28] Şefe selam getirdik.
 --- [30s boşluk] ---
-0792 [00:57:00] Üstünü koy. At hadi at! At!
-0793 [00:57:02] Merhabalar şef.
+0792 [00:57:00] -KK- Üstünü koy. At hadi at! At!
+0793 [00:57:02] -LE- Merhabalar şef. -D3- Ozkanurguro. Ozkanuguro!
 --- [12s boşluk] ---
-0794 [00:57:16] Buyrun şöyle oturalım.
+0794 [00:57:16] -KK- Buyrun şöyle oturalım.
 --- [11s boşluk] ---
 0795 [00:57:29] Hoş geldiniz. Ben Kızılkayalar. Bu da oğlum Bambi.
-0796 [00:57:33] Sağol şef, tokuz.
-0797 [00:57:35] Bu Kısırkayalar, Ağlayankayalar, Pembekayalar, Kayalar.
-0798 [00:57:41] Kayalara geldik.
+0796 [00:57:33] -AZ- Sağol şef, tokuz.
+0797 [00:57:35] -KK- Bu Kısırkayalar, Ağlayankayalar, Pembekayalar, Kayalar.
+0798 [00:57:41] -SU- Kayalara geldik. -AZ- Evet.
 --- [3s boşluk] ---
-0799 [00:57:46] Efendim, sebebi ziyaretimiz hayırlı bir iş.
+0799 [00:57:46] -LE- Efendim, sebebi ziyaretimiz hayırlı bir iş.
 0800 [00:57:50] Oğlumuz İstenmeyentüy'le, kızımız Pajero'nun evlilik akdi için...
 0801 [00:57:55] ...kabilenin büyücüsünden bir hayır duası almaya geldik.
-0802 [00:57:58] İstenmeyentüy kız ismidir yalnız.
-0803 [00:58:01] - Efendim, annem hep kız istemiş... - Olmamış mı?
-0804 [00:58:05] E olmuş mu?
-0805 [00:58:07] Olmamış.
+0802 [00:57:58] -KK- İstenmeyentüy kız ismidir yalnız.
+0803 [00:58:01] -AZ- Efendim, annem hep kız istemiş... -KK- Olmamış mı?
+0804 [00:58:05] -LE- E olmuş mu?
+0805 [00:58:07] -KK- Olmamış.
 0806 [00:58:10] Cherokee'ler bizim kardeşimizdir.
 0807 [00:58:12] Onların birleşip çoğalması bizim mutluluğumuzdur.
 0808 [00:58:16] Ağlayankaya, tütsüyü yak!
 0809 [00:58:18] Billurları getirin!
-0810 [00:58:21] - Billur ne? - Kristal kaseler.
-0811 [00:58:24] Geç bakalım damat şöyle ortaya.
+0810 [00:58:21] -SU- Billur ne? -AZ- Kristal kaseler.
+0811 [00:58:24] -KK- Geç bakalım damat şöyle ortaya.
 --- [7s boşluk] ---
 0812 [00:58:34] Bu buffalo taşakları, ailenize bereket getirecektir.
 0813 [00:58:39] Epiesa!
 --- [17s boşluk] ---
-0814 [00:58:58] Şeda! Üfle!
+0814 [00:58:58] Şedaa! Üfle! -AZ- Üfff..
 --- [4s boşluk] ---
-0815 [00:59:05] Oh, yarasın.
+0815 [00:59:05] -KK- Oh, yarasın.
 0816 [00:59:08] Güneş yere değdiğinde birer barış çubuğu içer, bu işi bağlarız.
 0817 [00:59:11] Şimdi geç bakalım yerine.
 0818 [00:59:15] Dağılın!
-0819 [00:59:17] Aziz Efendi.
+0819 [00:59:17] -LE- Aziz Efendi.
 0820 [00:59:18] Kasabaya gidince bir de resmi nikah yaparız. Oh, üfle.
-0821 [00:59:22] - İyi misin? - İyiyim.
+0821 [00:59:22] -SU- İyi misin? -AZ- İyiyim.
 0822 [00:59:23] Şef benle taşak geçti.
 --- [4s boşluk] ---
-0823 [00:59:30] Keşke geçen hafta gelseydiniz. Yerli malı haftası vardı.
-0824 [00:59:34] Yerli malı mı?
-0825 [00:59:36] Tekrar hoş geldiniz. Buyrun.
+===
+0823 [00:59:30] -KK- Keşke geçen hafta gelseydiniz. Yerli malı haftası vardı.
+0824 [00:59:34] -AZ- Yerli malı mı?
+0825 [00:59:36] -KK- Tekrar hoş geldiniz. Buyrun.
 --- [11s boşluk] ---
-0826 [00:59:50] Alayınızın amına koyarım lan!
-0827 [00:59:53] Konuş damat konuş. Taşaklar işe yaradı.
+0826 [00:59:50] -AZ- Anayınızın amına koyarım lan!
+0827 [00:59:53] -KK- Konuş damat konuş. Taşaklar işe yaradı.
 --- [7s boşluk] ---
-0828 [01:00:04] Bunlar hiçbir şey değil. Daha büyük şeyler olacak.
-0829 [01:00:08] Siktiriniz gidiniz efendim!
-0830 [01:00:10] - Benim, oğlum. Aziz. - Ha...
+0828 [01:00:04] -DE- Bunlar hiçbir şey değil. Daha büyük şeyler olacak.
+0829 [01:00:08] -LE- Siktiriniz gidiniz efendim!
+0830 [01:00:10] -AZ- Benim, oğlum. Aziz. -LE- Ha...
 --- [3s boşluk] ---
-0831 [01:00:17] Bana pek bir şey olmadı.
+0831 [01:00:17] -SU- Bana pek bir şey olmadı. -KK- Hahaha...
 --- [12s boşluk] ---
 0832 [01:00:31] Ben buranın yerlisi miyim kardeşim? O zaman benim buranın...
 0833 [01:00:35] ...yerlisi gibi muamele görmem gerekiyor ya!
@@ -980,81 +986,83 @@ Kullanım:
 0838 [01:00:50] Ağaçla konuşuyor, nehirle konuşuyor diyorlar.
 0839 [01:00:53] Çocuk göremiyor ki kardeşim kimle konuştuğunu!
 0840 [01:00:56] Geçen bizim oğlanlar, bu şerifin yanında bir tane var...
-0841 [01:00:59] Chuck?
-0842 [01:01:01] Onun kafasındaki keneyi alayım darken, adam rahat duramıyor tabii...
+0841 [01:00:59] -AZ- Chuck?
+0842 [01:01:01] -KK- Onun kafasındaki keneyi alayım darken, adam rahat duramıyor tabii...
 0843 [01:01:06] ...çocuklar da yanlışlıkla, şak deriyi alıyorlar.
 0844 [01:01:10] Ondan sonra kızılderililer kötü! Kollayacaksın götü! Yok öyle!
-0845 [01:01:15] Ben bir şey söyleyeceğim. Ben sizi çok sevdim efendim.
+0845 [01:01:15] -LE- Ben bir şey söyleyeceğim. Ben sizi çok sevdim efendim.
 0846 [01:01:19] Çok muhterem bir insansınız.
-0847 [01:01:20] Yani,eEfendim size yapılan zulüm... Gerek...
-0848 [01:01:24] Şef... Bir bisküvi misküvi var mı ya?
-0849 [01:01:28] Hadi artık yatma vakti.
-0850 [01:01:31] Aziz Efendi, benim ayağım yok! Aziz Efendi ayağım yok!
-0851 [01:01:35] Oğlum var bende iki tane. Nerede lazım olacak? Ayak ayak üstüne mi atacaksın?
-0852 [01:01:38] Yok. Ayağa kalkacağız ya ondan...
-0853 [01:01:40] Oğlum kalk, direkt kalk ya.
+0847 [01:01:20] -LE- Yani, efendim size yapılan zulüm... Gerek...
+0848 [01:01:24] Şef... Bir püsküvit müsküvit var mı ya?
+0849 [01:01:28] -KK- Heheheh... Hadi artık yatma vakti.
+0850 [01:01:31] -LE- Aziz Efendi, benim ayağım yok! Aziz Efendi ayağım yok!
+0851 [01:01:35] -AZ- Oğlum var bende iki tane. Nerede lazım olacak? Ayak ayak üstüne mi atacaksın?
+0852 [01:01:38] -LE- Yok. Ayağa kalkacağız ya ondan...
+0853 [01:01:40] -AZ- Oğlum kalk, direkt kalk ya.
 0854 [01:01:43] Suzan nerede oğlum? Hayt!
-0855 [01:01:46] Bana bir şey olmadı. Hiçbir şey olmadı bana.
+0855 [01:01:46] -SU- Bana bir şey olmadı. Hiçbir şey olmadı bana.
 0856 [01:01:49] Ben şurada biraz karıncalarla konuşup geleceğim. Oldu. Haydi bay bay!
-0857 [01:01:54] - Biraz çalışsınlar, çalışsınlar! <- Oldu.
+0857 [01:01:54] -AZ- Biraz çalışsınlar, çalışsınlar! -SU- Oldu.
 --- [8s boşluk] ---
-0858 [01:02:05] Destur! Totem!
+0858 [01:02:05] -LE- Destur! Totem!
 --- [3s boşluk] ---
 0859 [01:02:10] Totem bize bakıyor Aziz!
-0860 [01:02:12] Folklorik olarak sana saygım var ama, sana tapamam totem!
-0861 [01:02:19] Totem... Jötem...
+0860 [01:02:12] -AZ- Folklorik olarak sana saygım var ama, sana tapamam totem!
+0861 [01:02:19] -LE- Totem... Jötem...
 --- [5s boşluk] ---
-0862 [01:02:26] Oğlum, yaramıyorsa içme lan!
+0862 [01:02:26] -AZ- Oğlum, yaramıyorsa içme lan!
 --- [4s boşluk] ---
-0863 [01:02:32] - Ne oldu yavrum? Verdiniz mi elması?
-0864 [01:02:35] Yok. Vermedik.
+===
+0863 [01:02:32] -SL- Ne oldu yavrum? Verdiniz mi elması?
+0864 [01:02:35] -AZ- Yok. Vermedik.
 0865 [01:02:37] Al.
 0866 [01:02:39] Almıyor musun?
-0867 [01:02:41] - Yıkıl!
-0868 [01:02:44] Hey!
+0867 [01:02:41] -SL- Yıkıl!
+0868 [01:02:44] -AZ- Hey!
 0869 [01:02:45] Lemi! Lemi!
-0870 [01:02:48] - Lemi! - Hı?
-0871 [01:02:50] Kalk ulan! Lemi! Buraya niye geldiğimizi unutma!
-0872 [01:02:53] - Şşt! Lemi! Kimim ben? - Komutan Logar.
-0873 [01:02:57] Komutan Logar mı? Onun ben amına koyayım! Ne diyorsun lan!
-0874 [01:03:00] Aziz ben fenayım.
-0875 [01:03:02] Bana bak! Ben elması yoklamaya gidiyorum. Ayrılma bir yere.
-0876 [01:03:06] Olur.
+0870 [01:02:48] Lemi! -LE- Hı?
+0871 [01:02:50] -AZ- Kalk ulan! Lemi! Buraya niye geldiğimizi unutma!
+0872 [01:02:53] Şşt! Lemi! Kimim ben? -LE- Komutan Logar.
+0873 [01:02:57] -AZ- Komutan Logar mı? Onun ben amına koyayım! Ne diyorsun lan!
+0874 [01:03:00] -LE- Aziz ben fenayım.
+0875 [01:03:02] -AZ- Bana bak! Ben elması yoklamaya gidiyorum. Ayrılma bir yere.
+0876 [01:03:06] -LE- Olur.
 --- [45s boşluk] ---
-0877 [01:03:53] Kıpırdama! Kumarbaz!
-0878 [01:03:57] İstenmeyentüy!
-0879 [01:03:59] Değil. Aziz Vefa, Teşkilat-ı Mahsusa'dan. Gizli polis.
-0880 [01:04:03] - Ama söyledik artık. Çık! - At o silahı elinden!
-0881 [01:04:06] - Kızılkayalar ben. - Anladık o kadarını.
-0882 [01:04:09] Sultan'ın emaneti elması, almaya geldim.
-0883 [01:04:12] Türksün demek.
+0877 [01:03:53] -AZ- Kıpırdama! Kumarbaz!
+0878 [01:03:57] -KK- İstenmeyentüy!
+0879 [01:03:59] -AZ- Değil. Aziz Vefa, Teşkilat-ı Mahsusa'dan. Gizli polis.
+0880 [01:04:03] Ama söyledik artık. Çık! -KK- At o silahı elinden!
+0881 [01:04:06] Kızılkayalar ben. -AZ- Anladık o kadarını.
+0882 [01:04:09] Sultan'ın emaneti elması almaya geldim.
+0883 [01:04:12] -KK- Türksün demek.
 0884 [01:04:14] Türkler Kızılderili diyorlar, doğru mu?
-0885 [01:04:16] Öyle bir şey değil lan o! Kızılderililer Türktür derler.
-0886 [01:04:19] Bırak tatavayı de çıkar elması!
-0887 [01:04:21] Vay! Vay! Vay! Çıkar elması da gidelim diyorsun ha?
-0888 [01:04:24] Öyle demedim. ''Ver elması!'' dedim.
-0889 [01:04:26] - Pajero! - Değil be! Suzan Van Dyke!
+0885 [01:04:16] -AZ- Şşşt. Öyle bir şey değil lan o! Kızılderililer Türktür derler.
+0886 [01:04:19] Bırak tatavayı da çıkar elması!
+0887 [01:04:21] -SU- Vay! Vay! Vay! Çıkar elması da gidelim diyorsun ha?
+0888 [01:04:24] -AZ- Öyle demedim. ''Ver elması!'' dedim.
+0889 [01:04:26] -KK- Pajero! -SU- Değil be! Suzan Van Dyke!
 0890 [01:04:29] Herkes uyurken elması alıp ilerleyecektin değil mi?
-0891 [01:04:32] Ne alakası var Suzan! Vesvese yapma!
-0892 [01:04:34] - Kimse kıpırdamasın! - Lemi!
-0893 [01:04:36] - Pontiac! - Nam-ı diğer, Johnny Lesh!
-0894 [01:04:38] - Bir karar verin amına koyayım be! - En son Johnny Lesh!
+0891 [01:04:32] -AZ- Ne alakası var Suzan! Vesvese yapma!
+0892 [01:04:34] -LE- Kimse kıpırdamasın! -AZ- Lemi!
+0893 [01:04:36] -KK- Pontiac! -SU- Nam-ı diğer, Johnny Lesh!
+0894 [01:04:38] -KK- Bir karar verin amına koyayım be! -LE- En son Johnny Lesh!
 0895 [01:04:41] Johnny Lesh'im ben! Canını almaya geldim.
-0896 [01:04:44] Johnny Lesh! Sen ha! Mary Lou'nun katili!
-0897 [01:04:47] Mary Lou mu? Annemin adını sakın ağzına alma! Sen mi anlattın?
-0898 [01:04:50] - Hayır canım, ne alakası var? - İstenmeyentüy.
-0899 [01:04:53] İstenmeyentüy benim! Konuşurken yüzüme bak!
-0900 [01:04:55] - İstenmeyentüy, kızım. - Ne tüyü? Ne kızı? Neden bahsediyorsun sen?
-0901 [01:04:59] Bana bak çıkar elması! Vurdurtma kendini!
-0902 [01:05:01] Ulu Manitu! Johnny Lesh, her yerde seni aradım.
+0896 [01:04:44] -KK- Johnny Lesh! Sen ha! Mary Lou'nun katili!
+0897 [01:04:47] -SU- Mary Lou mu? Annemin adını sakın ağzına alma! Sen mi anlattın?
+0898 [01:04:50] -AZ- Hayır canım, ne alakası var? -KK- İstenmeyentüy.
+0899 [01:04:53] -AZ- İstenmeyentüy benim! Konuşurken yüzüme bak!
+0900 [01:04:55] -KK- İstenmeyentüy, kızım. -SU- Ne tüyü? Ne kızı? Neden bahsediyorsun sen?
+0901 [01:04:59] -AZ- Bana bak çıkar elması! Vurdurtma kendini!
+0902 [01:05:01] -KK- Ulu Manitu! Johnny Lesh, her yerde seni aradım.
 0903 [01:05:04] Can düşmanımla böyle aciz bir durumda mı karşılaşacaktım?
-0904 [01:05:07] - Kız bende. Sen şefe bak! - Lemi. Sakın Suzan'ı vurma!
+0904 [01:05:07] -LE- Kız bende. Sen şefe bak! -AZ- Lemi. Sakın Suzan'ı vurma!
 0905 [01:05:10] Suzan! Biliyorsun. Johnny Lesh değil o! Anlattık sana konuyu!
-0906 [01:05:12] Ah! Aziz sakın! Baba dur!
-0907 [01:05:18] - Bana niye sıktın lan! - O kadar karıştı ki.
-0908 [01:05:21] - Kızım. - Baba.
+0906 [01:05:12] -SU- Ha! Aziz sakın! Baba dur!
+0907 [01:05:18] -AZ- Bana niye sıktın lan! -LE- O kadar karıştı ki.
+0908 [01:05:21] -KK- Kızım! -SU- Baba!
 --- [4s boşluk] ---
-0909 [01:05:27] Gençliğimde Greenville'de tanıştım onunla. Dans ediyordu.
+===
+0909 [01:05:27] -KK- Gençliğimde Greenville'de tanıştım onunla. Dans ediyordu.
 0910 [01:05:32] Sevdik birbirimizi.
 --- [6s boşluk] ---
 0911 [01:05:40] Kaçtı geldi benimle.
@@ -1072,40 +1080,41 @@ Kullanım:
 0919 [01:06:31] Seni Ağlayan Nehir'e bıraktım.
 0920 [01:06:34] Affettin mi beni? Beni affettin mi kızım?
 --- [4s boşluk] ---
-0921 [01:06:41] Johnny Lesh belasını buldu şef! Gömdük onu.
+0921 [01:06:41] -AZ- Johnny Lesh belasını buldu şef! Gömdük onu.
 0922 [01:06:44] Yalnız, Sultan'ın emaneti sendeymiş.
 0923 [01:06:47] Onu bize vermek zorundasın. Bu Kızılderili - Beyaz savaşı değil şef!
 0924 [01:06:52] Bizim size bir düşmanlığımız yok. Hele ki Suzan'ın babasıysan.
-0925 [01:06:56] Sağ olasın damat.
+0925 [01:06:56] -KK- Sağ olasın damat.
 0926 [01:06:59] Ama benim bir zaafım var.
 0927 [01:07:01] Sevdiklerim gittikten sonra, kendimi kumara verdim.
 0928 [01:07:06] Ne toprak kaldı, ne çit çubuk.
 0929 [01:07:08] Her akşam Cannonball'da verdiğimi almak için daha da bittim.
-0930 [01:07:13] - Sizin elmas... - Evet!
-0931 [01:07:15] - Az evvel kumarda gitti. - Tüh!
-0932 [01:07:18] - Ah! Nereye gitti? - Lloyd.
+0930 [01:07:13] Sizin elmas... -AZ- Evet!
+0931 [01:07:15] -KK- Az evvel kumarda gitti. -LE- Püüh!
+0932 [01:07:18] -AZ- Ah! Nereye gitti? -KK- Lloyd.
 0933 [01:07:21] Elmas şerif Lloyd'da.
 --- [4s boşluk] ---
-0934 [01:07:28] Aşkta kaybeden, kumarda kazanır!
+0934 [01:07:28] -LO- Hehehehe... Aşkta kaybeden, gumarda kazanır! Heheheh...
 --- [3s boşluk] ---
-0935 [01:07:35] Geri zekalı! Takma sakalına sıçayım senin! Sanki ben anlamadım.
-0936 [01:07:43] Chuck! Hemen şunu sağlam bir yere saklayalım oğlum.
+0935 [01:07:35] Geri zekalı! Takma sakalına sıçayım senin! Sanki ben an'amadım.
+0936 [01:07:43] Chuck! Hemen şunu sağlam bir yere saklayalım oğlum. Heheheh...
 --- [12s boşluk] ---
-0937 [01:07:59] Aziz!
-0938 [01:08:02] - Nereye gidiyorsunuz? - Cannonball'a dönüyoruz Suzan.
-0939 [01:08:07] - Ben de geliyorum. - Sen babanla hasret gider.
+===
+0937 [01:07:59] -SU- Aziz!
+0938 [01:08:02] Nereye gidiyorsunuz? -AZ- Cannonball'a dönüyoruz Suzan.
+0939 [01:08:07] -SU- Ben de geliyorum. -AZ- Sen babanla hasret gider.
 0940 [01:08:10] Biz işimizi halledip, bir eyvallah demeye geliriz.
-0941 [01:08:12] Durun çocuklar! Elması ben verdim. Ben alacağım!
-0942 [01:08:16] Nasıl alacaksın şef? Kasabada senin kelleni istiyorlar.
-0943 [01:08:19] Alsınlar da görelim bakalım!
-0944 [01:08:24] Aferin. Aferin size aslanlarım. Aferin, güzel olmuş.
+0941 [01:08:12] -KK- Durun çocuklar! Elması ben verdim. Ben alacağım!
+0942 [01:08:16] -LE- Nasıl alacaksın şef? Kasabada senin kelleni istiyorlar.
+0943 [01:08:19] -SU- Alsınlar da görelim bakalım!
+0944 [01:08:24] -LO- Aferin. Aferin size aslanlarım. Aferin, güzel olmuş.
 0945 [01:08:28] Chuck! Şunun boyasını tamamla gel oğlum. Buna da. İkisine de.
-0946 [01:08:31] Tak bakayım onu kafaya! Tak!
+0946 [01:08:31] Tak bakayım onu kafaya! Tak! Heheheh...
 0947 [01:08:36] Güzel oldu.
 0948 [01:08:39] Aferin.
 0949 [01:08:40] İyi dinleyin oğlum beni: ...
 0950 [01:08:43] ''Ulelek! Ulelek!'' diye ortalığı karıştırın.
-0951 [01:08:46] Kasabalı ''Kızılderiliden yıldık!'' desin. ''Yıldık!''
+0951 [01:08:46] Gasabalı 'Gızılderiliden yıldık!'' desin. ''Yıldık!''
 0952 [01:08:50] Tamam mı?
 --- [8s boşluk] ---
 0953 [01:08:59] Anladınız mı?
@@ -1113,519 +1122,530 @@ Kullanım:
 0954 [01:09:05] Bir dakika lan! Şefi getiriyor.
 0955 [01:09:08] Eee? Herifin kellesi omzunda duruyor.
 0956 [01:09:12] Kaybol, kaç! Kaçın lan! Geri zekalılar!
-0957 [01:09:17] Chuck! Şimdi çakacağım ha! Git bir kola getir lan!
+0957 [01:09:17] Chuck! Şimdi çakacağım ha! Get bir kola getir lan!
 --- [23s boşluk] ---
-0958 [01:09:44] Sioux şefi Kızılkayalar! Yakından görmek isteyen varsa gelsin!
-0959 [01:09:47] Suzan, biz geliyoruz şimdi.
-0960 [01:09:50] Aaa!
-0961 [01:09:51] Ben sizi tanıdım! Siz beyaz bir kızla evlenmiştiniz de, kadını vurmuşlardı.
-0962 [01:09:56] Küçük kızı da kaybolmuştu. Hatırladım. Greenville'dendi değil mi?
+===
+0958 [01:09:44] -SU- Sioux şefi Kızılkayalar! Yakından görmek isteyen varsa gelsin!
+0959 [01:09:47] -AZ- Suzan, biz geliyoruz şimdi.
+0960 [01:09:50] -BE- Aaa!
+0961 [01:09:51] Ben sizi tanıdım! Siz beyaz bir gızlan evlenmiştiniz de, gadını vurmuşlardı.
+0962 [01:09:56] Küçük gızı da kaybolmuştu. Hatırladım. Greenville'dendi deeel mi?
 0963 [01:10:01] Baker! Gel fotoğrafımızı çek! Gel! Çekilebilir miyiz?
-0964 [01:10:06] Çekiyorum.
-0965 [01:10:08] Beni de çek! Beni de!
+0964 [01:10:06] -BK- Çekiyorum.
+0965 [01:10:08] -EU- Beni de çek! Beni de!
 0966 [01:10:10] Buradan da çek! Şefle de çek beni! Buradan da çek! Böyle de çek!
 0967 [01:10:13] Şimdi bir de yana çek! Tamam yeter, çekme! İyi ki bir çek dedik!
-0968 [01:10:18] Başka fotoğraf çektirmek isteyen var mı?
+0968 [01:10:18] -SU- Başka fotoğraf çektirmek isteyen var mı?
 --- [4s boşluk] ---
 0969 [01:10:24] Evet! Sıraya!
 0970 [01:10:26] Sıraya! Buraya! Buyrun!
 --- [8s boşluk] ---
-0971 [01:10:37] Ya sen ne yapıyorsun?
+0971 [01:10:37] -LO- Ya sen nabıyon?
 0972 [01:10:39] Bu yaptığın sana hiç yakışıyor mu Lesh?
 0973 [01:10:41] Size herifin kellesini getirin dedik, meşhur ettiniz adamı!
-0974 [01:10:45] Şu hale bak! Kaç poz resim çektirdi!
+0974 [01:10:45] Şu hale bak! Gaç poz resim çektirdi!
 0975 [01:10:48] Bırak lan kolayı şimdi!
-0976 [01:10:49] Elmas şefte dedin, sendeymiş!
-0977 [01:10:52] Ben bir kere size ''Elmas şefte'' falan demedim!
+0976 [01:10:49] -AZ- Elmas şefte dedin, sendeymiş!
+0977 [01:10:52] -LO- Ben bir kere size ''Elmas şefte'' falan demedim!
 0978 [01:10:54] İşinizi hallettiniz de mi elması soruyorsunuz?
-0979 [01:10:57] Hem sen ne karışıyorsun? Benim işim Johnny Lesh'le!
-0980 [01:11:00] Johnny Lesh falan yok ulan! Osmanlıyız biz. Ben Lemi Galip. Bu kardeşim de Aziz Vefa.
-0981 [01:11:05] Osmanlı ha!
+0979 [01:10:57] Hem sen ne garışıyon? Benim işim Johnny Lesh'le!
+0980 [01:11:00] -LE- Johnny Lesh falan yok ulan! Osmanlıyız biz. Ben Lemi Galip. Bu kardeşim de Aziz Vefa.
+0981 [01:11:05] -LO- Osmanlı ha!
 0982 [01:11:07] Aksanınızdan anlamalıydım, ''Gala gulu gala gulu gala gulu...''
-0983 [01:11:10] Çıkar ulan elması! Ağzına yüzüne mermi doldururum şimdi ha!
-0984 [01:11:14] Bu yıldız benim göğsüme gökten düşmedi anladın mı?
+0983 [01:11:10] -AZ- Çıkar ulan elması! Ağzına yüzüne mermi doldururum şimdi ha!
+0984 [01:11:14] -LO- Bu yıldız benim goğsüme gokten düşmedi an'adın mı?
 0985 [01:11:18] Burada kanun benim!
-0986 [01:11:19] Kafama da sıkacakmış da, elması alıp gidecekmiş...
+0986 [01:11:19] Gafama da sıkacamış da, elması alıp gidecemiş...
 0987 [01:11:22] Hadi! Sıkıysa sık!
-0988 [01:11:24] Elmasın yerini söyle! Adamın ölür!
-0989 [01:11:26] Ölsün, ölsün. Kasabalı kurtulur.
-0990 [01:11:28] Kovboyluk oynamaya gelmiş çılgın Türkler. Yer miyim lan ben?
+0988 [01:11:24] -LE- Elmasın yerini söyle! Adamın ölür!
+0989 [01:11:26] -LO- Ölsün, ölsün. Kasabalı kurtulur.
+0990 [01:11:28] Govboyluk oynamaya gelmiş çılgın Türkler. Yer miyim lan ben?
 0991 [01:11:32] Elması öyle bir saklarım ki, senin yedi sülalen gelse bulamaz!
-0992 [01:11:36] - Hadi sık! - Çıkar ulan!
-0993 [01:11:38] - Hadi. - Çıkar ulan!
-0994 [01:11:40] - Hadi... >- Aziz sakin!
-0995 [01:11:42] - Hadi... >- Aziz tamam!
+0992 [01:11:36] Hadi sık! -AZ- Çıkar ulan!
+0993 [01:11:38] -LO- Hadi. -AZ- Çıkar ulan!
+0994 [01:11:40] -LO- Hadi... -LE- Aziz sakin!
+0995 [01:11:42] -LO- Hadi... -LE- Aziz!
 --- [11s boşluk] ---
-0996 [01:11:55] Aziz'le Lemi...
-0997 [01:11:58] Adlarına birer ''wanted'' çıkarayım da görsün ibneler.
-0998 [01:12:02] Kendimiz yakalayalım şerif! Buradalar!
-0999 [01:12:05] Chuck...
-1000 [01:12:07] İndir ulan elini!
-1001 [01:12:09] Fırla çabuk git bana bir kola getir.
-1002 [01:12:12] Şöyle bir gırtlatsın bakalım.
+0996 [01:11:55] Aziz'len Lemi...
+0997 [01:11:58] Adlarına birer ''wanted'' çıkarayım da görsün itneler.
+0998 [01:12:02] -CC- Kendimiz yakalayalım şerif! Buradalar!
+0999 [01:12:05] -LO- Chuck...
+1000 [01:12:07] Endir ulan elini!
+1001 [01:12:09] Fırla çabuk git ba'a bir kola getir.
+1002 [01:12:12] Şööyle bir gırtlatsın bağalım.
 --- [3s boşluk] ---
-1003 [01:12:18] Çek!
+1003 [01:12:18] Deet!
 --- [3s boşluk] ---
-1004 [01:12:23] Tamamdır sağ ol.
+===
+1004 [01:12:23] -SU- Tamamdır sağ ol.
 1005 [01:12:26] Büyük şefi kasabada ne çok seven varmış.
 1006 [01:12:29] Ne oldu? Ne diyor şerif?
-1007 [01:12:31] Konuşuruz otelde. Söylemiyor nerede olduğunu.
-1008 [01:12:34] Çocuklar, akşama poker var. Bana bir şans verin.
-1009 [01:12:37] Elması ondan alacağım. Hıh!
+1007 [01:12:31] -AZ- Konuşuruz otelde. Söylemiyor nerede olduğunu.
+1008 [01:12:34] -KK- Çocuklar, akşama poker var. Bana bir şans verin.
+1009 [01:12:37] Elması ondan alacağım. Hah!
 --- [8s boşluk] ---
-1010 [01:12:48] Kapıda tüylüler giremez yazıyor. Görmedin galiba.
-1011 [01:12:52] Donuna kadar almaya geldim Lloyd! Para peşin.
+1010 [01:12:48] -LO- Gapıda tüylüler giremez yazıyor. Gormedin galiba.
+1011 [01:12:52] -KK- Donuna kadar almaya geldim Lloyd! Para peşin.
 --- [4s boşluk] ---
-1012 [01:13:00] Kağıt tutmasını biliyorsan, otur bakalım karşıma.
+1012 [01:13:00] -LO- Kağıt dutmasını biliyosan, otur baalım garşıma.
 1013 [01:13:04] Kaybolun!
 --- [9s boşluk] ---
-1014 [01:13:14] Yancılara da benden birer tane meyveli gazoz verin!
+1014 [01:13:14] Yancılara da benden birer tene meyveli gazoz verin!
 --- [5s boşluk] ---
 1015 [01:13:22] Kes bakalım!
 --- [9s boşluk] ---
-1016 [01:13:32] - Yüz potla açık. - Gördük.
-1017 [01:13:36] Doll.
+1016 [01:13:32] -KK- Yüz potla açık. -LO- Gordük.
+1017 [01:13:36] -KK- Doll.
 --- [6s boşluk] ---
-1018 [01:13:43] Üç kart da bana.
+1018 [01:13:43] -LO- Üç kart da bana.
 --- [3s boşluk] ---
-1019 [01:13:48] İki yüz elli pot daha.
-1020 [01:13:51] Beş yüz.
+1019 [01:13:48] -KK- İki yüz elli pot daha.
+1020 [01:13:51] -LO- Beş yüz.
 --- [5s boşluk] ---
-1021 [01:13:58] Dam döper!
-1022 [01:14:01] İyisin...
-1023 [01:14:04] Poker talimini totemle mi yaptın?
-1024 [01:14:07] - Manitu senden yana. - Bana bir kahve daha!
-1025 [01:14:10] Yancıların hesabını ayrı yazın! Yetti gari! Kaçıncı kahve oldu bu?
+1021 [01:13:58] -KK- Dam döper! -AZ- Hahahaha....
+1022 [01:14:01] -LO- İyisin...
+1023 [01:14:04] Poker talimini toteminen mi yaptın?
+1024 [01:14:07] Manitu senden yana. -AZ- Bana bir kahve daha!
+1025 [01:14:10] -LO- Yancıların hesabını ayrı yazın! Yetti gari, gaçıncı gahve oldu bu? -AZ- Hahaha....
 --- [10s boşluk] ---
-1026 [01:14:24] Full kız.
+1026 [01:14:24] -KK- Full kız.
 --- [18s boşluk] ---
 1027 [01:14:44] Full dokuz.
-1028 [01:14:47] - Biraz çıkıyoruz. - Ben buradayım.
-1029 [01:14:50] İyisin şef. İyisin.
-1030 [01:14:53] Çok iyi gidiyor be.
+1028 [01:14:47] -LE- Ben buradayım.
+1029 [01:14:50] -AZ- İyisin şef. İyisin.
+1030 [01:14:53] -SU- Çok iyi gidiyor be.
 --- [22s boşluk] ---
-1031 [01:15:17] - Çok iyi gidiyoruz Aziz. - Vallahi mi?
-1032 [01:15:19] - Maşallah! Topluyor, topluyor! - Oh!
-1033 [01:15:22] Elması istiyorum Lloyd!
+1031 [01:15:17] -LE- Çok iyi gidiyoruz Aziz. -AZ- Valla mı?
+1032 [01:15:19] -LE- Maşallah! Topluyor, topluyor! -AZ- Oh!
+1033 [01:15:22] -KK- Elması istiyorum Lloyd!
 1034 [01:15:27] Bekle!
 --- [4s boşluk] ---
-1035 [01:15:33] - Aziz! Bir onluk atsana! - Hayırdır?
-1036 [01:15:35] Sıkıntı yok. Beti arttırıyorum.
-1037 [01:15:39] Aman şef!
+1035 [01:15:33] Aziz! Bir onluk atsana! -AZ- Hayırdır?
+1036 [01:15:35] -KK- Sıkıntı yok. Beti arttırıyorum.
+1037 [01:15:39] -AZ- Aman şef!
 --- [8s boşluk] ---
-1038 [01:15:48] - Ha! - Aa!
-1039 [01:15:50] - Ne oldu? - Baba?
-1040 [01:15:51] - Şef? - Sıkıntı yok!
-1041 [01:15:52] - Şef, sana ne oldu? - Baba!
+1038 [01:15:48] -AZ- Ha! -SU- Aa!
+1039 [01:15:50] -KK- Ne oldu? -SU- Baba?
+1040 [01:15:51] -LE- Şef? -KK- Sıkıntı yok!
+1041 [01:15:52] -LE- Şef, sana ne oldu? -SU- Baba!
 --- [10s boşluk] ---
-1042 [01:16:04] ''Ve İzadora, tatlı meltemin yaladığı...
+===
+1042 [01:16:04] -SU- ''Ve İzadora, tatlı meltemin yaladığı...
 1043 [01:16:08] ...pembeleşmiş yanaklarını saklamaya çalışırken...
 1044 [01:16:10] ...Jack onu belinden yakalayıp, kendine çekti.
 1045 [01:16:13] Vücutları birleştiğinde, dudakları da bu birleşmeye boyun eğdi.
-1046 [01:16:17] Ve Jack artık yalnızca bir kovboy değil, erkekti de. ''
+1046 [01:16:17] Ve Jack artık yalnızca bir kovboy değil, erkekti de.''
 1047 [01:16:21] Aman Tanrım! Yok öyle bir kovboy!
-1048 [01:16:25] - Destur! Erkek var! - Vay. Aziz!
-1049 [01:16:31] - Roman mı okuyorsun Suzan? - Ha? Silahımı temizliyorum!
-1050 [01:16:35] Bir silah ne kadar temiz olabilir ki?
-1051 [01:16:39] Sen de tam kovboy oldun ha! Banjo falan...
-1052 [01:16:44] Yok yahu. Can sıkıntısından, öyle takılıyordum da.
+1048 [01:16:25] -AZ- Destur! Erkek var! -SU- Vay. Aziz!
+1049 [01:16:31] -AZ- Roman mı okuyorsun Suzan? -SU- Ha? Silahımı temizliyorum!
+1050 [01:16:35] -AZ- Bir silah ne kadar temiz olabilir ki?
+1051 [01:16:39] -SU- Sen de tam kovboy oldun ha! Banjo falan...
+1052 [01:16:44] -AZ- Yok yahu. Can sıkıntısından, öyle takılıyordum da.
 1053 [01:16:47] Ama bizim havalar pek çıkmıyor. Sistem tamamen farklı olduğu için.
-1054 [01:16:51] - Bizim notalar biraz arızalıdır da. - Arıza mı? Hmm...
-1055 [01:16:55] - Benim gibi yani. - Estağfurullah.
-1056 [01:16:58] Müzik sistemi farklıdır. Sizde do - re - mi diye gider; bizde komalar vardır.
-1057 [01:17:03] Haa... Mi'ye dikkat et derler sizde, komadan mı o?
-1058 [01:17:05] O yüzden. Şöyle mesela, Do... Re...
+1054 [01:16:51] Bizim notalar biraz arızalıdır da. -SU- Arıza mı? Hmm...
+1055 [01:16:55] Benim gibi yani. -AZ- Estağfurullah.
+1056 [01:16:58] Müzik sistemi farklıdır. Sizde do re mi diye gider; bizde komalar vardır.
+1057 [01:17:03] -SU- Haa... Mi'ye dikkat et derler sizde, komadan mı o?
+1058 [01:17:05] -AZ- O yüzden. Şöyle mesela, Do... Re...
 1059 [01:17:08] Doo... Ree... Miii... Miii... Faa... Mii...
-1060 [01:17:15] - ''Mi'' bu? Hepsi ''mi'' mi bunun? - Komple ''mi''dir. Komadan dolayı.
-1061 [01:17:19] Haa, güzelmiş. E, çalsana bir şeyler?
-1062 [01:17:23] - Çalayım mı? - Çal.
-1063 [01:17:24] Haydi bakalım.
-1064 [01:17:26] # Down to the railroad. # Ain't mama let me go again.
+1060 [01:17:15] -SU- ''Mi'' bu? Hepsi ''mi'' mi bunun? -AZ- Komple ''mi''dir. Komadan dolayı.
+1061 [01:17:19] -SU- Haa, güzelmiş. E, çalsana bir şeyler?
+1062 [01:17:23] -AZ- Çalayım mı? -SU- Çal.
+1063 [01:17:24] -AZ- Haydi bakalım.
+1064 [01:17:26] -AZ- # Down to the railroad. # Ain't mama let me go again.
 1065 [01:17:30] # Down to the...
 --- [3s boşluk] ---
-1066 [01:17:34] Ah. Bizim tarz bir şeyler.
+1066 [01:17:34] Ah... Bizim tarz bir şeyler.
 1067 [01:17:38] # Kimseye etmem şikayet.
 1068 [01:17:48] # Ağlarım ben halime.
 1069 [01:17:56] # Titrerim mücrim gibi
 1070 [01:18:06] # Baktıkça istikbalime.
-1071 [01:18:15] Vay! Ne tuhaf sözleri var ha.
-1072 [01:18:18] Yahu İngilizceye çevrilince biraz manasını yitiriyor tabii.
-1073 [01:18:22] Sanki beni anlatıyor ama. Ağlarım ben halime...
-1074 [01:18:26] - Sen niye ağlayasın be Suzan? - Daha ne olsun be Aziz?
+1071 [01:18:15] -SU- Vay! Ne tuhaf sözleri var ha.
+1072 [01:18:18] -AZ- Yahu İngilizceye çevrilince biraz manasını yitiriyor tabii.
+1073 [01:18:22] -SU- Sanki beni anlatıyor ama. Ağlarım ben halime...
+1074 [01:18:26] -AZ- Sen niye ağlayasın be Suzan? -SU- Daha ne olsun be Aziz?
 1075 [01:18:30] 22 yaşındayım, annemin kankan kızı...
 1076 [01:18:34] ...babamın Kızılderili olduğunu, daha yeni öğreniyorum.
-1077 [01:18:37] Benim babam da hamaldı. Bütün yükü annem çekerdi.
-1078 [01:18:41] Eee?
-1079 [01:18:42] Yani etraftan alay ederlerdi falan.
+1077 [01:18:37] -AZ- Benim babam da hamaldı. Bütün yükü annem çekerdi.
+1078 [01:18:41] -SU- Eee?
+1079 [01:18:42] -AZ- Yani etraftan alay ederlerdi falan.
 1080 [01:18:45] Babadır neticede, bağrına basacaksın.
-1081 [01:18:48] - Birazcık kumarı var. - Kızılderili diyorum!
-1082 [01:18:51] Yahu, öyle kızılı beyazı yoktur böyle şeyler.
+1081 [01:18:48] Birazcık kumarı var. -SU- Kızılderili diyorum!
+1082 [01:18:51] -AZ- Yahu, öyle kızılı beyazı yoktur böyle şeyler.
 1083 [01:18:54] Er geç herkes anlayacak, bütün dünyanın kardeş olduğunu.
-1084 [01:18:58] - Yapma. Bütün dünya mı kardeş? - İkimiz hariç. Al.
+1084 [01:18:58] -SU- Yapma. Bütün dünya mı kardeş? -AZ- İkimiz hariç. Al.
 --- [3s boşluk] ---
 1085 [01:19:05] Münferit olaylar var tabii. Herkes birbirini yiyor ama...
-1086 [01:19:09] ...yani bir dünya savaşı yok, en nihayetinde.
-1087 [01:19:12] Var mı cihan harbi şimdiye kadar?
+1086 [01:19:09] ...yani bir dünya savaşı yok, ennihayetinde.
+1087 [01:19:12] Var mı bir cihan harbi şimdiye kadar?
 1088 [01:19:14] Ondokuzuncu yüzyıldayız, bir dünya savaşı var mı?
-1089 [01:19:16] Dünya savaşı olmadı. Ama hiç olmayacağı anlamına da gelmez yani.
-1090 [01:19:20] Yahu, bir olur, iki olur Suzan.
-1091 [01:19:23] Tut bunu da.
+1089 [01:19:16] -SU- Dünya savaşı olmadı. Ama hiç olmayacağı anlamına da gelmez yani.
+1090 [01:19:20] -AZ- Yahu, bir olur, iki olur Suzan.
+1091 [01:19:23] -SU- Aman..
 1092 [01:19:26] Yalnızca notalar değil, sen de komadasın galiba.
-1093 [01:19:29] Komadayım elbet.
+1093 [01:19:29] -AZ- Komadayım elbet.
 1094 [01:19:33] Sana hastayım!
-1095 [01:19:35] Hasta mısın bana?
+1095 [01:19:35] -SU- Hasta mısın bana?
 1096 [01:19:37] Biz, birbirimize pek uygun gibi değiliz sanki, ha?
 1097 [01:19:43] Yani. Ayrı dünyalar gibi.
 1098 [01:19:45] Bir kere. Bir kere ben tütün çiğniyorum, sizde tütün yasak!
-1099 [01:19:49] Yuh! 4. Murat! Onyedinci yüzyıl!
+1099 [01:19:49] -AZ- Yuh! 4. Murat! Onyedinci yüzyıl!
 1100 [01:19:53] Bırakın bu önyargıları ya!
 1101 [01:19:55] Yok deveye biniyorsunuz! Yok şu yasak, bu yasak! Yok böyle şeyler!
-1102 [01:19:58] E dört kadın meselesi var sizde? Ne yapacaksın?
+1102 [01:19:58] -SU- E dört kadın meselesi var sizde? Ne yapacaksın?
 1103 [01:20:02] Üç tane daha alıp beni eve mi kapatacaksın?
-1104 [01:20:04] Hep de bunu anlatırlar. Dört kadınmış.
+1104 [01:20:04] -AZ- Hep de bunu anlatırlar. Dört kadınmış.
 1105 [01:20:06] Bizde Yedi Kocalı Hürmüz diye bir karakter var.
 1106 [01:20:09] Kimse ondan bahsetmiyor!
-1107 [01:20:10] Sen bir kere doğulusun!
-1108 [01:20:13] İşte bu yüzden bana göresin ya!
-1109 [01:20:16] At - avrat - silah! Hepsi sende!
-1110 [01:20:19] Yok. Yok, ben biliyorum bu hikayeyi.
+1107 [01:20:10] -SU- Sen bir kere doğulusun!
+1108 [01:20:13] -AZ- İşte bu yüzden bana göresin ya!
+1109 [01:20:16] At, avrat, silah! Hepsi sende!
+1110 [01:20:19] -SU- Yok. Yok, ben biliyorum bu hikayeyi. Biliyorum.
 1111 [01:20:22] Sen şimdi beni alıp götüreceksin, ne olacak?
 1112 [01:20:26] Büyükler beni istemeyecek, bir sürü tantana.
 1113 [01:20:30] Bir kere Ağlayan Nehir'e bırakıldım ben.
 1114 [01:20:32] Sen ne yapacaksın? Haliç'e mi bırakacaksın?
-1115 [01:20:35] Seni Haliç'e bırakacak adamı, Haliç'e gömerim Suzan!
+1115 [01:20:35] -AZ- Seni Haliç'e bırakacak adamı, Haliç'e gömerim Suzan!
 1116 [01:20:39] Yüz sene sona Japonlar çıkaramaz onu!
-1117 [01:20:42] Bırak bu doğu- batı savaşını! Doğunun iyi yanları da var.
-1118 [01:20:46] - Ne gibi? - Benim gibi.
-1119 [01:20:47] - Bıyıkların çok enteresan. - Senin de yavrum.
+1117 [01:20:42] Bırak bu doğu-batı savaşını! Doğunun iyi yanları da var.
+1118 [01:20:46] -SU- Ne gibi? -AZ- Benim gibi.
+1119 [01:20:47] -SU- Bıyıkların çok enteresan. -AZ- Senin de yavrum.
 --- [14s boşluk] ---
-1120 [01:21:04] Yine sabahı ettik. Haydi bakalım.
-1121 [01:21:07] Yıllarımızı verdik, beni tokatlayacakmış. Geri zekalı.
+===
+1120 [01:21:04] -LO- Yine sabahı ettik. Haydi bakalım. Hahaha...
+1121 [01:21:07] Yıllarımızı verdik, beni tokatlayaca'mış. Geri zekalı.
 1122 [01:21:12] Şunu fakire fukaraya verin.
-1123 [01:21:15] Şunun tüyerini de karılara verin, yastık yorgan doldursunlar.
+1123 [01:21:15] Şunun tüyerini de garılara verin, yastık yorgan doldursunlar. Hehehe....
 --- [6s boşluk] ---
-1124 [01:21:24] Elmasın onda olduğunu bilip de ulaşamamak...
+1124 [01:21:24] -AZ- Elmasın onda olduğunu bilip de ulaşamamak...
 1125 [01:21:27] ...deli ediyor beni.
-1126 [01:21:29] Bonjour.
+1126 [01:21:29] -LE- Bonjour.
 1127 [01:21:31] Günaydın Aziz.
-1128 [01:21:34] Kellesini uçuracağım ama, sonra ne bok yiyeceğiz?
-1129 [01:21:37] Maşallah. Şef de dün akşam pokerde paraları berhava etti efendim.
-1130 [01:21:41] Kabileye gittim. Üstüme başıma bir şeyler aldım.
+1128 [01:21:34] -AZ- Kellesini uçuracağım ama, sonra ne bok yiyeceğiz?
+1129 [01:21:37] LE- Maşallah. Şef de dün akşam pokerde paraları berhava etti efendim.
+1130 [01:21:41] -KK- Kabileye gittim. Üstüme başıma bir şeyler aldım.
 1131 [01:21:45] Bunlar da sizinmiş galiba, bizim oğlanlar getirdi.
 1132 [01:21:48] Kusura bakmayın.
 --- [7s boşluk] ---
 1133 [01:21:57] Ne oldu ya? Yüzünüzden düşen bin parça.
 1134 [01:22:01] Ha? Ne oldu?
-1135 [01:22:04] Ben şerifin ağzından laf alabilirim belki?
-1136 [01:22:06] - Kadınlığımı kullanarak. - Hayır! Kullandırtmam!
-1137 [01:22:10] - Hangi kadınlığı Suzan? - Ne varmış efendim kadınlığında?
-1138 [01:22:15] Kasabada herkes çalışacak. En ufak ipucunu bile değerlendirmemiz lazım.
+1135 [01:22:04] -SU- Ben şerifin ağzından laf alabilirim belki?
+1136 [01:22:06] Kadınlığımı kullanarak. -AZ- Hayır! Kullandırtmam!
+1137 [01:22:10] -LE- Hangi kadınlığı Suzan? -AZ- Ne varmış efendim kadınlığında?
+1138 [01:22:15] -AZ- Kasabada herkes çalışacak. En ufak ipucunu bile değerlendirmemiz lazım.
 1139 [01:22:19] Öğrenelim bakalım elması nereye saklamış.
-1140 [01:22:21] - Kızılderili sezgilerim diyor ki... - Aman Şef!
+1140 [01:22:21] -KK- Kızılderili sezgilerim diyor ki... -LE- Aman Şef!
 1141 [01:22:24] Gördük dün akşam sezgilerini.
-1142 [01:22:26] - Haklısın damat. - Damat mı?
-1143 [01:22:31] Sezgiler...
+1142 [01:22:26] -KK- Haklısın damat. -LE- Damat mı?
+1143 [01:22:31] -AZ- Sezgiler...
 1144 [01:22:33] Haydi arkadaşlar, haydi.
+===
 --- [16s boşluk] ---
-1145 [01:22:52] - N'aber Betty? - Gel, gel.
+1145 [01:22:52] -SU- N'aber Betty? -BE- Gel, gel.
 1146 [01:22:56] Sen mi yaptın?
-1147 [01:22:57] Annene selam söyle.
-1148 [01:23:00] Haydi bakalım...
+1147 [01:22:57] -LO- Anana selam söyle.
+1148 [01:23:00] Haydi bağalım...
 --- [7s boşluk] ---
-1149 [01:23:08] Günah çıkarmak istiyorum peder.
-1150 [01:23:11] Ulan senin günahın boyunu aşmıştır ya.
+1149 [01:23:08] -AL- Günah çıkarmak istiyorum peder.
+1150 [01:23:11] -LO- Ulan senin günahın boyunu aşmıştır ya.
 1151 [01:23:14] Neyse. Geç bakalım içeri.
 --- [6s boşluk] ---
-1152 [01:23:23] İstersen ayağa kalk konuş, seni daha rahat duyayım yavrum.
-1153 [01:23:27] Zaten ayaktayım.
-1154 [01:23:29] Affedersin. Adın ne?
-1155 [01:23:32] Adım Alejandro Gomez Arias Hose Lobredo Alfonzo Vılla de Sandoz.
-1156 [01:23:37] Lan senin adın batsın. Uzatma. Öksür hadi, taksimetre çalışıyor.
-1157 [01:23:42] - Juan Jimenez Garcia' nın atlarını, ben çaldım! - Devam et oğlum.
-1158 [01:23:47] İçimdeki çocuğu da ben öldürdüm peder!
-1159 [01:23:50] Ahh...
+1152 [01:23:23] -LO- İstersen ayağa galk gonuş, seni daha rahat duyiyim yavrum.
+1153 [01:23:27] -AL- Zaten ayaktayım.
+1154 [01:23:29] -LO- Affedersin. Adın ne?
+1155 [01:23:32] -AL- Adım Alejandro Gomez Arias Jose Robledo Alfonso Villas des Sandos.
+1156 [01:23:37] -LO- Lan senin adın batsın. Uzatma. Öksür hadi, taksimetre çalışıyor.
+1157 [01:23:42] -AL- Juan Jimenez Garcia'nın atlarını, ben çaldım! -LO- Devam et oğlum.
+1158 [01:23:47] -AL- İçimdeki çocuğu da ben öldürdüm peder!
+1159 [01:23:50] -LO- Hhiiihhh...
 1160 [01:23:53] Kürtaj. En büyük günah!
-1161 [01:23:56] - Yüce Tanrı beni affeder mi? - Metin ol, eder.
+1161 [01:23:56] -AL- Yüce Tanrı beni affeder mi? -LO- Metin ol, eder.
 1162 [01:24:00] Çık bakayım dışarıya.
 1163 [01:24:02] Tanrı her zaman büyüktür. Elbet affeder.
-1164 [01:24:07] Kaldır lan ellerini! Kanun namına tutuklusun!
-1165 [01:24:11] Günah çıkaracakmış. İbnecik! O iş ayrı, bu iş ayrı!
-1166 [01:24:15] - Yürü, yürü! - Bir şans daha şerif...
+1164 [01:24:07] Galdır lan ellerini! Ganun namına tutuklusun!
+1165 [01:24:11] Günah çıkaraca'mış. İtnecik! O iş ayrı, bu iş ayrı!
+1166 [01:24:15] Yörü, yörü! -AL- Bir şans daha şerif...
 1167 [01:24:18] Başlarım senin şansına!
-1168 [01:24:22] Şerif, şöyle halledebilir miyiz?
+1168 [01:24:22] -AL- Şerif, şöyle halledebilir miyiz?
 --- [3s boşluk] ---
-1169 [01:24:28] Ne oluyor lan?
-1170 [01:24:29] - Ay, bakayım küpene? - Aaa. Bak. Bak ya.
-1171 [01:24:33] E sen takı makı hiçbir şey takmıyorsun Betty. Niye?
-1172 [01:24:35] Aa valla doğru söylüyorsun. Şerif karısıyım ama hiç öyle takısı nesi yoktur.
-1173 [01:24:39] Yaa canım olur mu? Şerif seni seviyor, belli...
+1169 [01:24:28] -LO- Ne oluyor lan?
+===
+1170 [01:24:29] -BE- Ay, bakayım küpene? -SU- Aaa... Bak. Bak ya.
+1171 [01:24:33] -SU- E sen takı makı hiçbir şey takmıyorsun Betty. Niye?
+1172 [01:24:35] -BE- Aa valla doğru söylüyorsun. Şerif karısıyım ama hiç öyle takısı nesi yoktur.
+1173 [01:24:39] -SU- Yaa canım olur mu? Şerif seni seviyor, belli...
 1174 [01:24:42] Elmas bir kolye almış sana, bütün kasaba bunu konuşuyor.
-1175 [01:24:45] Yok be o bana değil. Satacakmış onu. Ver takayım dedim, taktırmadı.
-1176 [01:24:49] Taktırmaz tabii. Babam bana takacak onu.
+1175 [01:24:45] -BE- Yok be o bana değil. Satıca'mış onu. Ver dakıyım dedim, daktırmadı.
+1176 [01:24:49] -EU- Taktırmaz tabii. Babam bana takacak onu.
 1177 [01:24:52] Ne be? Kendi ağzıyla dedi. Sana takacağım dedi.
-1178 [01:24:55] Eh, iyi.
-1179 [01:24:57] Sizin evde elmas varmış, baban bahsetti mi hiç?
-1180 [01:25:00] Ne elması be? Sen işine bak.
-1181 [01:25:02] Babam dedi zaten, yirmi sene sonra Amerikan mandasına girecekmişsiniz.
+1178 [01:24:55] -SU- Eh, iyi.
+===
+1179 [01:24:57] -AZ- Sizin evde elmas varmış, baban bahsetti mi hiç?
+1180 [01:25:00] -C1- Ne elması be? Sen işine bak.
+1181 [01:25:02] Babam dedi zaten, yirmi sene sonra Amerikan mandasına girecekmişsiniz. Hahahaha...
 1182 [01:25:09] Amerikan mandası diye anana demiştir o!
-1183 [01:25:11] - Yürüyün lan! - Yürüyün çocuklar!
-1184 [01:25:14] - Çok da bayıldık!
-1185 [01:25:15] Avradını siktiğimin Chucky'si.
-1186 [01:25:17] Yüce Tanrım...
+1183 [01:25:11] Yürüyün lan! -CO- Yürüyün çocuklar!
+1184 [01:25:14] -C2- Çok da bayıldık!
+1185 [01:25:15] -AZ- Avradını siktiğimin Chucky'si.
+===
+1186 [01:25:17] -LO- Yüce Tanrım...
 1187 [01:25:20] ...bugün işlediğim günahlar şunlar:
 1188 [01:25:24] Jessy'lerin arazi işinden rüşvet...
 1189 [01:25:27] ...komşu kızı Mary Lane'i elledik.
 1190 [01:25:30] Az önce de bir yirmilik sakal.
 1191 [01:25:33] Şimdilik aklıma gelen bu.
 --- [4s boşluk] ---
-1192 [01:25:40] - Ne haber? Nasıl gitti? - İşte...
+1192 [01:25:40] -AZ- Ne haber? Nasıl gitti? -SU- İşte...
 1193 [01:25:42] Var gibi bir şeyler. Turta murta yedik. Sende?
-1194 [01:25:46] Çocuktan al haberi demişler ama hiçbir şey çıkmadı.
+1194 [01:25:46] -AZ- Çocuktan al haberi demişler ama hiçbir şey çıkmadı.
 1195 [01:25:48] Neyse, bir kaynağım daha var, dur bakalım.
-1196 [01:25:51] - Sarsana bana da bir tane. - Valla?
-1197 [01:25:54] - Aziz! Aziz! Ben otele geçiyorum! - Ah!
-1198 [01:25:56] - Ah. Yapıştı. Yapıştı. - Dur.
-1199 [01:25:59] - Yavaş ama. - Dur.
+1196 [01:25:51] -SU- Sarsana bana da bir tane. -AZ- Valla?
+1197 [01:25:54] -LE- Aziz! Aziz! Ben otele geçiyorum! -SU- Ah! -AZ- Ayy...
+1198 [01:25:56] -SU- Ah. Yapıştı. Yapıştı. -AZ- Dur.
+1199 [01:25:59] -SU- Yavaş ama. -Su- Dur.
 1200 [01:26:01] Ama dur.
 1201 [01:26:02] Çek.
 1202 [01:26:03] Ah! Aa.
-1203 [01:26:07] Bıyık da gitmiş oldu.
-1204 [01:26:11] - Allah Allah... Nasıl oldu peki böyle? - İyi.
-1205 [01:26:16] - Küpeler yakışmış. - Öyle mi diyorsun?
+1203 [01:26:07] -AZ- Bıyık da gitmiş oldu.
+1204 [01:26:11] -SU- Allah Allah... Nasıl oldu peki böyle? -AZ- İyi.
+1205 [01:26:16] Küpeler yakışmış. -SU- Öyle mi diyorsun?
 --- [5s boşluk] ---
 1206 [01:26:23] Bunu da yiyemedik.
-1207 [01:26:25] Macunu bulduk, kıllısını aramayalım.
-1208 [01:26:27] Oldu... O zaman ben... Otele gidip şey yapayım...
-1209 [01:26:31] - Bir temizleneyim de... - Haydi bakalım.
-1210 [01:26:36] Karısının pek bir şeyden haberi yok.
+1207 [01:26:25] -AZ- Macunu bulduk, kıllısını aramayalım.
+1208 [01:26:27] -SU- Oldu... O zaman ben... Otele gidip şey yapayım...
+1209 [01:26:31] Bir temizleneyim de... -AZ- Haydi bakalım.
+===
+1210 [01:26:36] -SU- Karısının pek bir şeyden haberi yok.
 1211 [01:26:38] Ama elması satacakmış, öyle demiş. Yani, bu bir tehlike olabilir tabii.
-1212 [01:26:43] - Lemi? - Hah?
+1212 [01:26:43] -AZ- Lemi? -LE- Hah?
 1213 [01:26:44] Kilisede bir şeyler geveledi ama...
 1214 [01:26:46] ...gramofonu ters bağlayıp kaydetmeye çalıştım. Kayıt çok kötü. Bakın.
 --- [5s boşluk] ---
-1215 [01:26:55] ''Çaldığı sütle dağda, surda güttüğü iki tane keçi eşşoleşşeğin...''
-1216 [01:26:59] - l-ıh... - Değil...
-1217 [01:27:01] ''Onların canına ot tıkamak benim boynumun borcu olsun.''
-1218 [01:27:04] Yok.
-1219 [01:27:06] ''Elması da sattım mıydı, daha da burada benim tozumu...
+1215 [01:26:55] ''Çaldığı ıslık dağı daşı duttu, güttüğü iki tane keçi eşşoleşşeğin...''
+1216 [01:26:59] -AZ- Yok... -KK- Değil...
+1217 [01:27:01] -AZ- ''Onların canına ot tıkamak benim boynumun borcu olsun.''
+1218 [01:27:04] -LE- Yok. -KK- Yok.
+1219 [01:27:06] -KK- ''Elması da sattım mıydı, daha da burada benim tozumu...
 1220 [01:27:10] bulamaz itoğluitler...''
-1221 [01:27:12] - Aa... - Evet!
+1221 [01:27:12] -SU- Aa... -AZ- Evet!
 1222 [01:27:13] İşte!
-1223 [01:27:14] Gizlice fotoğrafını da çektim ama on gün sonra veriyor fotoğrafçı.
-1224 [01:27:17] Gizlice mi?
-1225 [01:27:19] Ne oluyor lan?
-1226 [01:27:20] Ha...
-1227 [01:27:21] - Sende önemli bir şey vardı hani? - Var.
-1228 [01:27:23] - Elmasın yerini biliyorum. - Nasıl biliyorsun?
-1229 [01:27:26] Chuck'ı konuşturdum.
-1230 [01:27:28] - Chuck! Elmas nerede? - Kasada.
-1231 [01:27:31] - Peki, kasadan nasıl alacağız elması? - Biz almayacağız, kendisi verecek.
+1223 [01:27:14] -KK- Gizlice fotoğrafını da çektim ama on gün sonra veriyor fotoğrafçı.
+1224 [01:27:17] -LE- Gizlice mi?
+1225 [01:27:19] -LO- Ne oluyor lan?
+1226 [01:27:20] -KK- Hee...
+1227 [01:27:21] -SU- Sende önemli bir şey vardı hani? -AZ- Var.
+1228 [01:27:23] Elmasın yerini biliyorum. -LE- Nasıl biliyorsun?
+1229 [01:27:26] -AZ- Chuck'ı konuşturdum.
+1230 [01:27:28] Chuck! Elmas nerede? -CC- Kasadaaa.
+1231 [01:27:31] -LE- Peki, kasadan nasıl alacağız elması? -AZ- Biz almayacağız, kendisi verecek.
 1232 [01:27:38] İşte kafamdaki kumpanya.
-1233 [01:27:40] Forty Rivers - Oil wrestling - Championship.
-1234 [01:27:42] - Yağlı güreşler? - Ha ha.
+1233 [01:27:40] Fourty Rivers, Oil Wrestling Championship.
+1234 [01:27:42] -SU- Yağlı güreşler? -KK- Hah.
 1235 [01:27:44] Bizde de vardı bir dönem. Ama yağ bitince kaldırdık.
-1236 [01:27:47] Ha?
-1237 [01:27:48] 18 Haziran ne? Cannonball'un kurtuluşu.
+1236 [01:27:47] -LE- Ha?
+1237 [01:27:48] -AZ- 18 Haziran ne? Cannonball'un kurtuluşu.
 1238 [01:27:52] Bu pezevenk kimden korkar? Valilikten, mutasarrıflıktan.
 1239 [01:27:55] Lemi, derhal valiye bir telgraf çekiyorsun.
 1240 [01:27:58] ''Osmanlı Sultanı, Cannonball kasabasını, Tophane ile kardeş kasaba ilan etmiştir.
 1241 [01:28:03] Kurtuluş gününde düzenlenecek güreş müsabakalarının ödülü...
 1242 [01:28:06] ...elmas bir kolyedir. Teşrifleriniz...'' falan.
 1243 [01:28:10] İmza diye de Şerif Lloyd yazdım mı, tamam bu iş.
-1244 [01:28:13] Aziz, sen büyük bir beyinsin. Aferin. Çok iyi.
-1245 [01:28:17] İşe yarar mı dersin?
-1246 [01:28:19] - Kısmet. - E kıspet?
-1247 [01:28:22] Ayarlayacağız.
-1248 [01:28:24] Hala toz olup gitmediler.
+1244 [01:28:13] -LE- Aziz, sen büyük bir beyinsin. Aferin. Çok iyi.
+1245 [01:28:17] -SU- İşe yarar mı dersin?
+1246 [01:28:19] -AZ- Kısmet. -LE- E kispet?
+1247 [01:28:22] -AZ- Ayarlayacağız.
+===
+1248 [01:28:24] -LO- Hala toz olup getmediler.
 1249 [01:28:27] Bir dümen çeviriyorlar ama, anlarız. Bakalım.
-1250 [01:28:30] Chuck! Şuradan bana, azılı haydutların listesini ver hele.
+1250 [01:28:30] Chuck! Şurdan bana, azılı haydutların listesini ver hele.
 1251 [01:28:36] Onların hakkından gelecek bir delibozuk bulmam lazım.
 --- [4s boşluk] ---
-1252 [01:28:43] Lan bu değil. Şu anasını babasını kesenleri ver.
+1252 [01:28:43] Lan bu deel. Şu anasını babasını kesenleri ver.
 --- [6s boşluk] ---
-1253 [01:28:53] Jesse James, yaramaz.
+1253 [01:28:53] Jesse James, cık, yaramaz.
 1254 [01:28:56] Billy The Kid, daha dünkü bebe.
 1255 [01:29:00] Bonanza'dan Hoss, lan bu melek gibi oğlan, kim koydu bunu buraya?
 1256 [01:29:04] Sonra kaldır bunu oğlanın başı derde girmesin.
-1257 [01:29:08] - İşte. Buck Berry! - Buyur Şerif?
-1258 [01:29:13] Chuck!
+1257 [01:29:08] İşte. Buck Berry! -CC- Buyur Şerif?
+1258 [01:29:13] -LO- Chuck!
 1259 [01:29:15] Ulan rahat dur!
-1260 [01:29:17] Brokeback'lli Buck Berry.
+1260 [01:29:17] Brokeback'li Buck Berry.
 1261 [01:29:20] Bu işi ancak sen halledersin Buck Berry!
-1262 [01:29:23] Öyle dağdan gelip burada boru öttürmek olmaz! Öyle değil mi?
-1263 [01:29:27] O kel kafalıyı var ya...
-1264 [01:29:30] ...öyle bir yere ser ki, bir Cannonball'lu olarak göğsüm...
-1265 [01:29:33] ...kabarsın! Kabarsın! Kabarsın!
-1266 [01:29:36] - Selamün aleyküm. - Ve aleyk... Hı, geldi işte.
-1267 [01:29:40] Güreş turnuvası düzenliyormuşsun Şerif!
-1268 [01:29:42] - Adımı yazdırmaya geldim. - Bırak şimdi güreşi de geç bakalım şöyle.
+1262 [01:29:23] Öeyle dağdan gelip burada boru öttürmek olmaz! Öyle deel mi?
+1263 [01:29:27] O kel gafalıyı var ya...
+1264 [01:29:30] ...öeyle bir yere ser ki, bir Cannonball'lu olarak goğsüm...
+1265 [01:29:33] ...gabarsın! Gabarsın! Gabarsın!
+1266 [01:29:36] -AZ- Selamün aleyküm. -LO- Ve aleyk... Hı, geldi işte.
+1267 [01:29:40] -AZ- Güreş turnuvası düzenliyormuşsun Şerif!
+1268 [01:29:42] Adımı yazdırmaya geldim. -LO- Bırak şimdi güreşi de geç bağalım şöyle.
 1269 [01:29:47] Brokeback'li Buck Berry. Buck Berry senden şikayetçi.
-1270 [01:29:51] Ben kanun adamıyım, aranıza girmek olmaz.
+1270 [01:29:51] Ben ganun adamıyım, aranıza girmek olmaz.
 1271 [01:29:55] Buck Berry seni düelloya davet ediyor.
-1272 [01:29:57] Davetine icabet ederiz, geri çevirmeyiz.
-1273 [01:30:00] Osmanlı'ymışsınız galiba, Aziz Bey?
-1274 [01:30:04] Evet, İstanbulluyuz.
-1275 [01:30:06] İstanbul'un hamamlarını çok duydum. Türk hamamı!
-1276 [01:30:11] Evet. Gerçi biz Samatyalıyız ama Galata'da da arkadaşlarımız var.
-1277 [01:30:14] - Teşrif ederseniz İstanbul'a... - Ay hiç çıkamıyoruz ki!
+1272 [01:29:57] -AZ- Davetine icabet ederiz, geri çevirmeyiz.
+1273 [01:30:00] -BB- Osmanlı'ymışsınız galiba, Aziz Bey?
+1274 [01:30:04] -AZ- Evet, İstanbulluyuz.
+1275 [01:30:06] -BB- İstanbul'un hamamlarını çok duydum. Türk hamamı!
+1276 [01:30:11] -AZ- Evet. Gerçi biz Samatyalıyız ama Galata'da da arkadaşlarımız var.
+1277 [01:30:14] Teşrif ederseniz İstanbul'a... -BB- Ay hiç çıkamıyoruz ki!
 1278 [01:30:17] Hep böyle at üstünde... Aslında gidilse bir gün hamamlara, böyle sıcacık, bol köpüklü...
-1279 [01:30:22] Hamama giren terler yalnız...
-1280 [01:30:25] - Anladım ne dediğinizi... - Ben anlayamadım.
-1281 [01:30:27] Ne oluyor lan? Düello dedik. Düelloya ne oldu?
-1282 [01:30:30] Böyle hazade bir beyefendiye ateş edilmez. Salonda bir şeyler içer miyiz Aziz Bey?
-1283 [01:30:34] Siz için, biz sonra iştirak ederiz. Herkese saygımız vardır.
+1279 [01:30:22] -AZ- Hamama giren terler yalnız...
+1280 [01:30:25] -BB- Hahaha... Anladım ne dediğinizi... -AZ- Ben anlayamadım.
+1281 [01:30:27] -LO- Ne oluyor lan? Düello dedik. Düello ne oldu?
+1282 [01:30:30] -BB- Böyle haza bir beyefendiye ateş edilmez. Salonda bir şeyler içer miyiz Aziz Bey?
+1283 [01:30:34] -AZ- Siz için, biz sonra iştirak ederiz. Herkese saygımız vardır.
 1284 [01:30:38] Şerif, adımı yaz. Hadi selametle...
-1285 [01:30:40] Görüşmek üzere. Bir gün bir kadeh içkinizi içerim.
-1286 [01:30:43] - Başımla beraber... - Aaaaa! Umarım.
-1287 [01:30:48] Ne yapıyorsun lan?
-1288 [01:30:50] Biz sana adamı vur dedik, sen kendine vurduracaksın. Civelek!
-1289 [01:30:53] Şerif, seni var ya buraya çivilerim. Delirtme beni!
+1285 [01:30:40] -BB- Görüşmek üzere. Bir gün bir kadeh içkinizi içerim.
+1286 [01:30:43] -AZ- Başımla beraber... -BB- Aaaaa! Umarım.
+1287 [01:30:48] -LO- Ne yapıyon lan?
+1288 [01:30:50] Biz sana adamı vur dedik, sen gendine vurduracan civelek!
+1289 [01:30:53] -BB- Şerif, seni var ya buraya çivilerim. Delirtme beni!
 --- [3s boşluk] ---
-1290 [01:30:59] Aziz Efendi...
+1290 [01:30:59] -LE- Aziz Efendi...
 1291 [01:31:02] Aziz Efendi, böyle kuru kuru olmaz. Dur, antrenman yapalım, hamlığın gitsin.
-1292 [01:31:07] Dur ulan yağlama. Daha fazla yağlama. Başımızı belaya sokacaksın.
-1293 [01:31:10] - Sırtıma sür biraz. - Dur lan. Gel konuyu bilmiyorsun. Yürü.
-1294 [01:31:13] - Bu kim? - Yürü yürü!
+1292 [01:31:07] -AZ- Dur ulan yağlama. Daha fazla yağlama. Başımızı belaya sokacaksın.
+1293 [01:31:10] -LE- Sırtıma sür biraz. -AZ- Dur lan. Gel konuyu bilmiyorsun. Yürü.
+1294 [01:31:13] -LE- Bu kim? -AZ- Yürü yürü!
 --- [5s boşluk] ---
-1295 [01:31:20] Kel, kör, kendi işini kendin gör...
+1295 [01:31:20] -LO- Kel, kör, kendi işini kendin gör...
 1296 [01:31:23] Bak beri.
-1297 [01:31:25] Ulan beri bak!
-1298 [01:31:27] Git söyle, ''Akşam vaazından sonra, şerif seni düelloya çağırıyor'' de.
+1297 [01:31:25] Lan beri bak!
+1298 [01:31:27] Get söyle, ''Akşam vaazından sonra, şerif seni düelloya çağırıyor'' de.
 1299 [01:31:32] Sen de her zamanki gibi çanın oraya geç.
 --- [5s boşluk] ---
-1300 [01:31:39] Hadi şimdi hareketlenin biraz. İçine biraz cilve katın.
-1301 [01:31:41] # Bizi görenler sakın kıskanmasınlar...
+===
+1300 [01:31:39] -LE- Hadi şimdi hareketlenin biraz. İçine biraz cilve katın.
+1301 [01:31:41] -SU- # Bizi görenler sakın kıskanmasınlar...
 1302 [01:31:44] # Bir eş bulup evlenerek mesut olsunlar...
-1303 [01:31:48] - Evlenerrek... - Evlenerrek mesut olsunlar...
-1304 [01:31:51] - Bizi göre... - Suzan.
+1303 [01:31:48] -AZ- Evlenerrek... -SU- Evlenerrek mesut olsunlar...
+1304 [01:31:51] -BE- Suzan! -SU- Bizi göre... -BE- Suzan.
 1305 [01:31:53] Evde bunları bulabildim. Bir de şemsiye var.
-1306 [01:31:55] Sağ ol Betty.
+1306 [01:31:55] -BE- Sağ ol Betty.
 1307 [01:31:56] Ay ben ilk defa böyle bir şey giyeceğim.
 1308 [01:31:59] Bak bakayım, nasıl?
-1309 [01:32:02] Gel bakalım böyle.
-1310 [01:32:04] - Aziz... - He?
+1309 [01:32:02] -LE- Gel bakalım böyle.
+1310 [01:32:04] -SU- Aziz... -AZ- He?
 1311 [01:32:06] Umarım boşuna uğraşmıyorsundur. Daha telgrafa cevap gelmedi.
-1312 [01:32:09] Gelecek yavrum. İnşallah gelecek.
-1313 [01:32:11] - O atla gösteri yapan adam vardı. Ne oldu? - Cevap bekliyoruz.
-1314 [01:32:14] Aziz, şiir okuyacak kızımız geldi. Oku yavrum.
-1315 [01:32:18] Bir apaçi ağlıyor... Gözleri yaşlı...
-1316 [01:32:22] - Yalnız bir... - Aziz Bey...
-1317 [01:32:24] Ne var lan?
-1318 [01:32:26] Şerif Lloyd seni meydanda düelloya davet ediyor. Saat 6'da...
-1319 [01:32:30] - Aziz, bırak ben gideyim. - Şerifin karşısına ben çıkacağım.
-1320 [01:32:32] - Suzan seni ateşe atamam. - Aziz, benim işim bu.
+1312 [01:32:09] -AZ- Gelecek yavrum. İnşallah gelecek.
+1313 [01:32:11] O atla gösteri yapan adam vardı. Ne oldu? -LE- Cevap bekliyoruz.
+1314 [01:32:14] -KK- Aziz, şiir okuyacak kızımız geldi. Oku yavrum.
+1315 [01:32:18] -U1- Bir apaçi ağlıyor... Gözleri yaşlı...
+1316 [01:32:22] Yalnız bir... -CC- Aziz Bey...
+1317 [01:32:24] -AZ- Ne var lan?
+1318 [01:32:26] -CC- Şerif Lloyd seni meydanda düelloya davet ediyor. Saat 6'da...
+1319 [01:32:30] -LE- Aziz, bırak ben gideyim. -SU- Şerifin karşısına ben çıkacağım.
+1320 [01:32:32] -AZ- Suzan seni ateşe atamam. -SU- Aziz, benim işim bu.
 1321 [01:32:35] Benim için çocuk oyuncağı. Benden daha hızlı silah çekemezsin.
-1322 [01:32:39] - Ben de hızlı silah çekiyorum. Bak! - Benim silahım lan o!
-1323 [01:32:43] Haa...
-1324 [01:32:44] Çek bakalım silahını, ne kadar hızlısın?
-1325 [01:32:47] Suzan, sana nasıl silah çekeyim?
-1326 [01:32:49] Benden daha hızlıysan düelloya sen gidersin. Haydi çek!
-1327 [01:32:53] - Suzan... - Çek!
-1328 [01:32:54] - Şef... - Çek!
-1329 [01:32:55] - Chuck! - Lemi!
-1330 [01:32:56] - Çek! - Bir karar verin amına koyayım be!
+1322 [01:32:39] -LE- Ben de hızlı silah çekiyorum. Bak! -AZ- Benim silahım lan o!
+1323 [01:32:43] -LE- Haa...
+1324 [01:32:44] -SU- Çek bakalım silahını, ne kadar hızlısın?
+1325 [01:32:47] -AZ- Suzan, sana nasıl silah çekeyim?
+1326 [01:32:49] -SU- Benden daha hızlıysan düelloya sen gidersin. Haydi çek!
+1327 [01:32:53] -AZ- Suzan... -SU- Çek!
+1328 [01:32:54] -AZ- Şef... -Su- Çek!
+1329 [01:32:55] -LE- Chuck! -AZ- Lemi!
+1330 [01:32:56] -SU- Çek! -KK- Bir karar verin amına koyayım be!
 --- [7s boşluk] ---
 1331 [01:33:04] Şerife söyle, Suzan Van Dyke'la dövüşecek.
-1332 [01:33:07] Bizim deliye bir bakayım ben.
-1333 [01:33:12] - Kızım... - Baba...
-1334 [01:33:13] Dur Aziz...
-1335 [01:33:15] Ulan bana bak, hatıratına bunu yazarsan gebertirim seni ha!
+1332 [01:33:07] -BE- Bizim deliye bir bakayım ben.
+1333 [01:33:12] -KK- Kızım... -SU- Baba...
+1334 [01:33:13] -LE- Dur Aziz...
+1335 [01:33:15] -AZ- Lan bana bak, hatıratına bunu yazarsan gebertirim seni ha!
 --- [11s boşluk] ---
-1336 [01:33:30] Fırtına öncesi sessizlik bu. Daha büyük şeyler olacak...
-1337 [01:33:34] Lan git!
+===
+1336 [01:33:30] -DE- Fırtına öncesi sessizlik bu. Daha büyük şeyler olacak...
+1337 [01:33:34] -AZ- Lan git!
 --- [9s boşluk] ---
 1338 [01:33:44] Ne yapıyor lan bu akbaba?
 1339 [01:33:46] Ne yapıyorsun lan sen?
-1340 [01:33:48] Hanımefendinin ölçüsünü alıyoruz. Tabut için.
-1341 [01:33:50] Ölçü lazımsa vereyim. Al. Yirmi beş santim. Yürü!
+1340 [01:33:48] -TA- Hanımefendinin ölçüsünü alıyoruz. Tabut için.
+1341 [01:33:50] -AZ- Ölçü lazımsa vereyim. Al. Yirmi beş santim. Yürü!
 1342 [01:33:54] Suzan, sana annemin muskasını vereceğim.
-1343 [01:33:56] Her türlü musibetten, badireden korur.
-1344 [01:34:01] Vermiyorum, tamam. Seni seviyorum Suzan.
-1345 [01:34:05] - Ben de seni seviyorum Aziz. >- Hadi ulan keloğlan!
-1346 [01:34:09] Kaybol oradan, götünden zımbalayacağım şimdi.
-1347 [01:34:13] - Kaybolun ulan sizde. - Hayırlı işler.
+1343 [01:33:56] Her türlü musibetten, badireden korur. -LE- Pşşşt!
+1344 [01:34:01] -AZ- Vermiyorum, tamam. Seni seviyorum Suzan.
+1345 [01:34:05] -SU- Ben de seni seviyorum Aziz. -LO- Hadi ulan keloğlan!
+1346 [01:34:09] Gaybol oradan, gotünden zımbalayacağım şimdi.
+1347 [01:34:13] Kaybolun lan sizde. -BE- Hayırlı işler.
 --- [3s boşluk] ---
-1348 [01:34:19] Düellodan sonra, kasabadan siktir olup gideceksiniz!
+1348 [01:34:19] -LO- Düellodan sonra, kasabadan siktir olup gideceksiniz!
 --- [14s boşluk] ---
-1349 [01:34:38] Orada! Çatıda!
-1350 [01:34:41] Ahh...
+1349 [01:34:38] -EU- Orada! Çatıda!
+1350 [01:34:41] -CC- Ahh...
 --- [11s boşluk] ---
-1351 [01:34:53] Senden de bu beklenirdi zaten.
-1352 [01:34:55] Eşşekoğlueşşek!
-1353 [01:34:59] - Suzan... - Aziz...
-1354 [01:35:03] - Aziz abi, al aynanı. - Aferin lan Johnnie...
+1351 [01:34:53] -SU- Senden de bu beklenirdi zaten.
+1352 [01:34:55] -AZ- Eşşekoğlueşşek!
+1353 [01:34:59] Suzan... -SU- Aziz...
+1354 [01:35:03] -EU- Aziz abi, al aynan. -AZ- Aferin lan Johnnie...
 1355 [01:35:06] Ayinesi iştir kişinin lafa bakılmaz.
 1356 [01:35:08] Şahsın görünür rütbe-i aklı eserinde. Aferin Johnnie.
-1357 [01:35:11] İdrak-ı meali bu küçük akla gerekmez, zira bu terazi bu kadar sikleti çekmez.
+1357 [01:35:11] -EU- İdrak-ı meali bu küçük akla gerekmez, zira bu terazi bu kadar sikleti çekmez.
 1358 [01:35:17] Ziya Paşa.
 --- [3s boşluk] ---
-1359 [01:35:21] Aslanım benim...
+1359 [01:35:21] -AZ- Aslanım benim...
 --- [3s boşluk] ---
-1360 [01:35:26] Şerif Lloyd. Size telgraf var efendim.
-1361 [01:35:29] Çekil lan.
+1360 [01:35:26] -PO- Şerif Lloyd. Size telgraf var efendim.
+1361 [01:35:29] -LO- Çekil lan şurdan. -BE- Amaaan...
 --- [7s boşluk] ---
-1362 [01:35:37] Valilik diyor...
-1363 [01:35:39] Teşrifleri mi? Kırkpınar güreşleri...
+1362 [01:35:37] -LO- Valilik diyor...
+1363 [01:35:39] Teşrifleri mi? Gırkpınar gureşleri...
 --- [3s boşluk] ---
-1364 [01:35:46] Koskoca Osmanlı Sultanı himayesinde diyor.
-1365 [01:35:50] Hem de ben organize etmişim.
-1366 [01:35:53] O telgrafı çeken ellerin kırılsın.
+1364 [01:35:46] Gosgoca Osmanlı Sultanı himayesinde diyor.
+1365 [01:35:50] Hemide ben organize etmişim.
+1366 [01:35:53] O telgrafı çeken ellerin gırılsın.
 1367 [01:35:57] Vali Wilson geliyor. Belediye başkanı gelir.
 1368 [01:36:02] Mutasarrıflıktan da gelen olur.
-1369 [01:36:05] Kendi ellerimle koskoca elması nasıl vereyim ben?
-1370 [01:36:07] - Aman... Ver kurtul sen de be! - Lan sirkeli suyunu siktirme lan!
-1371 [01:36:12] - Lan çık dışarıda oyna sen de! Hadi! - Vur, vur, vur o küçüğe de vur.
-1372 [01:36:16] Kafasına vur ki ağabeyi gibi onu da delirt.
+1369 [01:36:05] Gendi ellerimle gosgoca elması nasıl vereyim?
+1370 [01:36:07] -BE- Amaan... Ver kurtul sen de be! -LO- Lan sirkeli suyunu siktirme lan!
+1371 [01:36:12] -BE- Lan çık dışarıda oyna sen de! Hadi! -LO- Vur, vur, vur o guçüğe de vur.
+1372 [01:36:16] Gafasına vur ki ağabeyi gibi onu da delirt.
 1373 [01:36:20] Ya ben ne edeceğim?
-1374 [01:36:22] Ben kafayı yiyeceğim. Yarın öğlen burada olur hepsi.
-1375 [01:36:26] Kendimi vuracağım. Kendimi vuracağım!
-1376 [01:36:30] Kolay değil yenge, avize taşı gibi taş!
-1377 [01:36:34] - Ne dedin lan sen? - Avize taşı!
+1374 [01:36:22] Ben gafayı yiyeceğim. Yarın öğlen burada olur hepsi.
+1375 [01:36:26] Gendimi vuracağım. Gendimi vuracağım!
+1376 [01:36:30] -CC- Kolay değil yenge, avize taşı gibi taş!
+1377 [01:36:34] -LO- Ne dedin lan sen? -CC- Avize taşı!
 --- [3s boşluk] ---
-1378 [01:36:39] - Aferin lan Chuck. Çak. - Yapma şerif.
-1379 [01:36:44] Lan bu sefer essahtan çak!
-1380 [01:36:47] Aahhh!
-1381 [01:36:49] Babanın düşmanlarını sikeyim.
-1382 [01:36:53] Avize taşı değil mi?
+1378 [01:36:39] -LO- Aferim lan Chuck. Çak. -CC- Yapma şerif.
+1379 [01:36:44] -LO- Lan bu sefer essahtan çak!
+1380 [01:36:47] -CC- Ahh... -LO- Aahhh!
+1381 [01:36:49] Vay babayın düşmanlarını sikeyim.
+1382 [01:36:53] Avize daşı dee mi? Heheheheh...
 --- [3s boşluk] ---
 1383 [01:36:58] Aahhh...
-1384 [01:37:00] Kırkpınar Güreşleri Gösteri Alanı 18 Haziran 1881.
---- [10s boşluk] ---
-1385 [01:37:13] Sizin yerel kıyafetler de çok güzelmiş.
-1386 [01:37:16] - Damat gibi olmuşsun. - Sağ ol, şef.
-1387 [01:37:18] - Nasılım baba? - Annen gibi çok güzelsin yavrum.
+===
+1385 [01:37:13] -KK- Sizin yerel kıyafetler de çok güzelmiş.
+1386 [01:37:16] Damat gibi olmuşsun. -AZ- Sağ ol, şef.
+1387 [01:37:18] -SU- Nasılım baba? -KK- Annen gibi çok güzelsin yavrum.
 1388 [01:37:23] Hadi ben içeri geçiyorum.
-1389 [01:37:27] - Hadi, iyi geçsin. - Sağ ol yavrum.
-1390 [01:37:29] - Lemi! - Aziz!
-1391 [01:37:30] - Kim geldi bil! - Hı?
-1392 [01:37:31] Buffalo Bill! Açılış konuşmasını sen yapacaksın.
-1393 [01:37:34] E bu laflar boy boy...
-1394 [01:37:36] Daha sonra da atlı kovboy. Atlı kovboya para verdim...
-1395 [01:37:38] - Buyurun geldim... - Güzel. Atının başına...
-1396 [01:37:41] Vali geliyor. Vali geliyor.
-1397 [01:37:43] Vali!
+1389 [01:37:27] -SU- Hadi, iyi geçsin. -AZ- Sağ ol yavrum.
+1390 [01:37:29] Lemi! -LE- Aziz!
+1391 [01:37:30] -AZ- Kim geldi bil! -LE- Hı?
+1392 [01:37:31] -AZ- Buffalo Bill! Açılış konuşmasını sen yapacaksın.
+1393 [01:37:34] -LE- E bu laflar boy boy...
+1394 [01:37:36] -AZ- Daha sonra da atlı kovboy. Atlı kovboya para verdim...
+1395 [01:37:38] -AK- Buyurun geldim... -AZ- Güzel. Atının başına...
+1396 [01:37:41] -EU- Vali geliyor. Vali geliyor. Vali...
+1397 [01:37:43] -AZ- Vali!
 --- [5s boşluk] ---
-1398 [01:37:49] Efendim Lemi Galip, hazineden. Hoş geldiniz.
-1399 [01:37:51] Aziz Vefa. Teşkilattan. Ama gizli.
-1400 [01:37:53] - Memnun oldum canım. - Hoş geldiniz.
-1401 [01:37:55] Sayın Valim. Cannonball kasabasının Şerifi William Lloyd.
-1402 [01:37:58] - Memnun oldum canım. - Ben de karısıyım, Betty Lloyd.
-1403 [01:38:01] Memnun oldum hanımefendi.
-1404 [01:38:02] Her tarafı temizlettik efendim. Lütfen buyurun.
-1405 [01:38:06] Buyurun. Bütün organizasyon bana ait.
-1406 [01:38:10] Kalk len oradan. Ben seni başka bir yere oturtacağım.
-1407 [01:38:12] Kaybol.
-1408 [01:38:15] Sayın Valim, Kızılderili kardeşlerimizle etle tırnak gibiyiz, yıllardır.
-1409 [01:38:21] Ayrıca kazanana takdim edeceğimiz ödülü de zat-ı alinize veriyorum.
-1410 [01:38:25] Sağ olun.
-1411 [01:38:27] - Efendim, başlıyoruz. - Buyurun.
+1398 [01:37:49] -LE- Efendim Lemi Galip, hazineden. Hoş geldiniz.
+1399 [01:37:51] -AZ- Aziz Vefa. Teşkilattan. Ama gizli.
+1400 [01:37:53] -VW- Memnun oldum canım.
+1401 [01:37:55] -LO- Sayın Valim. Cannonball kasabasının Şerifi William Lloyd.
+1402 [01:37:58] -VW- Memnun oldum canım. -BE- Ben de karısıyım, Betty Lloyd.
+1403 [01:38:01] -VW- Memnun oldum hanımefendi.
+1404 [01:38:02] -LO- Her tarafı temizlettik efendim. Lütfen büyurun.
+1405 [01:38:06] Büyurun. Hehehe... Bütün organizasyon bana ait.
+1406 [01:38:10] -EU- Şşşt. Kalk len oradan. Ben seni başka yere oturtacağım.
+1407 [01:38:12] -LO- Kaybol. Kaybol.
+1408 [01:38:15] Sayın Valim, Kızılderili kardeşlerimizle etle tırnak gibiyiz, yıllardır. Hehehe...
+1409 [01:38:21] Ayrıca gazanana takdim edeceğiniz ödülü de zat-ı alinize veriyorum.
+1410 [01:38:25] -VW- Sağ olun.
+1411 [01:38:27] -AZ- Efendim, başlıyoruz. -VW- Buyurun.
 --- [5s boşluk] ---
-1412 [01:38:35] Yek... dü... Tecrübe... Yek... dü... Tecrübe... Tecrübe...
-1413 [01:38:40] Aziz...
-1414 [01:38:41] Ya... yay...
+===
+1412 [01:38:35] -LE- Yek... dü... Tecrübe... Yek... dü... Tecrübe... Tecrübe...
+1414 [01:38:41] -AZ- Ya... yay...
 --- [4s boşluk] ---
-1415 [01:38:46] Sayın Vali. Sayın Kaymakam. Kıymetli Belediye Başkanı.
-1416 [01:38:52] Birbirinden değerli Kızılderili kardeşlerimiz ve Cannonball Ahalisi.
+1415 [01:38:46] -LE- Sayın Vali. Sayın Kaymakam. Kıymetli Belediye Başkanı.
+1416 [01:38:52] Birbirinden değerli Kızılderili kardeşlerimiz ve Cannonball ahalisi!
 --- [3s boşluk] ---
 1417 [01:39:00] Unuttuğum biri var mı diye bakıyorum...
 1418 [01:39:04] Şimdi, sultanımızın, Tophane nahiyemizle...
@@ -1633,105 +1653,107 @@ Kullanım:
 1420 [01:39:13] ...Cannonball'un, düşman işgalinden kurtuluşunun...
 1421 [01:39:16] ...temsili milisler tarafından canlandırılması! Arz ederim!
 --- [18s boşluk] ---
-1422 [01:39:38] Bir apaçi ağlıyor... Gözleri yaşlı...
+1422 [01:39:38] -U1- Bir apaçi ağlıyor... Gözleri yaşlı...
 1423 [01:39:43] Yalnız bir kovboydu... Dağları aştı...
 1424 [01:39:48] Ağla kovboy ağla! Ben de ağlayayım!
-1425 [01:39:53] Bu topraklardan sana arsa bağlayayım!
+1425 [01:39:53] Bu topraklardan sana, arsa bağlayayım!
 --- [3s boşluk] ---
-1426 [01:40:00] Kalk lan! Sen de bir şeyler yap, Vali'nin gözüne girelim. Hadi!
+1426 [01:40:00] -LO- Kalk lan! Sen de bir şeyler yap, Vali'nin gozüne girelim. Hadi!
 --- [3s boşluk] ---
-1427 [01:40:06] Amerika kovboyları donsuz gezerler, çıplak atın üstünde...
+1427 [01:40:06] -C1- Amerika kovboyları donsuz gezerler, çıplak atın üstünde...
 --- [5s boşluk] ---
-1428 [01:40:16] Şimdi de Suzan Van Dyke'tan atış gösterisi.
-1429 [01:40:21] Fırla! Fırla! Dikkat et, Vali'yi vurma.
+1428 [01:40:16] -AZ- Şimdi de Suzan Van Dyke'tan atış gösterisi.
+1429 [01:40:21] Fırla! Fırla! Dikkat et, Vali'yi vurma. Hahah...
 --- [20s boşluk] ---
 1430 [01:40:44] Çocuklar, beş dakikamız var.
 --- [5s boşluk] ---
-1431 [01:40:52] Pehlivan... Pehlivan! Yiğitler çıktı meydana...
+1431 [01:40:52] -LE- Pehlivan... Pehlivan! Yiğitler çıktı meydana...
 1432 [01:40:57] ...her biri birbirinden merdane...
 1433 [01:41:00] Atlar gibi tepişin, aslanlar gibi güreşin.
 1434 [01:41:04] İşte meydan, işte pehlivan.
 1435 [01:41:08] Alta geldim diye erinme. Üste çıktım diye şişinme.
 1436 [01:41:13] Alta gelirsen apış...
 1437 [01:41:16] Üste gelirsen paça kazıktan yapış.
-1438 [01:41:20] Kazanan: Aziz Vefa!
-1439 [01:41:24] Bravo Aziz!
-1440 [01:41:25] - Kazanan ne alıyordu? - Kafasını... İşine bak len.
-1441 [01:41:30] Önüne bak len.
+1438 [01:41:20] -SU- Kazanan: Aziz Vefa!
+1439 [01:41:24] -LE- Bravo Aziz!
+1440 [01:41:25] -BE- Kazanan ne alıyordu? -LO- Kafasını... İşine bak len.
+1441 [01:41:30] -BE- Önüne bak len.
 --- [4s boşluk] ---
-1442 [01:41:35] Kazanan: Küçük Joe!
+1442 [01:41:35] -SU- Kazanan: Küçük Joe!
 --- [3s boşluk] ---
 1443 [01:41:41] Kazanan: Aziz Vefa!
 --- [8s boşluk] ---
 1444 [01:41:51] Kazanan: Keş John!
-1445 [01:41:55] - Hadi Aziz! Aferin! Bravo! - Kazanan: Aziz Vefa!
+1445 [01:41:55] -LE- Hadi Aziz! Aferin! Bravo! -SU- Kazanan: Aziz Vefa!
 --- [3s boşluk] ---
 1446 [01:42:03] Kazanan: Büyük Ben!
 --- [5s boşluk] ---
-1447 [01:42:11] Bravo Aziz!
+1447 [01:42:11] -LE- Bravo Aziz!
 1448 [01:42:12] Harbiden indiriyor musun, yoksa kıyak mı geçiyorlar?
-1449 [01:42:15] Haa kıyak geçiyorlar...
-1450 [01:42:17] - Aldık be emaneti Aziz, ha? - Aldık kardeşim.
-1451 [01:42:20] - Küçük bir teferruat kaldı. - Bu mu?
-1452 [01:42:22] O değil lan. Bu!
-1453 [01:42:25] Sen ne istiyorsun? Adam yeterince yağlı. Git hadi.
+1449 [01:42:15] -AZ- Haa kıyak geçiyorlar...
+1450 [01:42:17] -LE- Aldık be emaneti Aziz, ha? -AZ- Aldık kardeşim.
+1451 [01:42:20] Küçük bir teferruat kaldı. -LE- Bu mu?
+1452 [01:42:22] -AZ- O değil lan. Bu!
+1453 [01:42:25] -LE- Sen ne istiyorsun? Adam yeterince yağlı. Git hadi.
 1454 [01:42:27] Hadi Aziz... Aferin sana. Allah'a emanet!
 --- [11s boşluk] ---
-1455 [01:42:42] - Bravo Aziz! Bravo!
-1456 [01:42:44] - Öldü mü lan? - Yok yahu.
+1455 [01:42:42] Bravo Aziz! Bravo!
+1456 [01:42:44] -AZ- Öldü mü lan? -LE- Yok yahu.
 1457 [01:42:46] Müsabakalardan evvel iki kazan kuru pilav yedirdim.
 1458 [01:42:49] İyi bile dayandı.
-1459 [01:42:51] Turnuvanın galibi: Aziz Vefa!
+1459 [01:42:51] -SU- Turnuvanın galibi: Aziz Vefa!
 --- [3s boşluk] ---
-1460 [01:42:57] Hadi Aziz! Vali bekliyor.
+1460 [01:42:57] -LE- Hadi Aziz! Vali bekliyor.
 --- [4s boşluk] ---
 1461 [01:43:03] Çok bahtiyarım Suzan kardeş.
-1462 [01:43:05] Aferin kel oğlan. Tebrik ederim.
-1463 [01:43:08] Bileğinin hakkıyla kazandın.
+1462 [01:43:05] -LO- Aferin kel oğlan. Tebrik ederim.
+1463 [01:43:08] Bileğinin hakkıyla kazandın. Heheh...
 1464 [01:43:10] Sayın Valim, lütfen siz takdim edin. Buyurun.
-1465 [01:43:14] - Tebrikler Aziz Bey. - Sağ olun efendim.
-1466 [01:43:16] Nasıl söylüyorsunuz, bu er meydanında büyük bir zafer kazandınız.
+1465 [01:43:14] -VW- Tebrikler Aziz Bey. -AZ- Sağ olun efendim.
+1466 [01:43:16] -VW- Nasıl söylüyorsunuz, bu er meydanında büyük bir zafer kazandınız.
 1467 [01:43:22] Onun için bu ödülü size veriyorum. Buyurun.
 --- [5s boşluk] ---
-1468 [01:43:31] - Aziz Bey? - Buyurun efendim. Buyurun.
-1469 [01:43:34] - Aziz, elmas sahteymiş. - Belli...
-1470 [01:43:37] - Gerçek elmas kasadaymış. - Galiba kasanın anahtarı nerede biliyorum.
-1471 [01:43:41] - Nasıl yani? - Nasıl yani?
-1472 [01:43:42] - Chuck'ı konuşturdum. - Chuck'ı mı konuşturdun?
-1473 [01:43:47] - Chuck! Elmas nerede? - Kasada.
-1474 [01:43:49] - Kasanın anahtarı nerede? - Şerifin götünde.
-1475 [01:43:52] Siktir lan!
+1468 [01:43:31] -VW- Aziz Bey? -LO- Buyurun efendim. Buyurun.
+===
+1469 [01:43:34] -LE- Aziz, elmas sahteymiş. -AZ- Belli...
+1470 [01:43:37] -SU- Gerçek elmas kasadaymış. -AZ- Galiba kasanın anahtarı nerede biliyorum.
+1471 [01:43:41] -SU- Nasıl yani? -LE- Nasıl yani?
+1472 [01:43:42] -AZ- Chuck'ı konuşturdum. -LE- Chuck'ı mı konuşturdun?
+1473 [01:43:47] -AZ- Chuck! Elmas nerede? -CC- Kasadaaa.
+1474 [01:43:49] -AZ- Kasanın anahtarı nerede? -CC- Şerifin götündeee.
+1475 [01:43:52] -AZ- Siktir lan!
 1476 [01:43:54] İlk söylediğinde ciddiye almamıştım. Ama şimdi taşlar yerine oturuyor.
 1477 [01:44:00] Bekleyin beni.
-1478 [01:44:02] - Sayın Valim? >- Buyurun?
-1479 [01:44:04] Müsaade ederseniz Şerif Lloyd'u er meydanında...
+1478 [01:44:02] Sayın Valim? -VW- Buyurun?
+1479 [01:44:04] -AZ- Müsaade ederseniz Şerif Lloyd'u er meydanında...
 1480 [01:44:06] ...bir gösteri maçına davet etmek istiyorum.
-1481 [01:44:08] Buyurun tabii. İstediğiniz gibi...
-1482 [01:44:10] - Yürü! Düzenbaz! - Fakat Sayın Valim...
-1483 [01:44:12] - Kispeti getirin! - Fakat Sayın Valim, beni böyle...
-1484 [01:44:14] Davullar çalsın!
+1481 [01:44:08] -VW- Buyurun tabii. İstediğiniz gibi...
+1482 [01:44:10] -LE- Yürü! Düzenbaz! -LO- Fakat Sayın Valim...
+1483 [01:44:12] -AZ- Kispeti getirin! -LO- Fakat Sayın Valim, beni böyle...
+1484 [01:44:14] -AZ- Davullar çalsın!
 --- [3s boşluk] ---
-1485 [01:44:18] Lloooyd!
+1485 [01:44:18] -BE- Lloooyd!
 --- [14s boşluk] ---
-1486 [01:44:33] Ulen, lastiğin biri patlak ama sen kaşındın kel oğlan.
-1487 [01:44:38] Gel bakalım üçüncü dünyanın vatandaşı.
-1488 [01:44:41] Benim bildiğim bir tane dünya var Lloyd! Orada da sana yer yok.
-1489 [01:44:45] Biz de aya gideriz.
-1490 [01:44:47] Ulan siz gitmeseniz de gittik dersiniz zaten!
-1491 [01:44:51] Konuşma lan. Götü boklu emperyalist.
-1492 [01:44:56] Elli sene içinde Balkanlar'dan götünüze tekmeyi vurup kovacaklar.
-1493 [01:45:01] - Sen de götüne kına yakarsın o zaman. - Yok ya!
+1486 [01:44:33] -LO- Ulen, lastiğin biri patlak ama sen gaşındın kel oğlan.
+1487 [01:44:38] Gel bağalım üçüncü dünyanın vatandaşı.
+1488 [01:44:41] -AZ- Benim bildiğim bir tane dünya var Lloyd! Orada da sana yer yok.
+1489 [01:44:45] -LO- Biz de aya giderik.
+1490 [01:44:47] -AZ- Ulan siz gitmeseniz de gittik dersiniz zaten!
+1491 [01:44:51] -LO- Gonuşma lan. Götü boklu emperyalist.
+1492 [01:44:56] Elli sene içinde Balkanlar'dan gotünüze tekmeyi vurup govacaklar.
+1493 [01:45:01] -AZ- Sen de götüne kına yakarsın o zaman. -LO- Yok ya!
 1494 [01:45:04] Ah!
 1495 [01:45:06] Lan dur... Oraya değil lan... Oraya... Hasancık kemiğim lan...
-1496 [01:45:13] Suzan!
+1496 [01:45:13] -AZ- Suzan!
 --- [4s boşluk] ---
-1497 [01:45:18] Kazanan, Aziz Vefa!
+1497 [01:45:18] -SU- Kazanan, Aziz Vefa!
 --- [3s boşluk] ---
-1498 [01:45:24] Rahatladın mı?
+1498 [01:45:24] -AZ- Rahatladın mı?
 1499 [01:45:28] Baba, sana emanet!
 1500 [01:45:30] Şimdi de evlilik düeti!
 --- [17s boşluk] ---
-1501 [01:45:50] # Bu bekârlıktan bıktım usandım.
+===
+1501 [01:45:50] -AZ- # Bu bekârlıktan bıktım usandım.
 1502 [01:45:53] # Metreslerimden hiç tat almadım.
 1503 [01:45:57] # Bu bekârlıktan bıktım usandım.
 1504 [01:46:01] # Metreslerimden hiç tat almadım.
@@ -1739,24 +1761,24 @@ Kullanım:
 1506 [01:46:08] # Lakin münasip bir bayan nerden bulayım?
 1507 [01:46:12] # Şimdi tek arzum, evlenmektir kararım.
 1508 [01:46:15] # Lakin münasip bir bayan nerden bulayım?
-1509 [01:46:19] # Bu bekârlıktan bıktım usandım.
+1509 [01:46:19] -SU- # Bu bekârlıktan bıktım usandım.
 1510 [01:46:23] # Âşıklarımdan hiç tat almadım.
 1511 [01:46:27] # Bu bekârlıktan bıktım usandım.
 1512 [01:46:30] # Nasiplerimden hiç tat almadım.
 1513 [01:46:34] # Şimdi tek arzum, evlenmektir kararım.
 1514 [01:46:37] # Lakin münasip bir koca nerden bulayım?
-1515 [01:46:40] - Senin ismin neydi delikanlı? - Chuuuck!
-1516 [01:46:42] Derhal!
-1517 [01:46:45] # Lakin münasip bir koca nerden bulayım?
-1518 [01:46:49] # İşte bir bayan pek mini mini...
+1515 [01:46:40] -LE- Senin ismin neydi delikanlı? -CC- Chuuuck!
+1516 [01:46:42] -LE- Derhal!
+1517 [01:46:45] -SU- # Lakin münasip bir koca nerden bulayım?
+1518 [01:46:49] -AZ- # İşte bir bayan pek mini mini...
 1519 [01:46:52] # Acep söylesem sever mi beni?
 1520 [01:46:56] # İşte bir bayan pek mini mini...
 1521 [01:47:00] # Acep söylesem sever mi beni?
 1522 [01:47:03] # Matmazel bana verir misin elini?
-1523 [01:47:07] # Al elimin, hem kalbimin sensin sahibi.
-1524 [01:47:11] # Matmazel bana verir misin kalbini?
-1525 [01:47:14] # Al elimin, hem kalbimin sensin sahibi.
-1526 [01:47:18] # İşte kavuştum ben aşığıma.
+1523 [01:47:07] -SU- # Al elimin, hem kalbimin sensin sahibi.
+1524 [01:47:11] -AZ- # Matmazel bana verir misin kalbini?
+1525 [01:47:14] -SU- # Al elimin, hem kalbimin sensin sahibi.
+1526 [01:47:18] -AZ- -SU- # İşte kavuştum ben aşığıma.
 1527 [01:47:22] # Tanrı çıkardı seni karşıma.
 1528 [01:47:25] # Aç kollarını gel aguşuma.
 1529 [01:47:29] # Darısı bekârların başına...
@@ -1765,132 +1787,143 @@ Kullanım:
 1532 [01:47:40] # Bizi görenler sakın kıskanmasınlar.
 1533 [01:47:44] # Bir eş bulup evlenerek mesut olsunlar.
 --- [9s boşluk] ---
-1534 [01:47:56] Beyaz Saray, Washington (Kolombiya Bölgesi)
-1535 [01:47:59] Kadını anlat kadını. Posta arabası diye bir posta gidiyordu valla.
-1536 [01:48:02] Aziz efendi nükteyi bırakın efendim. Bir bayan vardı...
+===
+1535 [01:47:59] -AZ- Kadını anlat kadını. Posta arabası diye bir posta gidiyordu valla. Hahaha...
+1536 [01:48:02] -LE- Aziz efendi nükteyi bırakın efendim. Bir bayan vardı...
 1537 [01:48:06] Hmmm...
-1538 [01:48:09] Vay, kilisedeki oğlan... Lan ne yaptın ettin, Beyaz Saray'a girdin ha?
-1539 [01:48:13] - Aferin valla. - Daha bu bir şey değil.
+1538 [01:48:09] -AZ- Vay, kilisedeki oğlan... Lan ne yaptın ettin, Beyaz Saray'a girdin ha?
+1539 [01:48:13] Aferin valla. -KO- Daha bu bir şey değil.
 1540 [01:48:15] Şimdilik limonatalarına işiyorum.
 1541 [01:48:17] Daha neler yapacağım.
-1542 [01:48:18] Ziyade olsun.
-1543 [01:48:21] Aaaa, ne arıyorsunuz efendim burada?
-1544 [01:48:24] Ben size söylemedim mi daha büyük şeyler olacak diye?
-1545 [01:48:28] Afiyet olsun.
-1546 [01:48:30] Başkan James Abraham Garfield...
+1542 [01:48:18] -AZ- Ziyade olsun.
+1543 [01:48:21] -LE- Aaaa, ne arıyorsunuz efendim burada?
+1544 [01:48:24] -DE- Ben size söylemedim mi daha büyük şeyler olacak diye? Hahaha...
+1545 [01:48:28] -AZ- Afiyet olsun.
+1546 [01:48:30] -KB- Başkan James Abraham Garfield...
 --- [13s boşluk] ---
-1547 [01:48:45] Lemi?
-1548 [01:48:46] Efendim gecikmiş de olsa, Sultanımızın hediyesini, müsaade buyurursanız...
-1549 [01:48:51] - Buyurun. - Dostluğumuzun bir nişanesi olarak...
+1547 [01:48:45] -AZ- Lemi?
+1548 [01:48:46] -LE- Efendim gecikmiş de olsa, Sultanımızın hediyesini, müsaade buyurursanız...
+1549 [01:48:51] Buyurun. -AZ- Dostluğumuzun bir nişanesi olarak...
 --- [3s boşluk] ---
-1550 [01:48:57] Vay! İnanılmaz... Nereden buldunuz bunu ya?
-1551 [01:49:03] Ha? Çaldınız mı yoksa ha?
-1552 [01:49:07] - Böyle şeyler var mı sizde? - Efendim, sultanımızın gönlünden kopmuş.
-1553 [01:49:12] İyi de, ben takamam bunu yahu. Öyle değil mi Benson?
+1550 [01:48:57] -GA- Vay! İnanılmaz... Nereden buldunuz bunu ya? Hehehe...
+1551 [01:49:03] Çaldınız mı yoksa ha? Heheheh...
+1552 [01:49:07] Böyle şeyler var mı sizde? -AZ- Efendim, sultanımızın gönlünden kopmuş.
+1553 [01:49:12] -GA- İyi de, ben takamam bunu yahu. Öyle değil mi Benson? Hahahah...
 --- [3s boşluk] ---
 1554 [01:49:20] Yahu, size bir şey soracağım, sizin memlekette deve var mı?
-1555 [01:49:26] Efendim var. Var ama sizin ayarınızda yok.
-1556 [01:49:29] İyi, oh varsa...
-1557 [01:49:32] Başkanlığımızın Aziz Bey size küçük bir hediyesi...
+1555 [01:49:26] -LE- Efendim var. Var ama sizin ayarınızda yok.
+1556 [01:49:29] -GA- İyi, oh varsa...
+1557 [01:49:32] -GA- Başkanlığımızın Aziz Bey size küçük bir hediyesi...
 1558 [01:49:36] Hani yolda nasıl olsa çarıkları da çaldırırsınız...
-1559 [01:49:40] ...memlekete yalınayak, başı kabak dönmeyin.
+1559 [01:49:40] ...memlekete yalınayak, başı kabak dönmeyin. Hahahah...
 --- [3s boşluk] ---
-1560 [01:49:45] Aziz'cim... Sinirlenme Aziz.
-1561 [01:49:50] Efendim size şöyle cevap vereyim...
+1560 [01:49:45] -SU- Aziz'cim... Sinirlenme Aziz.
+1561 [01:49:50] -AZ- Efendim size şöyle cevap vereyim...
 1562 [01:49:52] Yalın ayak başı kabak, gezdik hep garb-ı alem...
 1563 [01:49:55] Kimi yahşi, kimi vahşi, kimi erbab-ı kalem...
 1564 [01:49:59] Unvanın hıyardır ama, diyelim bari badem...
 1565 [01:50:03] Ver sokayım çizmene, hediye olundu madem.
 1566 [01:50:05] Çak Lemi.
-1567 [01:50:09] İşte Vedat abicim hikâye böyle. Hatta...
+===
+1567 [01:50:09] -ZE- İşte Vedat abicim hikâye böyle. Hatta...
 1568 [01:50:13] ...Aziz Baba'nın o finalde başkana çektiği cilanın eski Türkçe olarak...
 1569 [01:50:18] ...burada yazılı hali mevcut.
-1570 [01:50:21] - Yani her şey olduğu gibi... - Gerçek abi.
-1571 [01:50:24] Bakayım abi şuna.
-1572 [01:50:27] - Burada abi, eski Türkçe. - Vay be! Böyle bir şey yok.
+1570 [01:50:21] - Yani her şey olduğu gibi... -AL- Gerçek abi.
+1571 [01:50:24] -VE- Bakayım abi şuna.
+1572 [01:50:27] -ZE- Burada abi, eski Türkçe. -VE- Vay be! Böyle bir şey yok.
 1573 [01:50:32] Muhteşem!
-1574 [01:50:33] Ya Zeki'ciğim, ne güzel anlattın. Uçurdun bizi ya, valla.
+1574 [01:50:33] -AL- Ya Zeki'ciğim, ne güzel anlattın. Uçurdun bizi ya, valla.
 1575 [01:50:37] Eeee, ne diyorsun şimdi çizmeye?
-1576 [01:50:42] Yirmi abi...
-1577 [01:50:43] - Yirmi ne? - Afyon dinarı.
-1578 [01:50:47] Yirmi bin dolar abi. Yirmi bin dolar, o da gerçekten sizin gibi bir abimize.
+1576 [01:50:42] -ZE- Yirmi abi...
+1577 [01:50:43] -VE- Yirmi ne? -ZE- Afyon dinarı. Hahaha...
+1578 [01:50:47] -ZE- Yirmi bin dolar abi. Yirmi bin dolar, o da gerçekten sizin gibi bir abimize.
 1579 [01:50:52] Alpay abim bilir bunu...
 1580 [01:50:54] ...Vedat Abi, ihtiyacım olmasa hakikaten satacak bir insan değilim.
 1581 [01:50:58] Çok kıymetli...
-1582 [01:51:00] Şimdi Zeki'cim, yani, elması getirmiş olsan...
-1583 [01:51:04] Abi onlar hep müzededir. Onları biz de göremeyiz yani. Müzededir.
-1584 [01:51:09] Şaka tabii canım.
+1582 [01:51:00] -VE- Şimdi Zeki'cim, yani, elması getirmiş olsan...
+1583 [01:51:04] -ZE- Abi onlar hep müzededir. Onları biz de göremeyiz yani. Müzededir.
+1584 [01:51:09] -VE- Şaka tabii canım.
 1585 [01:51:10] Ama yani şimdi işin gerçeği çizme pek benim ilgimi çekmedi.
-1586 [01:51:14] - Yani meraklısına göstermek lazım. - Evet.
-1587 [01:51:17] - Siz ilgilenmiyorsunuz çizmeyle. - Maalesef...
-1588 [01:51:21] - Alpay abi müsaade var mı? - Tabii...
-1589 [01:51:23] Vedat abi, ben yine yanımda belki ilgi alanınıza girer diyerekten
+1586 [01:51:14] Yani meraklısına göstermek lazım. -ZE- Evet.
+1587 [01:51:17] Siz ilgilenmiyorsunuz çizmeyle. -VE- Maalesef...
+1588 [01:51:21] -ZE- Alpay abi müsaade var mı? -AL- Tabii...
+1589 [01:51:23] -ZE- Vedat abi, ben yine yanımda belki ilgi alanınıza girer diyerekten
 1590 [01:51:28] ...şöyle bir şey yaptım.
 1591 [01:51:31] Bu abi, Zümrüt kaplama...
 --- [3s boşluk] ---
-1592 [01:51:36] ...tamamen zümrüt Nançaku. - Vay be...
-1593 [01:51:39] - Mımçıka yanında mıydı ya? - Mımçıka değil, nançaku.
-1594 [01:51:42] Did you mean Mımçıka? / Mımçıka mı demek istedin? Bu nançaku, tamamen zümrüt abi.
+1592 [01:51:36] ...tamamen zümrüt Nançaku. -AL- Vay be...
+1593 [01:51:39] -RA- Mımçıka yanında mıydı ya? -ZE- Mımçıka değil, nançaku.
+1594 [01:51:42] Did you mean Mımçıka? Bu nançaku, tamamen zümrüt abi.
 1595 [01:51:47] Bu, Osmanlı Sultanının, Çin hükümdarına bir hediyesi.
 1596 [01:51:51] Ve, bunu şöyle yapmışlar, bu zümrütleri...
-1597 [01:51:55] - Eee? - Vedat abi, alıcıysan anlatacağım.
-1598 [01:52:00] E anlat tabii ya...
-1599 [01:52:02] Sultan, Aziz'le Lemi'yi huzuruna çağırıyor...
+1597 [01:51:55] -VE- Eee? -ZE- Vedat abi, alıcıysan anlatacağım.
+1598 [01:52:00] -VE- E anlat tabii ya...
+1599 [01:52:02] -ZE- Sultan, Aziz'le Lemi'yi huzuruna çağırıyor...
 --- [23s boşluk] ---
-1600 [01:52:28] Ulan bunun içine ne koyuyorlarsa adamın canına can katıyor be!
-1601 [01:52:32] - Yapana helal olsun. - Afiyet olsun.
-1602 [01:52:36] - Vereyim mi formülünü? - Ver!
-1603 [01:52:38] Al!
+===
+1600 [01:52:28] -LO- Ulan bunun içine ne goyuyorlarsa adamın canına can gatıyor be!
+1601 [01:52:32] Yapana helal olsun. -AZ- Afiyet olsun.
+1602 [01:52:36] Vereyim mi formülünü? -LO- Ver!
+1603 [01:52:38] -AZ- Al!
 --- [3s boşluk] ---
-1604 [01:52:42] Efendim o değil de, siz İstanbul'u hiç mi görmediniz?
-1605 [01:52:44] l-ıh! Ama arkadaşlarım Bodrum'a gitmiş, çok anlattılar.
+===
+1604 [01:52:42] -LE- Efendim o değil de, siz İstanbul'u hiç mi görmediniz?
+1605 [01:52:44] -BB- I ıh! Ama arkadaşlarım Bodrum'a gitmiş, çok anlattılar.
 1606 [01:52:48] Torba bozulmuş diyorlar?
-1607 [01:52:51] Torba bozulur tabii. Torba niye bozulmasın?
-1608 [01:52:54] Bana bak, bir çocuğunuz olursa torunuma abuk subuk isimler koymayın ha?
-1609 [01:52:57] - Ne koyalım baba? - Dilli kaşarlı...
-1610 [01:53:00] - Nasıl yani? - Kızılkayalar, Bambi, Dilli Kaşarlı...
-1611 [01:53:04] - Olmadı mı? - Oldu mu?
-1612 [01:53:06] Olmadı...
-1613 [01:53:08] Chuck!
-1614 [01:53:10] - Bu karıyı buldunuz mu lan? - Yooo...
-1615 [01:53:12] Oğlum, bu karı var ya... Aranıyor.
-1616 [01:53:16] Suzan, sana çok özeniyorum. Kasaba kadınlarının sesi olmak istiyorum ben.
-1617 [01:53:21] Bu sesle mi?
-1618 [01:53:24] Benim kanaatim, doğunun iyi yanlarını alacaksın.
-1619 [01:53:28] Benim atalarımın da Orta Anadolu'dan geldiği söylenir, biliyor musun?
-1620 [01:53:32] Haa, belli...
-1621 [01:53:35] Aksandan anladın değil mi?
-1622 [01:53:37] Haa...
-1623 [01:53:40] Ne kadar dikkat etsek de kaçıyor demek ki...
-1624 [01:53:44] Günah çıkarmak istiyorum peder.
+1607 [01:52:51] -LE- Torba bozulur tabii. Torba niye bozulmasın?
+===
+1608 [01:52:54] -KK- Bana bak, bir çocuğunuz olursa torunuma abuk subuk isimler koymayın ha?
+1609 [01:52:57] -SU- Ne koyalım baba? -KK- Dilli kaşarlı...
+1610 [01:53:00] -SU- Nasıl yani? -KK- Kızılkayalar, Bambi, Dilli Kaşarlı...
+1611 [01:53:04] Olmadı mı? -SU- Oldu mu?
+1612 [01:53:06] -KK- Olmadı...
+===
+1613 [01:53:08] -EU- Chuck!
+1614 [01:53:10] Bu karıyı buldunuz mu lan? -CC- Yooo...
+1615 [01:53:12] -EU- Oğlum, bu karı var ya... Aranıyor.
+===
+1616 [01:53:16] -BE- Suzan, sana çok özeniyom. Gasaba gadınlarının sesi olmak istiyom ben.
+1617 [01:53:21] -SU- Bu sesle mi? -BE- Heheheh...
+===
+1618 [01:53:24] -KK- Benim kanaatim, doğunun iyi yanlarını alıcan.
+1619 [01:53:28] -LO- Benim atalarımın da Orta Anadolu'dan geldiği söylenir, biliyon mu?
+1620 [01:53:32] -KK- Haa, belli...
+1621 [01:53:35] -LO- Aksandan anladın de mi?
+1622 [01:53:37] -KK- Hee... -LO- Heheehe... -KK- Hahahah...
+1623 [01:53:40] -LO- Ne kadar digat etsek de gaçıyor demek ki...
+===
+1624 [01:53:44] -AL- Günah çıkarmak istiyorum peder.
 --- [6s boşluk] ---
-1625 [01:53:52] Al.
+1625 [01:53:52] -LE- Al.
 1626 [01:53:53] Bununla çıkarabilir misin?
 1627 [01:53:55] Kendi kendine, şurada köşede... Hadi, hadi canım...
-1628 [01:54:00] Aaah, ulan karı ah!
-1629 [01:54:03] Zamansız gittin, beni Allah'ın delisiyle baş başa bıraktın.
+===
+1628 [01:54:00] -LO- Aaah, ulan garı ah!
+1629 [01:54:03] Zamansız gettin, beni Allah'ın delisiyle baş başa bıraktın.
 --- [4s boşluk] ---
-1630 [01:54:11] Ah...
-1631 [01:54:14] Geçen gün öyle atıp tuttun ama, evlenince beni kafese kapatmayacaksın inşallah.
-1632 [01:54:19] Yavrum kafese kapatacak olsak aslan besleriz.
-1633 [01:54:22] Yani... Mantıklı.
-1634 [01:54:24] En fazla şöyle olur. Samatya'da annemlerin bir evi var cumbalı.
-1635 [01:54:28] - Orada oturacağız. - Kayınvalideyle oturacağız yani!
-1636 [01:54:33] E şöyle yapalım, Emirgan'da bir köşk alayım sana...
+1630 [01:54:11] Amaaan allah!
+===
+1631 [01:54:14] -SU- Geçen gün öyle atıp tuttun ama, evlenince beni kafese kapatmayacaksın inşallah.
+1632 [01:54:19] -AZ- Yavrum kafese kapatacak olsak aslan besleriz.
+1633 [01:54:22] -SU- Yani... Mantıklı.
+1634 [01:54:24] -AZ- En fazla şöyle olur. Samatya'da annemlerin bir evi var cumbalı.
+1635 [01:54:28] Orada oturacağız. -SU- Kayınvalideyle oturacağız yani!
+1636 [01:54:33] -AZ- E şöyle yapalım, Emirgan'da bir köşk alayım sana...
 1637 [01:54:36] ...içine oturtayım seni. Kucağına da bir kanun...
-1638 [01:54:40] Haa... Kanundan kaçılmaz diyorsun yani ha?
-1639 [01:54:43] Yani müzikal olarak evet...
+1638 [01:54:40] -SU- Haa... Kanundan kaçılmaz diyorsun yani ha?
+1639 [01:54:43] -AZ- Yani müzikal olarak evet...
 1640 [01:54:46] Doooo reeee miii fa miii...
-1641 [01:54:52] - Sıkıntı var mi'de. - Arıza var.
-1642 [01:54:57] La miiiii...
-1643 [01:55:00] Öyle değil lan. Önce öne... Şu... Önce bu...
-1644 [01:55:05] Filmde hiç lazım olmadı ki bu.
-1645 [01:55:07] Bir kere ateş etmedik anasını satıyım koca filmde.
-1646 [01:55:09] Eeee, yazana bakacaksın.
+1641 [01:54:52] -SU- Sıkıntı var mi'de. -AZ- Arıza var.
+1642 [01:54:57] La miiiii... Hahaha...
+===
+1643 [01:55:00] -AZ- Öyle değil lan. Önce öne... Şu... Önce bu...
+1644 [01:55:05] -LE- Filmde hiç lazım olmadı ki bu.
+1645 [01:55:07] -AZ- Bir kere ateş etmedik anasını satıyım koca filmde.
+1646 [01:55:09] -LE- Eeee, yazana bakacaksın.
 1647 [01:55:10] Bırakıyorum zaten, bu son komedi filmim.
-1648 [01:55:13] Komediyi bırakıyorsun. Kime bırakıyorsun?
-1649 [01:55:16] Soru sorma bak. Soru sorma, oralara çok hazırlıklı değilim.
-1650 [01:55:19] Neyse ama bir sakatlık çıkmadan bitti koca film.
-1651 [01:55:22] Aman maşallah de maşallah.
-1652 [01:55:24] - Aaahhh! - Hassiktir!
-1653 [01:55:26] - Aaaahhh! Ne yaptın be abi ya? - Dur zehrini alacağım...
+1648 [01:55:13] -AZ- Komediyi bırakıyorsun. Kime bırakıyorsun?
+1649 [01:55:16] -LE- Soru sorma. Soru sorma, oralara çok hazırlıklı değilim.
+1650 [01:55:19] -AZ- Neyse ama bir sakatlık çıkmadan bitti koca film.
+1651 [01:55:22] -LE- Aman maşallah de maşallah.
+1652 [01:55:24] Aaahhh! -AZ- Hassiktir!
+1653 [01:55:26] -LE- Aaaahhh! Ne yaptın be abi ya? -AZ- Dur zehrini alacağım... Hahahah...
