@@ -1,0 +1,93 @@
+[
+  {
+    "id": "yb_001",
+    "start": "00:00:14",
+    "end": "00:00:49",
+    "duration_sec": 35.0,
+    "block_range": "0001-0012",
+    "text": "[dort karakter meyhanede bir raki masasinda. samimi bir ortam. etraflarinda insan yok. aralarinda sohbet ediyorlar. AL karakteri erotik shop isleten bir adamin basina gelmis komik bir hikayeyi anlatiyor. hikayenin yarisindan itibaren dinlemeye basliyoruz.] -AL- Şimdi kadın \"ince uzun da olur, kalın da olur, damarlı da olur, şöyle de olur, böyle de olur\" deyince... bizim usta dayanamıyor, birden ayağa kalkıyor. \"Ablacım öylesini bulsam\" diyor, \"ben..\" diyor, \"şey yaparım...\" diyor. [hep birlikte gulusuyorlar. AL karakterinin anlattigi hikayede adamin soylemi bariz sekilde cinsel bir soylem. hikayenin komedisi buradan cikiyor.] -RA- Ustaya bak! -VE- Tabii canım, eskiden ona zıbık derler. Böyle, kahve değirmeni gibi olur. Şu kadar böyle... -ZE- Tahtadan, değil mi abi? Tahtadan. -VE- Yaşa. -ZE- Ben görmedim ama duydum yani. -RA- Of be abi, ne güldük ya! Vedat abi, buyur abi. [RA karakteri VE karakterini rakilari tokusturmaya davet ediyor] -VE- Hadi bakalım. -ZE- Abi hoş geldin. -RA- Hoş geldin abi. -VE- Sağlığınıza. [rakilari tokusturduktan sonra ilk yudumlarini aliyorlar]",
+    "characters": [
+      "Alpay",
+      "Ramazan",
+      "Vedat",
+      "Zeki"
+    ],
+    "location": "",
+    "scene_description": "",
+    "humor_note": "",
+    "related_chunks": [],
+    "humor_analysis": {
+      "techniques": [],
+      "why_funny": "",
+      "cultural_context": "",
+      "comedic_timing": ""
+    },
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "orgs": [],
+      "misc": []
+    },
+    "summary": ""
+  },
+  {
+    "id": "yb_002",
+    "start": "00:00:56",
+    "end": "00:02:22",
+    "duration_sec": 86.0,
+    "block_range": "0013-0043",
+    "text": "[AL karakteri ZE karakterini orada asil bulusma sebepleri olan seyi gostermeye davet ediyor.] -AL- Zekicim, istersen şey yapalım. -ZE- Abi o kadar güldük ettik, Vedat abimiz... beklemesin. -RA- Ne yaptın oğlum, naylona mı koydun onu ya? -ZE- Oğlum, ambalaj dandik olacak ki dikkat çekmeyeceksin, değil mi abi? -AL- Tabii ya. -ZE- Abi mal bu. [tarihi eski siyah bir cizme. posetin icinden cikarip ortama gosteriyor.] Zaten dikişiyle falan kendini belli ediyor, Vedat abi. -VE- Peki dokunabiliyor muyuz? -ZE- Ne demek! Şöyle vereyim abi, buyur. Abi buna uzun Wellington diyorlar. Bu aşağı yukarı 130-140 yıllık abi. Tam şimdi yalan olmasın ama aşağı yukarı... -VE- Peki size bunun gelişi... -ZE- Abi bize bunun gelişi tabii, enteresan oldu. [konusurken bi an duraksiyor.] -VE- Anlat oğlum, Vedat kardeşimiz yabancı değil ya. Kimse yok, biz bizeyiz. -ZE- Abi, Amerikan Başkanı Garfield... -RA- O kedi olan mı? [cizgi film karakteri garfield ile amerikan baskani garfield'i birbirine karistiriyor gibi soruyor. ama aslinda gercekten birbirine karistirdigindan degil saka amacli soruyor.] -ZE- Ne kedisi amına koyayım ya! -RA- Ya Garfield kedi değil mi ya? -ZE- Oğlum bir açın da bir Google'a girin bakın be! Dönemin Amerikan Başkanı Garfield. [RA karakteri eliyle klavye hareketi yapiyor. hayali olarak google'a giriyor gibi yapiyor.] -RA- Al tamam, giriyorum. Garfield... Did you mean Garfield? Gene kedi, Başkan nerede, yok. Tatilde. Hehehe... -VE- Şekerim sen devam et. [ZE karakteri AL karakterine RA karakterini sikayet eder gibi bir tavir takiniyor.] -ZE- Alpay abi. -AL- Devam et sen ya. [ZE karakteri elinde nargilesiyle cizmenin hikayesini anlatmaya basliyor.] -ZE- Vedat abi... Amerikan Başkanı, Sultan'a bir hediye gönderiyor. Sultanımıza. Sultanımız da diyor ki, ben de diyor karşı bir hediye göndereyim diyor. Benim dedemin babası, Teşkilât-ı Mahsusa'dan Aziz Vefa. Bir de Hazine'den, yine memur... Lemi Galip. Bunlara bir görev veriyor. Diyor ki; ne diyor... Benim diyor, hediyeyi diyor, Başkan'a diyor, götürün diyor. [burada flashback oluyor. goruntu AZ ve LE karakterlerinin saraya gelisinden basliyor. ZE karakteri anlatmaya devam ediyor. sahnede anlattigi seyleri izliyoruz.]",
+    "characters": [
+      "Alpay",
+      "Zeki",
+      "Ramazan",
+      "Vedat"
+    ],
+    "location": "",
+    "scene_description": "",
+    "humor_note": "",
+    "related_chunks": [],
+    "humor_analysis": {
+      "techniques": [],
+      "why_funny": "",
+      "cultural_context": "",
+      "comedic_timing": ""
+    },
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "orgs": [],
+      "misc": []
+    },
+    "summary": ""
+  },
+  {
+    "id": "yb_003",
+    "start": "00:02:25",
+    "end": "00:03:43",
+    "duration_sec": 78.0,
+    "block_range": "0044-0062",
+    "text": "-ZE- Çıkıyorlar saraya. -RA- Saraya mı çıkıyorlar? -ZE- Yok, Dolmabahçe sahilinde mi buluşacaklar Sultan'la ya? Saraya çıkıyorlar. -RA- Tamam anlat, ne bozuyorsun ya? -ZE- Oğlum anlatacağım da siz önce bir dinlemesini öğrenin. Bir insanın anlattığı karşısındakinin dinleyebildiği kadardır. -RA- Hee. -ZE- Sultanın huzuruna geliyorlar. İşte Sultanın elini öpüyorlar. -RA- Sultan da bunları öpüyor mu? -ZE- Ya bir dakika be oğlum, sulandırma ya! Hemen emanet takdim ediliyor. Nedir emanet? Elmas bir kolye. Bu diyor, bundan sonra size emanet. Bir de diyor, alın size 1000 dolar, yolluk. Konfederasyon doları. Şimdi, Amerika sapa yer... Sultanım ben götüremem diyebilir misin? Mutlak götürücen. [AZ ve LE karakterleri saraydan ayriliyor ve yola cikiyorlar.] Görevi aldıktan sonra zaten istikamet belli. [ZE karakteri anlattikca, bir dunya haritasi uzerinde bu iki karakterin yolculugunu izliyoruz.] Tak, buradan Orient Express'le Paris yapıyorlar. Tak, oradan gemiyle Londra. Tak Atlantik üzerinden yine gemiyle Amerika. [filmin introsu ve muzigi giriyor. filmin oyuncularinin, emekcilerinin isimlerini ve oyuncularin oynadiklari karakterlerin gorsellerini goruyoruz. ayni zamanda filmin temasi yani western ile ilgili nesneleri de goruyoruz. silahlar, fesler, serif rozeti, kovboy sapkasi, kizilderili tuyleri, elmas kolye vs. en son kocaman bir sekilde filmin adi yaziyor. intro bitiyor. western hikayesi olan kismi, filmin ana hikayesi basliyor.]",
+    "characters": [
+      "Zeki",
+      "Ramazan"
+    ],
+    "location": "",
+    "scene_description": "",
+    "humor_note": "",
+    "related_chunks": [],
+    "humor_analysis": {
+      "techniques": [],
+      "why_funny": "",
+      "cultural_context": "",
+      "comedic_timing": ""
+    },
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "orgs": [],
+      "misc": []
+    },
+    "summary": ""
+  }
+]

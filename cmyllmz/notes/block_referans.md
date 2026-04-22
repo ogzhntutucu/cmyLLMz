@@ -7,52 +7,52 @@ Kullanım:
   - --- satırları zaman boşluğu göstergesi, gerekirse üstüne === ekle
 ============================================================
 
-0001 [00:00:14] -AL- Şimdi kadın, ince uzun da olur, kalın da olur, damarlı da olur, 
-0002 [00:00:18] şöyle de olur, böyle de olur deyince... 
+0001 [00:00:14] [dort karakter meyhanede bir raki masasinda. samimi bir ortam. etraflarinda insan yok. aralarinda sohbet ediyorlar. AL karakteri erotik shop isleten bir adamin basina gelmis komik bir hikayeyi anlatiyor. hikayenin yarisindan itibaren dinlemeye basliyoruz.] -AL- Şimdi kadın "ince uzun da olur, kalın da olur, damarlı da olur, 
+0002 [00:00:18] şöyle de olur, böyle de olur" deyince... 
 0003 [00:00:20] bizim usta dayanamıyor, birden ayağa kalkıyor.
-0004 [00:00:22] Ablacım öylesini bulsam diyor, ben diyor, şey yaparım diyor.
+0004 [00:00:22] "Ablacım öylesini bulsam" diyor, "ben.." diyor, "şey yaparım..." diyor. [hep birlikte gulusuyorlar. AL karakterinin anlattigi hikayede adamin soylemi bariz sekilde cinsel bir soylem. hikayenin komedisi buradan cikiyor.]
 0005 [00:00:26] -RA- Ustaya bak!
 0006 [00:00:30] -VE- Tabii canım, eskiden ona zıbık derler.
 0007 [00:00:33] Böyle, kahve değirmeni gibi olur. Şu kadar böyle...
 0008 [00:00:35] -ZE- Tahtadan, değil mi abi? Tahtadan. -VE- Yaşa.
 0009 [00:00:37] -ZE- Ben görmedim ama duydum yani.
-0010 [00:00:41] -RA- Of be abi, ne güldük ya! Vedat abi, buyur abi.
+0010 [00:00:41] -RA- Of be abi, ne güldük ya! Vedat abi, buyur abi. [RA karakteri VE karakterini rakilari tokusturmaya davet ediyor]
 0011 [00:00:44] -VE- Hadi bakalım. -ZE- Abi hoş geldin.
-0012 [00:00:46] -RA- Hoş geldin abi. -VE- Sağlığınıza.
+0012 [00:00:46] -RA- Hoş geldin abi. -VE- Sağlığınıza. [rakilari tokusturduktan sonra ilk yudumlarini aliyorlar]
 ===
-0013 [00:00:56] -AL- Zekicim, istersen şey yapalım.
+0013 [00:00:56] [AL karakteri ZE karakterini orada asil bulusma sebepleri olan seyi gostermeye davet ediyor.] -AL- Zekicim, istersen şey yapalım. 
 0014 [00:00:58] -ZE- Abi o kadar güldük ettik, Vedat abimiz...
 0015 [00:01:01] beklemesin.
 0016 [00:01:04] -RA- Ne yaptın oğlum, naylona mı koydun onu ya?
 0017 [00:01:06] -ZE- Oğlum, ambalaj dandik olacak ki dikkat çekmeyeceksin, değil mi abi?
 0018 [00:01:10] -AL- Tabii ya.
-0019 [00:01:11] -ZE- Abi mal bu.
+0019 [00:01:11] -ZE- Abi mal bu. [tarihi eski siyah bir cizme. posetin icinden cikarip ortama gosteriyor.]
 0020 [00:01:13] Zaten dikişiyle falan kendini belli ediyor, Vedat abi.
 0021 [00:01:16] -VE- Peki dokunabiliyor muyuz? -ZE- Ne demek!
 0022 [00:01:17] Şöyle vereyim abi, buyur.
 0023 [00:01:21] Abi buna uzun Wellington diyorlar. Bu aşağı yukarı 130-140 yıllık abi.
 0024 [00:01:24] Tam şimdi yalan olmasın ama aşağı yukarı...
 0025 [00:01:27] -VE- Peki size bunun gelişi...
-0026 [00:01:28] -ZE- Abi bize bunun gelişi tabii, enteresan oldu.
+0026 [00:01:28] -ZE- Abi bize bunun gelişi tabii, enteresan oldu. [konusurken bi an duraksiyor.]
 0027 [00:01:32] -VE- Anlat oğlum, Vedat kardeşimiz yabancı değil ya.
 0028 [00:01:35] Kimse yok, biz bizeyiz.
-0029 [00:01:36] -ZE- Abi, Amerikan Başkanı Garfield... -RA- O kedi olan mı?
+0029 [00:01:36] -ZE- Abi, Amerikan Başkanı Garfield... -RA- O kedi olan mı? [cizgi film karakteri garfield ile amerikan baskani garfield'i birbirine karistiriyor gibi soruyor. ama aslinda gercekten birbirine karistirdigindan degil saka amacli soruyor.]
 0030 [00:01:39] -ZE- Ne kedisi amına koyayım ya! -RA- Ya Garfield kedi değil mi ya?
 0031 [00:01:42] -ZE- Oğlum bir açın da bir Google'a girin bakın be!
-0032 [00:01:45] Dönemin Amerikan Başkanı Garfield.
+0032 [00:01:45] Dönemin Amerikan Başkanı Garfield. [RA karakteri eliyle klavye hareketi yapiyor. hayali olarak google'a giriyor gibi yapiyor.]
 0033 [00:01:47] -RA- Al tamam, giriyorum. Garfield...
 0034 [00:01:49] Did you mean Garfield?
 0035 [00:01:51] Gene kedi, Başkan nerede, yok. Tatilde. Hehehe...
-0036 [00:01:54] -VE- Şekerim sen devam et. -ZE- Alpay abi.
-0037 [00:01:56] -AL- Devam et sen ya.
+0036 [00:01:54] -VE- Şekerim sen devam et. [ZE karakteri AL karakterine RA karakterini sikayet eder gibi bir tavir takiniyor.] -ZE- Alpay abi.
+0037 [00:01:56] -AL- Devam et sen ya. [ZE karakteri elinde nargilesiyle cizmenin hikayesini anlatmaya basliyor.]
 0038 [00:01:59] -ZE- Vedat abi... Amerikan Başkanı, Sultan'a bir hediye gönderiyor. Sultanımıza.
 0039 [00:02:03] Sultanımız da diyor ki, ben de diyor karşı bir hediye göndereyim diyor.
-0040 [00:02:08] Benim dedemin babası, Teşkilât-ı Mahsusa'dan Aziz Vefa...
-0041 [00:02:12] ...bir de Hazine'den, yine memur... Lemi Galip...
+0040 [00:02:08] Benim dedemin babası, Teşkilât-ı Mahsusa'dan Aziz Vefa.
+0041 [00:02:12] Bir de Hazine'den, yine memur... Lemi Galip.
 0042 [00:02:16] Bunlara bir görev veriyor. Diyor ki; ne diyor...
 0043 [00:02:18] Benim diyor, hediyeyi diyor, Başkan'a diyor, götürün diyor.
 ===
-0044 [00:02:25] -ZE- Çıkıyorlar saraya. -RA- Saraya mı çıkıyorlar?
+0044 [00:02:25] [burada flashback oluyor. goruntu AZ ve LE karakterlerinin saraya gelisinden basliyor. ZE karakteri anlatmaya devam ediyor. sahnede anlattigi seyleri izliyoruz.] -ZE- Çıkıyorlar saraya. -RA- Saraya mı çıkıyorlar?
 0045 [00:02:28] -ZE- Yok, Dolmabahçe sahilinde mi buluşacaklar Sultan'la ya?
 0046 [00:02:31] Saraya çıkıyorlar. -RA- Tamam anlat, ne bozuyorsun ya?
 0047 [00:02:34] -ZE- Oğlum anlatacağım da siz önce bir dinlemesini öğrenin.
@@ -66,11 +66,11 @@ Kullanım:
 0055 [00:03:07] Bir de diyor, alın size 1000 dolar, yolluk.
 0056 [00:03:09] Konfederasyon doları.
 0057 [00:03:13] Şimdi, Amerika sapa yer...
-0058 [00:03:15] Sultanım ben götüremem diyebilir misin? Mutlak götürücen.
-0059 [00:03:31] Görevi aldıktan sonra zaten istikamet belli.
+0058 [00:03:15] Sultanım ben götüremem diyebilir misin? Mutlak götürücen. [AZ ve LE karakterleri saraydan ayriliyor ve yola cikiyorlar.]
+0059 [00:03:31] Görevi aldıktan sonra zaten istikamet belli. [ZE karakteri anlattikca, bir dunya haritasi uzerinde bu iki karakterin yolculugunu izliyoruz.]
 0060 [00:03:34] Tak, buradan Orient Express'le Paris yapıyorlar.
 0061 [00:03:37] Tak, oradan gemiyle Londra.
-0062 [00:03:40] Tak Atlantik üzerinden yine gemiyle Amerika.
+0062 [00:03:40] Tak Atlantik üzerinden yine gemiyle Amerika. [filmin introsu ve muzigi giriyor. filmin oyuncularinin, emekcilerinin isimlerini ve oyuncularin oynadiklari karakterlerin gorsellerini goruyoruz. ayni zamanda filmin temasi yani western ile ilgili nesneleri de goruyoruz. silahlar, fesler, serif rozeti, kovboy sapkasi, kizilderili tuyleri, elmas kolye vs. en son kocaman bir sekilde filmin adi yaziyor. intro bitiyor. western hikayesi olan kismi, filmin ana hikayesi basliyor.]
 ===
 0064 [00:05:17] -K1- I did it again, I'm terribly sorry.
 0065 [00:05:20] Bumper road, isn't it darling. Hahaha...
