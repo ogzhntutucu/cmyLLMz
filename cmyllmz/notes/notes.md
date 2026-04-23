@@ -58,3 +58,6 @@ replik ici alintilarda " kullan
 .... oldugu icin ... oldu. simdi bu yuzden .... diyecek/ olacak. seklinde ileri ve gerideki repliklere referans verilebilir.
 
 az ama cok dolu chunk mi daha kotu yoksa cok ama ici daha az chunk mi? ona gore kucultelim chunklari ve cogaltalim.
+
+altyazilarda sakalari "komik" kelimesi ile isaretledim. mizahi sahneleri bu kelimeyi aratarak bulabilirsiniz.
+ikili = AZ VE LE karakteri
