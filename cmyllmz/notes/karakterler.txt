@@ -7,17 +7,17 @@
 # İsimsiz karakterler için sıra numarası kullan (H1, H2, K1 gibi).
 
 # === ÇERÇEVE HİKAYE (Günümüz — Rakı masası) ===
-ZE = Zeki
-AL = Alpay
-RA = Ramazan
-VE = Vedat
+ZE = Zeki (dolandirici 1)
+AL = Alpay (ortak arkadas, abi)
+RA = Ramazan (dolandirici 2 - gizli)
+VE = Vedat (alici)
 
 # === ANA HİKAYE (1881 — Osmanlı / Vahşi Batı) ===
 AZ = Aziz Vefa (bi yerde zozo the kid, bi yerde istenmeyen tuy)
-LE = Lemi Galip (bi yerde johnny lesh, bi yerde pontiac)
-JA = Jack
-JO = Johnny Lesh
-RT = Richard Thomas
+LE = Lemi Galip (bi yerde johnny lesh, bi yerde pontiac, kucuk bi yerde kelle avcisi lenny)
+JA = Jack (arabadaki adam. K1'in yanindaki)
+JO = Johnny Lesh (haydut cetesinin lideri)
+RT = Richard Thomas (kizilderili grubunun lideri)
 CH = Şerif Cheko
 PE = Peder
 MU = Şerif Murphy
@@ -41,17 +41,17 @@ GA = James Abraham Garfield (amerikan baskani)
 # === ANA HIKAYE - İSİMSİZ / YAN KARAKTERLER ===
 # Bunları filmi izlerken kendin ekle.
 
-K1 = Kadın 1
-H1 = Haydut 1
-H2 = Haydut 2
-D1 = Kızılderili 1
-D2 = Kızılderili Kenan
-UL = Ulak
+K1 = Kadın 1 (arabadaki kadin, jack'in yanindaki.)
+H1 = Haydut 1 (johnny lesh'in sag kolu - garry?)
+H2 = Haydut 2 (cetedeki bir haydut)
+D1 = Kızılderili 1 (kizilderili grubundaki bir kizilderili)
+D2 = Kızılderili Kenan (grubun yetkili bir abisi. Richard Thomasin sag kolu gibi)
+UL = Ulak (postane gorevlisi)
 RE = Redkit
 SA = Silah Saticisi
-K2 = KADIN 2
-K3 = KADIN 3
-ZO = zorba adam
+K2 = KADIN 2 (gulmeyen kadin)
+K3 = KADIN 3 (diger gulmeyen kadin)
+ZO = zorba adam (macunu alip giden adam)
 E1 = Esnaf 1
 E2 = Esnaf 2
 S1 = SERIF 1

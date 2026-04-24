@@ -72,7 +72,7 @@ Kullanım:
 0061 [00:03:37] Tak, oradan gemiyle Londra.
 0062 [00:03:40] Tak Atlantik üzerinden yine gemiyle Amerika. [filmin introsu ve muzigi giriyor. filmin oyuncularinin, emekcilerinin isimlerini ve oyuncularin oynadiklari karakterlerin gorsellerini goruyoruz. ayni zamanda filmin temasi yani western ile ilgili nesneleri de goruyoruz. silahlar, fesler, serif rozeti, kovboy sapkasi, kizilderili tuyleri, elmas kolye vs. en son kocaman bir sekilde filmin adi yaziyor. intro bitiyor. western hikayesi olan kismi, filmin ana hikayesi basliyor.]
 ===
-0064 [00:05:17] [western temali filmin ana hikayesi basladi. ekranda "Greenland Valley, DC - 27 April 1881" yaziyor. AZ ve LE karakteri amerika'ya ulasmislar. bir at arabasi icindeler. at arabasini silahli iki kisi suruyor. arabanin icinde de AZ ve LE karakteri disinda K1 ve JA karakterleri de var. hep birlikte yolculuk ediyorlar. K1 ve JA karakterinin giyim kusami oldukca medeni. K1 karakterinin dekolteli bir kiyafeti var.] -K1- I did it again, I'm terribly sorry. [K1 karakteri arabanin surekli sallanmasindan oturu dengesini kaybedip LE karakterinin uzerine dusuyor. fakat bunu biraz bilerek yapiyor gibi bir tavri var. fazla merakli ve biraz atesli bir kadina benziyor.]
+0064 [00:05:17] [western temali filmin ana hikayesi basladi. ekranda "GREENLAND VALLEY, DC - 27 APRIL 1881" yaziyor. AZ ve LE karakteri amerika'ya ulasmislar. bir at arabasi icindeler. at arabasini silahli iki kisi suruyor. arabanin icinde de AZ ve LE karakteri disinda K1 ve JA karakterleri de var. hep birlikte yolculuk ediyorlar. K1 ve JA karakterinin giyim kusami oldukca medeni. K1 karakterinin dekolteli bir kiyafeti var.] -K1- I did it again, I'm terribly sorry. [K1 karakteri arabanin surekli sallanmasindan oturu dengesini kaybedip LE karakterinin uzerine dusuyor. fakat bunu biraz bilerek yapiyor gibi bir tavri var. fazla merakli ve biraz atesli bir kadina benziyor.]
 0065 [00:05:20] Bumper road, isn't it darling. Hahaha...
 0066 [00:05:23] -LE- S'il vous plait, Madam.
 0067 [00:05:26] -K1- Excuse my curiosity sir, but...
@@ -347,141 +347,141 @@ Kullanım:
 0298 [00:21:53] -AZ- Bırak ulan. Milleti zapt-ı rapt altına alma.
 0299 [00:21:56] İster soğuk içer ister sıcak. [gonderme iceren bu fikri begenmiyor. komik bir gonderme ve tepki. bu sahne burada bitiyor.]
 ===
-0300 [00:21:57] -AZ- Gel abicim, gel! Gel abicim!
+0300 [00:21:57] [ikili tavuk ekmek kola satma isine basliyorlar. tezgahlarinin onunde birsuru insan var. etrafta baska saticilar da var. onlar ses cikarmiyorlar. ama ikili bagiriyor.] -AZ- Gel abicim, gel! Gel abicim!
 0301 [00:22:01] Eyvallah. Al abi al.
 --- [3s boşluk] ---
 0302 [00:22:05] -LE- Buz gibi kola içen! -AZ- Gel abicim! Gel! Gel! Gel!
-0303 [00:22:07] Param olsa da ben alsam! -LE- Kuru kuru gitmez!
+0303 [00:22:07] Param olsa da ben alsaaam! -LE- Kuru kuru gitmez!
 0304 [00:22:09] -AZ- Var mı acıkan? Var mı acıkan!
 0305 [00:22:13] -LE- Parasını alayım. -AZ- Buyur abi.
 0306 [00:22:15] Abi butum daha pişiyor, kanat vereceğim.
 --- [3s boşluk] ---
-0307 [00:22:20] Şunu bozsana bana.
-0308 [00:22:22] Param olsa da ben alsaaam.
-0309 [00:22:24] -E1- Ayıp olmuyor mu kardeşim, ne bağırıyorsunuz?
-0310 [00:22:27] -AZ- Esnaf değil misin kardeşim? Sen de bağır! Ağlamayana meme yok.
-0311 [00:22:31] -E2- Biz Kentucy'liyiz lan, artistlik yapma!
-0312 [00:22:33] -AZ- Biz de Samatya'lıyız lan, bize mi artistlik yapıy...
+0307 [00:22:20] Şunu bozsana bana. [LE karakterine tum para veriyor. bozuk sekilde almak icin]
+0308 [00:22:22] Param olsa da ben alsaaam. [ikili turk esnafinin cok bilindik sozlerini kullaniyor. amerika gibi bir yerde tavuk ekmek satmaya baslamalari ve bu sozlerle satis yapmalari komik.]
+0309 [00:22:24] -E1- Ayıp olmuyor mu kardeşim, ne bağırıyorsunuz? [AZ ve LE ikilisinin bagirarak insanlari kendine cekmesinden ve satislarinin dusmesinden baska bir esnaf ikilisi rahatsiz oluyor.]
+0310 [00:22:27] -AZ- Esnaf değil misin kardeşim? Sen de bağır! Ağlamayana meme yok. [E1 karakteri AZ ve LE karakterinin tezgahina dogru patates firlatir.]
+0311 [00:22:31] -E2- Biz Kentucy'liyiz lan, artistlik yapma! [turkiyede kavgalar baslamadan once "ben suraliyim", "biz suraliyiz" gibi ifadelerle rakip korkutulmaya calisilir. buna bir referans var. komik bir diyalog.]
+0312 [00:22:33] -AZ- Biz de Samatya'lıyız lan, bize mi artistlik yapıy... [AZ karakteri tavuk pisirdigi izgara standini asabi sekilde iki eliyle asagi atar ve kavgayi baslatir. AZ ve LE ikilisi ile E1 ile E2 ikilisi kavga etmeye baslar.]
 --- [4s boşluk] ---
 0313 [00:22:40] -AZ- Bırakın lan!
-0314 [00:22:42] -LE- Şişeyle vururum!
+0314 [00:22:42] -LE- Şişeyle vururum! [tam kavga devam ederken bulunduklari yerin serifi ortaya cikar ve havaya bir el ates eder. kavgayi durdurur. bu boslugu firsat bilen E1 karakteri AZ karakterine saglam bi yumruk atar:]
 --- [5s boşluk] ---
-0315 [00:22:48] -AZ- Allah!
+0315 [00:22:48] -AZ- Allah! [AZ ve LE karakterini esnaflarin bulundugu alanin disina atarlar. kolanin bulundugu gugumu de yanlarina firlatirlar ve gugum kirilir.] [ZE karakteri durumu anlatmaya devam eder:]
 0316 [00:22:50] -ZE- Yaa, Kentucky'de tavuk ekmek satacaklarmış.
-0317 [00:22:53] Sattırırlar mı adama?
-0318 [00:22:55] Adam orda tezgahını kurmuş, yedirir mi sana hiç? Tanıdın mı?
+0317 [00:22:53] Sattırırlar mı adama? [tam bu sirada serif ile oranin yerli esnaflarini el sikisirken goruyoruz.]
+0318 [00:22:55] Adam orda tezgahını kurmuş, yedirir mi sana hiç? Tanıdın mı? 
 0319 [00:22:58] -RA- Kimi abicim? -ZE- Kim olacak, amblem.
-0320 [00:23:01] Şimdi bana adamın reklamını yaptırtma.
-0321 [00:23:03] Bizimkilerin durumu yine hüsran, yine hüsran.
+0320 [00:23:01] Şimdi bana adamın reklamını yaptırtma. [anliyoruz ki bu serif herhangi bir serif degil. dunyaca unlu tavukcu KFC markasinin amblemindeki beyaz giyimli adamin aynisi. komik bir ayrinti.]
+0321 [00:23:03] Bizimkilerin durumu yine hüsran, yine hüsran. [serif ile esnaflar sahneyi terk ediyor. AZ ve LE karakteri yalniz kaliyor. serif binasinin onune oturuyorlar. yine bir sikinti yasadiklari icin ikisi de uzgun.] [AZ karakteri annesinin kendisine muskayi sikintilardan korumasi icin verdigini soylemisti. ama iklinin hicbir isi yolunda gitmiyor. LE karakteri bunu dusunuyor olacak ki, tam bu sirada AZ karakterinin boynundaki muskayi almaya calisiyor. AZ karakteri almasina izin vermeyip onun elini itiyor. seyirci icin komik bir sahne.]
 --- [19s boşluk] ---
 ===
-0322 [00:23:26] -LE- Lehimleriz olur biter.
+0322 [00:23:26] [ikili serif binasinin onunde kendi arasinda konusmaya basliyor.] -LE- Lehimleriz olur biter. [gugumden bahsediyor.]
 0323 [00:23:28] -AZ- Namusumuzla da çalıştırtmıyor, tutucu pezevenkler!
 0324 [00:23:30] Kaç paramız var?
 0325 [00:23:33] -LE- 50-55 dolar kadar. -AZ- Ver şunu arkadaş.
 0326 [00:23:36] Bir tane altı patlar alacağım, dalacağım aralarına.
-0327 [00:23:39] Yeter artık ulan!
-0328 [00:23:40] Uyandım artık ben o Amerikan rüyasından.
+0327 [00:23:39] Yeter artık ulan! [tam bu sirada LE karakteri oturduklari yerine arkasina bakiyor, yani serif binasinin uzerine asili olan kagitlara. AZ akrakteri ise aldigi paralarla ilgileniyor.]
+0328 [00:23:40] Uyandım artık ben o Amerikan rüyasından. [yine amerikan ruyasi kavramina bir gonderme var.] [LE karakteri binadaki wanted yani araniyor kagitlarini gordukten sonra:]
 0329 [00:23:42] -LE- Aziz Efendi, sen aranıyorsun. -AZ- O Johnny Lesh denilen teresi de bulacağım.
 0330 [00:23:46] İndireceğim onu da.
-0331 [00:23:47] -LE- Aziz Efendi, sen aranıyorsun. -AZ- Ne aranması birader, olaylar bizi buluyor!
-0332 [00:23:51] -LE- Efendim öyle değil, bayağı aranıyorsun.
-0333 [00:23:54] -AZ- Aa!
-0334 [00:23:58] Aynı ben!
-0335 [00:24:00] 10 dolar. Alır mıyız bu parayı? -LE- Alırız valla.
+0331 [00:23:47] -LE- Aziz Efendi, sen aranıyorsun. -AZ- Ne aranması, birader, olaylar bizi buluyor! [AZ karakteri LE karakterine odaklanmadigi icin ve arkasina donup de kagitlara bakmadigi icin LE karakterinin demek istedigini yanlis anliyor. turkcede "aranmak" diye bir tabir vardir, yasanilacak olan olumsuz olaya kisinin kendinin ortam hazirlamasi gibi bir anlami var. burada LE karakterinin "sen araniyorsun" ifadesini "seni ariyorlar" anlaminda degil, "senin yuzunden oluyor" gibi anliyor. o yuzden bunu soyluyor. seyirci icin komik bir diyalog.]
+0332 [00:23:51] -LE- Efendim öyle değil, bayağı aranıyorsun. [LE karakteri arkadaki kagitlari gosteriyor. bir western ezgisi caliyor.]
+0333 [00:23:54] -AZ- Aa! [kalkip kagitlarin oraya gidiyorlar.]
+0334 [00:23:58] Aynı ben! [AZ karakteri wanted ilanindaki adama cok benziyor.]
+0335 [00:24:00] 10 dolar. Alır mıyız bu parayı? -LE- Alırız valla. [wanted ilanindaki bir parayi alabilmek icin sucluyu teslim etmek gerekir. bu ilandaki kisi AZ karakteri de degil. ikili burada gizli bir plan uzerine konusuyor ve seyirci henuz bilmiyor.]
 0336 [00:24:03] -AZ- Horse... Horse Whisper... Horse Whisperer...
-0337 [00:24:08] Horse, at!
-0338 [00:24:10] -LE- Buna ne diyorsun? Johnny Lesh, 500 dolar!
-0339 [00:24:15] -AZ- Wanted alemine girmiş demek ki eşşoğlu eşek!
-0340 [00:24:18] Şu güğümü bir tamir edelim hele.
+0337 [00:24:08] Horse, at! [burada 98 yapimi horse whisperer filmine bir gonderme var. normalde bu ifade atlariyla iyi iletisim kuran kisilere soylenir. ancak wanted ilaninda bu yazdigina gore bu bir suc olmali. burada anliyoruz ki, sanki atlara tecavuz eden kisilere bu ifade kullaniliyormus gibi bir saka var. atlara fisildamak = atlara tecavuz etmek gibi dusunuyor seyirci. komik bir ifade.]
+0338 [00:24:10] -LE- Buna ne diyorsun? Johnny Lesh, 500 dolar! [JO karakterinin ilanini goruyorlar]
+0339 [00:24:15] -AZ- Wanted alemine girmiş demek ki eşşoğlu eşek! 
+0340 [00:24:18] Şu güğümü bir tamir edelim hele. [AZ karakteri Horse Whisperer wanted ilanini rulo yapip yanina aliyor. ikili seyircinin bilmedigi bir plan uzerine anlasmis gozukuyor.]
 --- [9s boşluk] ---
 ===
-0341 [00:24:29] -LE- Merhabalar Şerif.
+0341 [00:24:29] [ikili herhangi bir kasabaya geliyor. LE karakteri at ustunde, AZ karakteri elleri bagli sekilde. kasaba serifinin binasina giris yapiyorlar.] -LE- Merhabalar Şerif.
 0342 [00:24:31] Ben kelle avcısı Lenny.
-0343 [00:24:35] Bu kovboy için bana 10 dolar ödeyeceksin. -S1- Hangi kovboy?
+0343 [00:24:35] Bu kovboy için bana 10 dolar ödeyeceksin. [anliyoruz ki AZ ve LE karakterleri farkli kisiler gibi davranarak wanted ilanlarindaki odulleri toplayacaklar. ama hala bunu nasil yapacaklarini seyirci bilmiyor.] -S1- Hangi kovboy?
 0344 [00:24:39] -LE- Atını siken kov...öhö...boy. -S1- Ne diyorsun lan?
-0345 [00:24:43] -LE- Yok mu bu atlara fısıldayan kovboy?
+0345 [00:24:43] -LE- Yok mu bu atlara fısıldayan kovboy? [S1 karakteri masaya vurur ve ayaga kalkar:]
 0346 [00:24:46] -S1- Şerefsiz! Irz düşmanı seni! Ulan!
-0347 [00:24:49] -AZ- Ben bir şey yapmadım abi, at başlattı.
+0347 [00:24:49] -AZ- Ben bir şey yapmadım abi, at başlattı. [burada Horse Whisperer ilanindaki kisi rolune burunen AZ karakteri isledigi sucu ata atan komik bi ifade kullaniyor.] [LE karakteri AZ karakterine tokat atar:]
 0348 [00:24:52] -LE- Böyle ırz düşmanlarını içeri tıkmak sizin boynunuzun borcu Şerif.
 0349 [00:24:55] -S1- Lou, at şu köpeği içeri.
-0350 [00:24:58] Ahırlardan uzak kalsın biraz pezevenk.
+0350 [00:24:58] Ahırlardan uzak kalsın biraz pezevenk. [AZ karakteri binada bu konusmanin yapildigi yerde herkesin yaninda olan parmakliklar ardina serifin yarimcisi Lou tarafindan hapis ediliyor.]
 --- [3s boşluk] ---
 0351 [00:25:03] Al, 10 doların.
 0352 [00:25:06] -LE- Bu ufak iş.
 0353 [00:25:08] Ben asıl Johnny Lesh'in peşindeyim.
 0354 [00:25:09] -S1- Johnny Lesh mi?
 0355 [00:25:12] Onu bulsam ben emekli olurum, sen ne diyorsun?
-0356 [00:25:14] Al. 500 dolar.
+0356 [00:25:14] Al. 500 dolar. [JO karakterinin ilanini burada da goruyorlar.] [LE karakteri parmakliklar ardindaki AZ karakterine bakiyor. AZ karakteri de onu onaylarcasina kas goz yapiyor.]
 --- [3s boşluk] ---
-0357 [00:25:19] -LE- Bir kola içer miyiz? -S1- Kola mı? İçiliyor mu?
+0357 [00:25:19] -LE- Bir kola içer miyiz? -S1- Kola mı? İçiliyor mu? [LE karakteri gugum ile uc bardak kola dolduruyor.]
 --- [10s boşluk] ---
 0358 [00:25:32] -LE- Buyurun Şerif.
-0359 [00:25:34] Almaz mıydınız?
+0359 [00:25:34] Almaz mıydınız? [bardaklarin ikisini serif ve yardimcisina veriyor, birisi de kendi icin.]
 --- [6s boşluk] ---
-0360 [00:25:42] Ohh...
+0360 [00:25:42] Ohh... [kolayi kendi de iciyor. ama buna ragmen garip sekilde serif ve yardimcisi uyuyakaliyor. anahtarlari alip AZ karakterini hapis edildigi yerden cikariyor. kendine bir sey olmadiginda anliyoruz ki kolaya kendilerine bir sey olmayacak sekilde bir katmislar. bu sekilde ilanlardaki suclularin tipine burunerek, odulleri toplayarak, serifleri uyutarak para kazanmayi planiyorlarmis. daha dogrusu, ilanlari da kendileri yapmaya basliyorlar. eglenceli bir muzik giriyor ve burada hizli hizli bircok serifi uyutarak ayni plani uyguladiklarini izliyoruz. AZ karakterini takma isim olarak "Zozo the Kid" ismini, LE karakteri ise "Lenny" adini kullanarak bircok kez ayni seyi yapiyorlar. ve her seferinde gittikleri her serifin binasinda JO karakterinin odul fiyatinin asama asama arttigini goruyoruz. burada son olarak fiyatinin 800 dolar oldugunu goruyoruz.]
 --- [42s boşluk] ---
 ===
-0361 [00:26:25] -AZ- Şerif Cheko?
+0361 [00:26:25] [AZ ve LE karakteri yine bir serifi kandirmak icin baska bir kasabaya geliyor. CH karakteri yani serif sarap siselerine silah atisi yaparak vakit geciriyor. tam o sirada ikili geliyor. bu sefer suclu LE karakteri, kelle avcisi ise AZ karakteri olmus.] -AZ- Şerif Cheko?
 --- [5s boşluk] ---
-0362 [00:26:31] At hırsızı Timothy.
+0362 [00:26:31] [CH karakterine LE karakterini tanitiyor:] At hırsızı Timothy.
 0363 [00:26:33] -CH- At hırsızı Timothy ha?
-0364 [00:26:37] Kaç yaşındasın sen?
-0365 [00:26:40] Aç ağzını! Aç!
-0366 [00:26:45] Beş para etmez. -AZ- 20 dolar.
+0364 [00:26:37] Kaç yaşındasın sen? [LE karakteri at gibi ses cikariyor ve davraniyor. komik bir goruntusu var.]
+0365 [00:26:40] Aç ağzını! Aç! [CH karakteri LE karakterinin dis sagligina bakiyor. sanki bir atmis gibi. anlamsiz ve komik bir sahne.]
+0366 [00:26:45] Beş para etmez. -AZ- 20 dolar. [CH karakteri ikiliye silah cekiyor.]
 --- [4s boşluk] ---
-0367 [00:26:51] -CH- 10 dolar.
-0368 [00:26:53] Ben at hırsızlarını hiç sevmem Timothy.
+0367 [00:26:51] -CH- 10 dolar. [ikiliden ses cikmayinca silahi LE karakterine dogrultuyor ve israrci bir tavri var:]
+0368 [00:26:53] Ben at hırsızlarını hiç sevmem Timothy. [AZ karakteri arkadasi vurulmasin diye kabul ediyor:]
 0369 [00:26:56] -AZ- Tamam 10 dolar. 10 dolar. 10 dolar. -CH- Anlaştık.
-0370 [00:27:00] Al içeri.
+0370 [00:27:00] Al içeri. [iceri geciyorlar. CH karakteri tam kendi viskisinden icmek icin hazirlik yaparken AZ soruyor:]
 --- [6s boşluk] ---
 0371 [00:27:07] -AZ- Şerif, bir kola içer miyiz?
 0372 [00:27:09] -CH- Kola mı?
-0373 [00:27:11] Ver bakayım.
-0374 [00:27:13] -AZ- Hooppaa...
+0373 [00:27:11] Ver bakayım. [AZ karakteri gugumden dolduruyor:]
+0374 [00:27:13] -AZ- Hooppaa... [CH icmeye basliyor]
 --- [4s boşluk] ---
-0375 [00:27:19] Siz?
+0375 [00:27:19] Siz? [AZ karakteri CH karakterinin yardimcisina da soruyor siz de ister misiniz gibisinden.]
 --- [4s boşluk] ---
-0376 [00:27:24] Buz gibi.
+0376 [00:27:24] Buz gibi. [kola gazli oldugu icin CH karakteri icinde gegiriyor. AZ de diyor:]
 --- [6s boşluk] ---
-0377 [00:27:31] Yarasın.
+0377 [00:27:31] Yarasın. [CH karakteri de yardimcisi da uyuyakaliyor. AZ seviniyor. anahtarlari alip LE karakterini hapisten cikariyor. serifin masasi uzerinde JO karakterinin baska bir wanted ilanini goruyorlar:]
 --- [12s boşluk] ---
 0378 [00:27:45] Johnny Lesh. 900 dolar.
-0379 [00:27:48] Dolardan hızlı yükseliyor pezevenk.
+0379 [00:27:48] Dolardan hızlı yükseliyor pezevenk. [AZ karakteri JO karakterinin wanted ilanini da rulo yapip yanlarina aliyor. masanin uzerindeki CH karakterinin viskisini de caliyor. o kasabayi da terk ediyorlar.]
 --- [8s boşluk] ---
 ===
-0380 [00:27:59] -AZ- Şşşt, bana bak!
+0380 [00:27:59] [AZ ve LE karakteri issiz bir yerde yalniz baslarina takiliyorlar. AZ karakteri ayakta ve elinde silah var ve tum konusma boyu keyfi ates ediyor uzaklara. ates ettikten sonra tipki bir kovboy gibi silahi elinde ceviriyor. LE karakteri agacin altinda oturuyor ve bir kagida bir seyler yaziyor. wanted ilanlarini nasil olusturduklarini anladigimiz bir sahne. giyim kusamlari degismis, bu isi cok kez yapip cok para kazanmis gibi bir havalari var. tatli bir western muzigi caliyor arkada.] -AZ- Şşşt, bana bak!
 0381 [00:28:00] Öyle az buz bir şey yazma, 100 dolar yaz.
 0382 [00:28:03] Tren soydu deriz.
 0383 [00:28:05] -LE- Aziz Efendi, isim ne yazayım? -AZ- İsim?
 0384 [00:28:11] Yaz, Jack Daniel. Zaten son işimiz oğlum.
 0385 [00:28:15] Yarın trenle White Lake'e gidiyoruz.
 0386 [00:28:18] -LE- Jack. -AZ- Daniel.
-0387 [00:28:21] -LE- Daniel...
-0388 [00:28:24] Trenci Jack. Hahaha...
+0387 [00:28:21] -LE- Daniel... [burada "Jack Daniel's" markasina komik bir gonderme var.]
+0388 [00:28:24] Trenci Jack. Hahaha... [gulusuyorlar.] [sahne degisiyor. son is olarak bahsettikleri kasabaya geliyorlar. kasabada birinin idam edilmek uzere boynuna ip gecirilmis at ustunde oldugunu ve yaninda bir peder'in dua okudugunu goruyoruz. serif, yardimcisi ve baska insanlar da var.]
 --- [5s boşluk] ---
 0389 [00:28:30] -PE- Küller küllere, toprak toprağa karışır.
 0390 [00:28:34] Yüce Tanrı, bu günahkar kardeşimizin ruhuna merhamet etsin.
 0391 [00:28:38] Ve onu uğurlayan bizler, onun ruhu için dua edelim.
-0392 [00:28:42] Tanrı onu korusun ve gözetsin. Amen.
+0392 [00:28:42] Tanrı onu korusun ve gözetsin. Amen. [AZ ve LE karakteri ortama giriyorlar. bu son seferde AZ karakteri kelle avcisi, LE karakteri de Trenci Jack rolunde.]
 --- [4s boşluk] ---
-0393 [00:28:50] -AZ- Kolay gelsin. Allah taksiratını affetsin birader.
-0394 [00:28:53] -PE- Birader değil, peder.
+0393 [00:28:50] -AZ- Kolay gelsin. Allah taksiratını affetsin birader. [hristiyanlik dinine gore olumune hazirlanan birinin yanina gelip bu cumleyi kurmasi komik bir sey.]
+0394 [00:28:53] -PE- Birader değil, peder. [PE karakterinin bunu soyleme sebebi, PE karakterini oynayan oyuncunun Can Yilmaz yani AZ karakterini oynayan Cem Yilmaz'in agabeyi olmasi. buraya boyle minik komik bir saka koymuslar.]
 0395 [00:28:56] -AZ- Şerife bakmıştık da...
 0396 [00:28:59] -MU- Ben Şerif Murphy.
 0397 [00:29:00] -AZ- Şerif, sana Trenci Jack'i getirdim.
 0398 [00:29:03] -MU- Trenci Jack? -AZ- Trenci Jack.
-0399 [00:29:05] -MU- Trenci Jack! -LE- Aha.
-0400 [00:29:08] -MU- Trenci Jack duydun mu? Arkadaşlar seni yakalamışlar.
-0401 [00:29:12] -TR- Lanet olsun size! Bitirin şu işi artık!
+0399 [00:29:05] -MU- Trenci Jack! -LE- Aha. [MU karakteri TR karakterine donerek:]
+0400 [00:29:08] -MU- Trenci Jack duydun mu? Arkadaşlar seni yakalamışlar. [burada anliyoruz ki Trenci Jack olarak uydurduklari ayni isimde gercekten birinin olmasi ve o kisinin de o an idam edilen TR karakteri olmasi. burada yaptiklari oyun ortaya cikiyor.] [gercek trenci jack idam edilmenin yarattigi gerginlik ile sinirleniyor:]
+0401 [00:29:12] -TR- Lanet olsun size! Bitirin şu işi artık! [AZ ve LE ikilisi yaptiklari oyunun ortaya ciktigini ve baslarinin belaya girecegini anliyor. aralarinda fisildayarak konusuyorlar:]
 0402 [00:29:14] -LE- Trenci Jack mi? -AZ- Şansımızı sikeyim!
 0403 [00:29:16] Sen söyledin trenci diye. -LE- Jack Daniel diyen kimdi?
-0404 [00:29:19] -AZ- Trenci Jack haaaa diye gülen ben miyim?
-0405 [00:29:21] Şerif, müsaade ederseniz size bir kola ikram etmek istiyorum.
+0404 [00:29:19] -AZ- Trenci Jack haaaa diye gülen ben miyim? [AZ karakteri son care olarak MU karakterini kandirmaya calisiyor:]
+0405 [00:29:21] Şerif, müsaade ederseniz size bir kola ikram etmek istiyorum. [MU karakteri oyunu anladigi icin silahini cikariyor ve gugume dogrultuyor.]
 0406 [00:29:24] Dur! Karbondioksit var içinde!
-0407 [00:29:26] -LE- Yapma. -AZ- Karbondioksit! Aaghhh! Aman!
-0408 [00:29:31] -CH- Bunları katran ve tüye bulayın, sonra da atın içeri!
-0409 [00:29:34] -Y1- Yürüyün! Yürüyün!
+0407 [00:29:26] -LE- Yapma. -AZ- Karbondioksit! [MU karakteri gugume ates ediyor. eglenceli bir muzik giriyor.] Aaghhh! Aman! [gugume ates edildigi ve kola asitli oldugu icin gugumden fiskiran kolanin yarattigi stresle AZ karakteri kendi etrafinda donmeye basliyor. eglenceli ve komik bir sahne.]
+0408 [00:29:31] -CH- Bunları katran ve tüye bulayın, sonra da atın içeri! [ikiliyi alip goturuyorlar. gugumu orada birakiyorlar.]
+0409 [00:29:34] -Y1- Yürüyün! Yürüyün! [gugumu biraktiklari yere adi olmayan herhangi biri geliyor. kolanin fiskirdigi yere bir sise tutarak kolayi icine dolduruyor. sise dolunca cok mutlu sekilde orayi terk ediyor. bi bakima kolayi caliyor. zaten "yasasin caldim" der gibi bir tavirla gidiyor.] [sahne degisiyor. ikiliyi hapse atmislar. ekranda "BALLSTONE JAILHOUSE, WV" yaziyor. burada uskudar'daki eski toptasi cezaevi'ne bir komik gonderme var. AZ ve LE karakterlerinin sadece yuzleri gozukecek sekilde her tarafini tuy yapmislar. komik bir goruntuleri var.]
 --- [7s boşluk] ---
 0410 [00:29:43] -Y1- İhtiyacınızı bu kaba giderin. Her tarafı da kuş pisliği yapmayın.
 --- [5s boşluk] ---
