@@ -21,6 +21,7 @@
 - Beyaz Saray, Washington (Kolombiya Bölgesi)
 - serif lloyd koylu ali sen agizina benzer bir agizla konusuyor.
 - zeki ve ramazan pek tanismiyor gibi yapiyorlar. aslinda birlikte dolandirmaya calisiyorlar. danisikli dovus yapiyorlar.
+- filmin adi vahsi bati'dan geliyor.
 
 # plana gore opsiyonel kisimlar
 
@@ -61,3 +62,22 @@ az ama cok dolu chunk mi daha kotu yoksa cok ama ici daha az chunk mi? ona gore 
 
 altyazilarda sakalari "komik" kelimesi ile isaretledim. mizahi sahneleri bu kelimeyi aratarak bulabilirsiniz.
 ikili = AZ VE LE karakteri
+
+kontrol ederken XX karakteri seklinde yazildigindan emin ol her yerde. sonradan o kodlar yerine isimleri getirtebiliriz. hazir olsun yani.
+
+gordugumuzu gorecek
+duydugumuzu duyacak
+anladigimizi anlayacak
+tum bunlari ayni anda yapacak. su an icin mumkun degil. ama mumkun olsaydi nasil olurdu?
+
+hem kor hem duymayan birine nasil anlatirsin? ya da bu kulturde yetismemis baska dilde konusan bir yabanciya nasil anlatirsin?
+
+bir sekilde bu timestamp isaretli halini de kullanmam lazim. bunu filmi izlerken anlik aciklayan bir sistem de kurulabilir. su an neden soyle oldu falan gibi sorular sorarken hangi andan bahsediyor anlayabilmek icin. 
+
+[ ] bolmeleri tekrar kontrol edelim 
+
+altyazilardaki kelimeleri duzeltmesin. oldugu gibi versin. bazilarinda yazim hatalari, vs. olabilir belki ama zaten onlar filmin icinde oyle oldugu icin oyle biraktim bilerek.
+
+anlamadigim sakalar:
+0497
+528,529,530
