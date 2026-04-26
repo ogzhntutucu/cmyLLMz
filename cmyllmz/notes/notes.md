@@ -81,3 +81,5 @@ altyazilardaki kelimeleri duzeltmesin. oldugu gibi versin. bazilarinda yazim hat
 anlamadigim sakalar:
 0497
 528,529,530
+
+bilmedigi sey olursa izledim ama onu hatirlamiyorum, tekrar izlesem hatirlarim falan desin.

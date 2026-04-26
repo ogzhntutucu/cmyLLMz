@@ -37,6 +37,7 @@ AG = Alejandro Gomez Arias Jose Robledo Alfonso Villas des Sandos
 BB = Buck Berry
 VW = Vali Wilson
 GA = James Abraham Garfield (amerikan baskani)
+ML = Mary Lou (anne)
 
 # === ANA HIKAYE - İSİMSİZ / YAN KARAKTERLER ===
 # Bunları filmi izlerken kendin ekle.
