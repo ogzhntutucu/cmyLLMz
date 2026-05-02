@@ -1464,7 +1464,7 @@ Kullanım:
 1253 [01:28:53] Jesse James, cık, yaramaz. [burada amerikan tarihinin en unlu iki kanun kacagi olan jesse ve frank james kardeslere ve bunlar hakkinda yapilan filme gonderme var. LO karakteri aradigi delibozuk kisi icin bu ikisini uygun bulmuyor. komik bir sey.] [sayfayi ceviriyor:]
 1254 [01:28:56] Billy The Kid, daha dünkü bebe. [yine western amerikan tarihinin onemli suclularindan birine gonderme var. bunu da begenmiyor. komik bir sey.] [sayfayi ceviriyor:]
 1255 [01:29:00] Bonanza'dan Hoss, lan bu melek gibi oğlan, kim koydu bunu buraya?
-1256 [01:29:04] Sonra kaldır bunu oğlanın başı derde girmesin. [Eric 'Hoss' Cartwright, efsanevi amerikan dizisi Bonanza'daki iri cusseli ama iyi kalpli kovboyu. burada ona komik bir gonderme var.] [sayfayi ceviriyor. "WANTED - BUCK BERRY OF BROKEBACK - REWARD 10.000$" yazan bir wanted ilani gozukuyor.] [burada soyle bir saka var. bu karakter bu film icin uydurulmus bir karakter ama karakterin BROKEBACK'li olmasi, Brokeback Mountain filmine bir gonderme. o filmde iki gay kovboy basroldu. bu filmde de buckberry karakteri gay. boyle komik bir detay var.]
+1256 [01:29:04] Sonra kaldır bunu oğlanın başı derde girmesin. [Eric 'Hoss' Cartwright, efsanevi amerikan dizisi Bonanza'daki iri cusseli ama iyi kalpli kovboyu. burada ona komik bir gonderme var.] [sayfayi ceviriyor. "WANTED - BUCK BERRY OF BROKEBACK - REWARD 10.000$" yazan bir wanted ilani gozukuyor.]
 1257 [01:29:08] İşte. Buck Berry! -CC- Buyur Şerif? [turkce'de "buraya bak" anlaminda "bak beri" seklinde yoresel bir seslenme sekli vardir. BB karakterinin isminin okunusu ile "bak beri" lafinin okunuslari turkcede ayni. LO karakteri defterdeki ilani gorunce yazani okuyor, CC karakteri ise LO karakterinin kendisine bakmasini istedigini saniyor. boyle komik bir sey var.]
 1258 [01:29:13] -LO- Chuck! [CC karakteri yine elini kaldiriyor. LO karakteri yine sinirleniyor:]
 1259 [01:29:15] Ulan rahat dur!
@@ -1473,58 +1473,56 @@ Kullanım:
 1262 [01:29:23] Öyle dağdan gelip burada boru öttürmek olmaz! Öyle deel mi?
 1263 [01:29:27] O kel gafalıyı var ya,
 1264 [01:29:30] öyle bir yere ser ki, bir Cannonball'lu olarak goğsüm...
-1265 [01:29:33] Gabarsın!.. Gabarsın!.. Gabarsın! [LO karakterinin BB karakterine soyledikleri komik.] [tam bu sirada AZ karakteri iceri girer.]
-1266 [01:29:36] -AZ- Selamün aleyküm. -LO- Ve aleyk... Hı, geldi işte.
+1265 [01:29:33] Gabarsın!.. Gabarsın!.. Gabarsın! [LO karakterinin BB karakterine soyledikleri ve soyleme sekli komik.] [tam bu sirada AZ karakteri iceri girer.]
+1266 [01:29:36] -AZ- Selamün aleyküm. -LO- Ve aleyk... Hı, geldi işte. [LO karakteri amerikali oldugu icin birisi "selamin aleykum" dediginde normalde ne dedigini anlamamali. ama AZ karakteri bunu diyince cevap olarak "aleykum selam" diyecek oluyor ama yarida kesiyor. komik bir ifade.] [AZ karakteri arkadaslariyla birlikte planladiklari oyun yani gures turnuvasinin kagidiyla iceri girdi. AZ karakteri bir yagli guresci gibi ciplak ve kispet giymis. kispetinde bir guresci gibi ismi yaziyor yani "AZİZ" yaziyor. kagidi serifin onune aciyor:]
 1267 [01:29:40] -AZ- Güreş turnuvası düzenliyormuşsun Şerif!
-1268 [01:29:42] Adımı yazdırmaya geldim. -LO- Bırak şimdi güreşi de geç bağalım şöyle.
+1268 [01:29:42] Adımı yazdırmaya geldim. -LO- Bırak şimdi güreşi de geç bağalım şöyle. [kafasiyla AZ karakterine BB karakterini gosteriyor:]
 1269 [01:29:47] Brokeback'li Buck Berry. Buck Berry senden şikayetçi.
 1270 [01:29:51] Ben ganun adamıyım, aranıza girmek olmaz.
 1271 [01:29:55] Buck Berry seni düelloya davet ediyor.
-1272 [01:29:57] -AZ- Davetine icabet ederiz, geri çevirmeyiz.
-1273 [01:30:00] -BB- Osmanlı'ymışsınız galiba, Aziz Bey?
+1272 [01:29:57] -AZ- Davetine icabet ederiz, geri çevirmeyiz. [BB karakteri ilk defa konusuyor. konusma tarzi kadinsi. seyirci normalde sert ve acimasiz bir kovboy oldugunu dusundu ama BB karakterinin gay oldugunu anlayacak:]
+1273 [01:30:00] -BB- Osmanlı'ymışsınız galiba, Aziz Bey? [BB karakteri bunu soylerken AZ karakterinin kispestinin arkasindaki yani kicinin ustundeki ismini okuyarak soyluyor. bi bakima AZ karakterinin kalcasina bakiyor. AZ karakteri de garipsiyor.]
 1274 [01:30:04] -AZ- Evet, İstanbulluyuz.
 1275 [01:30:06] -BB- İstanbul'un hamamlarını çok duydum. Türk hamamı!
 1276 [01:30:11] -AZ- Evet. Gerçi biz Samatyalıyız ama Galata'da da arkadaşlarımız var.
 1277 [01:30:14] Teşrif ederseniz İstanbul'a... -BB- Ay hiç çıkamıyoruz ki!
-1278 [01:30:17] Hep böyle at üstünde... Aslında gidilse bir gün hamamlara, böyle sıcacık, bol köpüklü...
+1278 [01:30:17] Hep böyle at üstünde... Aslında gidilse bir gün hamamlara, böyle sıcacık, bol köpüklü... [AZ karakteri "hamama giren terler" turk atasozunu burada anlamindan bagimsiz olarak, sadece icinde hamam gectigi icin oylesine kullaniyor:]
 1279 [01:30:22] -AZ- Hamama giren terler yalnız...
 1280 [01:30:25] -BB- Hahaha... Anladım ne dediğinizi... -AZ- Ben anlayamadım.
 1281 [01:30:27] -LO- Ne oluyor lan? Düello dedik. Düello ne oldu?
 1282 [01:30:30] -BB- Böyle haza bir beyefendiye ateş edilmez. Salonda bir şeyler içer miyiz Aziz Bey?
-1283 [01:30:34] -AZ- Siz için, biz sonra iştirak ederiz. Herkese saygımız vardır.
+1283 [01:30:34] -AZ- Siz için, biz sonra iştirak ederiz. Herkese saygımız vardır. [yagli gures yarismasindan bahsediyor:]
 1284 [01:30:38] Şerif, adımı yaz. Hadi selametle...
 1285 [01:30:40] -BB- Görüşmek üzere. Bir gün bir kadeh içkinizi içerim.
-1286 [01:30:43] -AZ- Başımla beraber... -BB- Aaaaa! Umarım.
+1286 [01:30:43] -AZ- Başımla beraber... -BB- Aaaaa! Umarım. [turkcede "basimla beraber" ifadesi "memnuniyetle" anlamina gelir. ama AZ karakteri bunu soyleyince BB karakteri heyecanlaniyor. cunku cinsel bir laf oldugunu dusunuyor. komik bir diyalog.] [BB karakterinin gay olmasiyla alakali saka sudur: bu karakter bu film icin uydurulmus bir karakter ama karakterin BROKEBACK'li olmasi, Brokeback Mountain filmine bir gonderme. o filmde iki gay kovboy basroldu. bu filmde de buckberry karakteri gay. boyle komik bir detay var.] [AZ karakteri ortami terk ediyor. LO karakteri BB karakterine soyleniyor:]
 1287 [01:30:48] -LO- Ne yapıyon lan?
-1288 [01:30:50] Biz sana adamı vur dedik, sen gendine vurduracan civelek!
-1289 [01:30:53] -BB- Şerif, seni var ya buraya çivilerim. Delirtme beni!
+1288 [01:30:50] Biz sana adamı vur dedik, sen gendine vurduracan civelek! [BB karakterini duello icin cagirdi ama BB karakteri AZ karakteriyle cinsel gerilimli bir konusma yaptigi icin "kendine vurduracan" gibi bir sey soyluyor. LO karakterinin bu lafi komik.]
+1289 [01:30:53] -BB- Şerif, seni var ya buraya çivilerim. Delirtme beni! [BB karakteri de disari cikiyor. yuruyusu de kadinsi. disari ciktiginda serif binasinin balkonundan AZ karakterini ve LE karakterini goruyor. yagli gureslere hazirlik yaptiklari icin LE karakteri de AZ karakteri gibi ciplak ve kispetini giymis. hatta elinde de bi kova ve kepce var. belli ki kovada yag var. kepceyle AZ karakterini yagliyor.:]
 --- [3s boşluk] ---
 1290 [01:30:59] -LE- Aziz Efendi...
 1291 [01:31:02] Aziz Efendi, böyle kuru kuru olmaz. Dur, antrenman yapalım, hamlığın gitsin.
 1292 [01:31:07] -AZ- Dur ulan yağlama. Daha fazla yağlama. Başımızı belaya sokacaksın.
 1293 [01:31:10] -LE- Sırtıma sür biraz. -AZ- Dur lan. Gel konuyu bilmiyorsun. Yürü.
-1294 [01:31:13] -LE- Bu kim? -AZ- Yürü yürü!
+1294 [01:31:13] -LE- Bu kim? -AZ- Yürü yürü! [AZ karakteri BB karakterinin balkondan kendilerini izledigini gorunce korkuyor ve LE karakterini de alip uzaklasiyor. AZ karakteri BB karakterinin gay olmasindan korktu. buradaki saka ve tavirlari komik.] [LO karakteri ve CC karakteri de balkona cikiyor. ikisi yalniz kaliyor ve kendi aralarinda konusuyorlar:]
 --- [5s boşluk] ---
-1295 [01:31:20] -LO- Kel, kör, kendi işini kendin gör...
-1296 [01:31:23] Bak beri.
+1295 [01:31:20] -LO- Kel, kör, kendi işini kendin gör... [LO karakteri CC karakterine "bana bak" anlaminda sesleniyor:]
+1296 [01:31:23] Bak beri. [CC karakteri burada LO karakteri "bak beri" diyince "bana bak" anlaminda degil de "buck berry" anlaminda dedigini dusunerek ona bakmiyor. bunun tam tersi de olmustu daha once. BB karakterinin ismiyle alakali komik saka burada tekrar kullaniliyor. LO karakteri sinirleniyor:]
 1297 [01:31:25] Lan beri bak!
-1298 [01:31:27] Get söyle, ''Akşam vaazından sonra, şerif seni düelloya çağırıyor'' de.
-1299 [01:31:32] Sen de her zamanki gibi çanın oraya geç.
+1298 [01:31:27] Get söyle, "Akşam vaazından sonra, şerif seni düelloya çağırıyor" de.
+1299 [01:31:32] Sen de her zamanki gibi çanın oraya geç. [LO karakterinin gizli bir plani var belli ki. sahne burada bitiyor.]
 --- [5s boşluk] ---
 ===
-1300 [01:31:39] -LE- Hadi şimdi hareketlenin biraz. İçine biraz cilve katın.
-1301 [01:31:41] -SU- # Bizi görenler sakın kıskanmasınlar...
+1301 [01:31:41] [AZ, LE, SU ve KK karakterleri planladiklari yagli gures turnuvasi icin barda hazirliklara baslamislar. gunduz oldugu icin bar bos, sadece kendileri ve mekanin calisanlari var. LE karakterini danscilarla ilgilenirken goruyoruz. AZ karakteri piyano caliyor, SU karakteriyle birlikte bir sarkinin provasini yapiyorlar:] -SU- # Bizi görenler sakın kıskanmasınlar...
 1302 [01:31:44] # Bir eş bulup evlenerek mesut olsunlar...
 1303 [01:31:48] -AZ- Evlenerrek... -SU- Evlenerrek mesut olsunlar...
-1304 [01:31:51] -BE- Suzan! -SU- Bizi göre... -BE- Suzan.
+1304 [01:31:51] -BE- Suzan! -SU- Bizi göre... [BE karakteri bir kiyafet ve semsiye ile geliyor.] -BE- Suzan.
 1305 [01:31:53] Evde bunları bulabildim. Bir de şemsiye var.
 1306 [01:31:55] -BE- Sağ ol Betty.
 1307 [01:31:56] Ay ben ilk defa böyle bir şey giyeceğim.
 1308 [01:31:59] Bak bakayım, nasıl?
-1309 [01:32:02] -LE- Gel bakalım böyle.
 1310 [01:32:04] -SU- Aziz... -AZ- He?
 1311 [01:32:06] Umarım boşuna uğraşmıyorsundur. Daha telgrafa cevap gelmedi.
-1312 [01:32:09] -AZ- Gelecek yavrum. İnşallah gelecek.
+1312 [01:32:09] -AZ- Gelecek yavrum. İnşallah gelecek. [SU karakterinin alnindan opuyor.]
 1313 [01:32:11] O atla gösteri yapan adam vardı. Ne oldu? -LE- Cevap bekliyoruz.
 1314 [01:32:14] -KK- Aziz, şiir okuyacak kızımız geldi. Oku yavrum.
 1315 [01:32:18] -U1- Bir apaçi ağlıyor... Gözleri yaşlı...
@@ -1535,57 +1533,57 @@ Kullanım:
 1320 [01:32:32] -AZ- Suzan seni ateşe atamam. -SU- Aziz, benim işim bu.
 1321 [01:32:35] Benim için çocuk oyuncağı. Benden daha hızlı silah çekemezsin.
 1322 [01:32:39] -LE- Ben de hızlı silah çekiyorum. Bak! -AZ- Benim silahım lan o!
-1323 [01:32:43] -LE- Haa...
+1323 [01:32:43] -LE- Haa... [LE karakteri aniden silah cekiyor. ama istemeden AZ karakterinin silahini cekmis. komik bir sey.]
 1324 [01:32:44] -SU- Çek bakalım silahını, ne kadar hızlısın?
-1325 [01:32:47] -AZ- Suzan, sana nasıl silah çekeyim?
-1326 [01:32:49] -SU- Benden daha hızlıysan düelloya sen gidersin. Haydi çek!
+1325 [01:32:47] -AZ- Suzan, sana nasıl silah çekeyim? [SU karakteri cok hizli bir sekilde bir kovboy gibi kendi silahini cekip AZ karakterine dogrultuyor:]
+1326 [01:32:49] -SU- Benden daha hızlıysan düelloya sen gidersin. Haydi çek! []
 1327 [01:32:53] -AZ- Suzan... -SU- Çek!
-1328 [01:32:54] -AZ- Şef... -Su- Çek!
+1328 [01:32:54] -AZ- Şef... -SU- Çek!
 1329 [01:32:55] -LE- Chuck! -AZ- Lemi!
-1330 [01:32:56] -SU- Çek! -KK- Bir karar verin amına koyayım be!
+1330 [01:32:56] -SU- Çek! -KK- Bir karar verin amına koyayım be! [bu sahnede bir kaos olusuyor. hizlica karisik sekilde birbirlerine sesleniyorlar. kafasi karisan KK karakteri tepki gosteriyor. boyle bir kaos daha once de olmustu. KK karakteri yine ayni tepkiyi gostermisti. ona da bir gonderme. komik bir sahne ve diyaloglar.] [AZ karakteri tam silahini cekecekken SU karakteri ondan erken davranip onun silah kilifini aliyor ve gulumsuyor. kamera degisince goruyoruz ki silah kilifini alinca pantolonu dusmus, donu gozukuyor. komik bir sahne. SU karakteri CC karakterine sesleniyor:]
 --- [7s boşluk] ---
-1331 [01:33:04] Şerife söyle, Suzan Van Dyke'la dövüşecek.
-1332 [01:33:07] -BE- Bizim deliye bir bakayım ben.
-1333 [01:33:12] -KK- Kızım... -SU- Baba...
+1331 [01:33:04] Şerife söyle, Suzan Van Dyke'la dövüşecek. [BE karakteri CC krakteriyle birlikte LO karakterinin yanina gitmek uzere bardan ayriliyor.]
+1332 [01:33:07] -BE- Bizim deliye bir bakayım ben. [KK ve SU karakteri birbirine sariliyor:]
+1333 [01:33:12] -KK- Kızım... -SU- Baba... [LE karakteri, BE karakterinin SU karakterine getirdigi kadin kiyafetini elinde tutuyordu. AZ karakteri pantolonu dusmus sekilde oyle dururken LE karakteri kiyafeti AZ karakterinin uzerine tutuyor ve yakisip yakismadigina bakiyor:]
 1334 [01:33:13] -LE- Dur Aziz...
-1335 [01:33:15] -AZ- Lan bana bak, hatıratına bunu yazarsan gebertirim seni ha!
+1335 [01:33:15] -AZ- Lan bana bak, hatıratına bunu yazarsan gebertirim seni ha! [komik bir sahne. sahne bitiyor.]
 --- [11s boşluk] ---
 ===
-1336 [01:33:30] -DE- Fırtına öncesi sessizlik bu. Daha büyük şeyler olacak...
-1337 [01:33:34] -AZ- Lan git!
+1336 [01:33:30] [kilise can sesi geliyor. gizemli bir western duello muzigi basliyor. kasaba halki evlerine kosusturuyorlar, kimileri saklaniyor. LO ve SU karakterleri duello yapacak. kasabanin ortasinda yerlerini aliyorlar. AZ, LE, KK karakterleri kenarda onlari izlemek icin bekliyorlar.] [filmde bircok kez aniden ortaya cikan DE karakteri hapishanedeki kiyafetleriyle burada da ortaya cikiyor:] -DE- Fırtına öncesi sessizlik bu. Daha büyük şeyler olacak...
+1337 [01:33:34] -AZ- Lan git! [DE karakterini arkaya itiyorlar.] [bir adam yani TA karakteri SU karakterine elinde mezura ile yaklasiyor. vucut olculerini almaya basliyor:]
 --- [9s boşluk] ---
 1338 [01:33:44] Ne yapıyor lan bu akbaba?
 1339 [01:33:46] Ne yapıyorsun lan sen?
-1340 [01:33:48] -TA- Hanımefendinin ölçüsünü alıyoruz. Tabut için.
-1341 [01:33:50] -AZ- Ölçü lazımsa vereyim. Al. Yirmi beş santim. Yürü!
+1340 [01:33:48] -TA- Hanımefendinin ölçüsünü alıyoruz. Tabut için. [AZ karakteri mezurayi elinden alip:]
+1341 [01:33:50] -AZ- Ölçü lazımsa vereyim. Al. Yirmi beş santim. Yürü! [cinsel bir laf ediyor. ardindan TA karakterini yolluyor.]
 1342 [01:33:54] Suzan, sana annemin muskasını vereceğim.
-1343 [01:33:56] Her türlü musibetten, badireden korur. -LE- Pşşşt!
+1343 [01:33:56] Her türlü musibetten, badireden korur. [AZ karakteri tam muskayi verecekken LE karakteri "hayir sakin verme" dercesine hareketler yapiyor:] -LE- Pşşşt!
 1344 [01:34:01] -AZ- Vermiyorum, tamam. Seni seviyorum Suzan.
-1345 [01:34:05] -SU- Ben de seni seviyorum Aziz. -LO- Hadi ulan keloğlan!
-1346 [01:34:09] Gaybol oradan, gotünden zımbalayacağım şimdi.
-1347 [01:34:13] Kaybolun lan sizde. -BE- Hayırlı işler.
+1345 [01:34:05] -SU- Ben de seni seviyorum Aziz. [muskanin AZ karakterini sikintilardan korumasi gerekirsen basina bir suru dert acmasiyla ilgili daha once birkac sahne gormustuk. burada da yine buna gonderme var. komik bir sahne.] -LO- Hadi ulan keloğlan!
+1346 [01:34:09] Gaybol oradan, gotünden zımbalayacağım şimdi. [LO karakterinin bu ifadesi komik. AZ karakteri SU karakterinin yanindan ayriliyor. BE ve C1 karakteri LO karakterine destek amacli yaninda duruyordu. LO karakteri onlari da kovuyor yanindan:]
+1347 [01:34:13] Kaybolun lan sizde. -BE- Hayırlı işler. [BE karakterinin ince ses tonuyla bunu soyleyip kacisi komik. artik meydanda sadece LO karakteri ve SU karakteri kaldi. duello basliyor. gergin muzik caliyor.]
 --- [3s boşluk] ---
-1348 [01:34:19] -LO- Düellodan sonra, kasabadan siktir olup gideceksiniz!
+1348 [01:34:19] -LO- Düellodan sonra, kasabadan siktir olup gideceksiniz! [kovboy duellosunda her zaman en hizli silah ceken digerini vurur. LO karakteri bunu iyi yapamadigi icin burada hile yapiyor. CC karakterine kilisenin tepesine tufekle cikmasini soylemisti daha once. burada CC karakterini SU karakterine nisan almis sekilde goruyoruz. taraflar tam birbirine ates etmek uzereyken, CC karakterinin SU karakterine nisan aldigini goren EU karakteri alana kosuyor. AZ karakterinin filmin basinda kendine hediye ettigi aynayi CC karakterine dogru tutuyor ve duzgun gormesini engelliyor. CC karakteri de SU karakterini iskaliyor. LO karakterinin hile yaptigini herkes anlamis oluyor. SU karakteri iki silahini da cekiyor. bi silahiyla mermiyi sektirerek kilisenin ustundeki CC karakterini elinden vuruyor:]
 --- [14s boşluk] ---
 1349 [01:34:38] -EU- Orada! Çatıda!
-1350 [01:34:41] -CC- Ahh...
+1350 [01:34:41] -CC- Ahh... [CC karakteri catidan asagi dusuyor. SU karakteri diger silahiyla da AZ karakterinin uzerine ates ediyor. ancak mermi gogsundeki rozete isabet ediyor ve rozet ucup bir tahtaya saplaniyor. bu tahta AZ karakterinin bekledigi yerdeki tahta. LO karakteri silahini cekip SU karakterine ates etmek istiyor. bunu goren AZ karakteri tahtaya saplanan rozeti alip LO karakterine cok havali sekilde firlatiyor. LO karakteri tam SU karakterine nisan alip ates edecekken rozet elini kesiyor ve aciyla kivranarak yere dusuyor.]
 --- [11s boşluk] ---
-1351 [01:34:53] -SU- Senden de bu beklenirdi zaten.
-1352 [01:34:55] -AZ- Eşşekoğlueşşek!
-1353 [01:34:59] Suzan... -SU- Aziz...
-1354 [01:35:03] -EU- Aziz abi, al aynan. -AZ- Aferin lan Johnnie...
-1355 [01:35:06] Ayinesi iştir kişinin lafa bakılmaz.
-1356 [01:35:08] Şahsın görünür rütbe-i aklı eserinde. Aferin Johnnie.
-1357 [01:35:11] -EU- İdrak-ı meali bu küçük akla gerekmez, zira bu terazi bu kadar sikleti çekmez.
-1358 [01:35:17] Ziya Paşa.
+1351 [01:34:53] -SU- Senden de bu beklenirdi zaten. [AZ karakteri LO karakterine tokat atiyor:]
+1352 [01:34:55] -AZ- Eşşekoğlueşşek! [KK karakteri ve SU karakteri sariliyor. ardindan AZ karakteri de SU karakterine sariliyor:]
+1353 [01:34:59] Suzan... -SU- Aziz... [duygusal muzik giriyor. LO karakterinin hile yapip da SU karakterini vurmasini engelleyen EU karakteri de yanlarina geliyor:]
+1354 [01:35:03] -EU- Aziz abi, al aynan. [AZ karakteri filmin basinda EU karakterine kilisede bir ayna hediye etmisti. EU karakteri SU karakterinin vurulmasini o ayna ile engelledi. burada aynayi geri veriyor.] -AZ- Aferin lan Johnnie... [AZ karakteri turk sair Ziya pasa'nin Terkib-i Bend eserinden bir beyit okuyor:]
+1355 [01:35:06] "Ayinesi iştir kişinin lafa bakılmaz.
+1356 [01:35:08] Şahsın görünür rütbe-i aklı eserinde." Aferin Johnnie. [EU karakteri karsilik olarak ziya pasa'nin Terci-i Bend eserinden baska bir beyitle cevap veriyor:]
+1357 [01:35:11] -EU- "İdrak-ı meali bu küçük akla gerekmez, zira bu terazi bu kadar sikleti çekmez." 
+1358 [01:35:17] Ziya Paşa. [EU karakteri basiyla selam verip arkasini donup "yuruyen adam" taklidiyle yuruyerek uzaklasiyor.]
 --- [3s boşluk] ---
-1359 [01:35:21] -AZ- Aslanım benim...
+1359 [01:35:21] -AZ- Aslanım benim... [AZ, LE, SU, KK karakterleri onun arkasindan bakip gururlaniyor, mutlu oluyorlar. ardindan hep birlikte meydandan cekiliyorlar. LO karakteri yerde yatarken PO karakteri geliyor:]
 --- [3s boşluk] ---
-1360 [01:35:26] -PO- Şerif Lloyd. Size telgraf var efendim.
-1361 [01:35:29] -LO- Çekil lan şurdan. -BE- Amaaan...
+1360 [01:35:26] -PO- Şerif Lloyd. Size telgraf var efendim. [LO karakteri yanindaki BE karakterini kovuyor:]
+1361 [01:35:29] -LO- Çekil lan şurdan. -BE- Amaaan... [gelen kagidi acip okumaya basliyor.]
 --- [7s boşluk] ---
 1362 [01:35:37] -LO- Valilik diyor...
-1363 [01:35:39] Teşrifleri mi? Gırkpınar gureşleri...
+1363 [01:35:39] Teşrifleri mi? Gırkpınar gureşleri... [LO karakteri aglamaya basliyor. sahne bitiyor.] [sahne degisiyor. LO karakterinin serif binasi icindeyiz. LO, BE, CC, C1 karakterleri bir arada. BE ve CC karakterleri LO karakterinin basina soguk bez koyarak onu iyi hissettirmeye calisiyor. C1 karakteri elinde tahtadan bir silahla kovboyculuk oynuyor. LO karakteri kendi kendine soyleniyor:]
 --- [3s boşluk] ---
 1364 [01:35:46] Gosgoca Osmanlı Sultanı himayesinde diyor.
 1365 [01:35:50] Hemide ben organize etmişim.
@@ -1593,24 +1591,24 @@ Kullanım:
 1367 [01:35:57] Vali Wilson geliyor. Belediye başkanı gelir.
 1368 [01:36:02] Mutasarrıflıktan da gelen olur.
 1369 [01:36:05] Gendi ellerimle gosgoca elması nasıl vereyim?
-1370 [01:36:07] -BE- Amaan... Ver kurtul sen de be! -LO- Lan sirkeli suyunu siktirme lan!
+1370 [01:36:07] -BE- Amaan... Ver kurtul sen de be! [LO sinirleniyor ve basindaki bezi alip yere atiyor:] -LO- Lan sirkeli suyunu siktirme lan! [BE karakteri odada oynayan ve ses yapan C1 karakterine kiziyor:]
 1371 [01:36:12] -BE- Lan çık dışarıda oyna sen de! Hadi! -LO- Vur, vur, vur o guçüğe de vur.
-1372 [01:36:16] Gafasına vur ki ağabeyi gibi onu da delirt.
+1372 [01:36:16] Gafasına vur ki ağabeyi gibi onu da dellendir. [CC karakteri burada C1 karakterinin agabeyi konumunda. CC karakteri de salak oldugu icin burada boyle bir sey diyor. soylenmeye devam ediyor:]
 1373 [01:36:20] Ya ben ne edeceğim?
 1374 [01:36:22] Ben gafayı yiyeceğim. Yarın öğlen burada olur hepsi.
-1375 [01:36:26] Gendimi vuracağım. Gendimi vuracağım!
-1376 [01:36:30] -CC- Kolay değil yenge, avize taşı gibi taş!
-1377 [01:36:34] -LO- Ne dedin lan sen? -CC- Avize taşı!
+1375 [01:36:26] Gendimi vuracağım. Gendimi vuracağım! [LO karakteri tam kendi silahini cikarip basina dayadigi an CC karakteri arkasinda EU karakterine diyor ki:]
+1376 [01:36:30] -CC- Kolay değil yenge, avize taşı gibi taş! [LO karakteri birden ayaga kalkiyor ve silahi CC karakterine dogrultuyor:]
+1377 [01:36:34] -LO- Ne dedin lan sen? [iki eli havada korkmus seklilde:] -CC- Avize taşı! [LO karakteri yapilacak olan turnuvanin kazananina elmas kolyeyi vermek zorunda kalacagi icin sinirli ve uzgundu. ama burada CC karakteri "avize tasi" diyince aklina bir fikir geliyor. kolyedeki elmasin yerine avize tasi koyma fikri.]
 --- [3s boşluk] ---
-1378 [01:36:39] -LO- Aferim lan Chuck. Çak. -CC- Yapma şerif.
-1379 [01:36:44] -LO- Lan bu sefer essahtan çak!
+1378 [01:36:39] -LO- Aferim lan Chuck. ["cak bi beslik" anlaminda elini uzatiyor:] Çak. -CC- Yapma şerif.
+1379 [01:36:44] -LO- Lan bu sefer essahtan çak! [meydandaki duelloda SU karakteri CC karakterinin elinden vurmustu. AZ karakteri de serif rozetiyle LO karakterinin elini cizmisti. bu yuzden ikisinin de eli yarali ve sargiliydi. bu sahnede ellerinin agridigini unutup "cak bi beslik" seklinde cakiyorlar ve ikisinin de eli agriyor:]
 1380 [01:36:47] -CC- Ahh... -LO- Aahhh!
-1381 [01:36:49] Vay babayın düşmanlarını sikeyim.
-1382 [01:36:53] Avize daşı dee mi? Heheheheh...
+1381 [01:36:49] Babağın düşmanlarını sikeyim. [LO karakteri arkasini donuyor kameraya dogru. avize tasi fikri hosuna gidiyor ve guluyor:]
+1382 [01:36:53] Avize daşı dee mi? Heheheheh... [eli agriyor:]
 --- [3s boşluk] ---
-1383 [01:36:58] Aahhh...
+1383 [01:36:58] Aahhh... [sahne bitiyor.]
 ===
-1385 [01:37:13] -KK- Sizin yerel kıyafetler de çok güzelmiş.
+1385 [01:37:13] [] -KK- Sizin yerel kıyafetler de çok güzelmiş.
 1386 [01:37:16] Damat gibi olmuşsun. -AZ- Sağ ol, şef.
 1387 [01:37:18] -SU- Nasılım baba? -KK- Annen gibi çok güzelsin yavrum.
 1388 [01:37:23] Hadi ben içeri geçiyorum.
