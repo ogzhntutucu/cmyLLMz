@@ -82,5 +82,11 @@ anlamadigim sakalar:
 0497
 528,529,530
 1215
+1607
 
 bilmedigi sey olursa izledim ama onu hatirlamiyorum, tekrar izlesem hatirlarim falan desin.
+
+chunk numaralarini
+block numaralarini
+karakter kodlarini
+bunlari notun icinde kullanmak mantikli olmaz mi? daha iyi eslesmez mi?

@@ -33,7 +33,7 @@ BA = Bambi (kizilkayalarin oglu)
 SL = Sultan
 BK = Baker = Fotografci
 CC = Chuck (sheriffin yardimcisi)
-AG = Alejandro Gomez Arias Jose Robledo Alfonso Villas des Sandos
+AG = Alejandro Gomez (Arias Jose Robledo Alfonso Villas des Sandos)
 BB = Buck Berry
 VW = Vali Wilson
 GA = James Abraham Garfield (amerikan baskani)
