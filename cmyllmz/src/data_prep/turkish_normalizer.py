@@ -8,9 +8,9 @@ import json
 import time
 from openai import OpenAI
 
-API_KEY = "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"
+API_KEY = "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"
 FILEPATH = "/home/thwisse/myDesktopL/computerScience/Programming/NLP/cmyllmz/notes/block_referans.md"
-BATCH_SIZE = 50
+BATCH_SIZE = 20
 
 BRACKET_RE = re.compile(r'\[([^\[\]]+)\]')
 TIMESTAMP_RE = re.compile(r'^\d{2}:\d{2}:\d{2}$')
@@ -20,23 +20,28 @@ client = OpenAI(api_key=API_KEY)
 
 def add_diacritics_batch(texts: list[str]) -> list[str]:
     prompt = (
-        "Aşağıdaki Türkçe metinlerin her birinde yalnızca eksik diakritik işaretleri ekle "
-        "(ö, ü, ç, ş, ğ, ı). Başka hiçbir şeyi değiştirme: kelime seçimi, noktalama, "
-        "büyük/küçük harf, cümle yapısı. "
-        'Sonucu {"results": [...]} formatında JSON döndür, aynı sırada.\n\n'
+        "Aşağıdaki JSON array'deki her Türkçe metne yalnızca eksik diakritik işaretleri ekle "
+        "(ö, ü, ç, ş, ğ, ı). ÖNEMLI: array'deki eleman sayısı değişmemeli, sıra korunmalı. "
+        "Başka hiçbir şeyi değiştirme. "
+        f'Tam olarak {len(texts)} elemanlı {{"results": [...]}} döndür.\n\n'
         + json.dumps(texts, ensure_ascii=False)
     )
-    response = client.chat.completions.create(
-        model="gpt-4o-mini",
-        messages=[{"role": "user", "content": prompt}],
-        response_format={"type": "json_object"},
-        temperature=0,
-    )
-    data = json.loads(response.choices[0].message.content)
-    results = data.get("results") or list(data.values())[0]
-    if len(results) != len(texts):
-        raise ValueError(f"Batch boyutu uyuşmuyor: gönderilen {len(texts)}, dönen {len(results)}")
-    return results
+    for attempt in range(3):
+        response = client.chat.completions.create(
+            model="gpt-4o-mini",
+            messages=[{"role": "user", "content": prompt}],
+            response_format={"type": "json_object"},
+            temperature=0,
+        )
+        data = json.loads(response.choices[0].message.content)
+        results = data.get("results") or list(data.values())[0]
+        if len(results) == len(texts):
+            return results
+        print(f"    uyarı: {len(texts)} gönderildi, {len(results)} döndü — retry {attempt+1}/3")
+        time.sleep(1)
+    # fallback: birer birer gönder
+    print("    fallback: tek tek işleniyor...")
+    return [add_diacritics_batch([t])[0] for t in texts]
 
 
 def main():
