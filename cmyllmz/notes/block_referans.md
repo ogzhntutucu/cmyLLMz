@@ -221,8 +221,9 @@ Kullanım:
 0195 [00:13:35] -AZ- Bana bak geberteceğim seni ha! Ok yaydan çıktı! [AZ karakteri su durumda bile saka yapiyorsun gibi bir tavirla sinirleniyor ve yeter artik ok yaydan cikti anlaminda bu ifadeyi kullaniyor. tam bunu soyledigi anda arabanin uzerine bir ok saplaniyor. guzel bir detay. AZ VE LE karakteri sok oluyor. bir kizilderili atli grubu naralar atarak uzerlerine dogru geliyor.]
 --- [6s boşluk] ---
 0196 [00:13:43] -LE- Hintliler! [kizilderililer yanlarina gelip atlarindan iniyorlar.]
+===095===
 --- [7s boşluk] ---
-0197 [00:13:51] Ugh! [LE karakteri nasil iletisim kuracagini bilemeyip "ugh" seklinde bir ifade kullaniyor] -D1- Ne ughu lan!
+0197 [00:13:51] [atlarindan inen kizilderililerle LE karakteri nasil iletisim kuracagini bilemeyip "ugh" seklinde bir ifade kullaniyor:] -LE- Ugh! -D1- Ne ughu lan!
 0198 [00:13:54] -AZ- Galiba hayvan isimleriyle hitap ediliyor. Danaburnu! [AZ karakteri de hitap etmek icin bir hayvan ismi kullanmayi tercih ediyor. iletisim kurmak icin sectikleri ifadeler komik.] [grubun lideri olan RT karakteri kendini tanitiyor:]
 0199 [00:13:58] -RT- Adım Richard Thomas. Oxford'da okuyorum.
 0200 [00:14:00] Sadece yaz tatillerimi kabilemle geçiriyorum. [seyirci burada garip kizilderili sesleri duymayi beklerken RT karakteri cok duzgun bir turkce ile konusuyor ve Oxford'lu oldugunu soyluyor. seyircinin hic beklemedigi komik bir sey.] [1000 konfederasyon dolari degerindeki ceki yani parayi AZ karakterinin elinden aliyor. ardindan garip kizilderili sesleri cikararak diger grup uyelerini harekete geciriyor. anlamiyoruz ama yuksek ihtimal uzerindeki seyleri toplamalari icin talimat veriyor. kizilderililer feslerden baslayarak AZ ve LE karakterinin kiyafetlerini cikartmaya basliyorlar. komik bir durum.] 
@@ -482,9 +483,10 @@ Kullanım:
 0406 [00:29:24] Dur! Karbondioksit var içinde!
 0407 [00:29:26] -LE- Yapma. -AZ- Karbondioksit! [MU karakteri gugume ates ediyor. eglenceli bir muzik giriyor.] Aaghhh! Aman! [gugume ates edildigi ve kola asitli oldugu icin gugumden fiskiran kolanin yarattigi stresle AZ karakteri kendi etrafinda donmeye basliyor. eglenceli ve komik bir sahne.]
 0408 [00:29:31] -CH- Bunları katran ve tüye bulayın, sonra da atın içeri! [ikiliyi alip goturuyorlar. gugumu orada birakiyorlar.]
-0409 [00:29:34] -Y1- Yürüyün! Yürüyün! [gugumu biraktiklari yere adi olmayan herhangi biri geliyor. kolanin fiskirdigi yere bir sise tutarak kolayi icine dolduruyor. sise dolunca cok mutlu sekilde orayi terk ediyor. bi bakima kolayi caliyor. zaten "yasasin caldim" der gibi bir tavirla gidiyor.] [sahne degisiyor. ikiliyi hapse atiliyor. ekranda "BALLSTONE JAILHOUSE, WV" yaziyor. burada uskudar'daki eski toptasi cezaevi'ne bir gonderme var. AZ ve LE karakterlerinin sadece yuzleri gozukecek sekilde her tarafini tuy yapmislar. komik bir goruntuleri var. Y1 karakteri uzerilerine parmakliklari kapatip:]
+0409 [00:29:34] -Y1- Yürüyün! Yürüyün! [gugumu biraktiklari yere adi olmayan herhangi biri geliyor. kolanin fiskirdigi yere bir sise tutarak kolayi icine dolduruyor. sise dolunca cok mutlu sekilde orayi terk ediyor. bi bakima kolayi caliyor. zaten "yasasin caldim" der gibi bir tavirla gidiyor. sahne bitiyor] 
+===175===
 --- [7s boşluk] ---
-0410 [00:29:43] -Y1- İhtiyacınızı bu kaba giderin. Her tarafı da kuş pisliği yapmayın. [Y1 karakteri ikiliye iki ayri kase ve kasik veriyor yemeleri icin. ikili yemek icin comelip kendi aralarinda konusmaya basliyorlar:]
+0410 [00:29:43] [ikili hapse atiliyor. ekranda "BALLSTONE JAILHOUSE, WV" yaziyor. burada uskudar'daki eski toptasi cezaevi'ne bir gonderme var. AZ ve LE karakterlerinin sadece yuzleri gozukecek sekilde her tarafini tuy yapmislar. komik bir goruntuleri var. Y1 karakteri uzerilerine parmakliklari kapatip:] -Y1- İhtiyacınızı bu kaba giderin. Her tarafı da kuş pisliği yapmayın. [Y1 karakteri ikiliye iki ayri kase ve kasik veriyor yemeleri icin. ikili yemek icin comelip kendi aralarinda konusmaya basliyorlar:]
 --- [5s boşluk] ---
 0411 [00:29:53] -LE- Muska boynunuzda mı efendim? -AZ- Boynumda.
 0412 [00:29:56] -LE- O badirelerden koruyan? [muskaya yine deginiliyor burada. komik bir detay.]
@@ -541,8 +543,9 @@ Kullanım:
 0452 [00:33:37] -JO- Siii... -LE- İlkine geç! İlkine geç! [JO karakteri olmek uzere ve zar zor konusuyor. ama ikili sanki sessiz sinema oynuyorlarmis gibi "yerli mi yabanci mi?", "ilkine gec" ifadelerini kullaniyorlar. komik bir diyalog.]
 0453 [00:33:39] -JO- Si... [JO karakteri lafini bitiremeden basi dusuyor ve oluyor. karakterin filmdeki son sahnesi.]
 0454 [00:33:42] -LE- Sioux... Sioux dedi! Sioux'lar!
-0456 [00:33:43] -AZ- Hayır ulan, öldüm diye "see you" diyor. "See you!" dedi! [LE karakteri yere tukuruyor.] [filmin basinda ikili ceteyle ilk tanistiklarinda ve soyulduklarinda da ayni muhabbet olmustu. o zaman AZ karakteri bunu yanlis anlamisti, simdi de LE karakteri yanlis anladi. tekrar eden komik bir diyalog.] [ikili ayaga kalkiyor:]
-0457 [00:33:49] -LE- Çok vakitsiz gitti.
+0456 [00:33:43] -AZ- Hayır ulan, öldüm diye "see you" diyor. "See you!" dedi! [LE karakteri yere tukuruyor.] [filmin basinda ikili ceteyle ilk tanistiklarinda ve soyulduklarinda da ayni muhabbet olmustu. o zaman AZ karakteri bunu yanlis anlamisti, simdi de LE karakteri yanlis anladi. tekrar eden komik bir diyalog.]
+===185===
+0457 [00:33:49] [ikili ayaga kalkiyor ve aralarinda konusmaya basliyorlar:] -LE- Çok vakitsiz gitti.
 0458 [00:33:51] Ah canım, atı da öyle mahzun kaldı.
 0459 [00:33:54] Bu atlar çok hisli hayvanlardır. -AZ- Haa... [AZ karakteri atin yanina gidiyor. uzerindeki silahi ve kovboy sapkasini aliyor. LE karakterine dogru gidiyor. silahi goren LE karakteri tirsiyor:]
 --- [9s boşluk] ---
@@ -582,9 +585,10 @@ Kullanım:
 0487 [00:36:34] -LE- Aziz Efendi, ne oldu ya? Bir Batı hayranlığı başladı.
 0488 [00:36:38] -AZ- Oğlum, Batı'nın iyi yanlarını alıcan. ["bati hayranligi" tartismalarinda bazilari "batiya hayran olunmamali, batinin iyi yanlari alinmali" gibi garip dusunceleri olan kimseler olmustur gecmiste. burada buna komik bir gonderme var.]
 0489 [00:36:40] Bana bak, çıkar silahlarını. Tutuklusun unutma. [LE karakteri kurduklari oyun geregi Johnny Lesh oldu. onun gibi gozukmeli ve davranmali.]
-0490 [00:36:44] Gözlük. [LE karakterinin tabancasini ve tabanca kilifini aliyor. gozlugunu cikarmasini soyluyor. kadinin yanina gidiyorlar:]
+0490 [00:36:44] Gözlük. [LE karakterinin tabancasini ve tabanca kilifini aliyor. gozlugunu cikarmasini soyluyor. kadinin yanina dogru yuruyorlar.]
 --- [4s boşluk] ---
-0491 [00:36:50] Merhaba güzel bayan! Atış taliminizi zevkle izledik. [AZ karakteri sapkasini cikararak kovboy selami veriyor]
+===195===
+0491 [00:36:50] [AZ ve LE karakteri SU karakterinin yanina geliyorlar:] -AZ- Merhaba güzel bayan! Atış taliminizi zevkle izledik. [AZ karakteri sapkasini cikararak kovboy selami veriyor]
 0492 [00:36:55] -SU- Öyle mi?
 0493 [00:36:56] Susanne van Dyke'ın gösterisi öyle bedava izlenmez ama.
 0494 [00:36:59] Üç beş atın bakayım. [uzerilerini kontrol ediyorlar.]
@@ -727,7 +731,8 @@ Kullanım:
 0616 [00:45:02] -AZ- Deriyi almışlar. -LO- He ya. Taze.
 0617 [00:45:05] Daha dün aldılar. Estirip duruyorlar. [LO karakteri yerlerine oturmalari icin buyur ediyor:]
 0618 [00:45:09] Buyrun.
-0619 [00:45:12] Bakın, bu işi halletse halletse, Johnny Lesh halleder.
+===225===
+0619 [00:45:12] [LO karakteri ve digerleri yerlerine oturduktan sonra sohbete devam ediyorlar.] -LO- Bakın, bu işi halletse halletse, Johnny Lesh halleder.
 0620 [00:45:16] Siz de beyazsınız, halden anlarsınız.
 0621 [00:45:19] Chuck! [CC elini kaldiriyor.]
 0622 [00:45:20] Ulan, Chuck deyince çakma, kösnük! [CC'nin elini kaldirma sakasina LO karakteri de tepki veriyor. komik bir sey.]
@@ -774,9 +779,10 @@ Kullanım:
 0661 [00:47:24] -LO- Ney? [kilise cani calmaya basliyor.] -AZ- Hehehe... [AZ karakteri gecistirmek icin guluyor. komik bir diyalog. kiliseye dogru yurumeye basliyorlar. onlar tam yururken yanlarina ruzgarla birlikte yuvarlanan bir ot geliyor. western filmlerinde klasiklesmis olan bir seydir bu, ruzgarla birlikte ot yuvarlanir, buna tumbleweed adi verilir. burada ona bir gonderme var. ot geldiginde AZ ve LO karakterinin gecmesini bekliyor. LO karakteri arkasina donup ona bakiyor. ikisi gectikten sonra ot da yoluna devam ediyor. AZ karakteri anlam veremiyor. komik bir sahne.] [AZ ve LO karakteri kilisenin merdivenlerinden cikmaya basliyorlar. LO karakteri yavas cikiyor:]
 --- [12s boşluk] ---
 0662 [00:47:37] -LO- Ayağın biri arızalı olunca tabii... [AZ karakterini iceri buyur ediyor:]
-0663 [00:47:41] Buyrun. [kiliseyi inceliyorlar:]
+0663 [00:47:41] Buyrun.
+===235===
 --- [3s boşluk] ---
-0664 [00:47:46] Öyle ahım şahım bir kilise değil.
+0664 [00:47:46] [LO karakteri AZ karakterine kiliseyi tanitiyor:] -LO- Öyle ahım şahım bir kilise değil.
 0665 [00:47:49] Maksat dini vecibeler yerine gelsin. [LO karakteri sapkasini cikardigi icin AZ karakteri de sapkasini cikariyor. kilisede nasil davranilir bilmedigi icin onu taklit ediyor. ardindan sanki osmanlidaki bir camiye giriyormus gibi cizmesini cikarmaya yelteniyor. LO karakteri onu uyariyor:]
 0666 [00:47:54] Şş, sakın cizmayı çıkartma ha, çalarlar itneler. 
 0667 [00:47:59] -AZ- Din ve devlet işlerini ayır şerif, böyle çok yorulursun valla.
@@ -831,9 +837,10 @@ Kullanım:
 0712 [00:50:41] Ya, ben de elmasın peşindeyim. Kaç saattir tek kelime alamadım.
 0713 [00:50:45] Boşa vakit kaybı!
 0714 [00:50:46] -AZ- Güzel güzel. Güzel, aferin. [kadinla birlikte banyoya sanki gercekten agzindan laf almak icin girmis gibi davraniyor. komik bir durum.]
-0715 [00:50:50] -LE- Konuş! Konuş elmas nerede? [AZ karakteri odayi terk ediyor. sahne bitiyor.] [sahne degisiyor. aksam oldu, saloon'da yani bardayiz. eglenceli western muzigi caliyor. barin icini goruyoruz. sahnede kadinlar kankan dansi ediyor. EU karakterini komik sekilde bir kadinin sacini koklarken goruyoruz. insanlar egleniyor, gulusuyorlar. kimileri kumar oynuyor. LO karakteri yaninda birkac kisi ile birlikte iceri giriyor.]
+0715 [00:50:50] -LE- Konuş! Konuş elmas nerede? [AZ karakteri odayi terk ediyor. sahne bitiyor.]
+===245===
 --- [11s boşluk] ---
-0716 [00:51:04] -LO- Gelin bağalım, hoş geldiniz.
+0716 [00:51:04] [sahne degisiyor. aksam oldu, saloon'da yani bardayiz. eglenceli western muzigi caliyor. barin icini goruyoruz. sahnede kadinlar kankan dansi ediyor. EU karakterini komik sekilde bir kadinin sacini koklarken goruyoruz. insanlar egleniyor, gulusuyorlar. kimileri kumar oynuyor. LO karakteri yaninda birkac kisi ile birlikte iceri giriyor.] -LO- Gelin bağalım, hoş geldiniz.
 0717 [00:51:08] Şimdi size bir yer bulalım. [LO karakteri saga sola bakiniyor. bir masayi gozune kestiriyor ama dolu. bir masada buldugu sarap sisesini o buldugu masada bir adamin kafasinda patlatiyor.]
 0718 [00:51:13] Kalk lan o masadan! Goca gotlü!
 0719 [00:51:16] Bu masa senin harcın değeel!
@@ -930,7 +937,8 @@ Kullanım:
 --- [12s boşluk] ---
 0794 [00:57:16] -KK- Buyrun şöyle oturalım. [kizilderililer ve bizim uclu oturarak bir cember olusturuyorlar. oturanlar kabilenin yetkili kisileri gibi gorunuyor.]
 --- [11s boşluk] ---
-0795 [00:57:29] Hoş geldiniz. Ben Kızılkayalar. Bu da oğlum Bambi.
+===275===
+0795 [00:57:29] [cemberde konusmaya basliyorlar.] -KK- Hoş geldiniz. Ben Kızılkayalar. Bu da oğlum Bambi.
 0796 [00:57:33] -AZ- Sağol şef, tokuz. [KK karakteri kendini ve oglu BA karakterini tanitiyor. AZ karakteri ise "sagol sef tokuz" diyor. burada soyle bir saka var. istanbul beyoglu'nda kizilkayalar adinda bir restoran ve bambi adinda bir cafe var. bunlar populer ve senelerdir kiyaslanan iki mekandir. islak hamburgerleri ile meshurlardir. KK ve BA karakterlerinin isimleri buradan geliyor, saka da burada yapilmis oluyor. komik bir detay.]
 0797 [00:57:35] -KK- Bu Kısırkayalar, Ağlayankayalar, Pembekayalar, Kayalar. [KK karakteri cemberdeki diger kisileri tanitiyor. kizilderili isimleri gibi sonu kayalar ile biten isimler secilmis. hatta KK karakteri bile taninitirken sonunda sikiliyor ve "kayalar" diyip kisa kesiyor. komik bir sey.] [SU karakteri isimleri garipsiyor ve AZ karakterinin kulagina fisildiyor:]
 0798 [00:57:41] -SU- Kayalara geldik. -AZ- Evet. [AZ karakteri LE karakterini koluyla durtuyor. LE karakteri konuya giriyor:]
@@ -1037,7 +1045,8 @@ Kullanım:
 0883 [01:04:12] -KK- Türksün demek.
 0884 [01:04:14] Türkler Kızılderili diyorlar, doğru mu? [kizilderililerin turk olabilecegiyle alakali tarihte boyle bir soylentiye filmde daha once de gonderme yapilmisti. KK karakteri bu sefer bunun tam tersini soyleyerek yine komik bir gonderme yapiyor.]
 0885 [01:04:16] -AZ- Şşşt. Öyle bir şey değil lan o! Kızılderililer Türktür derler.
-0886 [01:04:19] Bırak tatavayı da çıkar elması! [tam bu sirada SU karakteri ortaya cikar. silahini dogrultmus sekilde ortama girer:]
+===295===
+0886 [01:04:19] [AZ karakteri ile KK karakteri konusmaya devam ediyor:] -AZ- Bırak tatavayı da çıkar elması! [tam bu sirada SU karakteri ortaya cikar. silahini dogrultmus sekilde ortama girer:]
 0887 [01:04:21] -SU- Vay! Vay! Vay! Çıkar elması da gidelim diyorsun ha?
 0888 [01:04:24] -AZ- Öyle demedim. "Ver elması!" dedim.
 0889 [01:04:26] -KK- Pajero! [kizilderili perugunu cikararak:] -SU- Değil be! Suzan Van Dyke!
@@ -1212,8 +1221,9 @@ Kullanım:
 --- [18s boşluk] ---
 1027 [01:14:44] Full dokuz. [KK karakteri yine kazaniyor. LO karakteri bu sefer kartlarini cok sert sekilde masaya vuruyor. yancilar yine mutlu oluyor. AZ ve SU karakteri biraz hava almak icin disari cikiyorlar, AZ karakteri LE karakterine basiyla "biraz cikiyoruz" gibi bir hareket yapiyor, LE karakteri:]
 1028 [01:14:47] -LE- Ben buradayım.
-1029 [01:14:50] -AZ- İyisin şef. İyisin. [kumar devam ediyor. SU ve AZ karakterini barin disinda oturmus karsilikli iciyorken goruyoruz:]
-1030 [01:14:53] -SU- Çok iyi gidiyor be. [AZ karakteri barin disindan pencereden iceri bakiyor, LE karakteri ona uzaktan "cok iyi gidiyoruz" gibisinden hareket yapiyor. ardindan yeniden barin icini goruyoruz. kumar devam ediyor. LO karakteri bir kez daha masaya kartlari vuruyor, belli ki yine kaybetmis. cok sinirli bakiyor. KK karakteri ise intikamci ve mutlu gorunuyor. LO karakteri bi tomar para daha koyuyor masaya, yani kumara devam etmek icin daha cok bahis yapiyor. bunu goren LE karakteri keyifleniyor ve o da masadan kalkip disariya AZ ve SU karakterlerinin yanina gidiyor:]
+1029 [01:14:50] -AZ- İyisin şef. İyisin. [AZ ve SU karakterleri disari cikiyorlar.]
+===335===
+1030 [01:14:53] [kumar devam ediyor. SU ve AZ karakterini barin disinda oturmus karsilikli iciyorken goruyoruz:] -SU- Çok iyi gidiyor be. [AZ karakteri barin disindan pencereden iceri bakiyor, LE karakteri ona uzaktan "cok iyi gidiyoruz" gibisinden hareket yapiyor. ardindan yeniden barin icini goruyoruz. kumar devam ediyor. LO karakteri bir kez daha masaya kartlari vuruyor, belli ki yine kaybetmis. cok sinirli bakiyor. KK karakteri ise intikamci ve mutlu gorunuyor. LO karakteri bi tomar para daha koyuyor masaya, yani kumara devam etmek icin daha cok bahis yapiyor. bunu goren LE karakteri keyifleniyor ve o da masadan kalkip disariya AZ ve SU karakterlerinin yanina gidiyor:]
 --- [22s boşluk] ---
 1031 [01:15:17] -LE- Çok iyi gidiyoruz Aziz. -AZ- Valla mı?
 1032 [01:15:19] -LE- Maşallah! Topluyor, topluyor! -AZ- Oh! [KK ve LO karakterini izliyoruz:]
@@ -1369,7 +1379,6 @@ Kullanım:
 1168 [01:24:22] -AG- Şerif, şöyle halledebilir miyiz? [tam LO karakteri AG karakterinin rusvetini alirken KK karakterinin ayarladigi fotografci yani BK karakteri rusvet aninin fotografini ceker. KK karakterinin bu fotografi cektirme amaci, elmas karsiliginda bu rusvet gorselini santaj icin olarak kullanmak.] [normalde gunumuzde rusvet alan birinin fotografi gizlice cekilir ve haberi olmaz, sonradan ortaya cikar. buradaki saka, kocaman fotograf makinesinin kilisenin karsisina koyulmasi ve cok belli olacak sekilde rusvetin fotografinin cekilmesi. komik bir sey. zaten o kadar belli oluyor ki LO karakteri sasirip bagiriyor:]
 --- [3s boşluk] ---
 1169 [01:24:28] -LO- Ne oluyor lan? [fotografi cekenler ve KK karakteri kacisiyor. sahne bitiyor.]
-===370===
 1170 [01:24:29] [ilk olarak KK karakterinin LO karakteri icin kurdugu rusvet fotografi cekme kumpasiyla ilgili sahneyi gormustuk. simdi ise SU karakterinin BE karakterinin agzindan laf almaya calismasini gorecegiz.] -BE- Ay, bakayım küpene? -SU- Aaa... Bak. Bak ya.
 1171 [01:24:33] -SU- E sen takı makı hiçbir şey takmıyorsun Betty. Niye?
 1172 [01:24:35] -BE- Aa valla doğru söylüyorsun. Şerif garısıyım ama hiç öyle dakısı nesi yoktur.
@@ -1386,9 +1395,8 @@ Kullanım:
 1182 [01:25:09] Amerikan mandası diye anana demiştir o!
 1183 [01:25:11] Yürüyün lan! -C1- Yürüyün çocuklar!
 1184 [01:25:14] -C2- Hahaha. Çok da bayıldık! [cocuklar gider. AZ kendi kendine soylenir:]
-1185 [01:25:15] -AZ- Avradını siktiğiminin Chucky'si. [komik bir ifade.]
-===390===
-1186 [01:25:17] [AZ karakterinin C1 karakterinin agzindan laf almaya calisirken gormustuk. simdi son olarak LE karakterinin kilisede gizlice gramofonla LO karakterinin sesini kaydetmeye calismasini izleyecegiz. LE karakteri gizlice kiliseye girmis, isa heykelinin arkasinda saklanmis. LO karakteri de tek basina kilisede isa heykeli onunde dua ediyor:] -LO- Yüce Tanrım...
+1185 [01:25:15] -AZ- Avradını siktiğiminin Chucky'si. [komik bir ifade. bu sahne bitiyor.]
+1186 [01:25:17] [sahne degisiyor. AZ karakterinin C1 karakterinin agzindan laf almaya calisirken gormustuk. simdi son olarak LE karakterinin kilisede gizlice gramofonla LO karakterinin sesini kaydetmeye calismasini izleyecegiz. LE karakteri gizlice kiliseye girmis, isa heykelinin arkasinda saklanmis. LO karakteri de tek basina kilisede isa heykeli onunde dua ediyor:] -LO- Yüce Tanrım...
 1187 [01:25:20] Bugün işlediğim günahlar şunlar:
 1188 [01:25:24] Jessy'lerin arazi işinden rüşvet,
 1189 [01:25:27] komşu kızı Mary Lane'i elledik, [kiliseden yollarken kalcasina tokat attigi kizdan bahsediyor.]
@@ -1474,8 +1482,9 @@ Kullanım:
 1262 [01:29:23] Öyle dağdan gelip burada boru öttürmek olmaz! Öyle deel mi?
 1263 [01:29:27] O kel gafalıyı var ya,
 1264 [01:29:30] öyle bir yere ser ki, bir Cannonball'lu olarak goğsüm...
-1265 [01:29:33] Gabarsın!.. Gabarsın!.. Gabarsın! [LO karakterinin BB karakterine soyledikleri ve soyleme sekli komik.] [tam bu sirada AZ karakteri iceri girer.]
-1266 [01:29:36] -AZ- Selamün aleyküm. -LO- Ve aleyk... Hı, geldi işte. [LO karakteri amerikali oldugu icin birisi "selamin aleykum" dediginde normalde ne dedigini anlamamali. ama AZ karakteri bunu diyince cevap olarak "aleykum selam" diyecek oluyor ama yarida kesiyor. komik bir ifade.] [AZ karakteri arkadaslariyla birlikte planladiklari oyun yani gures turnuvasinin kagidiyla iceri girdi. AZ karakteri bir yagli guresci gibi ciplak ve kispet giymis. kispetinde bir guresci gibi ismi yaziyor yani "AZİZ" yaziyor. kagidi serifin onune aciyor:]
+1265 [01:29:33] Gabarsın!.. Gabarsın!.. Gabarsın! [LO karakterinin BB karakterine soyledikleri ve soyleme sekli komik.]
+===415===
+1266 [01:29:36] [tam bu sirada AZ karakteri iceri girer.] -AZ- Selamün aleyküm. -LO- Ve aleyk... Hı, geldi işte. [LO karakteri amerikali oldugu icin birisi "selamin aleykum" dediginde normalde ne dedigini anlamamali. ama AZ karakteri bunu diyince cevap olarak "aleykum selam" diyecek oluyor ama yarida kesiyor. komik bir ifade.] [AZ karakteri arkadaslariyla birlikte planladiklari oyun yani gures turnuvasinin kagidiyla iceri girdi. AZ karakteri bir yagli guresci gibi ciplak ve kispet giymis. kispetinde bir guresci gibi ismi yaziyor yani "AZİZ" yaziyor. kagidi serifin onune aciyor:]
 1267 [01:29:40] -AZ- Güreş turnuvası düzenliyormuşsun Şerif!
 1268 [01:29:42] Adımı yazdırmaya geldim. -LO- Bırak şimdi güreşi de geç bağalım şöyle. [kafasiyla AZ karakterine BB karakterini gosteriyor:]
 1269 [01:29:47] Brokeback'li Buck Berry. Buck Berry senden şikayetçi.
@@ -1571,8 +1580,9 @@ Kullanım:
 --- [11s boşluk] ---
 1351 [01:34:53] -SU- Senden de bu beklenirdi zaten. [AZ karakteri LO karakterine tokat atiyor:]
 1352 [01:34:55] -AZ- Eşşekoğlueşşek! [KK karakteri ve SU karakteri sariliyor. ardindan AZ karakteri de SU karakterine sariliyor:]
-1353 [01:34:59] Suzan... -SU- Aziz... [duygusal muzik giriyor. LO karakterinin hile yapip da SU karakterini vurmasini engelleyen EU karakteri de yanlarina geliyor:]
-1354 [01:35:03] -EU- Aziz abi, al aynan. [AZ karakteri filmin basinda EU karakterine kilisede bir ayna hediye etmisti. EU karakteri SU karakterinin vurulmasini o ayna ile engelledi. burada aynayi geri veriyor.] -AZ- Aferin lan Johnnie... [AZ karakteri turk sair Ziya pasa'nin Terkib-i Bend eserinden bir beyit okuyor:]
+1353 [01:34:59] Suzan... -SU- Aziz...
+===435===
+1354 [01:35:03] [duygusal muzik giriyor. LO karakterinin hile yapip da SU karakterini vurmasini engelleyen EU karakteri de yanlarina geliyor:] -EU- Aziz abi, al aynan. [AZ karakteri filmin basinda EU karakterine kilisede bir ayna hediye etmisti. EU karakteri SU karakterinin vurulmasini o ayna ile engelledi. burada aynayi geri veriyor.] -AZ- Aferin lan Johnnie... [AZ karakteri turk sair Ziya pasa'nin Terkib-i Bend eserinden bir beyit okuyor:]
 1355 [01:35:06] "Ayinesi iştir kişinin lafa bakılmaz.
 1356 [01:35:08] Şahsın görünür rütbe-i aklı eserinde." Aferin Johnnie. [EU karakteri karsilik olarak ziya pasa'nin Terci-i Bend eserinden baska bir beyitle cevap veriyor:]
 1357 [01:35:11] -EU- "İdrak-ı meali bu küçük akla gerekmez, zira bu terazi bu kadar sikleti çekmez." 
@@ -1663,9 +1673,10 @@ Kullanım:
 1428 [01:40:16] -AZ- Şimdi de Suzan Van Dyke'tan atış gösterisi! [izleyiciler alkisliyor. AZ karakteri sahnenin arkasina SU karakterinin yanina gidiyor:]
 1429 [01:40:21] Fırla! Fırla! Dikkat et, Vali'yi vurma. Hehehe... [hareketli muzik basliyor. SU karakteri atis gosterisine basliyor. AK karakteri at ustunde daire bir alaninin cevresinde hareket ediyor ve elinde aralikli olarak cesitli nesneler tutuyor. dairenin ortasindaki SU karakteri AK karakteri hareket ederken tuttugu, havaya attigi nesneleri vs. aralikli olarak vuruyor. sahnenin arkasindaki AZ karakteri bir sonraki yagli gures turnuvasiyla alakali gurescilerle konusuyor:]
 --- [20s boşluk] ---
-1430 [01:40:44] Çocuklar, beş dakikamız var. [guresciler giyiniyor, yaglaniyor. SU karakterinin atis gosterisi bitiyor.] [yagli gures turnuvasi basliyor. alanda davul zurna caliyor. guresciler alanda guresin baslamasi icin bekliyor. LE karakteri turk gelenegindeki gibi yagli guresler oncesi yapilan konusmadan yapiyor:]
+1430 [01:40:44] Çocuklar, beş dakikamız var. [guresciler giyiniyor, yaglaniyor. SU karakterinin atis gosterisi bitiyor.] 
 --- [5s boşluk] ---
-1431 [01:40:52] -LE- Pehlivan... Pehlivan! Yiğitler çıktı meydana,
+===455===
+1431 [01:40:52] [yagli gures turnuvasi basliyor. alanda davul zurna caliyor. guresciler alanda guresin baslamasi icin bekliyor. LE karakteri turk gelenegindeki gibi yagli guresler oncesi yapilan konusmadan yapiyor:] -LE- Pehlivan... Pehlivan! Yiğitler çıktı meydana,
 1432 [01:40:57] her biri birbirinden merdane...
 1433 [01:41:00] Atlar gibi tepişin, aslanlar gibi güreşin.
 1434 [01:41:04] İşte meydan, işte pehlivan. [pehlivanlar yerlerini aliyorlar. ve turnuva basliyor. alanda ikiserli olarak karisik sekilde pehlivanlar guresiyor.]
@@ -1881,8 +1892,9 @@ Kullanım:
 1620 [01:53:32] -KK- Haa, belli...
 1621 [01:53:35] -LO- Aksandan anladın de mi?
 1622 [01:53:37] -KK- He... -LO- Heheehe... -KK- Hahahah...
-1623 [01:53:40] -LO- Ne kadar digat etsek de gaçıyor demek ki... [LO karakterinin film boyu orta anadolu agziyle konustugunu, cok yogun sive komedisi yaptigini, cok komik konustugunu gormustuk. burada da ona gonderme yapip egleniyorlar. sahne bitiyor.] [sahne degisiyor. LE karakteri hatiratini yaziyor. AG ve LE karakterleri kendi aralarinda konusuyorlar:]
-1624 [01:53:44] -AG- Günah çıkarmak istiyorum peder. [LE karakteri normalde peder degil ama AG karakteri anlamsiz sekilde burada bunu soyluyor, zaten eglencesine cekilmis bir sahne. LE karakteri yerden buldugu bir odun parcasini AG karakterine uzatiyor:]
+1623 [01:53:40] -LO- Ne kadar digat etsek de gaçıyor demek ki... [LO karakterinin film boyu orta anadolu agziyle konustugunu, cok yogun sive komedisi yaptigini, cok komik konustugunu gormustuk. burada da ona gonderme yapip egleniyorlar. sahne bitiyor.] 
+===505===
+1624 [01:53:44] [sahne degisiyor. LE karakteri hatiratini yaziyor. AG ve LE karakterleri kendi aralarinda konusuyorlar:] -AG- Günah çıkarmak istiyorum peder. [LE karakteri normalde peder degil ama AG karakteri anlamsiz sekilde burada bunu soyluyor, zaten eglencesine cekilmis bir sahne. LE karakteri yerden buldugu bir odun parcasini AG karakterine uzatiyor:]
 --- [6s boşluk] ---
 1625 [01:53:52] -LE- Al.
 1626 [01:53:53] Bununla çıkarabilir misin?
