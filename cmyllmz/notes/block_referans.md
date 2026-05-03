@@ -7,10 +7,11 @@ Kullanım:
   - --- satırları zaman boşluğu göstergesi, gerekirse üstüne === ekle
 ============================================================
 
-0001 [00:00:14] [dort karakter meyhanede bir raki masasinda. samimi bir ortam. arkada kisik sesle "kimseye etmem sikayet" sarkisi caliyor. gulusuyorlar. etraflarinda insan yok. aralarinda sohbet ediyorlar. ekranda "BEYKOZ, OCAK 2010" yaziyor. AL karakteri erotik shop isleten bir adamin basina gelmis komik bir hikayeyi anlatiyor. hikayenin yarisindan itibaren dinlemeye basliyoruz:] -AL- Şimdi kadın "ince uzun da olur, kalın da olur, damarlı da olur, 
+===
+0001 [00:00:14] [yahsi bati filmi basliyor. yahsi bati filmi, western temali bir turk komedi filmi. filmin ismi, vahsi bati'dan yani wild west'ten geliyor.] [dort karakter meyhanede bir raki masasinda. samimi bir ortam. arkada kisik sesle "kimseye etmem sikayet" sarkisi caliyor. gulusuyorlar. etraflarinda insan yok. aralarinda sohbet ediyorlar. ekranda "BEYKOZ, OCAK 2010" yaziyor. AL karakteri erotik shop isleten bir adamin basina gelmis komik bir hikayeyi anlatiyor. hikayenin yarisindan itibaren dinlemeye basliyoruz:] -AL- Şimdi kadın "ince uzun da olur, kalın da olur, damarlı da olur, 
 0002 [00:00:18] şöyle de olur, böyle de olur" deyince... 
 0003 [00:00:20] bizim usta dayanamıyor, birden ayağa kalkıyor.
-0004 [00:00:22] "Ablacım öylesini bulsam" diyor, "ben.." diyor, "şey yaparım..." diyor. [hep birlikte gulusuyorlar. AL karakterinin anlattigi hikayede adamin soylemi bariz sekilde cinsel bir soylem. hikayenin komedisi buradan cikiyor.]
+0004 [00:00:22] "Ablacım öylesini bulsam" diyor, "ben.." diyor, "şey yaparım..." diyor. [hep birlikte gulusuyorlar. AL karakterinin anlattigi hikayede adamin soylemi bariz sekilde cinsel bir soylem. gulme sebepleri bu cumle.]
 0005 [00:00:26] -RA- Ustaya bak!
 0006 [00:00:30] -VE- Tabii canım, eskiden ona zıbık derler.
 0007 [00:00:33] Böyle, kahve değirmeni gibi olur. Şu kadar böyle...
@@ -101,18 +102,18 @@ Kullanım:
 0089 [00:06:25] Yes, every time. Always!
 0090 [00:06:28] Camels everywhere.
 0091 [00:06:31] Hep de bunu söylerler. Başka da bir şey bilmezler.
-0092 [00:06:33] Camel, everywhere. [deveye binilmesi turkler hakkinda yaygin bir yanilgidir. boyle bir sey yok ama AZ karakteri sanki varmis gibi alay ediyor. komedisi bu.]
+0092 [00:06:33] Camel, everywhere. [deveye binilmesi turkler hakkinda yaygin bir yanilgidir. boyle bir sey yok ama AZ karakteri sanki varmis gibi alay ediyor. komik bir sey.]
 0093 [00:06:38] -K1- And you sir?
 0094 [00:06:39] What do you do? [AZ karakterine ne is yaptigini soruyor. ama cevabi LE karakteri veriyor. kisik bir sesle.]
 0095 [00:06:41] -AZ- Me?
 0096 [00:06:43] -LE- Secret, secret police.
 0097 [00:06:46] [atesli bir kadin. tahrik edici bir sekilde ifade ediyor:] -K1- Oh! Well, I can keep secret.
 0098 [00:06:51] [AZ karakterine turkce ceviri yapiyor:] -LE- Sır diyor, tutarım diyor.
-0099 [00:06:53] -AZ- Bir molada duralım tutarsın bir ara. [AZ karakteri K1 karakterinin turkce bilmemesini firsat bilerek cinsel bir saka yapiyor. komedisi bu.]
+0099 [00:06:53] -AZ- Bir molada duralım tutarsın bir ara. [AZ karakteri K1 karakterinin turkce bilmemesini firsat bilerek cinsel bir saka yapiyor. komik bir sey.]
 0100 [00:06:56] Later.
 0101 [00:07:00] -LE- Bir yerde dursak da, bir... küçük su döksek.
 0102 [00:07:03] -K1- Excuse me?
-0103 [00:07:05] [iki parmagiyla "kucuk" anlaminda bir hareket yaparak:] -AZ- Little water. [kucuk tuvalet ihtiyacini gidermek anlamina gelen "kucuk su dokmek" tabirini "little water" seklinde ifade ediyor ve eliyle de gosteriyor. bunu yabanci birinin anlamasi mumkun degil. komedisi bu. bu muhabbetten sonra araba duruyor ve AZ ve LE karakterleri ihtiyacini gideriyor.]
+0103 [00:07:05] [iki parmagiyla "kucuk" anlaminda bir hareket yaparak:] -AZ- Little water. [kucuk tuvalet ihtiyacini gidermek anlamina gelen "kucuk su dokmek" tabirini "little water" seklinde ifade ediyor ve eliyle de gosteriyor. bunu yabanci birinin anlamasi mumkun degil. komiklik burada. bu muhabbetten sonra araba duruyor ve AZ ve LE karakterleri ihtiyacini gideriyor.]
 ===
 0104 [00:07:53] [western muzigi caliyor. issiz bir yerde at arabasi yoluna devam ederken kamera acisi cok genisliyor ve goruyoruz ki onlari uzaktan atli haydutlar izliyor. arabanin icine dondugumuzde bu sirada AZ karakteri bir yagli gures sirasinda cekildigi cekici bir fotografini gosteriyor.] -K1- That's you?
 0105 [00:07:55] -AZ- Me!
@@ -120,7 +121,7 @@ Kullanım:
 0107 [00:08:01] -AZ- Oil wrestling.
 0108 [00:08:03] Oil, everywhere.
 0109 [00:08:06] [elindeki iskoc viskisini AZ karakterine ikram etme niyetiyle uzatarak:] -JA- Scotch?
-0110 [00:08:07] -AZ- Ottoman. [hem iskoclara hem de iskoc viskisine "Scotch" denilmesi sebebiyle burada AZ karakteri yanlis anliyor ve Ottoman oldugunu soyluyor. komedisi bu.]
+0110 [00:08:07] -AZ- Ottoman. [hem iskoclara hem de iskoc viskisine "Scotch" denilmesi sebebiyle burada AZ karakteri yanlis anliyor ve Ottoman oldugunu soyluyor. komik bir sey.]
 0111 [00:08:14] -LE- In fact, 
 0112 [00:08:17] we are here on a special mission.
 0113 [00:08:22] Did you see this diamond?
@@ -158,7 +159,7 @@ Kullanım:
 0144 [00:09:50] Haydi aslanım. -LE- Haydi inşallah.
 0145 [00:09:56] [haydutlar arabayi durdurmayi basariyor. H1 karakteri arabayi suren kisiye silahi dogrultup ates ederken sunu soyluyor:] -H1- I said stop the carriage you son of a bitch! [bunu ifade sekli komik. tam burada flashback bozuluyor ve gunumuze donuyoruz.]
 0146 [00:10:00] -RA- Ya Zeki abi, ben oraları pek anlamadım ya. Posta arabasından sonra yok bende. [buraya kadar anlatilan kisimdaki karakterler ingilizce agirlikli konustugu icin RA karakteri anlatilanlari anlamadigini soyluyor. tabii aslinda biz seyirci olarak LE ve AZ karakterlerini her zaman turkce olarak dinliyoruz ama aslinda sanki hikayede onlar da ingilizce konusuyor gibi dusunebiliriz. aksi taktirde amerika'daki insanlarla iletisim kuramazlardi sonucta. ancak bu bir film sonuc olarak, izleyenler turk olacagi icin AZ ve LE karakteri turkce konusmali. onlar turkce konusacagi icin de filmdeki diger karakterlerin de turkce konusmasi gerek.]
-0147 [00:10:05] -ZE- Dur o zaman şöyle yapalım... [eskiden filmlerin cd ile satildigi zamanlarda filmlerin settings/menu gibi arayuzleri olurdu. filmi baslatmadan once bu menuden konusulan dili ve altyazi dilini secebilirdin. burada da o menu gozukuyor ve ZE karakteri filmdeki karakterlerin dilini bu menu uzerinden turkce yapiyor ve altyazilari da kapatiyor. yani filmdeki bir karakter sanki seyirciymis gibi davraniyor ve filmin dublajini degistiriyor. komedisi bu. bu islem bitince ardindan hemen H1 karakterinin repligi geriye sariliyor ve tekrardan izliyoruz ama bu sefer turkce.]
+0147 [00:10:05] -ZE- Dur o zaman şöyle yapalım... [eskiden filmlerin cd ile satildigi zamanlarda filmlerin settings/menu gibi arayuzleri olurdu. filmi baslatmadan once bu menuden konusulan dili ve altyazi dilini secebilirdin. burada da o menu gozukuyor ve ZE karakteri filmdeki karakterlerin dilini bu menu uzerinden turkce yapiyor ve altyazilari da kapatiyor. yani filmdeki bir karakter sanki seyirciymis gibi davraniyor ve filmin dublajini degistiriyor. ince dusunulmus, komik bir sey. bu islem bitince ardindan hemen H1 karakterinin repligi geriye sariliyor ve tekrardan izliyoruz ama bu sefer turkce.]
 0148 [00:10:15] -H1- Lan arabayı durdurun demedik mi avratını siktiklerimin! [bunu ayri olarak turkce ifade edis sekli de komik. arabayi suren kisiyi vuruyor ve adam asagi dusuyor. haydutlar arabadakilari asagiya indirmeye basliyor.]
 ===
 0149 [00:10:23] -H1- İnin aşağıya! İn aşağıya!
@@ -688,7 +689,7 @@ Kullanım:
 --- [54s boşluk] ---
 ===
 0583 [00:42:59] [klasik bir western muzigi giriyor. ikiliye artik SU karakteri de katiliyor. ucu birlikte atlariyla yola cikiyorlar. beraber uzun sure yol gittiklerini goruyoruz. ardindan Cannonball'a giris yapiyorlar. ekranda "CANNONBALL, OH" yaziyor. kasabanin girisindeki tabelada " WELCOME TO CANNONBALL - town of honesty and friendship" yaziyor. kasabanin icinde ilerliyorlar. onlar ilerlerken kasabada yasayan insanlari da goruyoruz. sebepsiz yere biri vuruluyor, birileri kacisiyor falan. yani bir western komedi filmi oldugu icin buraya boyle kucuk komik bir sey koymuslar. uclu serifin binasinin onunde duruyorlar. iceri geciyorlar. AZ ve SU karakteri karsi karsiya oturuyor. LE karakteri kurduklari oyun geregi Johnny Lesh rolunde, o yuzden o elleri bagli ayakta bekliyor. serifin gelmesini bekliyorlar.] [serifin sesi disaridan gelmeye basliyor:] -LO- Lan bağa bak. Akşam vaazına bekliyom
-0584 [00:43:02] ona gore ha, beni delletmeyin! [serif iceri giriyor. komik bir gorunumu var. bacaginda bir sakatlik olmali ki, sendeleyerek yuruyor. bunlar disinda konusmasi sekli de cok komik. diger karakterler gibi normal bir turkce ile konusmuyor. orta anadolu agzi ile konusuyor. sive komedisini cok yogun sekilde kullanan bir karakter. oyuncu da cok iyi oynadigi icin tum bunlar harmanlaninca soyledigi her sey komik oluyor bu karakterin.] [CC ye sesleniyor:]
+0584 [00:43:02] ona gore ha, beni delletmeyin! [serif iceri giriyor. komik bir gorunumu var. bacaginda bir sakatlik olmali ki, sendeleyerek yuruyor. bunlar disinda konusmasi sekli de cok komik. diger karakterler gibi normal bir turkce ile konusmuyor. orta anadolu agzi ile konusuyor. sive komedisini cok yogun sekilde kullanan bir karakter. oyuncu da cok iyi oynadigi icin tum bunlar harmanlaninca soyledigi her sey komik oluyor bu karakterin. Zafer Algoz yani LO karakterini canlandiran oyuncu, bu karakteri orta anadolu agzi ile oynarken, sener sen'in babasi ali sen'in konusmasina benzeterek oynadigini soyluyor.] [CC ye sesleniyor:]
 0585 [00:43:03] Al şu tüfeği, goy kenara.
 0586 [00:43:05] Bir yandan ganun işleri,
 0587 [00:43:08] bir yandan kilisede papazlık,
@@ -1913,3 +1914,4 @@ Kullanım:
 1651 [01:55:22] -LE- Aman maşallah de maşallah. [tam bu muhabbetin ustune Cem Yilmaz elindeki silahla ates ediyor ve Ozan Guven'in ayagindan vuruyor.]
 1652 [01:55:24] Aaahhh! -AZ- Hassiktir!
 1653 [01:55:26] -LE- Aaaahhh! Ne yaptın be abi ya? [Cem Yilmaz, Ozan Guven'in ayagini kaldirip sanki yilan sokmus gibi zehrini aliyor gibi yapiyor:] -AZ- Dur zehrini alacağım... Hahahahah... -LE- Kestiiik! [filmin eglence amacli cekilen sahneleri de bitiyor. film tamamen bitti.]
+===

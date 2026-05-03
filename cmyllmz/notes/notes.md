@@ -1,28 +1,3 @@
-# Karakterler (eski)
-
-- zeki, vedat, alpay, ramazan
-- aziz vefa, lemi galip
-- jack, bayan 1
-- haydut 1, johnny lesh, haydut 2
-- kizilderili 1, kizilderili 2, kenan, richard thomas
-- ulak, redkit
-- Silah Saticisi, Bayanlar, Zorba, Esnaflar
-- Serif 1, Serif Cheko
-- Peder, Şerif Murphy, Trenci Jack, Gardiyan, Deli
-- Suzan Van Dyke
-- serif lloyd, Macaulay, Betty
-
-# film hakkinda notlar
-
-- Greenland Vadisi - 27 Nisan 1881
-- Cannonball Town
-- Rose Hills, WC (kizilderililerin koyu)
-- Kırkpınar Güreşleri Gösteri Alanı 18 Haziran 1881.
-- Beyaz Saray, Washington (Kolombiya Bölgesi)
-- serif lloyd koylu ali sen agizina benzer bir agizla konusuyor.
-- zeki ve ramazan pek tanismiyor gibi yapiyorlar. aslinda birlikte dolandirmaya calisiyorlar. danisikli dovus yapiyorlar.
-- filmin adi vahsi bati'dan geliyor.
-
 # plana gore opsiyonel kisimlar
 
 - bulut llm gemini yerine baska llm apisi de olabilir. o mecburi degil.
@@ -37,56 +12,32 @@
 - derslerin sunumu icin bizden arayuz tasarlamamiz isteniyor, o sebeple streamlit kullanip arayuz tasarlayacagiz. yoksa bu projeyi (rag sistemini) kullanmak icin bir arayuze gerek yoktur diye tahmin ediyorum. local llm icin de bulut llm icin de bu rag sistemini kullanmanin best practice'i her ne ise, proje sunumlarini yaptiktan sonra ona gecebiliriz.
 - bu proje llm'lerin mizahi dogru yorumlayabilmesini, saka yapabilmesini, sakalari anlayabilmesini, sakalarin devamini getirebilmesini vs. saglamak amaciyla yapiliyor. bu yuzden eger cem yilmaz ozelinde bunu basarabilirsek, baska komedyenler, mizah kisilikleri icin de boyle rag sistemleri kurulabilir, bu rag sistemleri birlestirilerek llm'lerin global sekilde mizahi anlayabilmesi saglanabilir.
 
+# ne yapiyoruz
 
-Dikkat Edilmesi Gerekenler
-
-- Chunk boyutu stratejisi belirsiz. Sahne bazlı bölüyorsun ama bir sahne 30 saniye de olabilir 5 dakika da. Retrieval kalitesi için chunk'ların çok uzun olmaması önemli — genel kural 200-500 token civarı. Uzun sahneleri bölmeyi düşün.
-- NLP ön işleme ile embedding çakışması var. Stop-word çıkarımı ve stemming yapıp sonra neural embedding kullanmak biraz çelişkili. Sentence-transformers zaten kendi içinde bu işi yapıyor, ham metinden daha iyi sonuç veriyor. NLP ön işlemeyi ders gereksinimi için yapıyorsun, ama RAG pipeline'ında embedding'e ham (ya da sadece normalize edilmiş) metin ver.
-- Retrieval'ı test etme mekanizman zayıf kalabilir. 20-30 test sorusu iyi bir başlangıç, ama hangi chunk'ın gelmesi gerektiğini de önceden işaretlersen (ground truth retrieval) metrikler çok daha anlamlı olur.
-
-
-
-karakterler hakkinda aciklama girilmeli. ekstra olarak biliniyorsa oyuncularin adlari da verilmeli. yani film icin bir wiki olusturmak lazim rag icinde.
-
-ai duzelttirme islerini adim adim ayri ayri yapalim. her seyi tekte yapmasin?
-
-
--AZ- oncesi [bla bla] -AZ- devam
-seklinde repligi de bolebilirsin. sonuc olarak ses ve goruntuyu replige aktariyoruz. boyle bi kisinin replikleri arasinda da bolunmeler olur.
-
-replik ici alintilarda " kullan
-
-.... oldugu icin ... oldu. simdi bu yuzden .... diyecek/ olacak. seklinde ileri ve gerideki repliklere referans verilebilir.
-
-az ama cok dolu chunk mi daha kotu yoksa cok ama ici daha az chunk mi? ona gore kucultelim chunklari ve cogaltalim.
-
-altyazilarda sakalari "komik" kelimesi ile isaretledim. mizahi sahneleri bu kelimeyi aratarak bulabilirsiniz.
-ikili = AZ VE LE karakteri
-
-kontrol ederken XX karakteri seklinde yazildigindan emin ol her yerde. sonradan o kodlar yerine isimleri getirtebiliriz. hazir olsun yani.
-
-gordugumuzu gorecek
+bir yapay zeka ile oturup bir film izledigini dusun.
+bizim gordugumuzu gorecek
 duydugumuzu duyacak
-anladigimizi anlayacak
-tum bunlari ayni anda yapacak. su an icin mumkun degil. ama mumkun olsaydi nasil olurdu?
+anladigimizi anlayacak olsa ve 
+tum bunlari bizim gibi ayni anda yapacak olsa, bu su an icin mumkun degilm, ama mumkun olsaydi nasil olurdu?
 
-hem kor hem duymayan birine nasil anlatirsin? ya da bu kulturde yetismemis baska dilde konusan bir yabanciya nasil anlatirsin?
+hem kor hem duymayan birine nasil anlatirsin? ya da bu kulturde yetismemis baska dilde konusan bir yabanciya nasil anlatirsin? ben filmi yapay zekaya iste bu sekilde anlatarak veri olarak sagladim. bu veriyle de rag sistemi kurdum.
 
-bir sekilde bu timestamp isaretli halini de kullanmam lazim. bunu filmi izlerken anlik aciklayan bir sistem de kurulabilir. su an neden soyle oldu falan gibi sorular sorarken hangi andan bahsediyor anlayabilmek icin. 
+# verilerimiz hakkinda bilgiler
 
-[ ] bolmeleri tekrar kontrol edelim 
+- replik ici alintilarda " kullandik.
+- -XX- seklinde karakterleri kodladik.
+- [] bloklariyla notlar aldik.
+- filmdeki guldurucu etkisi olan her seyi "komik" kelimesi ile isaretledik.
+- gondermeleri "gonderme kelimesi ile isaretledik. 
+- notlarda AZ VE LE karakteri bazen "ikili" kelimesini kullanarak kisalttik. 
 
-altyazilardaki kelimeleri duzeltmesin. oldugu gibi versin. bazilarinda yazim hatalari, vs. olabilir belki ama zaten onlar filmin icinde oyle oldugu icin oyle biraktim bilerek.
+# anlamadigim sakalar:
 
-anlamadigim sakalar:
 0497
 528,529,530
 1215
 1607
 
-bilmedigi sey olursa izledim ama onu hatirlamiyorum, tekrar izlesem hatirlarim falan desin.
+# yapacagimiz arayuzdeki agent nasil konussun:
 
-chunk numaralarini
-block numaralarini
-karakter kodlarini
-bunlari notun icinde kullanmak mantikli olmaz mi? daha iyi eslesmez mi?
+bilmedigi sey olursa izledim ama onu hatirlamiyorum, tekrar izlesem hatirlarim falan desin.
