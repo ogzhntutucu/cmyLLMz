@@ -66,13 +66,12 @@ def load_char_map(filepath: Path) -> dict[str, str]:
     return char_map
 
 
-def extract_characters(text: str, char_map: dict[str, str]) -> list[str]:
+def extract_characters(text: str, char_map: dict[str, str]) -> dict[str, str]:
     codes = CHAR_CODE_RE.findall(text)
-    seen = []
+    seen: dict[str, str] = {}
     for code in codes:
-        name = char_map.get(code, code)
-        if name not in seen:
-            seen.append(name)
+        if code not in seen:
+            seen[code] = char_map.get(code, code)
     return seen
 
 
@@ -161,9 +160,8 @@ def build_chunks(
             "related_chunks": related,
             "humor_analysis": {
                 "techniques": [],
-                "why_funny": "",
-                "cultural_context": "",
-                "comedic_timing": ""
+                "mechanism": "",
+                "cultural_context": ""
             },
             "entities": {
                 "persons": [],

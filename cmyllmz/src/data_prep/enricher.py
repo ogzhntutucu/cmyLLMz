@@ -1,13 +1,12 @@
 """
 enricher.py
 -----------
-base_chunks.json'daki her chunk için Gemini API'ye istek göndererek
+base_chunks.json'daki her chunk için OpenAI API'ye istek göndererek
 humor_analysis ve summary alanlarını doldurur.
 
 Özellikler:
 - Resume destekli: enriched_chunks.json varsa eksik chunk'ları bulur, sadece onları işler
 - Her başarılı chunk'tan sonra dosyayı günceller (çökmede ilerleme kaybolmaz)
-- Rate limiting: Gemini free tier için 4s bekleme (15 req/min altında kalır)
 - Hata durumunda chunk atlanır, script devam eder
 
 Kullanım:
@@ -16,86 +15,74 @@ Kullanım:
 
 import json
 import time
-import urllib.request
-import urllib.error
 from pathlib import Path
+from openai import OpenAI
 
 
 PROJECT_ROOT = Path(__file__).parent.parent.parent
 
-GEMINI_API_KEY = "AIzaSyBjSi707S1KrxafoVAHnYUj4VV3H3lPPzk"
-GEMINI_MODEL = "gemini-2.5-flash"
-GEMINI_URL = (
-    f"https://generativelanguage.googleapis.com/v1beta/models/"
-    f"{GEMINI_MODEL}:generateContent?key={GEMINI_API_KEY}"
-)
+OPENAI_API_KEY = "ssk-proj-FkyQ0EVKnTPsYNAhngm2N_W30uIz80lYkZ0f8L9v1p_dJzY3Lr1YxCygv9I5fTq5HszyMeGQkVT3BlbkFJAI7hZ-ZSs2iZHiSqg9u4wPAwGB4R30WkMaQJKGun4eYfpbN4kgDi1W92HEHHr-fb6vEDWCKlgA"  # buraya OpenAI API key gir
+OPENAI_MODEL = "gpt-4o-mini"
 
-RATE_LIMIT_SLEEP = 4.5  # saniye — free tier 15 req/min için güvenli marj
+RATE_LIMIT_SLEEP = 1.0  # saniye
 
 SYSTEM_PROMPT = """\
-Sen Türk mizahı ve sinema konusunda uzman bir analistsin. \
-Sana Cem Yılmaz'ın "Yahşi Batı" (2010) filminden bir sahne verilecek. \
-Sahneyi mizah açısından analiz edip Türkçe yanıt vereceksin.
+Yahşi Batı (2010) filminden sahne analizleri üretiyorsun. \
+Görevin: her sahne için belirtilen JSON alanlarını doldur. \
+Gözlem ve tespit yaz. Öznel yorum veya değerlendirme katma.
 
-Verinin formatı hakkında bilgi:
-- Köşeli parantez [içindekiler] izleyicinin aldığı sahne notlarıdır: görsel detaylar, \
-kültürel bağlam, mizah mekanizması açıklamaları.
-- -XX- etiketleri konuşmacı karakter kodlarıdır (-AZ- Aziz Vefa, -LE- Lemi Galip vb.).
-- (bkz. yb_NNN) başka bir sahnede geçen ilgili bir olaya cross-reference'tır.
-- Diyalog metni ve sahne notları iç içe geçmiş biçimdedir.
+Metin formatı:
+- [köşeli parantez içi] sahne notu (görsel detay, kültürel bağlam, izleyicinin aldığı not)
+- -XX- konuşmacı karakter kodu (hangi kodun kim olduğu sana ayrıca verilir)
+- (bkz. yb_NNN) başka bir sahneye çapraz referans
 
-Kullanabileceğin mizah teknikleri (sadece bu listeden seç, birden fazla olabilir):
+Kullanılabilecek mizah teknikleri (sadece bu listeden seç, birden fazla olabilir):
 irony, sarcasm, wordplay, exaggeration, anachronism, cultural_reference,
 slapstick, absurd, anecdote, character_contrast, breaking_fourth_wall,
 callback, misunderstanding, deadpan, timing\
 """
 
 CHUNK_PROMPT_TEMPLATE = """\
-Sahne ID: {chunk_id}
+Sahne: {chunk_id}
 Mekan: {location}
-Karakterler: {characters}
+Karakterler:
+{characters}
 {related_info}
---- Sahne metni (diyalog + sahne notları) ---
+--- Metin ---
 {text}
---- Sahne metni sonu ---
+--- Son ---
 
 Yalnızca aşağıdaki JSON formatında yanıt ver, başka hiçbir şey yazma:
 
 {{
-  "humor_analysis": {{
-    "techniques": ["liste", "şeklinde", "teknikler"],
-    "why_funny": "Bu sahne neden komik? 2-3 cümle, Türkçe.",
-    "cultural_context": "Bu sahneyi anlamak için gereken kültürel/tarihsel bağlam. Yoksa boş string.",
-    "comedic_timing": "Zamanlama veya beklenmedik tepkilerin rolü. Yoksa boş string."
-  }},
+  "techniques": ["teknik1", "teknik2"],
+  "mechanism": "Mizahın nasıl işlediği — kısa, analitik, Türkçe.",
+  "cultural_context": "Sahneyi anlamak için gereken kültürel veya tarihsel bağlam. Yoksa boş string.",
   "summary": "Sahnenin 1-2 cümlelik özeti, Türkçe."
 }}\
 """
 
 
-def call_gemini(prompt: str) -> dict:
-    """Gemini API'ye istek at, parsed JSON döndür."""
-    body = json.dumps({
-        "system_instruction": {"parts": [{"text": SYSTEM_PROMPT}]},
-        "contents": [{"parts": [{"text": prompt}]}],
-        "generationConfig": {
-            "temperature": 0.2,
-            "responseMimeType": "application/json",
-        }
-    }).encode("utf-8")
-
-    req = urllib.request.Request(
-        GEMINI_URL, data=body,
-        headers={"Content-Type": "application/json"}
+def call_openai(client: OpenAI, prompt: str) -> dict:
+    response = client.chat.completions.create(
+        model=OPENAI_MODEL,
+        messages=[
+            {"role": "system", "content": SYSTEM_PROMPT},
+            {"role": "user", "content": prompt},
+        ],
+        temperature=0.2,
+        response_format={"type": "json_object"},
     )
-    resp = urllib.request.urlopen(req, timeout=60)
-    data = json.loads(resp.read())
-    raw_text = data["candidates"][0]["content"]["parts"][0]["text"]
-    return json.loads(raw_text)
+    return json.loads(response.choices[0].message.content)
 
 
 def build_prompt(chunk: dict) -> str:
-    chars = ", ".join(chunk.get("characters", [])) or "—"
+    chars = chunk.get("characters", {})
+    if isinstance(chars, dict) and chars:
+        chars_str = "\n".join(f"  {code}: {name}" for code, name in chars.items())
+    else:
+        chars_str = "  —"
+
     loc = chunk.get("location", "") or "—"
 
     related = chunk.get("related_chunks", [])
@@ -107,7 +94,7 @@ def build_prompt(chunk: dict) -> str:
     return CHUNK_PROMPT_TEMPLATE.format(
         chunk_id=chunk["id"],
         location=loc,
-        characters=chars,
+        characters=chars_str,
         related_info=related_info,
         text=chunk.get("text", ""),
     )
@@ -119,7 +106,6 @@ def main():
 
     chunks: list[dict] = json.loads(input_file.read_text(encoding="utf-8"))
 
-    # Resume: çıktı dosyası varsa işlenmiş ID'leri bul
     if output_file.exists():
         done_chunks: list[dict] = json.loads(output_file.read_text(encoding="utf-8"))
         done_ids = {c["id"] for c in done_chunks}
@@ -132,6 +118,7 @@ def main():
     pending = [c for c in chunks if c["id"] not in done_ids]
     print(f"İşlenecek chunk: {len(pending)} / {len(chunks)}")
 
+    client = OpenAI(api_key=OPENAI_API_KEY)
     errors = []
 
     for i, chunk in enumerate(pending, 1):
@@ -140,15 +127,18 @@ def main():
 
         try:
             prompt = build_prompt(chunk)
-            result = call_gemini(prompt)
+            result = call_openai(client, prompt)
 
             enriched = dict(chunk)
-            enriched["humor_analysis"] = result.get("humor_analysis", chunk["humor_analysis"])
+            enriched["humor_analysis"] = {
+                "techniques": result.get("techniques", []),
+                "mechanism": result.get("mechanism", ""),
+                "cultural_context": result.get("cultural_context", ""),
+            }
             enriched["summary"] = result.get("summary", "")
 
             result_map[cid] = enriched
 
-            # Her chunk'tan sonra dosyayı güncelle
             ordered = [result_map[c["id"]] for c in chunks if c["id"] in result_map]
             output_file.write_text(
                 json.dumps(ordered, ensure_ascii=False, indent=2), encoding="utf-8"
@@ -157,10 +147,6 @@ def main():
             techniques = enriched["humor_analysis"].get("techniques", [])
             print(f"OK — {techniques}")
 
-        except urllib.error.HTTPError as e:
-            body = e.read().decode()
-            print(f"HATA (HTTP {e.code}): {body[:120]}")
-            errors.append(cid)
         except Exception as e:
             print(f"HATA: {e}")
             errors.append(cid)
@@ -169,10 +155,10 @@ def main():
             time.sleep(RATE_LIMIT_SLEEP)
 
     total_done = len(result_map)
-    print(f"\n✅ Tamamlandı: {total_done} / {len(chunks)} chunk zenginleştirildi.")
+    print(f"\nTamamlandı: {total_done} / {len(chunks)} chunk zenginleştirildi.")
     if errors:
-        print(f"⚠️  Atlanan chunk'lar ({len(errors)}): {errors}")
-    print(f"💾 Kaydedildi: {output_file}")
+        print(f"Atlanan chunk'lar ({len(errors)}): {errors}")
+    print(f"Kaydedildi: {output_file}")
 
 
 if __name__ == "__main__":
