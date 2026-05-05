@@ -1,21 +1,25 @@
 """
 chunk_merger.py
 ---------------
-notes/block_referans.md dosyasındaki === sınırlarını okur,
-ham_chunks.json ile birleştirerek base_chunks.json oluşturur.
+notes/block_referans.md dosyasını okur:
+  - ===NNN=== sınırlarından chunk'ları ayırır
+  - @lokasyon X directive'lerini chunk'ın location field'ına yazar
+  - (bkz. yb_NNN) referanslarını related_chunks field'ına extract eder
+  - -XX- karakter kodlarını characters field'ına çevirir
+  - ham_chunks.json'dan timestamp bilgisini alır
+Çıktılar:
+  - data/processing/base_chunks.json
+  - notes/chunk_index.md (kullanıcı referans tablosu)
 
 Beklenen block_referans.md formatı:
+    ===001===
+    @lokasyon beykoz meyhanesi
     0001 [00:00:14] [rakı masasında oturuyorlar] -AL- Şimdi kadın...
-    0002 [00:00:20] -RA- Ustaya bak! [herkes gülüyor]
-    --- [3s boşluk] ---        ← bunlara dokunma
-    0003 [00:00:25] -AZ- Calm down, calm down.
-    ===                        ← chunk sınırı (senin eklediğin)
-    0004 [00:00:30] -ZE- Zekicim, istersen şey yapalım.
+    0002 [00:00:20] -RA- Ustaya bak! [bkz. yb_005]
+    ===002===
+    @lokasyon Dolmabahçe Sarayı
+    0003 [00:00:25] -AZ- Selam.
     ...
-
-Satır içi notlar [...] köşeli parantezle doğrudan block satırına yazılır.
-Karakter kodları notes/karakterler.txt'ten yüklenir.
-characters alanı -XX- etiketlerinden otomatik doldurulur.
 
 Kullanım:
     python src/data_prep/chunk_merger.py
@@ -23,16 +27,23 @@ Kullanım:
 
 import json
 import re
+from dataclasses import dataclass, field
 from pathlib import Path
 
 
 PROJECT_ROOT = Path(__file__).parent.parent.parent
 
-# -XX- etiket kalıbı: tire, 1-3 büyük harf veya rakam, tire
 CHAR_CODE_RE = re.compile(r'-([A-Z][A-Z0-9]{0,2})-')
-
-# Blok satırı: NNNN [HH:MM:SS] metin
 BLOCK_LINE_RE = re.compile(r'^(\d{4})\s+\[\d{2}:\d{2}:\d{2}\]\s*(.*)')
+LOKASYON_RE = re.compile(r'^@lokasyon\s+(.+)$', re.IGNORECASE)
+BKZ_RE = re.compile(r'bkz\.\s*(yb_\d{3})', re.IGNORECASE)
+CHUNK_HEADER_RE = re.compile(r'^===\d+===$')
+
+
+@dataclass
+class RefChunk:
+    blocks: list[tuple[int, str]] = field(default_factory=list)
+    location: str = ""
 
 
 def time_to_seconds(t: str) -> float:
@@ -42,7 +53,6 @@ def time_to_seconds(t: str) -> float:
 
 
 def load_char_map(filepath: Path) -> dict[str, str]:
-    """karakterler.txt'yi oku → {KOD: "Tam İsim"} sözlüğü döndür."""
     char_map = {}
     if not filepath.exists():
         return char_map
@@ -57,62 +67,76 @@ def load_char_map(filepath: Path) -> dict[str, str]:
 
 
 def extract_characters(text: str, char_map: dict[str, str]) -> list[str]:
-    """Metindeki -XX- etiketlerini bul, tam isimlere çevir, sırala."""
     codes = CHAR_CODE_RE.findall(text)
     seen = []
     for code in codes:
-        name = char_map.get(code, code)  # map'te yoksa kodu olduğu gibi kullan
+        name = char_map.get(code, code)
         if name not in seen:
             seen.append(name)
     return seen
 
 
-def parse_ref_file(filepath: Path) -> list[list[tuple[int, str]]]:
+def extract_related_chunks(text: str, self_id: str) -> list[str]:
+    """Metindeki (bkz. yb_NNN) referanslarını çıkar, dedupe et, sırala."""
+    refs = BKZ_RE.findall(text)
+    unique = sorted(set(r.lower() for r in refs))
+    return [r for r in unique if r != self_id]
+
+
+def parse_ref_file(filepath: Path) -> list[RefChunk]:
     """
-    block_referans.txt'yi oku.
-    Çıktı: chunk listesi. Her chunk, (seq_num, text) çiftlerinin listesi.
-    Chunk'lar === satırlarıyla ayrılır.
+    block_referans.md'yi oku.
+    ===NNN=== ile chunk açılır.
+    @lokasyon X bir sonraki satırlarda gelirse chunk.location'a yazılır.
+    NNNN [HH:MM:SS] satırları block olarak eklenir.
     """
-    chunks = []
-    current: list[tuple[int, str]] = []
+    chunks: list[RefChunk] = []
+    current: RefChunk | None = None
 
     for line in filepath.read_text(encoding='utf-8').splitlines():
         line = line.rstrip()
 
-        if line.startswith('==='):
-            if current:
+        if CHUNK_HEADER_RE.match(line):
+            if current is not None:
                 chunks.append(current)
-                current = []
+            current = RefChunk()
             continue
 
-        if line.startswith('---') or not line:
+        if current is None:
+            continue
+
+        loc_match = LOKASYON_RE.match(line.strip())
+        if loc_match:
+            current.location = loc_match.group(1).strip()
+            continue
+
+        if line.startswith('---') or not line.strip():
             continue
 
         m = BLOCK_LINE_RE.match(line)
         if m:
             seq_num = int(m.group(1))
             text = m.group(2).strip()
-            current.append((seq_num, text))
+            current.blocks.append((seq_num, text))
 
-    if current:
+    if current is not None:
         chunks.append(current)
 
     return chunks
 
 
 def build_chunks(
-    ref_chunks: list[list[tuple[int, str]]],
+    ref_chunks: list[RefChunk],
     blocks: list[dict],
     char_map: dict[str, str],
 ) -> list[dict]:
     chunks = []
 
-    for chunk_num, block_entries in enumerate(ref_chunks, start=1):
-        if not block_entries:
+    for chunk_num, ref in enumerate(ref_chunks, start=1):
+        if not ref.blocks:
             continue
 
-        seq_nums = [s for s, _ in block_entries]
-
+        seq_nums = [s for s, _ in ref.blocks]
         first_block = blocks[seq_nums[0] - 1]
         last_block = blocks[seq_nums[-1] - 1]
 
@@ -120,21 +144,21 @@ def build_chunks(
         end_time = last_block['end']
         duration = round(time_to_seconds(end_time) - time_to_seconds(start_time), 1)
 
-        text = ' '.join(t for _, t in block_entries if t).strip()
+        text = ' '.join(t for _, t in ref.blocks if t).strip()
         characters = extract_characters(text, char_map)
+        chunk_id = f"yb_{chunk_num:03d}"
+        related = extract_related_chunks(text, chunk_id)
 
         chunks.append({
-            "id": f"yb_{chunk_num:03d}",
+            "id": chunk_id,
             "start": start_time,
             "end": end_time,
             "duration_sec": duration,
             "block_range": f"{seq_nums[0]:04d}-{seq_nums[-1]:04d}",
             "text": text,
             "characters": characters,
-            "location": "",
-            "scene_description": "",
-            "humor_note": "",
-            "related_chunks": [],
+            "location": ref.location,
+            "related_chunks": related,
             "humor_analysis": {
                 "techniques": [],
                 "why_funny": "",
@@ -153,11 +177,30 @@ def build_chunks(
     return chunks
 
 
+def write_chunk_index(chunks: list[dict], out_file: Path) -> None:
+    """notes/chunk_index.md üret: kullanıcı/RAG için referans tablosu."""
+    lines = [
+        '# Chunk Index\n',
+        f'Toplam: {len(chunks)} chunk\n\n',
+        '| ID | Süre | s | Lokasyon | İlk 100 karakter |\n',
+        '|---|---|---|---|---|\n',
+    ]
+    for c in chunks:
+        preview = c['text'][:100].replace('\n', ' ').replace('|', '/')
+        loc = c.get('location', '') or '—'
+        lines.append(
+            f"| {c['id']} | {c['start']}→{c['end']} | {int(c['duration_sec'])}s "
+            f"| {loc} | {preview} |\n"
+        )
+    out_file.write_text(''.join(lines), encoding='utf-8')
+
+
 def main():
     ref_file = PROJECT_ROOT / "notes" / "block_referans.md"
     blocks_file = PROJECT_ROOT / "data" / "processing" / "ham_chunks.json"
     char_file = PROJECT_ROOT / "notes" / "karakterler.txt"
     out_file = PROJECT_ROOT / "data" / "processing" / "base_chunks.json"
+    index_file = PROJECT_ROOT / "notes" / "chunk_index.md"
 
     blocks = json.loads(blocks_file.read_text(encoding='utf-8'))
     print(f"Ham block sayısı   : {len(blocks)}")
@@ -169,10 +212,10 @@ def main():
     print(f"Tespit edilen chunk: {len(ref_chunks)}")
 
     if not ref_chunks:
-        print("❌ block_referans.txt'de henüz === ile ayrılmış chunk bulunamadı.")
+        print("❌ block_referans.md'de === ile ayrılmış chunk bulunamadı.")
         return
 
-    covered = sum(len(c) for c in ref_chunks)
+    covered = sum(len(c.blocks) for c in ref_chunks)
     uncovered = len(blocks) - covered
     print(f"Kapsanan block     : {covered} / {len(blocks)}")
     if uncovered > 0:
@@ -185,15 +228,27 @@ def main():
     print(f"   Ortalama süre   : {sum(durations) / len(durations):.0f}s")
     print(f"   En kısa / uzun  : {min(durations):.0f}s  /  {max(durations):.0f}s")
 
+    with_loc = sum(1 for c in chunks if c['location'])
+    with_refs = sum(1 for c in chunks if c['related_chunks'])
+    total_refs = sum(len(c['related_chunks']) for c in chunks)
+    print(f"   Lokasyonlu      : {with_loc} / {len(chunks)}")
+    print(f"   Cross-ref olan  : {with_refs} chunk, toplam {total_refs} referans")
+
     out_file.parent.mkdir(parents=True, exist_ok=True)
     out_file.write_text(json.dumps(chunks, ensure_ascii=False, indent=2), encoding='utf-8')
-    print(f"\n💾 Kaydedildi: {out_file}")
+    print(f"\n💾 base_chunks.json: {out_file}")
+
+    write_chunk_index(chunks, index_file)
+    print(f"💾 chunk_index.md  : {index_file}")
 
     print("\n--- İlk 3 chunk:")
     for c in chunks[:3]:
         preview = c['text'][:100] + '...' if len(c['text']) > 100 else c['text']
-        print(f"  [{c['id']}] {c['start']} → {c['end']} ({c['duration_sec']:.0f}s)")
+        print(f"  [{c['id']}] {c['start']} → {c['end']} ({c['duration_sec']:.0f}s) "
+              f"@{c['location']}")
         print(f"  Karakterler: {c['characters']}")
+        if c['related_chunks']:
+            print(f"  → bağlı: {c['related_chunks']}")
         print(f"  {preview}")
         print()
 
