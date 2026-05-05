@@ -1,56 +1,54 @@
 """
 embedder.py
 -----------
-SentenceTransformer ile chunk metinlerini embedding vektörlerine çevirir.
+BAAI/bge-m3 modeliyle chunk metinlerini embedding vektörlerine çevirir.
 
-Model: paraphrase-multilingual-MiniLM-L12-v2
-Çıktı boyutu: 384 boyutlu vektör
-Türkçe dahil 50+ dil destekler.
+Embedding için birleştirilen içerik: summary + text (concat)
+- summary: retrieval kalitesini güçlendirir (semantik özet)
+- text: detaylı diyalog ve sahne bilgisini sağlar
 
-Embedding için birleştirilecek metin:
-{text}
-Özet: {summary}
-Mizah teknikleri: {humor_analysis.techniques}
-Neden komik: {humor_analysis.why_funny}
-Kültürel bağlam: {humor_analysis.cultural_context}
+bge-m3: 8192 token, Türkçe dahil çok dilli, prefix gerekmez.
+
+Model: BAAI/bge-m3
+Çıktı boyutu: 1024
+Max token: 8192
 """
 
-from pathlib import Path
+from sentence_transformers import SentenceTransformer
 
-PROJECT_ROOT = Path(__file__).parent.parent.parent
+MODEL_NAME = "BAAI/bge-m3"
 
-MODEL_NAME = "paraphrase-multilingual-MiniLM-L12-v2"
-EMBEDDING_DIM = 384
+_model: SentenceTransformer | None = None
 
 
-def load_model():
-    """SentenceTransformer modelini yükle."""
-    # TODO: Implement
-    # from sentence_transformers import SentenceTransformer
-    # return SentenceTransformer(MODEL_NAME)
-    pass
+def load_model() -> SentenceTransformer:
+    global _model
+    if _model is None:
+        _model = SentenceTransformer(MODEL_NAME)
+    return _model
 
 
 def build_embedding_text(chunk: dict) -> str:
-    """
-    Chunk'tan embedding için birleştirilmiş metin oluştur.
-    
-    text + summary + humor_analysis bilgileri birleştirilir.
-    Bu, retrieval kalitesini artırır.
-    """
-    # TODO: Implement
-    pass
+    """Embedding için summary + text concat üret."""
+    summary = chunk.get("summary", "").strip()
+    text = chunk.get("text", "").strip()
+    return f"{summary} {text}".strip() if summary else text
 
 
-def embed_chunks(chunks: list[dict]) -> list[list[float]]:
-    """Chunk listesini embedding vektörlerine çevir."""
-    # TODO: Implement
-    pass
+def embed_texts(texts: list[str]) -> list[list[float]]:
+    """Metin listesini embedding vektörlerine çevir."""
+    model = load_model()
+    vectors = model.encode(
+        texts,
+        batch_size=8,
+        show_progress_bar=True,
+        normalize_embeddings=True,
+    )
+    return [v.tolist() for v in vectors]
 
 
-def main():
-    print("⚠️  embedder.py henüz implement edilmedi. Hafta 2'de doldurulacak.")
-
-
-if __name__ == "__main__":
-    main()
+def embed_query(query: str) -> list[float]:
+    """Tek bir sorguyu embed et."""
+    model = load_model()
+    vec = model.encode(query, normalize_embeddings=True)
+    return vec.tolist()

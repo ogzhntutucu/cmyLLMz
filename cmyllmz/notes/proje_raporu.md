@@ -1,6 +1,6 @@
 # cmyLLMz — Proje Raporu
 
-> **Bu rapor checkpoint niteliğindedir.** Veri hazırlama fazı tamamen bitti, RAG pipeline ve arayüz fazına geçiliyor. Son güncelleme: 2026-05-04.
+> **Bu rapor checkpoint niteliğindedir.** Faz 10 tamamlandı, RAG pipeline'ın retriever + LLM entegrasyonu aşamasına (Faz 11) geçiliyor. Son güncelleme: 2026-05-05.
 
 ## Proje Nedir?
 
@@ -129,42 +129,44 @@ Faz 6 ✅  3. İzleme — Lokasyon + Cross-Reference + Son Kontrol
 ### Sıradaki Fazlar (RAG Pipeline)
 
 ```
-Faz 7 ⏳  chunk_merger.py Final Sürüm
+Faz 7 ✅  chunk_merger.py Final Sürüm
           - @lokasyon directive parsing → location field
           - (bkz. yb_NNN) regex extract → related_chunks field
           - chunk_index.md auto-generation entegre
           - Çıktı: base_chunks.json + chunk_index.md
 
-Faz 8 ⏳  enricher.py — Gemini ile Zenginleştirme
-          - Her chunk için: humor_analysis (techniques, why_funny, cultural_context,
-            comedic_timing), summary alanları doldurulur
-          - Girdi: text + characters + location + related_chunks
+Faz 8 ✅  enricher.py — OpenAI gpt-4o-mini ile Zenginleştirme
+          - Schema: techniques, mechanism, cultural_context, summary
+          - (why_funny / comedic_timing kaldırıldı, mechanism eklendi)
+          - characters artık dict {KOD: isim} — LLM metin içindeki -XX- kodlarını eşler
+          - 62/62 chunk işlendi
           - Çıktı: enriched_chunks.json
 
-Faz 9 ⏳  NER + Manuel Gözden Geçirme
-          - ner_extractor.py: spaCy + Türkçe regex ile entities çıkarma
-          - LLM çıktılarını tarayarak yanlış/saçma analizleri düzelt
-          - Çıktı: final_chunks.json
+Faz 9 ⛔  NER — ATLANIDI
+          - entities field boş kalıyor (RAG için zorunlu değil)
+          - Post-MVP olarak değerlendirilebilir
 
-Faz 10 ⏳ Embedding + Vector Store
-          - preprocessor.py: tokenizasyon, stop-word, normalizasyon (rapor için)
-          - embedder.py: paraphrase-multilingual-MiniLM-L12-v2 ile vektörleştirme
-          - vector_store.py: iki ChromaDB collection'a yükleme (yb_chunks, yb_blocks)
+Faz 10 ✅ Embedding + Vector Store
+          - embedder.py: BAAI/bge-m3 (1024 boyut, 8192 token)
+          - Embed içeriği: summary + text concat
+          - vector_store.py: yb_chunks collection, cosine similarity
+          - indexer.py: 62/62 chunk ChromaDB'ye yüklendi
+          - Depolama: data/chroma/
 
 Faz 11 ⏳ Retriever + LLM Entegrasyonu
-          - retriever.py: top-k retrieval, related_chunks expansion, katman seçimi
-          - gemini_client.py + ollama_client.py: çift LLM desteği
+          - retriever.py: top-k semantic retrieval, related_chunks expansion
+          - OpenAI gpt-4o-mini: tek runtime LLM
           - prompt_templates.py: system prompt + user prompt
 
 Faz 12 ⏳ Streamlit Arayüzü (app.py)
-          - LLM seçimi (local/bulut)
-          - Karakter/lokasyon filtreleri (sidebar, opsiyonel)
-          - Streaming destekli cevap
+          - Soru sor → retrieval → LLM cevap
+          - Evaluation soru seti önce hazırlanacak (15-20 soru, elle)
           - Kaynak chunk gösterimi (şeffaflık için)
 
 Faz 13 ⏳ Evaluation
-          - 20-30 test sorusu (test_questions.json)
-          - Hallucination, retrieval precision, LLM-as-a-Judge metrikleri
+          - 15-20 test sorusu (elle hazır, doğru chunk işaretli)
+          - Retrieval Precision@k, Faithfulness, LLM-as-a-Judge
+          - Hybrid retrieval (BM25 + dense) kararı bu aşamada verilecek
 ```
 
 ---
@@ -210,15 +212,14 @@ Veri kaynağı, insan tarafından okunabilir bir markdown dosyası:
   "block_range": "0001-0012",
 
   "text": "[yahşi batı filmi başlıyor...] -AL- Şimdi kadın... -RA- Ustaya bak!",
-  "characters": ["Alpay", "Ramazan", "Vedat", "Zeki"],
+  "characters": {"AL": "Alpay (...)", "RA": "Ramazan (...)", "VE": "Vedat (...)", "ZE": "Zeki (...)"},
   "location": "beykoz meyhanesi",
   "related_chunks": ["yb_005", "yb_012"],
 
   "humor_analysis": {
     "techniques": ["anecdote", "wordplay"],
-    "why_funny": "...",
-    "cultural_context": "...",
-    "comedic_timing": "..."
+    "mechanism": "Mizahın nasıl işlediği — kısa, analitik.",
+    "cultural_context": "..."
   },
 
   "entities": {
@@ -255,12 +256,12 @@ Veri kaynağı, insan tarafından okunabilir bir markdown dosyası:
 |------|---------------|
 | `id`, `start`, `end`, `duration_sec`, `block_range` | Otomatik (chunk_merger.py) |
 | `text` (raw, with `-XX-` ve `[...]`) | Manuel (3 izleme) |
-| `characters` | Otomatik (`-XX-` extract + `karakterler.txt` mapping) |
+| `characters` | Otomatik (`-XX-` extract + `karakterler.txt` mapping) — dict {KOD: isim} |
 | `location` | Otomatik (`@lokasyon` directive parse) |
 | `related_chunks` | Otomatik (`(bkz. yb_NNN)` regex extract) |
-| `humor_analysis` | LLM (Gemini, enricher.py) |
-| `summary` | LLM (Gemini, enricher.py) |
-| `entities` | Otomatik (spaCy + Türkçe regex, ner_extractor.py) |
+| `humor_analysis` | LLM (OpenAI gpt-4o-mini, enricher.py) |
+| `summary` | LLM (OpenAI gpt-4o-mini, enricher.py) |
+| `entities` | Boş (NER atlandı — RAG için zorunlu değil, post-MVP) |
 
 ---
 
@@ -283,33 +284,23 @@ Lokasyon directive:            62 (her chunk için bir tane)
 
 | Bileşen | Teknoloji | Notlar |
 |---------|-----------|--------|
-| Embedding | `paraphrase-multilingual-MiniLM-L12-v2` | 384 boyut, Türkçe destekli, 128 token max_seq |
-| Vektör DB | ChromaDB | İki collection: `yb_chunks` + `yb_blocks` |
-| Local LLM | Ollama — Gemma 3 4B veya Phi-4 Mini | GTX 1650 Ti 4GB için |
-| Bulut LLM | Gemini API (Gemini 2.5 Flash) | Birincil LLM, 1M context |
+| Embedding | `BAAI/bge-m3` | 1024 boyut, 8192 token max, Türkçe dahil çok dilli |
+| Vektör DB | ChromaDB | `yb_chunks` collection (62 chunk); `yb_blocks` post-MVP |
+| Bulut LLM | OpenAI gpt-4o-mini | Birincil ve tek runtime LLM |
+| Local LLM | Ollama (opsiyonel) | Post-MVP — donanım yetersiz, kalite farkı belirgin |
 | Türkçe Normalizasyon | OpenAI GPT-4o-mini | Veri hazırlama tek seferlik kullanım |
-| NLP | NLTK / spaCy (`xx_ent_wiki_sm`) | Ön işleme + NER |
-| Türkçe stemming | Zeyrek | Rapor için |
+| NLP | NLTK / spaCy (`xx_ent_wiki_sm`) | Ön işleme; NER post-MVP |
 | Arayüz | Streamlit | Streaming destekli |
 
 ### Embedding İçin Birleştirilen Metin
 
-Sadece diyalog değil; chunk'ın **anlamsal zenginliği** için şu alanlar birleştirilip embed edilir:
+`summary + text` concat embed edilir:
 
 ```
-{text}
-
-Mekan: {location}
-Karakterler: {characters}
-Özet: {summary}
-Mizah teknikleri: {humor_analysis.techniques}
-Neden komik: {humor_analysis.why_funny}
-Kültürel bağlam: {humor_analysis.cultural_context}
+{summary} {text}
 ```
 
-Bu sayede "anakronizm içeren sahneler" gibi sorular doğrudan analiz alanlarıyla eşleşir.
-
-**Block collection için:** sadece raw text + character info embed edilir (block düzeyinde analiz yok).
+Summary, retrieval kalitesini güçlendirir (semantik özet); text detaylı diyalog ve sahne bilgisini sağlar. bge-m3'ün 8192 token kapasitesi sayesinde en uzun chunk bile kesilmeden sığar.
 
 ---
 
@@ -367,28 +358,22 @@ cmyllmz/
 ## Şu Anki Durum (2026-05-04 Checkpoint)
 
 ### Tamamlandı
-- **Faz 1-6**: Veri hazırlama tamamen bitti.
-  - SRT parsing, ham_chunks.json
-  - block_referans.md (1644 block, 62 chunk, hepsi annotate edilmiş)
-  - karakterler.txt (55 karakter)
-  - 1. izleme (chunk + karakter), 2. izleme (detaylı notlar), 3. izleme (lokasyon + cross-ref)
-  - Türkçe karakter normalizasyonu (GPT-4o-mini ile)
-  - chunk_index.md referans dosyası
+- **Faz 1-10** tamamen bitti.
+  - SRT parsing → block_referans.md (1644 block, 62 chunk, hepsi annotate)
+  - karakterler.txt (55 karakter), chunk_index.md
+  - Türkçe karakter normalizasyonu (GPT-4o-mini)
+  - enriched_chunks.json: 62/62 chunk, humor_analysis {techniques, mechanism, cultural_context} + summary
+  - ChromaDB `yb_chunks`: 62 chunk, BAAI/bge-m3 embed, data/chroma/
 
-### Sırada (Faz 7'den itibaren)
-1. **chunk_merger.py final sürüm** — @lokasyon parsing, bkz. extraction, schema temizliği
-2. **enricher.py** — Gemini ile humor_analysis + summary
-3. **NER + manuel review** — entities + LLM çıktı kontrolü
-4. **Embedding + ChromaDB** — preprocessor, embedder, vector_store (iki collection)
-5. **Retriever + LLM entegrasyonu** — multi-resolution sorgu mantığı
-6. **Streamlit arayüzü** — UI, streaming, filtreler
-7. **Evaluation** — test soruları, üç metrik, bar chart'lar
+### Sırada (Faz 11'den itibaren)
+1. **retriever.py** — top-k retrieval, related_chunks expansion, OpenAI entegrasyonu
+2. **Streamlit arayüzü** — evaluation soru seti hazır olduktan sonra
+3. **Evaluation** — 15-20 soru, Precision@k, Faithfulness, LLM-as-a-Judge
 
 ### Riskler ve Dikkat Edilecekler
-- **Yankı odası riski:** LLM'in ürettiği humor_analysis verilerini gözden geçirmeden veri tabanına atmak, yanlış bilginin "doğruymuş gibi" RAG'a girmesine yol açar. Faz 9'daki manuel gözden geçirme atlanmamalı.
-- **GTX 1650 Ti VRAM:** Local LLM seçeneği için 4B parametre üst sınır. Sunumda hız için Gemini önerilir.
-- **Gemini rate limit:** Zenginleştirme sırasında ~62 chunk için ~62 API çağrısı; ücretsiz kotada sorun çıkmaması için araya bekleme konabilir.
-- **Türkçe diakritik dönüşüm review'i:** Yapıldı ama henüz manuel kontrol yok — 3. izleme sırasında okurken yanlışlar tespit edildi/edilecek; bunlar fark edildikçe düzeltilecek.
+- **Hallucination:** enricher çıktıları gözden geçirilmedi (NER atlandı). retriever + LLM aşamasında context sıkı tutularak hallucination azaltılacak.
+- **Local LLM:** Donanım yetersizliği nedeniyle post-MVP. Sunumda OpenAI gpt-4o-mini kullanılacak.
+- **Hybrid retrieval:** BM25 + dense kararı evaluation sonrasına bırakıldı.
 
 ---
 
