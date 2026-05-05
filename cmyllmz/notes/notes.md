@@ -28,15 +28,14 @@ hem kor hem duymayan birine nasil anlatirsin? ya da bu kulturde yetismemis baska
 - -XX- seklinde karakterleri kodladik.
 - [] bloklariyla notlar aldik.
 - filmdeki guldurucu etkisi olan her seyi "komik" kelimesi ile isaretledik.
-- gondermeleri "gonderme kelimesi ile isaretledik. 
-- notlarda AZ VE LE karakteri bazen "ikili" kelimesini kullanarak kisalttik. 
+- chunk referanslarını (bkz. yb_000) formatıyla isaretledik.
 
 # anlamadigim sakalar:
 
-0497
-528,529,530
-1215
-1607
+0497 - neden kid ayrı diyor?
+0528-0529 - olay ne? şaka ne? belirtmeli miyim?
+1214-1222 arası - neden taklit yapıyorlar?
+1607 - torba şakası nedir?
 
 # yapacagimiz arayuzdeki agent nasil konussun:
 
@@ -45,3 +44,15 @@ bilmedigi sey olursa izledim ama onu hatirlamiyorum, tekrar izlesem hatirlarim f
 yapacagımız arayuz senaryo kitabindaki gibi cikti uretsin sahne verecek olursa. ama bölünmeler olduğu için eksik karakter işaretlerini düzgün göstermeli.
 
 her chunkta bir önceki chunkı ve bir sonraki chunki belirtmemize gerek varm ı? birbirlerine baglayalim mi 
+
+# wiki yapilirsa alinacak notlar:
+
+AZ = Aziz Vefa (ana hikaye başrol)                                 - İstenmeyentüy, Zozo the Kid
+LE = Lemi Galip (ana hikaye ikinci başrol)                         - Pontiac, Johnny Lesh
+DE = Deli (aniden ortaya çıkan hapishane kostümlü adam)            - josh
+SU = Susanne van Dyke (suzan. ana hikayede önemli rol)             - Pajero
+LO = Şerif Lloyd (Cannonball kasabası şerifi)                      - william
+AG = Alejandro Gomez (kısa boylu adam)                             - Arias Jose Robledo Alfonso Villas des Sandos
+H1 = Haydut 1 (JO karakterinin sağ kolu)                           - garry
+C1 = Çocuk 1 (LO ve BE karakterlerinin çocuğu)                     - chuckie olabilir adi
+KB = Benson (beyaz saray'da amerikan başkanı'nın yardımcısı. kapıdaki adam)

@@ -6,65 +6,65 @@
 # Yeni karakter eklerken buraya da ekle, kodun benzersiz olduğundan emin ol.
 # İsimsiz karakterler için sıra numarası kullan (H1, H2, K1 gibi).
 
-# === ÇERÇEVE HİKAYE (Günümüz — Rakı masası) ===
-ZE = Zeki (dolandirici 1)
-AL = Alpay (ortak arkadas, abi)
-RA = Ramazan (dolandirici 2 - gizli)
-VE = Vedat (alici)
+# === ÇERÇEVE HİKAYE (Günümüz — Beykoz Meyhanesinde Rakı masası) ===
+ZE = Zeki (ana hikayeyi anlatan kişi)
+AL = Alpay (diğer üç karakterin ortak arkadaşı)
+RA = Ramazan (Zeki'nin arkadaşı)
+VE = Vedat (ana hikayenin anlatıldığı kişi, Alpay'ın arkadaşı)
 
 # === ANA HİKAYE (1881 — Osmanlı / Vahşi Batı) ===
-AZ = Aziz Vefa (bi yerde zozo the kid, bi yerde istenmeyen tuy)
-LE = Lemi Galip (bi yerde johnny lesh, bi yerde pontiac, kucuk bi yerde kelle avcisi lenny)
-JA = Jack (arabadaki adam. K1'in yanindaki)
-JO = Johnny Lesh (haydut cetesinin lideri)
-RT = Richard Thomas (kizilderili grubunun lideri)
-CH = Şerif Cheko
-PE = Peder
-MU = Şerif Murphy
-TR = Trenci Jack
-DE = Deli
-SU = Susanne van Dyke (suzan - bi yerde pajero)
-LO = Şerif Lloyd (william)
-MA = Macaulay
-BE = Betty (serifin 2. karisi)
-EU = Eugene (yuruyen johnnie)
-KK = Kizilkayalar (Sioux kizilderili kabile Sefi)
-BA = Bambi (kizilkayalarin oglu)
-SL = Sultan
-BK = Backer = Fotografci
-CC = Chuck (sheriffin yardimcisi)
-AG = Alejandro Gomez (Arias Jose Robledo Alfonso Villas des Sandos)
-BB = Buck Berry
-VW = Vali Wilson
-GA = James Abraham Garfield (amerikan baskani)
-ML = Mary Lou (anne)
+AZ = Aziz Vefa (ana hikaye başrol)
+LE = Lemi Galip (ana hikaye ikinci başrol)
+JA = Jack (K1 karakterinin yanındaki, posta arabasındaki adam)
+JO = Johnny Lesh (haydutlar çetesinin lideri)
+RT = Richard Thomas (soygun yapan kızılderili grubunun lideri, herhangi bir kızılderili)
+CH = Şerif Cheko (herhangi bir şerif)
+PE = Peder (MU karakterinin yanındaki peder)
+MU = Şerif Murphy (PE karakterinin yanındaki şerif, herhangi bir şerif)
+TR = Trenci Jack (asılmak üzere olan suçlu)
+DE = Deli (aniden ortaya çıkan hapishane kostümlü adam)
+SU = Susanne van Dyke (suzan. ana hikayede önemli rol)
+LO = Şerif Lloyd (Cannonball kasabası şerifi)
+MA = Macaulay (LO karakterinin iş yaptırdığı biri)
+BE = Betty (LO karakterinin ikinci karısı, C1 karakterinin annesi)
+EU = Eugene (yürüyen johnnie. LO karakterinin eski karısından olan en büyük çocuğu. meczup biri.)
+KK = Kızılkayalar (Sioux kızılderili kabilesi şefi)
+BA = Bambi (KK karakterinin oğlu)
+SL = Sultan (osmanlı sultanı)
+BK = Backer = Fotoğrafçı
+CC = Chuck (LO karakterinin yardımcısı)
+AG = Alejandro Gomez (kısa boylu adam)
+BB = Buck Berry (Brockback'li. azılı bir haydut. gay karakter.)
+VW = Vali Wilson (gösteriye davet edilen amerikan yetkilisi)
+GA = James Abraham Garfield (dönemin amerikan başkanı)
+ML = Mary Lou (KK karakterinin ölen eşi. SU karakterinin annesi)
 
 # === ANA HIKAYE - İSİMSİZ / YAN KARAKTERLER ===
 # Bunları filmi izlerken kendin ekle.
 
-K1 = Kadın 1 (arabadaki kadin, jack'in yanindaki.)
-H1 = Haydut 1 (johnny lesh'in sag kolu - garry?)
-H2 = Haydut 2 (cetedeki bir haydut)
-D1 = Kızılderili 1 (kizilderili grubundaki bir kizilderili)
-D2 = Kızılderili Kenan (grubun yetkili bir abisi. Richard Thomasin sag kolu gibi)
-UL = Ulak (postane gorevlisi)
-RE = Redkit
-SA = Silah Saticisi
-K2 = KADIN 2 (gulmeyen kadin)
-K3 = KADIN 3 (diger gulmeyen kadin)
-ZO = zorba adam (macunu alip giden adam)
-E1 = Esnaf 1
-E2 = Esnaf 2
-S1 = SERIF 1
-Y1 = Yardimci 1 (serif chekonun yardimcisi)
-Y2 = yARIMCI 2 (SHERIF CHEKONUN YARDIMCISI)
-KO = Kole (kilisedeki oglan)
-P1 = Dansci kiz 1
-D3 = Kizilderili 3 (orada oturan herhangi biri)
-C1 = Cocuk 1 (Serif lloydun kucuk oglu) (chuckie olabilir adi)
-C2 = cocuk 2 (cocuk 1in arkadasi)
-U1 = Kucuk kiz
-TA = Tabutcu
-PO = Postaci
-AK = Atli kovboy
-KB = Benson (kapidaki adam)
+K1 = Kadın 1 (JA karakterinin yanındaki, posta arabasındaki ateşli kadın)
+H1 = Haydut 1 (JO karakterinin sağ kolu)
+H2 = Haydut 2 (haydutlar çetesindeki herhangi bir haydut)
+D1 = Kızılderili 1 (soygun yapan kızılderili grubundaki herhangi bir kızılderili)
+D2 = Kızılderili Kenan (soygunu yapan kızılderili grubun yetkili bir abisi. RT karakterinin sağ kolu)
+UL = Ulak (postane görevlisi)
+RE = Redkit (bilinen klasik Redkit)
+SA = Silah Satıcısı (AZ ve LE karakterlerini kovan adam)
+K2 = Kadın 2 (karagöz oyununa gülmeyen kadın)
+K3 = Kadın 3 (K2 karakterinin arkadaşı, karagöz oyununa gülmeyen diğer kadın)
+ZO = Zorba Adam (AZ karakterinden macun tepsisini alıp giden adam)
+E1 = Esnaf 1 (kavgacı esnaf)
+E2 = Esnaf 2 (E1 karakterinin arkadaşı, diğer kavgacı esnaf)
+S1 = Şerif 1 (herhangi bir kasabada herhangi bir şerif)
+Y1 = Yardımcı 1 (MU karakterinin yardımcısı)
+Y2 = Yardımcı 2 (taş madenindeki sorumlu)
+KO = Köle (Cannonball kasabası kilisesindeki zenci)
+P1 = Dansçı Kız (herhangi bir kankan kızı)
+D3 = Kızılderili 3 (sioux kabilesinde yaşayan, orada oturan herhangi bir kızılderili)
+C1 = Çocuk 1 (LO ve BE karakterlerinin çocuğu)
+C2 = Çocuk 2 (C1 karakterinin arkadaşı. herhangi bir çocuk)
+U1 = Küçük Kız (şiir okuyan, kızılderili görünümlü kız)
+TA = Tabutçu (ölçü almaya gelen yaşlı adam)
+PO = Postacı (LE karakterine posta getiren adam)
+AK = Atlı Kovboy (SU karakterinin gösterisindeki at süren adam)
+KB = Benson (beyaz saray'da amerikan başkanı'nın yardımcısı. kapıdaki adam)

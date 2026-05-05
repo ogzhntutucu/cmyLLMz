@@ -657,9 +657,9 @@ Kullanım:
 0529 [00:39:04] -LE- "Amaan çekelim kürekleri ruhu şad eyleyelim."
 0530 [00:39:06] -AZ- Eski bir konak, tulumbacılar, yangın... [Osmanlı'daki tulumbacılardan bahsediyorlar.]
 0531 [00:39:09] [çok kalın bir adam sesiyle:] -LE- "Bekçi baba yangın nerede?" [ince bir kadın sesiyle:] -AZ- "Yüreğimde, yüreğimde!"
-0532 [00:39:12] -LE- Ya! Galata, Tophane, külhanbeyleri... -AZ- "Anamı kesen ben, babamı kesen ben..."
-0533 [00:39:17] Arap bacıyı yap! [arap bacı'nın sesi ve taklidi ile:] -LE- "Küçük hanım bu akşam ne yemek isterler acaba?"
-0534 [00:39:20] -AZ- Öyle değil lan, sesini öne al... [arap bacı'nın sesi ve taklidi ile:]
+0532 [00:39:12] -LE- Ya! Galata, Tophane, külhanbeyleri... [osmanlı külhanbeyi taklidi. çok kalın bir adam sesiyle:] -AZ- "Anamı kesen ben, babamı kesen ben..."
+0533 [00:39:17] Arap bacıyı yap! [arap bacı'nın garip ince sesi ve taklidi ile:] -LE- "Küçük hanım bu akşam ne yemek isterler acaba?"
+0534 [00:39:20] -AZ- Öyle değil lan, sesini öne al... [yine arap bacı'nın sesi ve taklidi ile:]
 0535 [00:39:22] "Küçük hanım yemek hiç yapamadım, bugün kilerde hiçbir şey kalmamış."
 0536 [00:39:25] [ikisinin de yaptığı taklit ve sesleri çok komik. AZ karakterinin yaptığı taklidi tam beğenemiyor:] -LE- Biraz sert olmuyor mu öyle?
 0537 [00:39:27] -AZ- Şu, isle yüzümü biraz kara yapayım, tam arap bacı. Tam.
@@ -869,7 +869,6 @@ Kullanım:
 0714 [00:50:46] -AZ- Güzel güzel. Güzel, aferin. [kadınla birlikte banyoya sanki gerçekten ağzından laf almak için girmiş gibi davranıyor. komik bir durum.]
 0715 [00:50:50] -LE- Konuş! Konuş elmas nerede? [AZ karakteri odayı terk ediyor. sahne bitiyor.]
 ===031===
---- [11s boşluk] ---
 @lokasyon Cannonball kasabası barı 
 0716 [00:51:04] [sahne değişiyor. akşam oldu, saloon'da yani bardayız. eğlenceli western müziği çalıyor. barın içini görüyoruz. sahnede kadınlar kankan dansı ediyor. EU karakterini komik şekilde bir kadının saçını koklarken görüyoruz. insanlar eğleniyor, gülüşüyorlar. kimileri kumar oynuyor. LO karakteri yanında birkaç kişi ile birlikte içeri giriyor.] -LO- Gelin bağalım, hoş geldiniz.
 0717 [00:51:08] Şimdi size bir yer bulalım. [LO karakteri sağa sola bakınıyor. bir masayı gözüne kestiriyor ama dolu. bir masada bulduğu şarap şişesini o bulduğu masada bir adamın kafasında patlatıyor.]
@@ -1395,7 +1394,6 @@ Kullanım:
 1143 [01:22:31] -AZ- Sezgiler... [kızılderili sezgileriyle alakalı komik bir diyalog.]
 1144 [01:22:33] Haydi arkadaşlar, haydi. [masadan kalkıyorlar. sahne bitiyor.]
 ===046===
---- [16s boşluk] ---
 @lokasyon Cannonball kasaba kilisesi - Betty'nin evinin girişindeki engin balkon
 1145 [01:22:52] [AZ, LE, SU ve KK karakteri otelden ayrılıyor. kasabada elmasla ilgili ipucu yakalamak için herkes farklı farklı şeyler deneyecek. AZ karakteri daha önce yaptığı (bkz. yb_013) osmanlı macunu tezgahını tekrar açıyor. LE karakteri elinde gramofonla LO karakterini iki kadınla beraber kiliseye girerken izliyor. KK karakteri fotoğrafçıyla yani BK karakteriyle kilisenin karşısında bekliyor. SU karakteri de LO karakterinin karısı BE karakterinin evinin girişindeki engin balkonuna, onun yanına gidiyor.] [BE karakteri ile EU karakteri evin balkonunda mısır kabuğu soyuyorlar:] -SU- N'aber Betty? -BE- Gel, gel. [SU karakteri BE karakterine kek uzatıyor:]
 1146 [01:22:56] Sen mi yaptın? [BE karakteriyle SU karakterinin sahnesi burada bölünüyor. dört karakterin de elmasla ilgili bilgi almak için deneyeceği şeyleri görmüş olduk. şimdi ilk olarak KK karakterinin LO karakteri için kurduğu oyunla alakalı sahneyi izleyeceğiz.] [sahne değişiyor. kilisenin içindeyiz. LO karakteri iki kadın ile konuşuyor:]
@@ -1484,7 +1482,7 @@ Kullanım:
 1219 [01:27:06] -KK- "Elması da sattım mıydı, daha da burada benim tozumu
 1220 [01:27:10] bulamaz itoğluitler..." [KK karakterinin taklidi beğeniliyor:]
 1221 [01:27:12] -SU- Aa... -AZ- Evet!
-1222 [01:27:13] İşte! [taklit faslı bitiyor. bu taklitleri neden yaptıkları muğlak. komik bir sahne.] [KK karakteri fotoğrafla şantaj yapma planı için ne yaptığını anlatıyor:]
+1222 [01:27:13] İşte! [taklit faslı bitiyor. komik bir sahne.] [KK karakteri fotoğrafla şantaj yapma planı için ne yaptığını anlatıyor:]
 1223 [01:27:14] -KK- Ben gizlice fotoğrafını çektim ama on gün sonra veriyor fotoğrafçı. [fotoğraf ile şantaj yapamayacaklar yani.]
 1224 [01:27:17] -LE- Gizlice mi? [KK karakteri kilisenin dışında LO karakterinin fotoğrafını çektiriyordu (bkz. yb_046). o zamanlarda fotoğraf makinesi çok büyük ve sesli. gizlice fotoğraf çekmek mümkün değil. ama KK karakteri günümüz ağzıyla böyle söylüyor. zaten LE karakteri de buna şaşırıyor.] [fotoğrafın çekildiği sahneye anlık bir flashback oluyor. LO karakterinin şaşırdığı anı görüyoruz:]
 1225 [01:27:19] -LO- Ne oluyor lan? [flashback bozuluyor, masaya geri dönüyoruz.]
@@ -1719,7 +1717,7 @@ Kullanım:
 1422 [01:39:38] -U1- # Bir apaçi ağlıyor... Gözleri yaşlı...
 1423 [01:39:43] # Yalnız bir kovboydu... Dağları aştı...
 1424 [01:39:48] # Ağla kovboy ağla! Ben de ağlayayım!
-1425 [01:39:53] # Bu topraklardan sana, arsa bağlayayım! [amerika kızılderili yerlileri ve beyaz avrupa göçmenleri arasında yüzyıllarca süren çatışmayla alakalı bir canlandırma ve şiir. aslında biliyoruz ki bu çatışmada beyazlar kızılderilileri yerinden yurdundan etti ve çeşitli kötülükler yaptı. ancak bu gösteriye amerikan devlet yetkilileri davet edildiği ve gösteri onlara yapıldığı için, dalkavukluk etmek için ona hitaben hikayeyi böyle anlatıyorlar ve canlandırıyorlar. zaten valinin arkasında oturan kızılderili seyircilerden olan RT karakteri sinirleniyor ve kalkmaya yelteniyor ama KK karakteri onu sakinleştiriyor. hem anlamlı bir gönderme hem de komik bir sahne. şiir de komik. bu canlandırma bitiyor.] [LO karakteri C1 karakterini alana yolluyor:] 
+1425 [01:39:53] # Bu topraklardan sana, arsa bağlayayım! [amerika kızılderili yerlileri ve beyaz avrupa göçmenleri arasında yüzyıllarca süren çatışmayla alakalı bir canlandırma ve şiir. aslında biliyoruz ki bu çatışmada beyazlar kızılderilileri yerinden yurdundan etti ve çeşitli kötülükler yaptı. ancak bu gösteriye amerikan devlet yetkilileri davet edildiği ve gösteri onlara yapıldığı için, dalkavukluk etmek için ona hitaben hikayeyi böyle anlatıyorlar ve canlandırıyorlar. zaten valinin arkasında oturan kızılderili seyircilerden olan RT karakteri sinirleniyor ve kalkmaya yelteniyor ama KK karakteri onu sakinleştiriyor. hem anlamlı bir gönderme hem de komik bir sahne. şiir de komik, şiiri okuyan kızın hali de komik. çünkü türkler gösterilerde küçük kız ya da erkek çocuklara etkileyici şiirler okutmayı severler. bu gösteride de kızılderilileri temsilen böyle bir şey yapılması anlamsız ve komik. bu canlandırma bitiyor.] [LO karakteri C1 karakterini alana yolluyor:] 
 --- [3s boşluk] ---
 1426 [01:40:00] -LO- Kalk lan! Sen de bir şeyler yap, Vali'nin gozüne girelim. Hadi! [C1 karakteri elinde küçük bir gitarla şarkı söylüyor:]
 --- [3s boşluk] ---
