@@ -135,3 +135,32 @@ def ask(query: str, stream: bool = False, top_k: int = TOP_K):
     user_prompt = format_user_prompt(context, query)
     response = chat(SYSTEM_PROMPT, user_prompt, stream=stream)
     return response, chunks
+
+
+def ask_with_history(
+    query: str,
+    history: list[dict],
+    stream: bool = False,
+    top_k: int = TOP_K,
+):
+    """
+    Multi-turn: soru + önceki sohbet geçmişi → retrieval → LLM cevabı.
+
+    Retrieval sadece mevcut query üzerinden yapılır.
+    LLM tüm önceki Q&A geçmişini görür → follow-up sorularında bağlam kurar.
+
+    history: [{"role": "user"|"assistant", "content": "..."}]
+             Mevcut soru dahil edilmez, zaten user_prompt içinde.
+
+    Returns:
+        stream=False: (cevap_str, chunks_list)
+        stream=True:  (token_generator, chunks_list)
+    """
+    from llm.openai_client import chat
+    from llm.prompt_templates import SYSTEM_PROMPT, format_user_prompt
+
+    chunks = retrieve(query, top_k=top_k)
+    context = build_context(chunks)
+    user_prompt = format_user_prompt(context, query)
+    response = chat(SYSTEM_PROMPT, user_prompt, stream=stream, history=history)
+    return response, chunks

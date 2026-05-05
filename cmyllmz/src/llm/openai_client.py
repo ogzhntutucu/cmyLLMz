@@ -19,21 +19,28 @@ def get_client() -> OpenAI:
     return _client
 
 
-def chat(system_prompt: str, user_prompt: str, stream: bool = False):
+def chat(
+    system_prompt: str,
+    user_prompt: str,
+    stream: bool = False,
+    history: list[dict] | None = None,
+):
     """
     OpenAI ile sohbet.
 
+    history: [{"role": "user"|"assistant", "content": "..."}] — önceki turlar
     Returns:
         stream=False: Tam cevap string
         stream=True: Token generator (Streamlit st.write_stream ile uyumlu)
     """
     client = get_client()
+    messages = [{"role": "system", "content": system_prompt}]
+    if history:
+        messages.extend(history)
+    messages.append({"role": "user", "content": user_prompt})
     response = client.chat.completions.create(
         model=OPENAI_MODEL,
-        messages=[
-            {"role": "system", "content": system_prompt},
-            {"role": "user", "content": user_prompt},
-        ],
+        messages=messages,
         temperature=0.3,
         stream=stream,
     )
