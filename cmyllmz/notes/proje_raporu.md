@@ -1,6 +1,6 @@
 # cmyLLMz — Proje Raporu
 
-> **Bu rapor checkpoint niteliğindedir.** Faz 10 tamamlandı, RAG pipeline'ın retriever + LLM entegrasyonu aşamasına (Faz 11) geçiliyor. Son güncelleme: 2026-05-05.
+> **Bu rapor checkpoint niteliğindedir.** Faz 11 tamamlandı, Streamlit arayüzü (Faz 12) aşamasına geçiliyor. Son güncelleme: 2026-05-06.
 
 ## Proje Nedir?
 
@@ -153,10 +153,13 @@ Faz 10 ✅ Embedding + Vector Store
           - indexer.py: 62/62 chunk ChromaDB'ye yüklendi
           - Depolama: data/chroma/
 
-Faz 11 ⏳ Retriever + LLM Entegrasyonu
-          - retriever.py: top-k semantic retrieval, related_chunks expansion
-          - OpenAI gpt-4o-mini: tek runtime LLM
-          - prompt_templates.py: system prompt + user prompt
+Faz 11 ✅ Retriever + LLM Entegrasyonu
+          - openai_client.py: gpt-4o-mini, streaming destekli
+          - retriever.py: top-k=5, related_chunks expansion (maks 8 chunk)
+          - build_context: Zaman (start→end), related_chunks bilgisi eklendi
+          - prompt_templates.py: timestamp tahmini + çıkarım izni eklendi
+          - retriever.ask(): uçtan uca soru → retrieval → LLM cevap
+          - Bilinen zayıflık: spesifik replik araması (hybrid BM25 post-MVP)
 
 Faz 12 ⏳ Streamlit Arayüzü (app.py)
           - Soru sor → retrieval → LLM cevap
@@ -294,13 +297,11 @@ Lokasyon directive:            62 (her chunk için bir tane)
 
 ### Embedding İçin Birleştirilen Metin
 
-`summary + text` concat embed edilir:
-
 ```
-{summary} {text}
+{summary} {text} Mekan: {location} Karakterler: {isimler} Mizah teknikleri: {techniques} Kültürel bağlam: {cultural_context}
 ```
 
-Summary, retrieval kalitesini güçlendirir (semantik özet); text detaylı diyalog ve sahne bilgisini sağlar. bge-m3'ün 8192 token kapasitesi sayesinde en uzun chunk bile kesilmeden sığar.
+Summary + text temel içeriği sağlar; location, karakter isimleri, teknikler ve kültürel bağlam eklenerek "Betty nasıl bir karakter?", "wordplay sahneleri", "meyhanede geçen sahneler" gibi sorguların retrieval kalitesi artırıldı. bge-m3'ün 8192 token kapasitesi sayesinde en uzun chunk bile kesilmeden sığar.
 
 ---
 
@@ -320,7 +321,7 @@ RAG'lı sistem vs düz LLM cevapları, üçüncü bir LLM tarafından üç krite
 - Detay (bilgilendiricilik)
 - Tutarlılık (iç tutarlılık)
 
-**Limitation:** Gemini'yi hem zenginleştirmede hem hakemlikte kullanırsak model kendi üslubuna yatkınlık gösterebilir. Raporda belirtilecek.
+**Limitation:** Aynı modeli (gpt-4o-mini) hem zenginleştirmede hem hakemlikte kullanmak model yanlılığına yol açabilir. Raporda belirtilecek.
 
 ---
 
@@ -345,12 +346,13 @@ cmyllmz/
 ├── src/
 │   ├── data_prep/     srt_parser.py, chunk_merger.py, turkish_normalizer.py,
 │   │                  enricher.py, ner_extractor.py, preprocessor.py
-│   ├── rag/           embedder.py, vector_store.py, retriever.py
-│   ├── llm/           ollama_client.py, gemini_client.py, prompt_templates.py
+│   ├── rag/           embedder.py, vector_store.py, indexer.py, retriever.py
+│   ├── llm/           openai_client.py, prompt_templates.py,
+│   │                  ollama_client.py (post-MVP), gemini_client.py (post-MVP)
 │   ├── evaluation/    hallucination_test.py, retrieval_test.py, quality_test.py
 │   └── app.py         (Streamlit ana uygulama)
 │
-└── chroma_db/         (otomatik oluşur, persistent)
+└── data/chroma/       (otomatik oluşur, persistent)
 ```
 
 ---
@@ -358,21 +360,22 @@ cmyllmz/
 ## Şu Anki Durum (2026-05-04 Checkpoint)
 
 ### Tamamlandı
-- **Faz 1-10** tamamen bitti.
+- **Faz 1-11** tamamen bitti.
   - SRT parsing → block_referans.md (1644 block, 62 chunk, hepsi annotate)
-  - karakterler.txt (55 karakter), chunk_index.md
-  - Türkçe karakter normalizasyonu (GPT-4o-mini)
-  - enriched_chunks.json: 62/62 chunk, humor_analysis {techniques, mechanism, cultural_context} + summary
-  - ChromaDB `yb_chunks`: 62 chunk, BAAI/bge-m3 embed, data/chroma/
+  - enriched_chunks.json: 62/62 chunk, OpenAI gpt-4o-mini ile zenginleştirildi
+  - ChromaDB `yb_chunks`: 62 chunk, BAAI/bge-m3, data/chroma/
+  - retriever.py + openai_client.py: uçtan uca soru → cevap çalışıyor
+  - Embedding: summary+text+location+karakterler+teknikler+kültürel bağlam
+  - build_context: timestamp (start→end) ve related_chunks LLM'e iletiliyor
 
-### Sırada (Faz 11'den itibaren)
-1. **retriever.py** — top-k retrieval, related_chunks expansion, OpenAI entegrasyonu
-2. **Streamlit arayüzü** — evaluation soru seti hazır olduktan sonra
-3. **Evaluation** — 15-20 soru, Precision@k, Faithfulness, LLM-as-a-Judge
+### Sırada (Faz 12'den itibaren)
+1. **Streamlit arayüzü** (app.py) — soru sor, cevap al, kaynak chunk'ları gör
+2. **Evaluation** — 15-20 soru, Precision@k, Faithfulness, LLM-as-a-Judge
 
 ### Riskler ve Dikkat Edilecekler
-- **Hallucination:** enricher çıktıları gözden geçirilmedi (NER atlandı). retriever + LLM aşamasında context sıkı tutularak hallucination azaltılacak.
-- **Local LLM:** Donanım yetersizliği nedeniyle post-MVP. Sunumda OpenAI gpt-4o-mini kullanılacak.
+- **Spesifik replik araması zayıf:** "çaldığı ıslık..." gibi birebir alıntı aramaları semantik sistemle bulunamıyor. Hybrid BM25 evaluation sonrasına bırakıldı.
+- **Karakter sorguları kısmen zayıf:** "Betty nasıl biri" gibi sorular bazen ilgili chunk'ı getiremiyor — karakter isimlerinin embedding'e eklenmesi kısmen iyileştirdi.
+- **Hallucination riski:** "Veri setimde yok" dedikten sonra uydurma yapabiliyor. System prompt sıkılaştırıldı; evaluation'da ölçülecek.
 - **Hybrid retrieval:** BM25 + dense kararı evaluation sonrasına bırakıldı.
 
 ---

@@ -29,10 +29,30 @@ def load_model() -> SentenceTransformer:
 
 
 def build_embedding_text(chunk: dict) -> str:
-    """Embedding için summary + text concat üret."""
-    summary = chunk.get("summary", "").strip()
-    text = chunk.get("text", "").strip()
-    return f"{summary} {text}".strip() if summary else text
+    """Embedding için summary + text + destekleyici metadata concat üret."""
+    parts = []
+
+    if summary := chunk.get("summary", "").strip():
+        parts.append(summary)
+
+    if text := chunk.get("text", "").strip():
+        parts.append(text)
+
+    if location := chunk.get("location", "").strip():
+        parts.append(f"Mekan: {location}")
+
+    chars = chunk.get("characters", {})
+    if isinstance(chars, dict) and chars:
+        names = ", ".join(chars.values())
+        parts.append(f"Karakterler: {names}")
+
+    ha = chunk.get("humor_analysis", {})
+    if techniques := ha.get("techniques", []):
+        parts.append(f"Mizah teknikleri: {', '.join(techniques)}")
+    if ctx := ha.get("cultural_context", "").strip():
+        parts.append(f"Kültürel bağlam: {ctx}")
+
+    return " ".join(parts)
 
 
 def embed_texts(texts: list[str]) -> list[list[float]]:
