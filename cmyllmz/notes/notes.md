@@ -43,8 +43,6 @@ bilmedigi sey olursa izledim ama onu hatirlamiyorum, tekrar izlesem hatirlarim f
 
 yapacagımız arayuz senaryo kitabindaki gibi cikti uretsin sahne verecek olursa. ama bölünmeler olduğu için eksik karakter işaretlerini düzgün göstermeli.
 
-her chunkta bir önceki chunkı ve bir sonraki chunki belirtmemize gerek varm ı? birbirlerine baglayalim mi 
-
 # wiki yapilirsa alinacak notlar:
 
 AZ = Aziz Vefa (ana hikaye başrol)                                 - İstenmeyentüy, Zozo the Kid

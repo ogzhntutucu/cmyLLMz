@@ -1,0 +1,608 @@
+[
+  {
+    "id": "yb_001",
+    "start": "00:00:14",
+    "end": "00:00:49",
+    "duration_sec": 35.0,
+    "block_range": "0001-0012",
+    "text": "[yahşi batı filmi başlıyor. yahşi batı filmi, western temalı bir Türk komedi filmi. filmin ismi, vahşi batı'dan yani wild west'ten geliyor.] [dört karakter meyhanede bir rakı masasında. samimi bir ortam. arkada kısık sesle \"kimseye etmem şikayet\" şarkısı çalıyor. gülüşüyorlar. etraflarında insan yok. aralarında sohbet ediyorlar. ekranda \"BEYKOZ, OCAK 2010\" yazıyor. AL karakteri erotik shop işleten bir adamın başına gelmiş komik bir hikayeyi anlatıyor. hikayenin yarısından itibaren dinlemeye başlıyoruz:] -AL- Şimdi kadın \"ince uzun da olur, kalın da olur, damarlı da olur, şöyle de olur, böyle de olur\" deyince... bizim usta dayanamıyor, birden ayağa kalkıyor. \"Ablacım öylesini bulsam\" diyor, \"ben..\" diyor, \"şey yaparım...\" diyor. [hep birlikte gülüşüyorlar. AL karakterinin anlattığı hikayede adamın söylemi bariz şekilde cinsel bir söylem. gülme sebepleri bu cümle.] -RA- Ustaya bak! -VE- Tabii canım, eskiden ona zıbık derler. Böyle, kahve değirmeni gibi olur. Şu kadar böyle... -ZE- Tahtadan, değil mi abi? Tahtadan. -VE- Yaşa. -ZE- Ben görmedim ama duydum yani. -RA- Of be abi, ne güldük ya! Vedat abi, buyur abi. [RA karakteri VE karakterini rakıları tokuşturmaya davet ediyor] -VE- Hadi bakalım. -ZE- Abi hoş geldin. -RA- Hoş geldin abi. -VE- Sağlığınıza. [rakıları tokuşturduktan sonra ilk yudumlarını alıyorlar]",
+    "characters": [
+      "Alpay (diğer üç karakterin ortak arkadaşı)",
+      "Ramazan (Zeki'nin arkadaşı)",
+      "Vedat (ana hikayenin anlatıldığı kişi, Alpay'ın arkadaşı)",
+      "Zeki (ana hikayeyi anlatan kişi)"
+    ],
+    "location": "beykoz meyhanesi",
+    "related_chunks": [],
+    "humor_analysis": {
+      "techniques": [
+        "wordplay",
+        "cultural_reference"
+      ],
+      "why_funny": "Sahnenin mizahı, Alpay'ın anlattığı hikayedeki kadının isteğinin çift anlamlılığı ve dükkan sahibinin bu isteğe verdiği cinsel çağrışımlı, beklenmedik ve komik tepkisinden kaynaklanır. 'Şey yaparım' gibi bir ifadeyle cinsel bir durumu ima etmesi, Türk mizahında sıkça kullanılan bir yöntemdir ve izleyicinin zihninde tamamlanan bu ima, kahkahalara yol açar.",
+      "cultural_context": "Sahne, Türk meyhane kültürünün samimi ortamında geçer; rakı masası sohbetleri ve hikaye anlatıcılığı bu kültürün önemli bir parçasıdır. 'Usta' karakteri ve 'şey yapmak' gibi yaygın bir Türkçe argo/eufemizm kullanımı, mizahın kültürel bağlamını güçlendirir. Ayrıca 'zıbık' gibi eski bir terimin anılması da kültürel bir referanstır.",
+      "comedic_timing": "Mizah, kadının isteğinin detaylı anlatımının ardından dükkan sahibinin ani ve patlayıcı tepkisiyle ortaya çıkar. Bu tepkinin hemen ardından gelen toplu gülüşmeler, şakanın başarılı bir şekilde yerine ulaştığını ve zamanlamanın doğru olduğunu gösterir."
+    },
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "orgs": [],
+      "misc": []
+    },
+    "summary": "Dört arkadaş bir meyhanede rakı içerken, Alpay erotik bir dükkan sahibinin müşterinin isteğine verdiği cinsel çağrışımlı, komik ve patavatsız tepkisini anlatır; bu durum masadaki herkesi güldürür ve ardından 'zıbık' gibi eski terimler üzerine sohbet başlar."
+  },
+  {
+    "id": "yb_002",
+    "start": "00:00:56",
+    "end": "00:02:22",
+    "duration_sec": 86.0,
+    "block_range": "0013-0043",
+    "text": "[AL karakteri ZE karakterini orada asıl buluşma sebepleri olan şeyi göstermeye davet ediyor.] -AL- Zekicim, istersen şey yapalım. -ZE- Abi o kadar güldük ettik, Vedat abimiz... beklemesin. -RA- Ne yaptın oğlum, naylona mı koydun onu ya? -ZE- Oğlum, ambalaj dandik olacak ki dikkat çekmeyeceksin, değil mi abi? -AL- Tabii ya. -ZE- Abi mal bu. [tarihi eski siyah bir çizmeyi poşetin içinden çıkarıp ortama gösteriyor.] Zaten dikişiyle falan kendini belli ediyor, Vedat abi. -VE- Peki dokunabiliyor muyuz? -ZE- Ne demek! Şöyle vereyim abi, buyur. Abi buna uzun Wellington diyorlar. Bu aşağı yukarı 130-140 yıllık abi. Tam şimdi yalan olmasın ama aşağı yukarı... -VE- Peki size bunun gelişi... -ZE- Abi bize bunun gelişi tabii, enteresan oldu. [konuşurken bir an duraksıyor.] -VE- Anlat oğlum, Vedat kardeşimiz yabancı değil ya. Kimse yok, biz bizeyiz. -ZE- Abi, Amerikan Başkanı Garfield... -RA- O kedi olan mı? [çizgi film karakteri garfield ile amerikan başkanı garfield'i birbirine karıştırıyor gibi soruyor. ama aslında gerçekten birbirine karıştırdığından değil şaka amaçlı soruyor.] -ZE- Ne kedisi amına koyayım ya! -RA- Ya Garfield kedi değil mi ya? -ZE- Oğlum bir açın da bir Google'a girin bakın be! Dönemin Amerikan Başkanı Garfield. [RA karakteri eliyle klavye hareketi yapıyor. hayali olarak google'a giriyor gibi yapıyor.] -RA- Al tamam, giriyorum. Garfield... Did you mean Garfield? [google'da bir şey aratınca \"bunu mu demek istediniz\" diye bir şey çıkar. burada ona komik bir gönderme var.] Gene kedi, Başkan nerede, yok. Tatilde. Hehehe... [Garfield muhabbeti RA karakterinin yarattığı bir komiklik.] -VE- Şekerim sen devam et. [ZE karakteri AL karakterine RA karakterini şikayet eder gibi bir tavır takınıyor.] -ZE- Alpay abi. -AL- Devam et sen ya. [ZE karakteri elinde nargilesiyle çizmenin hikayesini anlatmaya başlıyor.] -ZE- Vedat abi... Amerikan Başkanı, Sultan'a bir hediye gönderiyor. Sultanımıza. Sultanımız da diyor ki, ben de diyor karşı bir hediye göndereyim diyor. Benim dedemin babası, Teşkilat-ı Mahsusa'dan Aziz Vefa. Bir de Hazine'den, yine memur... Lemi Galip. Bunlara bir görev veriyor. Diyor ki; ne diyor... Benim diyor, hediyeyi diyor, Başkan'a diyor, götürün diyor.",
+    "characters": [
+      "Alpay (diğer üç karakterin ortak arkadaşı)",
+      "Zeki (ana hikayeyi anlatan kişi)",
+      "Ramazan (Zeki'nin arkadaşı)",
+      "Vedat (ana hikayenin anlatıldığı kişi, Alpay'ın arkadaşı)"
+    ],
+    "location": "beykoz meyhanesi",
+    "related_chunks": [],
+    "humor_analysis": {
+      "techniques": [
+        "absurd",
+        "cultural_reference",
+        "misunderstanding",
+        "wordplay",
+        "callback",
+        "character_contrast",
+        "timing"
+      ],
+      "why_funny": "Sahnenin temel mizahı, Ramazan'ın Amerikan Başkanı Garfield'ı ünlü çizgi film karakteri Garfield ile ısrarla karıştırması ve bu absürt yanılgıyı sürdürmesinden kaynaklanır. Zeki'nin ciddi bir hikaye anlatma çabası ile Ramazan'ın sürekli araya giren komik ve alakasız yorumları arasındaki zıtlık, sahneyi çok eğlenceli kılar.",
+      "cultural_context": "Mizahın anlaşılması için 'Garfield' adlı çizgi film karakterinin bilinmesi gereklidir. Ayrıca, Türk meyhane kültüründe arkadaş sohbetlerinin, şakalaşmaların ve birbirini takılmaların yaygın olması, bu tür diyalogların doğallığını artırır.",
+      "comedic_timing": "Ramazan'ın 'O kedi olan mı?' sorusuyla başlayan ve Zeki'nin her ciddi cümlesinin ardından gelen hızlı ve beklenmedik müdahaleleri, mizahın etkisini katlar. Özellikle 'Did you mean Garfield?' Google parodisi, doğru zamanlamayla sunularak kahkahaları artırır."
+    },
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "orgs": [],
+      "misc": []
+    },
+    "summary": "Zeki, tarihi bir çizmenin hikayesini anlatmaya çalışırken, arkadaşı Ramazan'ın Amerikan Başkanı Garfield'ı çizgi film karakteri Garfield ile karıştırması ve bu absürt yanılgıyı ısrarla sürdürmesiyle sürekli kesintiye uğrar."
+  },
+  {
+    "id": "yb_004",
+    "start": "00:05:17",
+    "end": "00:05:56",
+    "duration_sec": 39.0,
+    "block_range": "0064-0078",
+    "text": "[western temalı filmin ana hikayesi başladı. ekranda \"GREENLAND VALLEY, DC - 27 APRIL 1881\" yazıyor. AZ ve LE karakteri Amerika'ya ulaşmışlar. ıssız, çorak, kaktüsler olan vs. bir yerdeler, western teması. bir at arabası içindeler. at arabası üzerinde \"U.S. MAIL\" yazıyor. at arabasını bir kişi sürüyor, birisi de yanında silahlı görevli. arabanın içinde de AZ ve LE karakteri dışında K1 ve JA karakterleri de var. hep birlikte yolculuk ediyorlar. K1 ve JA karakterinin giyim kuşamı oldukça medeni. K1 karakterinin dekolteli bir kıyafeti var.] -K1- I did it again, I'm terribly sorry. [K1 karakteri arabanın sürekli sallanmasından ötürü dengesini kaybedip LE karakterinin üzerine düşüyor. fakat bunu biraz bilerek yapıyor gibi bir tavrı var. fazla meraklı ve biraz ateşli bir kadına benziyor.] Bumper road, isn't it darling. Hahaha... -LE- S'il vous plait, Madam. -K1- Excuse my curiosity sir, but... ...are you French? -LE- Oh, no madam. I'm Ottoman. -K1- Oh my... Ottoman, that's marvelous. Jack, did you hear that? -JA- Oh yes, I know. Heheh... Ottoman's. You're at the doors in Viyana, ha? Once upon a time! -LE- Yes yes. Knock knock. Who is there? Ottoman. -JA- Ottoman who? -LE- Ottoman Empire! [JA karakteri hariç hepsi gülüyor. K1 karakteri hepsinden fazla gülüyor.]",
+    "characters": [
+      "Kadın 1 (JA karakterinin yanındaki, posta arabasındaki ateşli kadın)",
+      "Lemi Galip (ana hikaye ikinci başrol)",
+      "Jack (K1 karakterinin yanındaki, posta arabasındaki adam)"
+    ],
+    "location": "Greenland Valley",
+    "related_chunks": [],
+    "humor_analysis": {
+      "techniques": [
+        "cultural_reference",
+        "wordplay",
+        "callback",
+        "character_contrast",
+        "sarcasm",
+        "timing"
+      ],
+      "why_funny": "Sahne, Lemi Galip'in Jack'in Osmanlı İmparatorluğu'nun geçmişteki gücüne dair küçümseyici imasına karşı verdiği zekice ve beklenmedik yanıtla komiktir. Lemi, basit bir 'knock-knock' şakası formatını kullanarak, 'Ottoman Empire!' punchline'ı ile hem kültürel bir gönderme yapar hem de Jack'in sözlerini kendi lehine çevirerek üstün bir zeka sergiler.",
+      "cultural_context": "Sahneyi anlamak için Osmanlı İmparatorluğu'nun Avrupa tarihindeki yeri, özellikle Viyana kuşatmaları gibi olaylar ve bu olayların Batı algısındaki önemi bilinmelidir. Jack'in 'Viyana kapılarındaydınız, ha? Bir zamanlar!' sözü bu tarihi geçmişe gönderme yaparak Osmanlı'nın eski gücünü ima eder.",
+      "comedic_timing": "Lemi'nin 'knock-knock' şakasının zamanlaması ve Jack'in 'Ottoman who?' sorusuna verdiği 'Ottoman Empire!' yanıtı, beklenmedik bir zeka parıltısı yaratarak mizahı güçlendirir. Bu hızlı ve zekice karşılık, Jack'in imalı sözlerinin etkisini kırar ve sahnedeki diğer karakterlerin kahkahalarıyla pekişir."
+    },
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "orgs": [],
+      "misc": []
+    },
+    "summary": "Bir posta arabasında yolculuk eden Lemi Galip, kendisiyle ilgilenen bir kadın ve Jack ile sohbet ederken, Jack'in Osmanlı İmparatorluğu'nun geçmişteki gücüne dair imalı sözlerine karşı zekice bir 'knock-knock' şakasıyla yanıt verir."
+  },
+  {
+    "id": "yb_005",
+    "start": "00:06:03",
+    "end": "00:07:06",
+    "duration_sec": 63.0,
+    "block_range": "0079-0103",
+    "text": "-LE- Öküz efendi nükteyi anlamadı Aziz. -AZ- Şeyi sorsana, Mr. and Mrs. Brown piknikten döndü mü? -LE- Aman nerede efendim, çok ince bir humor. İngilizin köylüsü. -AZ- Village people! -JA- Village people? -AZ- Başımızın tacıdır diyorum köylümüz. [kendine koyulu denilince AZ ve LE karakterine kızdırmak için sorar:] -JA- You ride camels, don't you? [K1 karakteri JA karakterini ayıplarcasına:] -K1- Jack! -AZ- Camels? Yes, every time. Always! Camels everywhere. Hep de bunu söylerler. Başka da bir şey bilmezler. Camel, everywhere. [deveye binilmesi Türkler hakkında yaygın bir yanılgıdır. böyle bir şey yok ama AZ karakteri sanki varmış gibi alay ediyor. komik bir şey.] -K1- And you sir? What do you do? -AZ- Me? [AZ karakterine ne iş yaptığını soruyor. ama cevabı LE karakteri veriyor. kısık bir sesle.] -LE- Secret, secret police. [ateşli bir kadın. tahrik edici bir şekilde ifade ediyor:] -K1- Oh! Well, I can keep secret. [AZ karakterine Türkçe çeviri yapıyor:] -LE- Sır diyor, tutarım diyor. -AZ- Bir molada duralım tutarsın bir ara. [AZ karakteri K1 karakterinin Türkçe bilmemesini fırsat bilerek cinsel bir şaka yapıyor. komik bir şey.] Later. -LE- Bir yerde dursak da, bir... küçük su döksek. -K1- Excuse me? [iki parmağıyla \"küçük\" anlamında bir hareket yaparak:] -AZ- Little water. [küçük tuvalet ihtiyacını gidermek anlamına gelen \"küçük su dökmek\" tabirini \"little water\" şeklinde ifade ediyor ve eliyle de gösteriyor. bunu yabancı birinin anlaması mümkün değil. komiklik burada. bu muhabbetten sonra araba duruyor ve AZ karakteri ihtiyacını gideriyor.]",
+    "characters": [
+      "Lemi Galip (ana hikaye ikinci başrol)",
+      "Aziz Vefa (ana hikaye başrol)",
+      "Jack (K1 karakterinin yanındaki, posta arabasındaki adam)",
+      "Kadın 1 (JA karakterinin yanındaki, posta arabasındaki ateşli kadın)"
+    ],
+    "location": "Greenland Valley",
+    "related_chunks": [],
+    "humor_analysis": {
+      "techniques": [
+        "misunderstanding",
+        "cultural_reference",
+        "sarcasm",
+        "wordplay",
+        "exaggeration",
+        "slapstick"
+      ],
+      "why_funny": "Sahne, kültürel yanlış anlaşılmalar, Türkler hakkındaki stereotiplerle alay etme ve dil bariyerini kullanarak yapılan kelime oyunları üzerinden komiklik yaratır. Aziz'in hazırcevaplığı ve kaba esprileri, özellikle cinsel imalar içeren şakaları, beklenmedik ve absürt durumlar ortaya çıkarır.",
+      "cultural_context": "Sahneyi anlamak için 'Village People' grubuna gönderme, Türklerin deveye bindiği yönündeki Batılı stereotipi, 'küçük su dökmek' deyiminin tuvalet ihtiyacını ifade etmesi ve 'sır tutmak' fiilinin hem sır saklamak hem de cinsel anlamda 'tutmak' olarak çift anlamlı kullanımı bilinmelidir.",
+      "comedic_timing": "Aziz'in deve sorusuna verdiği anında ve abartılı cevabı, K1'in 'sır tutma' teklifine yaptığı hızlı ve cinsel imalı karşılık, ve 'küçük su dökmek' tabirini 'little water' olarak çevirip eliyle göstermesi gibi anlarda zamanlama mizahı güçlendirir."
+    },
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "orgs": [],
+      "misc": []
+    },
+    "summary": "Aziz ve Lemi, posta arabasında karşılaştıkları Batılı yolcularla kültürel yanlış anlaşılmalar yaşar. Aziz, Türk stereotipleriyle alay eder, dil bariyerini kullanarak cinsel imalı kelime oyunları yapar ve 'küçük su dökmek' gibi deyimleri kelimenin tam anlamıyla çevirerek komik durumlar yaratır."
+  },
+  {
+    "id": "yb_006",
+    "start": "00:07:53",
+    "end": "00:08:51",
+    "duration_sec": 58.0,
+    "block_range": "0104-0123",
+    "text": "[western müziği çalıyor. ıssız yerde at arabası yoluna devam ederken kamera açısı çok genişliyor ve görüyoruz ki onları uzaktan atlı haydutlar izliyor. arabanın içine döndüğümüzde bu sırada AZ karakteri bir yağlı güreş sırasında çekildiği çekici bir fotoğrafını gösteriyor.] -K1- That's you? -AZ- Me! -K1- You look fantastic. I... -AZ- Oil wrestling. Oil, everywhere. [elindeki İskoç viskisini AZ karakterine ikram etme niyetiyle uzatarak:] -JA- Scotch? -AZ- Ottoman. [hem İskoçlara hem de İskoç viskisine \"Scotch\" denilmesi sebebiyle burada AZ karakteri yanlış anlıyor ve Ottoman olduğunu söylüyor. komik bir şey.] -LE- In fact, we are here on a special mission. Did you see this diamond? -K1- My Gosh! Is priceless. -LE- Of course! It's a gift from our Sultan for your President. -AZ- Ne yapıyorsun birader? -LE- Ne var yahu? -AZ- Elma şekeri gibi çıkarılır mı o be! -LE- E sen fotografı çıkartıyorsun. -AZ- Koy ulan şunu yerine! -LE- Tamam ne kızıyorsun ya. Ben mesulüm. Sorry. [elmas kolyeyi geri cebine koyuyor.] -JA- Sir, it can be very dangero... [JA karakteri bu kolyenin yanlarında olmasının çok tehlikeli olabileceğini tam söylerken silah sesleri duyulmaya başlıyor. anlıyoruz ki o izleyen haydutlar peşlerine düşmüş.]",
+    "characters": [
+      "Kadın 1 (JA karakterinin yanındaki, posta arabasındaki ateşli kadın)",
+      "Aziz Vefa (ana hikaye başrol)",
+      "Jack (K1 karakterinin yanındaki, posta arabasındaki adam)",
+      "Lemi Galip (ana hikaye ikinci başrol)"
+    ],
+    "location": "Greenland Valley",
+    "related_chunks": [],
+    "humor_analysis": {
+      "techniques": [
+        "misunderstanding",
+        "wordplay",
+        "character_contrast",
+        "exaggeration",
+        "callback",
+        "timing"
+      ],
+      "why_funny": "Sahne, Aziz'in 'Scotch' kelimesini yanlış anlayıp 'Ottoman' demesiyle dilsel bir mizah sunar. Ayrıca, Aziz'in yağlı güreş fotoğrafıyla övünmesi ve Lemi'nin pırlantayı pervasızca sergilemesine verdiği abartılı tepki, karakter zıtlıkları ve durum komiği yaratır. Tehlikenin tam da Aziz'in uyarılarının ardından gelmesi, mizahi zamanlamayı pekiştirir.",
+      "cultural_context": "Yağlı güreş, Türk kültürüne özgü geleneksel bir spor olup, Aziz'in bu bağlamda kendisini tanıtması Batı ortamında bir kültürel zıtlık yaratır. 'Ottoman' referansı da karakterlerin Osmanlı İmparatorluğu'ndan geldiğini vurgular. 'Elma şekeri gibi çıkarılır mı o be!' ifadesi, değerli bir şeyi ucuz ve dikkatsizce sergilemeye yönelik Türkçede yaygın bir benzetmedir.",
+      "comedic_timing": "Aziz'in elmasın tehlikeli bir şekilde sergilenmesine dair endişelerini dile getirmesi ve Lemi'nin umursamaz tavrının hemen ardından silah seslerinin duyulması, Aziz'in haklı çıktığını gösteren mükemmel bir zamanlama ile komik bir etki yaratır."
+    },
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "orgs": [],
+      "misc": []
+    },
+    "summary": "Aziz Vefa, posta arabasında yağlı güreş fotoğrafını gösterirken, Lemi Galip Sultan'dan gelen değerli elması pervasızca sergiler. Aziz'in bu duruma abartılı tepkisi ve Lemi ile atışması, tam da elmasın tehlikeli olabileceği uyarısı yapılırken haydutların saldırısıyla kesilir."
+  },
+  {
+    "id": "yb_007",
+    "start": "00:08:55",
+    "end": "00:10:17",
+    "duration_sec": 82.0,
+    "block_range": "0124-0148",
+    "text": "-LE- Haydutlar... -AZ- Sakin... Calm down. I have a gun. Don't worry. How many people, how many? Did you see? How many? Be careful. [haydutlar hızla geliyor. ateş ediyorlar. at arabasını süren ve korumalık yapan iki kişi vardı. süren kişi kaçmaya çalışırken korumalık yapan da arkaya ateş ediyor.] -LE- Şunu bana tutma! [LE karakteri AZ karakterinin silahından korkuyor.] -AZ- Dinle beni. Normal prosedürü uygulayacağız. Sakin ol. [koruma vurulup at arabasından düşüyor.] Dinle beni. Çöp çekeceğiz. Elmas mı? Para mı? Çek çabuk! [kısa çöp uzun çöp adı verilen bir oyun var. bunu oynayarak kimin elması kimin parayı alacağına karar verecekler.] -LE- Çok müşkül durumdayım Aziz Efendi. -AZ- Çek çabuk! Elmas. [elmas LE karakterinde kalıyor. bu kötü bir şey olduğu için \"kahretsin\" dercesine bir tavır takınıyor.] Calm down, calm down. -LE- Çok kalabalık geldiler Aziz Efendi. -AZ- Sakin. Sakin ol, sakin ol. Sakin. -LE- Ben sakinim. -AZ- Sakin. Bismillahirrahmanirrahim. [AZ karakteri parayı kıçına sokuyor. komik bir şey. biraz da içinde bulundukları durumun garipliği sebebiyle besmele çekerek yapıyor bunu. anlıyoruz ki çöp çekme sebepleri bunları kıçlarına sokmak zorunda kalacak olmalarıymış. bu da komik bir şey.] -LE- Allah'ım bizi mahcup etme ya Rabbim. -AZ- Don't worry, don't worry. Ölmek var, emanetleri teslim etmek yok. Haydi aslanım. -LE- Haydi inşallah. [haydutlar arabayı durdurmayı başarıyor. H1 karakteri arabayı süren kişiye silahı doğrultup ateş ederken şunu söylüyor:] -H1- I said stop the carriage you son of a bitch! [bunu ifade şekli komik. tam burada flashback bozuluyor ve günümüze dönüyoruz:] -RA- Ya Zeki abi, ben oraları pek anlamadım ya. Posta arabasından sonra yok bende. [buraya kadar anlatılan kısımdaki karakterler İngilizce ağırlıklı konuştuğu için RA karakteri anlatılanları anlamadığını söylüyor. tabii aslında biz seyirci olarak LE ve AZ karakterlerini her zaman Türkçe olarak dinliyoruz ama aslında sanki hikayede onlar da İngilizce konuşuyor gibi düşünebiliriz. aksi takdirde Amerika'daki insanlarla iletişim kuramazlardı sonuçta. ancak bu bir film sonuç olarak, izleyenler Türk olacağı için AZ ve LE karakteri Türkçe konuşmalı. onlar Türkçe konuşacağı için de filmdeki diğer karakterlerin de Türkçe konuşması gerek.] -ZE- Dur o zaman şöyle yapalım... [eskiden filmlerin CD ile satıldığı zamanlarda filmlerin menü arayüzleri olurdu. filmi başlatmadan önce bu menüden konuşulan dili ve altyazı dilini seçebilirdin. burada da o menü gözüküyor ve ZE karakteri filmdeki karakterlerin dilini bu menü üzerinden Türkçe yapıyor ve altyazıları da kapatıyor. yani filmdeki bir karakter sanki seyirciymiş gibi davranıyor ve filmin dublajını ve altyazısını değiştiriyor. ince düşünülmüş, komik bir şey. bu işlem bitince ardından hemen H1 karakterinin repliği geriye sarılıyor ve tekrardan izliyoruz ama bu sefer Türkçe.] -H1- Lan arabayı durdurun demedik mi avratını siktiklerimin! [bunu ayrı olarak Türkçe ifade ediş şekli de komik. arabayı süren kişiyi vuruyor ve adam aşağı düşüyor.]",
+    "characters": [
+      "Lemi Galip (ana hikaye ikinci başrol)",
+      "Aziz Vefa (ana hikaye başrol)",
+      "Haydut 1 (JO karakterinin sağ kolu)",
+      "Ramazan (Zeki'nin arkadaşı)",
+      "Zeki (ana hikayeyi anlatan kişi)"
+    ],
+    "location": "Greenland Valley - beykoz meyhanesi",
+    "related_chunks": [],
+    "humor_analysis": {
+      "techniques": [
+        "absurd",
+        "breaking_fourth_wall",
+        "anachronism",
+        "character_contrast",
+        "exaggeration",
+        "irony",
+        "cultural_reference",
+        "callback"
+      ],
+      "why_funny": "Bu sahne, karakterlerin içinde bulunduğu müşkül durumu absürt ve vulgar bir yöntemle (çöp çekip parayı kıçlarına sokma) ele almasıyla başlar. Ardından, filmin kendisiyle dalga geçen, dördüncü duvarı yıkan ve bir karakterin filmin dilini DVD menüsü üzerinden değiştirmesi gibi meta-mizahla zirveye ulaşır. Türkçe küfürlü ifadenin aniden ve beklenmedik bir şekilde gelmesi, mizahı daha da güçlendirir.",
+      "cultural_context": "Sahnedeki 'çöp çekme' oyunu ve 'Bismillahirrahmanirrahim' gibi dini bir ifadenin absürt bir eylemle birleşimi Türk kültürüne özgü mizahi bir tezat oluşturur. Ayrıca, H1 karakterinin Türkçe küfürlü ifadesi, Türk sinemasında ve günlük dilde sıkça rastlanan, komik etki yaratabilen bir dil kullanımına göndermedir. DVD menüsü arayüzü ise filmin çıktığı dönemdeki izleyicilerin teknolojiyle olan ortak deneyimine bir göndermedir.",
+      "comedic_timing": "Mizahi zamanlama, Aziz'in 'Bismillahirrahmanirrahim' diyerek parayı saklaması gibi beklenmedik anlarda devreye girer. En önemlisi, gerilimli sahnenin aniden kesilip Ramazan'ın kafa karışıklığına geçilmesi ve Zeki'nin 'dil değiştirme' eyleminin görsel olarak bir DVD menüsüyle sunulması, ardından H1'in repliğinin Türkçe ve daha vurucu bir şekilde tekrarlanması, mizahın etkisini katlar."
+    },
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "orgs": [],
+      "misc": []
+    },
+    "summary": "Haydutların saldırısına uğrayan Aziz ve Lemi, değerli eşyaları saklamak için absürt bir yöntem olan 'çöp çekme' oyununa başvurur. Ardından, hikaye anlatıcısı Zeki, dinleyicinin İngilizce diyalogları anlamadığını fark edince, filmin dilini bir DVD menüsü aracılığıyla Türkçe'ye çevirerek dördüncü duvarı yıkan meta-mizahi bir an yaşatır."
+  },
+  {
+    "id": "yb_008",
+    "start": "00:10:23",
+    "end": "00:12:17",
+    "duration_sec": 114.0,
+    "block_range": "0149-0177",
+    "text": "[haydutlar arabadakileri aşağıya indirmeye başlıyor.] -H1- İnin aşağıya! İn aşağıya! Çabuk çabuk çabuk! -K1- Tanrım Jack, hayır! [arabadan herkes indirildi. ancak AZ karakteri gizlice arabanın arkasına geçmiş. silahının içine barut dolduruyor.] -LE- Bağırmayın efendim. Sıranızda durun, bağırmayın! -JO- Sayın yolcular, ben Johnny Lesh ve ekibim yolculuğunuzun rahat geçmesi için sizleri bazı yüklerinizden kurtarmak amacıyla hizmetinizdeyiz. [bazı yüklerinizden kurtarmak dediği şey aslında soygun.] Bağırmak serbest. Kahramanlık yapanı gömerim. [AZ karakteri silahını doldurdu ancak aniden H2 karakterine yakalanıyor. yakalandığı an doldurduğu silahı ateşliyor. ancak silah çok eski olduğu için doğru düzgün patlamıyor, duman çıkıyor, komik bir görüntü oluşuyor.] -AZ- 150 yıllık silah. İdareye yazdık, yenisini verin dedik. Sikine takan olmadı! [komik bir laf. silahı ateşlediği zaman içinden fırlaması gereken şeyi silah düzgün patlamadığı için eline alıyor ve H2 karakterinin üzerine eliyle fırlatıyor. komik bir görüntü oluşuyor.] -H2- Gel lan buraya, yürü! Geç şöyle, geç! [H2 karakteri AZ karakterini diğerlerinin yanına götürüyor. yolcuların eşyalarını çalmaya başlıyorlar. bu sırada H1 karakteri K1 karakterini kaçırmak üzere arkadaşlarının oraya itiyor. K1 karakterini buradan sonra bir daha hiç görmüyoruz.] -H1- Saat! -K1- Jack, kurtar beni! [H1 karakteri JA karakterinin saatini alıyor. bu sırada JA karakteri gizli silahını çıkarıyor. tam LE karakterine tutup ateşleyeceği sırada LE karakteri tarafından vuruluyor. JA karakteri yüz üstü düşüyor ve ölüyor.] Jack! Aaaaaayyy! -LE- Bakın beyefendi, biz taa İstanbullardan geliyoruz. Öyle boş kimseler de değiliz. -H1- Öyle mi? Belli. Buffalo Bill'in şovunda bile böyle kostüm görmedim. [Amerikan western efsanesi kovboy Buffalo Bill'e gönderme var.] [LE karakterinin başındaki fesine vurarak:] Bu ne lan? -AZ- Festir. İstiyorsan kaval da var. [kavaldan kastı penis. bunu cinsel organını tutarak söylüyor. laf sokuyor. komiklik burada.] -H1- Kes lan! [H1 karakteri fesi alıyor.] -LE- Yapm... [LE karakteri elması fesin içine saklamış. çok saçma bir karar. haydutlar elması ele geçirmiş oldu. AZ karakteri çok sinirleniyor. çünkü kendisi parayı kaptırmamak için kıçına sokmuştu.] [H1 karakteri elması görünce büyüleniyor ve JO karakterine gösteriyor:] -H1- Lesh! -AZ- Ne yaptın lan? [bu sırada AZ karakteri de LE karakterine kızıyor] -H1- Lesh.. -AZ- Ne yaptın lann! -H1- Var mı lan böyle bir şey? [LE karakteri H1 karakterinin omzuna elini atıyor ve kendine döndürüp söylüyor:] -LE- Yalnız biz Haramidere'den Çatapat Ahmet'in arkadaşlarıyız, ona göre! [LE karakteri, H1 karakterinin tanımasının mümkün olmadığı birinin adını söyleyerek onu korkutmaya çalışıyor. saçma ve komik. H1 karakteri hiçbir şey söylemeden yavaşça bıçağını çıkarıyor ve LE karakterinin bıyığının yarısını kesiyor.] -JO- Hadi gidiyoruz. Kızılların kokusunu almaya başladım. [kızıllar'dan kasıtlı kızılderililer.] -H1- See you. [bunu LE ve AZ karakterine söyledikten sonra western müziği giriyor. herkes atına biniyor. haydutlar olay yerinden uzaklaşıyorlar.] [\"see you\" lafı ile \"Sioux\" kelimesinin okunuşları aynı olduğu için AZ karakteri H1 karakterinin lafını yanlış anlıyor:] -AZ- \"Sioux\" dedi. Sioux'lar... -LE- Efendim o hoşça kalın manasında. \"See you\", görüşürüz. [AZ karakteri LE karakterinin yere düşen fesini alıp geri kafasına takıyor.]",
+    "characters": [
+      "Haydut 1 (JO karakterinin sağ kolu)",
+      "Kadın 1 (JA karakterinin yanındaki, posta arabasındaki ateşli kadın)",
+      "Lemi Galip (ana hikaye ikinci başrol)",
+      "Johnny Lesh (haydutlar çetesinin lideri)",
+      "Aziz Vefa (ana hikaye başrol)",
+      "Haydut 2 (haydutlar çetesindeki herhangi bir haydut)"
+    ],
+    "location": "Greenland Valley",
+    "related_chunks": [],
+    "humor_analysis": {
+      "techniques": [
+        "absurd",
+        "wordplay",
+        "exaggeration",
+        "slapstick",
+        "cultural_reference",
+        "misunderstanding",
+        "sarcasm",
+        "character_contrast",
+        "deadpan",
+        "timing"
+      ],
+      "why_funny": "Bu sahne, Türk karakterlerin Batı'ya özgü durumlara kendi kültürel kodları ve mizah anlayışlarıyla yaklaşmasından doğan absürtlüklerle doludur. Aziz'in eski silahına yaptığı bürokratik şikayetler, Lemi'nin 'Haramidere'den Çatapat Ahmet' tehdidi ve 'kaval' ile 'Sioux' kelime oyunları, karakterlerin içinde bulundukları duruma yabancılığını ve Cem Yılmaz'ın kendine özgü kaba mizahını sergiler.",
+      "cultural_context": "Sahne, 'fes' gibi geleneksel Türk kıyafetlerinin Batı'da yarattığı tezatlığı, 'sikine takan olmadı' gibi argo deyimlerin kullanımını ve 'Haramidere'den Çatapat Ahmet' gibi yerel sokak kültürü referanslarını içerir. Ayrıca, 'Buffalo Bill' ve 'Sioux' gibi Amerikan Batı kültürüne ait unsurlarla Türk karakterlerin etkileşiminden doğan yanlış anlamalar ve ironiler mevcuttur.",
+      "comedic_timing": "Mizahi zamanlama, Aziz'in silahının patlamaması ve ardından gelen şikayetiyle başlar. En belirgin zamanlama, Lemi'nin 'Çatapat Ahmet' tehdidine karşılık haydudun tek kelime etmeden, anında bıçağını çıkarıp bıyığını kesmesiyle yaşanır. Bu ani ve beklenmedik tepki, Lemi'nin tehdidini daha da komik ve anlamsız kılar."
+    },
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "orgs": [],
+      "misc": []
+    },
+    "summary": "Soygun sırasında Aziz'in 150 yıllık silahı komik bir şekilde patlamazken, Lemi'nin geleneksel kıyafetleri ve haydutları 'Haramidere'den Çatapat Ahmet' ile korkutma girişimi bıyığının kesilmesiyle sonuçlanır. Sahne, haydutların 'See you' demesiyle Aziz'in bunu 'Sioux' kabilesi sanmasıyla kültürel bir yanlış anlaşılmayla sona erer."
+  },
+  {
+    "id": "yb_009",
+    "start": "00:12:21",
+    "end": "00:13:44",
+    "duration_sec": 83.0,
+    "block_range": "0178-0196",
+    "text": "-AZ- Çatapat Ahmet kim ulan? -LE- Efendim zaten ben bu adamın ismini ne zaman zikretsem başım derde giriyor. [Çatapat Ahmet adı verilen kişinin filmle bağlantısı yok ama yine de burada tekrar kendisinden bahsediliyor. LE karakteri her çaresiz kaldığında bu ismi zikrettiğini ve başının derde girdiğini söylüyor. bu komik.] -AZ- Monşer, adamı delirtme! Talimatmane açık: \"Cereyan-ı tehlike-i vuku, emanetlerin mabadına dühulu.\" [bir tehlike olduğunda emanetleri yani eşyaları kıçlarına sokmaları gerektiğinin bir kural olduğuyla alakalı eski Türkçe bir ifade kullanıyor. komik bir ifade.] Sarih! [talimatname açık yani sarih diyor.] -LE- Efendim, adilane mi? Koca elmas! [adilane mi diyor yani sana para çıktı kıçına sokması kolay ben elması nasıl sokayım diyor.] -AZ- Ulan ben müptelası mıyım da 1000 doları götüme sokuyorum? -LE- Onu bilemiyorum. -AZ- Efendim!? [AZ ben sevdiğimden mi yapıyorum sanki diyor LE karakteri ise bilemiyorum diyor. komik bir diyalog.] Beyimiz kıçına kıyamıyor, burada kellemiz gidecek! Gel buraya! Aç şu mendili. [AZ karakteri parayı kıçına sokmuştu. burada kıçına soktuğu parayı çıkarmak üzere arabasının arkasına geçiyorlar.] Al şunu. [AZ karakteri kıçından tesbihini çıkarıyor. anlıyoruz ki kıçına sadece parayı sokmamış. komik bir olay. kıçına soktuğu nesneleri bir bir çıkarmaya başlıyor. her bir nesne çıkardığında da gerçekçi, garip, komik bir ses çıkıyor.] -LE- Maşallah. [kıçından ayna, mızıka, fincan çıkardı.] Bunun bir de tabağı olacaktı. [fincan tabağını da çıkardı.] -AZ- Al son. [son olarak parayı da çıkarıyor.] -LE- İyi misin? [arabanın önüne geri dönüyorlar.] -AZ- En azından binliği kurtardık. -LE- Efendim nüktenin sırası değil ama Bey Baba bizi yüz üstü bıraktı. [JA karakterinden bahsediyor. vurulduğunda yüz üstü düşmüştü. LE karakteri burada \"yüz üstü bırakmak\" deyimiyle komik bir şaka yapıyor.] -AZ- Bana bak geberteceğim seni ha! Ok yaydan çıktı! [AZ karakteri şu durumda bile şaka yapıyorsun gibi bir tavırla sinirleniyor ve yeter artık ok yaydan çıktı anlamında bu ifadeyi kullanıyor. tam bunu söylediği anda arabanın üzerine bir ok saplanıyor. güzel bir detay. AZ ve LE karakteri şok oluyor. bir kızılderili atlı grubu naralar atarak üzerlerine doğru geliyor.] -LE- Hintliler! [kızılderililer yanlarına gelip atlarından iniyorlar.]",
+    "characters": [
+      "Aziz Vefa (ana hikaye başrol)",
+      "Lemi Galip (ana hikaye ikinci başrol)"
+    ],
+    "location": "Greenland Valley",
+    "related_chunks": [],
+    "humor_analysis": {
+      "techniques": [
+        "wordplay",
+        "exaggeration",
+        "anachronism",
+        "cultural_reference",
+        "slapstick",
+        "absurd",
+        "character_contrast",
+        "misunderstanding",
+        "deadpan",
+        "timing"
+      ],
+      "why_funny": "Sahne, eski ve resmi bir dilin müstehcen bir eylemle birleşmesinden, Lemi'nin beklenmedik ve absürt yorumlarından, Aziz'in vücudundan çıkan komik ve çeşitli nesnelerin görsel şöleninden mizahını alır. Özellikle 'Ok yaydan çıktı!' repliğinin hemen ardından gerçek bir okun saplanması, mükemmel zamanlamayla kahkahalara yol açar.",
+      "cultural_context": "Sahnedeki 'Cereyan-ı tehlike-i vuku, emanetlerin mabadına dühulu' gibi Osmanlıca ifadelerin kullanılması ve Kızılderililere 'Hintliler' denmesi, Türk izleyicisinin aşina olduğu dil ve tarihsel yanlış anlaşılmalara gönderme yaparak komedi yaratır.",
+      "comedic_timing": "Zamanlama, Aziz'in 'Ok yaydan çıktı!' demesiyle bir okun arabaya saplanması anında doruğa ulaşır. Ayrıca, Lemi'nin gergin bir anda 'yüz üstü bırakmak' deyimini kelimenin tam anlamıyla kullanması ve Aziz'in vücudundan çıkan her nesnenin çıkardığı sesler, sahnenin komik etkisini artırır."
+    },
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "orgs": [],
+      "misc": []
+    },
+    "summary": "Aziz ve Lemi, tehlike anında değerli eşyaları saklama talimatını uygularken, Lemi'nin absürt yorumları ve Aziz'in vücudundan çıkan beklenmedik eşyalarla komik anlar yaşanır. Sahne, Aziz'in 'Ok yaydan çıktı!' demesiyle gerçek bir okun arabalarına saplanmasıyla doruğa ulaşır ve Kızılderililerin gelişiyle sona erer."
+  },
+  {
+    "id": "yb_010",
+    "start": "00:13:51",
+    "end": "00:14:48",
+    "duration_sec": 57.0,
+    "block_range": "0197-0211",
+    "text": "[atlarından inen kızılderililerle LE karakteri nasıl iletişim kuracağını bilemeyip \"ugh\" şeklinde bir ifade kullanıyor:] -LE- Ugh! -D1- Ne ugh'u lan! -AZ- Galiba hayvan isimleriyle hitap ediliyor. Danaburnu! [AZ karakteri de hitap etmek için bir hayvan ismi kullanmayı tercih ediyor. iletişim kurmak için seçtikleri ifadeler komik.] [grubun lideri olan RT karakteri kendini tanıtıyor:] -RT- Adım Richard Thomas. Oxford'da okuyorum. Sadece yaz tatillerimi kabilemle geçiriyorum. [seyirci burada garip kızılderili sesleri duymayı beklerken RT karakteri çok düzgün bir Türkçe ile konuşuyor ve Oxford'lu olduğunu söylüyor. seyircinin hiç beklemediği komik bir şey.] [1000 konfederasyon doları değerindeki çeki yani parayı AZ karakterinin elinden alıyor. ardından garip kızılderili sesleri çıkararak diğer grup üyelerini harekete geçiriyor. anlamıyoruz ama yüksek ihtimal üzerindeki şeyleri toplamaları için talimat veriyor. kızılderililer feslerden başlayarak AZ ve LE karakterinin kıyafetlerini çıkartmaya başlıyorlar. komik bir durum.] -AZ- Yahu, biz İstanbul'dan geliyoruz. Kızılderililer için de Türktür derler hani. -D1- Kenan abi, var mı öyle bir şey? -D2- Yok oğlum öyle bir şey, topla topla. [kızılderililerin Türk olduğu yaygın bir söylentidir. buradaki diyalogda ona gönderme yapılıyor. komik.] -AZ- Yahu... Ben çıkarayım efendim. Kasımpaşa'dan Apaçi Selim'in selamı var desek? [kızılderililer kendilerini soymasınlar diye ortak bir bağ kurabilmek adına kendi tanıdığı Apaçi Selim adında birinin selamını söylüyor. Türkiye'de kızılderili denince akla ilk gelen kabile apaçilerdir. apaçi kelimesinin bu bağı kurabilme ihtimali ve apaçi lakaplı Selim adında birinin olması komik.] [kızılderililer AZ ve LE karakterlerinin kıyafetlerini çıkarmaya devam ederler:] Ben çıkarayım efendim. Buyrun. Lemi Bey! Sikmeseler bari. [soyundukları için böyle komik bir ifade kullanıyor gülerek. ama kızılderililer oldukça ciddi.] -LE- Kenan Bey buyurun. -AZ- Hay Allah! [zor bir durum olduğu için AZ karakteri ne diyeceğini bilemiyor ve \"hay Allah\" diyebiliyor sadece. ve haydutlardan geriye kalan eşyaları da kızılderililer almış oluyor. kızılderililer gidiyor. AZ ve LE karakteri yalnız kalıyor. gün batmak üzere. vurulan JA karakteri ve yine vurulan arabayı süren adamın da kıyafetlerini ve eşyalarını almışlar. LE ve AZ karakterinin üzerilerinde sadece eski dönemlerde giyilen içlikleri kalmış. komik bir durum.] [kendi aralarında konuşmaya başlıyorlar:] -LE- Aziz Efendi, bir konsolosluğa haber etsek. -AZ- Ederiz. -LE- O boynunuzdakinin özel bir manası var mı? [dramatik bir müzik çalıyor.] -AZ- Anneciğimin verdiği muska. Her türlü musibetten ve badireden korur dedi. [muskanın yaşadıkları olayları engelleyememesi burada bir komiklik oluşturuyor. zaten AZ karakteri bunu söyledikten sonra yere çöküp ağlamaya başlıyor. üzücü bir durum ve üzücü bir müzik çalıyor ama seyirci için bunlar başlı başına komik.]",
+    "characters": [
+      "Lemi Galip (ana hikaye ikinci başrol)",
+      "Kızılderili 1 (soygun yapan kızılderili grubundaki herhangi bir kızılderili)",
+      "Aziz Vefa (ana hikaye başrol)",
+      "Richard Thomas (soygun yapan kızılderili grubunun lideri, herhangi bir kızılderili)",
+      "Kızılderili Kenan (soygunu yapan kızılderili grubun yetkili bir abisi. RT karakterinin sağ kolu)"
+    ],
+    "location": "Greenland Valley",
+    "related_chunks": [],
+    "humor_analysis": {
+      "techniques": [
+        "misunderstanding",
+        "absurd",
+        "character_contrast",
+        "cultural_reference",
+        "slapstick",
+        "wordplay",
+        "deadpan",
+        "irony",
+        "exaggeration"
+      ],
+      "why_funny": "Bu sahne, izleyicinin ve karakterlerin Kızılderililere dair klişe beklentilerini sürekli olarak altüst ederek komik bir etki yaratır. Karakterlerin çaresizce ve naifçe durumla başa çıkma çabaları, modern ve pragmatik Kızılderililerle tezat oluşturarak mizahı derinleştirir. Kültürel göndermeler ve beklenmedik diyaloglar, sahnenin genel absürtlüğünü pekiştirir.",
+      "cultural_context": "Sahne, Türkiye'de yaygın olan 'Kızılderililerin aslında Türk olduğu' efsanesine ve 'Apaçi' kelimesinin hem bir kabile adı hem de Türkiye'deki belirli bir alt kültürle ilişkilendirilmesine gönderme yapar. Ayrıca, muska gibi koruyucu objelerin kültürel önemine de değinilir.",
+      "comedic_timing": "Mizahi zamanlama, Lemi'nin 'ugh' demesiyle Kızılderilinin anında ve düzgün Türkçe yanıt vermesiyle başlar. Richard Thomas'ın Oxford'lu olduğunu açıklaması, tam da izleyicinin stereotipik bir Kızılderili lideri beklediği anda gelir. Aziz'in muskanın başarısızlığını fark edip ağlaması, soygunun hemen ardından gelerek durumun absürtlüğünü ve karakterin çaresizliğini vurgular."
+    },
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "orgs": [],
+      "misc": []
+    },
+    "summary": "Aziz ve Lemi, kendilerini soyan Kızılderililerle iletişim kurmaya çalışırken, onların modern tavırları ve Oxford mezunu liderleriyle karşılaşır. Soyulup iç çamaşırlarıyla kalan ikili, Aziz'in koruyucu muskasının işe yaramadığını fark etmesiyle komik bir çaresizlik yaşar."
+  },
+  {
+    "id": "yb_011",
+    "start": "00:15:05",
+    "end": "00:17:27",
+    "duration_sec": 142.0,
+    "block_range": "0212-0237",
+    "text": "[AZ ve LE karakteri konsolosluğa telgraf çekmek üzere küçük bir postaneye geliyorlar. mekanın üzerinde \"TELEGRAPH & POST OFFICE\" yazıyor.] -AZ- Selamlar. Al birader, acil durum. Şunu hemen İstanbul'a çekiver. -UL- Bu \"A\" mı? [UL karakteri osmanlıca yazıyı tam okuyamıyor.] -LE- Ulan, Ulak efendi okuman yazman da mı yok? Ver. -AZ- Çek şunu. Ulan, Redkit bana telgraf var mı dese, tıpış tıpış ayağına gidersin ama. -UL- Ne Redkit'i ya? Kim takar Redkit'i? [tam bu sırada içeri RE karakteri giriyor:] -RE- Bana telgraf var mı? -UL- Ooo abimiz. Hoş geldin, buyur. [Redkit, western temasının en bilindik sembollerinden biridir. burada da ona gönderme var. komik bir sahne.] Geç böyle otur abi. Geoffrey, oğlum bize iki çay kap. [Türkiye'de esnaf dükkanlarında genellikle çay içilir ve genelde çayı çıraklar dağıtır. burada da UL karakteri Geoffrey adında birine çay getirmesi için sesleniyor. komik bir detay.] [LE karakteri telgrafı çekiyor. postanenin önüne oturuyorlar ve saraydan cevap gelmesini bekliyorlar. dramatik bir müzik çalmaya başlıyor.] -ZE- Bir müddet sonra saraydan cevap geliyor. [filmin anlatıldığı hikayeyi ZE karakterinin anlattığını unutmayalım. burada da onun sesini duyuyoruz.] [AZ karakteri içeri girip gelen cevabı içeren kağıdı alıp dışarı çıkıyor ve içinden okuyor.] -LE- Ne diyor? -AZ- Gelmenize gerek yok, mesul memurun kellesini posta ile gönderin diyor. [şimşekler çakmaya başlıyor. dramatik müziği daha çok duyuyoruz.] -LE- Tamam o zaman... Kes gönder kellemi. Sana bir derdi olmasın. Ben mesulüm. [LE karakteri çok üzgün. bu yüzden ölmeyi kabul ediyor. ağlamaya başlıyor.] -AZ- Nasıl yapacağız? -LE- Ne bileyim? Önce boğ iple. [AZ karakteri kadrajın dışına çıkıyor ve bir ip bulup geliyor. boğmak için hazırlık yapmaya başlıyor.] Anneciğime de selamlarımı ilet. [ağlayarak ve gökyüzüne bakarak:] Ey Amerika! Sen de bir rüyadan ibaretmişsin. [amerikan rüyası adı verilen bir kavram vardır. burada buna atıfta bulunan bir şaka yapılıyor. gök gürlemeye devam ediyor. LE karakteri AZ karakterine arkasını dönüyor. \"acaba AZ karakteri LE karakterini boğacak mı\" hissiyatı uyandırılmaya çalışılırcasına dramatik müzik zirve yapıyor. fakat AZ karakteri tabii ki arkadaşına kıyamıyor ve ipi bir kenara atıyor. eline mızıka alıyor. kızıldeliler kalan tüm eşyalarını almışlardı (bkz. yb_010) ancak belli ki mızıkayı almamışlar. AZ karakteri ağzıyla mızıkayla dramatik bir şarkı çalmaya başlıyor. LE karakteri arkasını dönüyor ve AZ karakterinin kendini öldürmekten vazgeçtiğini anlıyor.] Ona bir su tutaydın yahu? [AZ karakteri haydutların saldırıları sonrasında mızıkayı kıçından çıkarmıştı (bkz. yb_009). LE karakteri de burada onun mızıkayı çaldığını görünce bunu söylüyor. bu dramatik durumu komik bir replikle kesiyor.] [AZ karakteri yere tükürdükten sonra:] -AZ- Konuşma lan! Bu boku beraber yedik, ceremesini beraber çekeceğiz. [kıçtan çıkarılan mızıkanın insan dışkısı ile bir bağlantısı var haliyle. burada buna gönderme olarak \"bu boku beraber yedik\" şeklinde komik bir ifade kullanıyor.] -LE- Aziz, seni taa Fizan'a sürerler. -AZ- Bak bakalım bir etrafına. Zaten ebesinin Fizan'ındayız. [Türkçede \"ebenin örekesi\" şeklinde bir argo vardır. burada Fizan ile onu birleştiren komik bir laf ediyor.] Nereye sürecekler! O elması bulmadan ölmek yok. Tamam mı? [yeniden mızıkayla o dramatik müziği çalmaya başlıyor. gök gürleme sesleri çok daha şiddetleniyor ve yağmur yağmaya başlıyor. akşam oluyor.] [başka bir sahneye geçiyoruz. çaldığı mızıkayı çalmaya devam ediyor ama bir marketin önünde. çaldığı müzik bitince mızıkayı market sahibine veriyor. başka bir dramatik müzik çalmaya başlıyor arkaplanda. aç karınlarını doyurma amacıyla ekmek almak için mızıkayı takas ediyorlar. market sahibi arkasını dönüp gittikten sonra AZ karakteri kendileri gibi zor durumda olan bir çocuğa ekmeğin yarısını veriyor. LE karakteri de çaldığı bir sebzeyi veriyor ve çocuk uzaklaşıyor. AZ karakteri bir iki sebze daha çalıyor ve market sahibine selam verip oradan uzaklaşıyorlar.]",
+    "characters": [
+      "Aziz Vefa (ana hikaye başrol)",
+      "Ulak (postane görevlisi)",
+      "Lemi Galip (ana hikaye ikinci başrol)",
+      "Redkit (bilinen klasik Redkit)",
+      "Zeki (ana hikayeyi anlatan kişi)"
+    ],
+    "location": "postane",
+    "related_chunks": [
+      "yb_009",
+      "yb_010"
+    ],
+    "humor_analysis": {
+      "techniques": [
+        "callback",
+        "irony",
+        "absurd",
+        "cultural_reference",
+        "wordplay",
+        "timing",
+        "character_contrast",
+        "anachronism"
+      ],
+      "why_funny": "Sahne, Western teması ile Türk kültürel öğelerini ve mizahını harmanlayarak komik bir etki yaratır. Redkit'in beklenmedik ve tam zamanında girişi, karakterlerin absürt tepkileri (kellesini hemen vermeyi kabul etme) ve mızıka üzerinden yapılan 'callback' şakaları, diyaloglardaki zekice kelime oyunlarıyla birleşerek sahneyi oldukça eğlenceli kılar.",
+      "cultural_context": "Sahne, Redkit (Lucky Luke) gibi popüler bir Western karakterine, Türkiye'deki esnaf çay kültürü ve çırak geleneğine, 'Amerikan rüyası' kavramına ve 'bu boku beraber yedik', 'ebesinin Fizan'ındayız' gibi Türk argosu ve deyimlerine göndermeler içerir. Ulak'ın Osmanlıca okuma zorluğu da kültürel bir detaydır.",
+      "comedic_timing": "Mizahın önemli bir kısmı zamanlamaya dayanır: Aziz'in 'Kim takar Redkit'i?' demesinin hemen ardından Redkit'in içeri girmesi, Lemi'nin dramatik bir anda mızıkanın hijyenini sorgulaması ve saraydan gelen 'kelle' emrine verilen abartılı tepkiler, sahnenin komik etkisini artırır."
+    },
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "orgs": [],
+      "misc": []
+    },
+    "summary": "Aziz ve Lemi, telgraf çekmek için gittikleri postanede Redkit'in beklenmedik gelişiyle karşılaşır. Saraydan gelen 'mesul memurun kellesini gönderin' emri üzerine yaşadıkları dramatik anlar, mızıka üzerinden yapılan 'callback' şakaları ve Türk argosuyla harmanlanmış absürt diyaloglarla komik bir hal alır."
+  },
+  {
+    "id": "yb_012",
+    "start": "00:18:15",
+    "end": "00:20:16",
+    "duration_sec": 121.0,
+    "block_range": "0238-0270",
+    "text": "[ZE karakteri hikayeyi anlatmaya devam ediyor.] -ZE- Bir hafta, on gün aç bilaç dolanıyorlar etrafta. Bir ara diyorlar, silahlanalım; silah alalım, peşlerine düşelim elması alanların. Ama silah da öyle öpücükle verilmiyor tabi. Para yok, pul yok. [AZ ve LE bir silah satıcısının mekanında gözüküyorlar. AZ karakteri çaldıkları sebzeyle bir silahı takas etmeyi teklif etmeye yelteniyor.] -SA- Siktir git lan zübüş. Defol! [SA karakterinin tavrı ve ikilinin içinde bulunduğu zor durum komiklik yaratıyor.] -ZE- Sonra diyorlar, ulan bari karnımızı doyuracak bir iki işe girip çıkalım. Öyle iş dediysek, öyle yatırım gerektiren işler değil tabi. [ikili at yıkama işi yapmaya başlıyorlar. tabelalarında \"HORSE WASH - NO BRUSH - NO SPONGE\" yazıyor. at yıkamak diye bir iş geçmişte var mıdır bilmiyorum ama burada bu işi kendileri bulmuşlar gibi bir hissiyat var. çünkü iç dış yıkama Türkiye'de araba yıkamacıların kullandığı bir tabirdir. atların içi yıkanamayacağı için bu kullanım komik bir ifade.] -AZ- Horse washing! In and out! Horse washing! Horse washing! In and out! [birisi atını yıkatmış, AZ karakterine ücretini ödüyor. AZ karakteri de ayrı bir tabela tutuyor, üzerinde \"IN & OUT WASHING\" yazıyor. bir esnaf gibi bağırarak, ağzında sigarayla bu ifadeleri kullanıyor.] Sıhhatler olsun! Horse washing! [LE karakterinin kolları at dışkısı yani bok olmuş. belli ki çok çalışmış. atları iç dış yıkamak ifadesindeki \"iç\"ten kasıt bu olabilir. içinde bulunduğu durum ve yaptığı iş komik. hikayeyi anlatan ZE karakteri de buna atıfta bulunuyor ve anlatmaya devam ediyor:] -ZE- Bir iki boktan işle içli dışlı olduktan sonra affedersin, Aziz Efendi diyor ki; \"neden diyor biz kendi çizgimizi ortaya koymuyoruz\" diyor. [buradaki çizgiden kasıt karagöz ile hacivat. AZ karakterini bir grup amerikalıyı gölge oyunu izletmek amacıyla bir çiftlikte bir yere topladığını görüyoruz.] -AZ- En sevilen yanlarıyla, en sevilen halleriyle efendim! [AZ karakteri izleyicilerin karşısına çıkıyor. gölge oyunu başlamadan önce bu tarz ifadeler kullanılarak izleyiciler oyuna hazırlanır. izleyicilerin arkasında LE karakterini görüyoruz. AZ karakteri ona \"git\" dercesine bir hareket yapıyor. şov başlıyor:] \"Karagözüm, Ramazan-ı Şeriflerin hayrola.\" \"Hadi oradan, balkabağı!\" \"Karagözüm yapma, mübarek Ramazandayız.\" \"Hiç tasa etme Hacı cavcav, sülalecek arkandayız!\" [amerikalılardan hiç kimse gülmüyor. seyirci için komik bir durum.] Geçen sene Sultanahmet'te en çok tutan gösteri bu be. Biraz gülün ya! [LE karakteri AZ karakterine arkadan ıslık çalar, bir tavuk ve torba gösterir. anlarız ki aslında amaçları çiftlikteki insanları oyalayıp gizlice bir şeyler çalmakmış. AZ karakteri LE karakterinin bu işareti ile orayı terk etmek üzere harekete geçer. seyircilerden ikisi ona seslenir:] -K2- Maalesef komik değil. -AZ- Biraz yeniliklere açık olun açık. Karagöz bu! -K2- Komik olsa gülerdik, de mi kız? -K3- Bence de. -AZ- Heeaaa... Seneye size Moliere'i getireyim. Moliere'den Cimri. [moliere'in cimri isimli komedi tiyatro oyununa bir gönderme yaptıktan sonra orayı terk ederler.] [ıssız bir yerde ikili oturmuş bir şeyler yiyip içerken kendi aralarında konuşuyorlar:] Tuzsuz Deli Bekir'i yaptım. Beberuhi'yi yaptım. Hiçbirine gülmediler. -LE- Zenne'yi yaptın da gülmediler mi efendim? -AZ- Efendim, Zenne'ye gelene kadar. [karagöz, hacivat, tuzsuz deli bekir, beberuhi, zenne. bunlar geleneksel Türk gölge oyununun temel karakterleri ve toplumsal tipleri. bunlara göndermeler var.] Hümor yok hümor! Amerikan hümoru! Siktiğimin humoru! [seyirci için komik bir diyalog.] -LE- İngilizceye çevirince manasını kaybediyor tabii. -AZ- Bırak Allah aşkına! [topladıkları erzakları ayıklıyorlar:] Yumurta. Ayır bunları. Şunda ne var? -LE- Şeker. -AZ- Limon. Şeker. Limon-Şeker! [AZ karakterinin limon ve şekeri görünce aklına osmanlı macunu yapma fikri geliyor.]",
+    "characters": [
+      "Zeki (ana hikayeyi anlatan kişi)",
+      "Silah Satıcısı (AZ ve LE karakterlerini kovan adam)",
+      "Aziz Vefa (ana hikaye başrol)",
+      "Kadın 2 (karagöz oyununa gülmeyen kadın)",
+      "Kadın 3 (K2 karakterinin arkadaşı, karagöz oyununa gülmeyen diğer kadın)",
+      "Lemi Galip (ana hikaye ikinci başrol)"
+    ],
+    "location": "silahçı - at yıkama yeri - çiftlik - ıssız yer",
+    "related_chunks": [],
+    "humor_analysis": {
+      "techniques": [
+        "cultural_reference",
+        "absurd",
+        "wordplay",
+        "character_contrast",
+        "misunderstanding",
+        "irony",
+        "sarcasm",
+        "slapstick",
+        "exaggeration",
+        "timing"
+      ],
+      "why_funny": "Sahne, Aziz ve Lemi'nin Osmanlı aydınları kimlikleriyle Batı'da düştükleri absürt ve sefil durumlar arasındaki zıtlıktan beslenir. Geleneksel Türk mizahının (Karagöz) Batılı izleyici tarafından anlaşılamaması ve karakterlerin bu duruma verdikleri çaresiz tepkiler, kültürel bir çatışma üzerinden komedi yaratır.",
+      "cultural_context": "Karagöz ve Hacivat, geleneksel Türk gölge oyununun temel karakterleridir; diyalogları yanlış anlamalar ve kelime oyunları üzerine kuruludur. Tuzsuz Deli Bekir, Beberuhi, Zenne gibi karakterler de bu oyunun bilinen tipleridir. Moliere'in 'Cimri' oyunu ise Batı tiyatrosunun klasik bir komedisidir. 'İç dış yıkama' ifadesi Türkiye'de araba yıkamacılığında kullanılan yaygın bir terimdir.",
+      "comedic_timing": "Aziz'in Karagöz oyununa kimsenin gülmemesi üzerine gösterdiği çaresiz 'Biraz gülün ya!' tepkisi ve ardından gelen 'Seneye size Moliere'i getireyim' sarkastik önerisi, zamanlamanın komik etkisini artırır. Ayrıca, sefalet içinde limon ve şekeri görünce aniden Osmanlı macunu yapma fikrinin belirmesi de beklenmedik bir komik an yaratır."
+    },
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "orgs": [],
+      "misc": []
+    },
+    "summary": "Elmasın peşinde aç ve parasız kalan Aziz ile Lemi, önce absürt işlerde çalışır, ardından Amerikalılara Karagöz oyunu sergileyerek para kazanmaya çalışır ancak kültürel mizah farkı nedeniyle başarısız olurlar. Hayal kırıklığı ve sefalet içinde, yeni bir iş fikriyle (Osmanlı macunu) yola devam etme kararı alırlar."
+  },
+  {
+    "id": "yb_013",
+    "start": "00:20:18",
+    "end": "00:21:57",
+    "duration_sec": 99.0,
+    "block_range": "0271-0299",
+    "text": "[AZ karakteri herhangi bir kasabada osmanlı macunu yapıp satmaya başlıyor.] -AZ- Biyron, biyron, biyron! Macuncu! Macuncu! Bereket versin. Macuncu! -ZO- Sar, bir tane de bana sar. -AZ- Emrin olur abi. -ZO- Ona değil, buna sar. [normalde macun küçük ince çubuklara sarılarak satılan bir üründür. ZO karakteri ise elinde kocaman bir odunla gelmiştir. komik bir diyalog.] -AZ- Osmanlı macunudur, ağır gelir. -ZO- Yorum yapma ulan! [ZO karakteri odunu bir kenara atıp tüm macunların bulunduğu koca tepsiyi alıp eliyle yemeye başlar ve arkasını dönüp gider. dramatik müzik girer. AZ karakteri çaresizce kalan eşyalarını toplayıp LE karakterinin yanına doğru yola koyulur. giderken yerden aldığı bir taşı ZO karakterine doğru fırlatır. kaçmaya başlar. seyirci için komik bir durum.] [ZE karakteri hikayeyi anlatmaya devam ediyor:] -ZE- 100 Dolar parayı denkleştirmek için yapmadıkları iş kalmıyor. Yahu, Lemi Bey'in kendi yaptığı makineyle miki filmi oynatıyorlar ya! [LE karakterinin önündeki makinenin etrafına toplanmış bir sürü insan görüyoruz. bir şeyi döndürüyor ve belli ki içindeki mekanizma da hareketli görsel oluşturuyor. AZ karakteri de izleyenlerin arasına katılıyor.] Miki filmi diyorum usta. Daha Walt Disney yok, Mickey Mouse yok! -LE- Hayat kadar gerçek! Bir aşk hikayesi! [burada makinenin içini görüyoruz. bir kadın ve bir erkeği cinsel bir pozisyonda görüyoruz. komik bir görüntü.] [sahne değişiyor. ZE karakteri ikilinin yaptığı başka bir işi dış ses olarak anlatmaya başlıyor. eğlenceli bir müzik giriyor. sahnede ikilinin mutfakta bir şeyler yaptığını izliyoruz:] -ZE- Bir de ya şeyi diyeceğim, yanlış anlayacaksınız. Şeyi buluyorlar. Hani o formülü bilinmiyor deniyor ya. -RA- O ne ya? -ZE- Kola ulan! Meyan kökü, karbonat. Özü zaten şerbet. -VE- Bir dakika ya, bir dakika ben anlamadım. Yani şimdi bunlar gerçekten kolayı mı buluyorlar? -ZE- Buluyorlar, buluyorlar. Ama... [filmin önemli sponsorlarından biri Cola Turka. bu sahnede anlıyoruz ki bir reklam var. ancak seyirciyi rahatsız edici bir reklam değil, çok akıllıca bir reklam. LE karakteri mutfakta ürettikleri kolayı koymak için hazırladığı güğümün üzerine de Cola Turka yazmış ve güğümü süslemiş. eskiden osmanlıda bazı insanlar sırtında bu şekilde güğümle gezer ve meyan kökü şerbeti satardı. burada ona da bir gönderme var.] -LE- Aziz. Nasıl? [LE karakteri yaptığı güğümü gösteriyor.] -AZ- Vaay! Çok güzel, çok güzel. Bak... [AZ karakteri de kolanın son halini tattırıyor.] Tat bakayım. Nasıl? -LE- Şahane. Aziz, güğüme şey yazayım mı? \"Soğuk içiniz.\" [Asitli içeceklerde, hatta en bilindik olarak kolaların üzerinde bu ibare yazar. burada da ona bir gönderme var.] -AZ- Bırak ulan. Milleti zapt-ı rapt altına alma. İster soğuk içer ister sıcak. [gönderme içeren bu fikri beğenmiyor. komik bir gönderme ve tepki. bu sahne burada bitiyor.]",
+    "characters": [
+      "Aziz Vefa (ana hikaye başrol)",
+      "Zorba Adam (AZ karakterinden macun tepsisini alıp giden adam)",
+      "Zeki (ana hikayeyi anlatan kişi)",
+      "Lemi Galip (ana hikaye ikinci başrol)",
+      "Ramazan (Zeki'nin arkadaşı)",
+      "Vedat (ana hikayenin anlatıldığı kişi, Alpay'ın arkadaşı)"
+    ],
+    "location": "herhangi bir kasaba - mutfak",
+    "related_chunks": [],
+    "humor_analysis": {
+      "techniques": [
+        "anachronism",
+        "absurd",
+        "cultural_reference",
+        "character_contrast",
+        "exaggeration",
+        "slapstick",
+        "irony"
+      ],
+      "why_funny": "Sahne, tarihi bir dönemde modern unsurların (Miki filmi, kola) beklenmedik şekilde ortaya çıkmasıyla (anakronizm, absürtlük) ve karakterlerin bu durumlara verdiği abartılı veya ironik tepkilerle komikleşiyor. Özellikle Zorba Adam'ın macun tepsisini alıp gitmesi ve Aziz'in 'Soğuk içiniz' ibaresine verdiği tepki, karakter zıtlıkları ve absürt durumlar üzerinden mizah yaratıyor.",
+      "cultural_context": "Sahne, Osmanlı macunu geleneği, meyan kökü şerbeti satıcıları ve 'Soğuk içiniz' gibi asitli içecek ibareleri gibi kültürel referansları kullanır. Ayrıca, Walt Disney ve Mickey Mouse gibi modern popüler kültür ikonlarına yapılan göndermeler ve filmin sponsoru Cola Turka'ya akıllıca entegre edilen reklam, mizahın anlaşılması için kültürel bilgi gerektirir.",
+      "comedic_timing": "Zorba Adam'ın macun tepsisini aniden alıp gitmesi, 'Miki filmi'nin cinsel içeriğinin beklenmedik bir anda ortaya çıkması ve Aziz'in 'Soğuk içiniz' önerisine verdiği ani ve sert tepki, sahnedeki mizahın etkisini artıran önemli zamanlama unsurlarıdır."
+    },
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "orgs": [],
+      "misc": []
+    },
+    "summary": "Aziz ve Lemi, 100 dolar kazanmak için çeşitli işlere girişirler; macun satarken zorba bir adamla karşılaşırlar, 'Miki filmi' adı altında cinsel içerikli bir gösteri yaparlar ve son olarak da 'kola'yı icat ederek güğümle satmaya başlarlar."
+  },
+  {
+    "id": "yb_014",
+    "start": "00:21:57",
+    "end": "00:23:07",
+    "duration_sec": 70.0,
+    "block_range": "0300-0321",
+    "text": "[ikili herhangi bir kasabada tavuk ekmek kola satma işine başlıyorlar. tezgahlarının önünde bir sürü insan var. etrafta başka satıcılar da var. onlar ses çıkarmıyorlar. ama ikili bağırıyor.] -AZ- Gel abicim, gel! Gel abicim! Eyvallah. Al abi al. -LE- Buz gibi kola içen! -AZ- Gel abicim! Gel! Gel! Gel! Param olsa da ben alsaaam! -LE- Kuru kuru gitmez! -AZ- Var mı acıkan? Var mı acıkan! -LE- Parasını alayım. -AZ- Buyur abi. Abi butum daha pişiyor, kanat vereceğim. Şunu bozsana bana. [LE karakterine tüm para veriyor. bozuk şekilde almak için.] Param olsa da ben alsaaam. [ikili Türk esnafının çok bilindik sözlerini kullanıyor. Amerika gibi bir yerde tavuk ekmek satmaya başlamaları ve bu sözlerle satış yapmaları komik.] -E1- Ayıp olmuyor mu kardeşim, ne bağırıyorsunuz? [AZ ve LE ikilisinin bağırarak insanları kendine çekmesinden ve satışlarının düşmesinden başka bir esnaf ikilisi rahatsız oluyor.] -AZ- Esnaf değil misin kardeşim? Sen de bağır! Ağlamayana meme yok. [E1 karakteri AZ ve LE karakterinin tezgahına doğru patates fırlatır.] -E2- Biz Kentucy'liyiz lan, artistlik yapma! [Türkiye'de kavgalar başlamadan önce \"ben şuralıyım\", \"biz şuralıyız\" gibi ifadelerle rakip korkutulmaya çalışılır. buna bir gönderme var. komik bir diyalog.] -AZ- Biz de Samatya'lıyız lan, bize mi artistlik yapıy... [AZ karakteri tavuk pişirdiği ızgara standını asabi şekilde iki eliyle aşağı atar ve kavgayı başlatır. AZ ve LE ikilisi ile E1 ile E2 ikilisi kavga etmeye başlar.] -AZ- Bırakın lan! -LE- Şişeyle vururum! [tam kavga devam ederken bulundukları yerin şerifi ortaya çıkar ve havaya bir el ateş eder. kavgayı durdurur. bu boşluğu fırsat bilen E1 karakteri AZ karakterine sağlam bi yumruk atar:] -AZ- Allah! [AZ ve LE karakterini esnafların bulundugu alanın dışına atarlar. kolanın bulundugu güğümü de yanlarına fırlatırlar ve güğüm kırılır.] [ZE karakteri durumu anlatmaya devam eder:] -ZE- Yaa, Kentucky'de tavuk ekmek satacaklarmış. Sattırırlar mı adama? [tam bu sırada şerif ile oranın yerli esnaflarını el sıkışırken görüyoruz.] Adam orda tezgahını kurmuş, yedirir mi sana hiç? Tanıdın mı? -RA- Kimi abicim? -ZE- Kim olacak, amblem. Şimdi bana adamın reklamını yaptırtma. [anlıyoruz ki bu şerif herhangi bir şerif değil. dünyaca ünlü tavukçu KFC markasının amblemindeki beyaz giyimli adamın aynısı. komik bir ayrıntı.] Bizimkilerin durumu yine hüsran, yine hüsran. [şerif ile esnaflar sahneyi terk ediyor. AZ ve LE karakteri yalnız kalıyor. şerif binasının önüne oturuyorlar. yine bir sıkıntı yaşadıkları için ikisi de üzgün.] [AZ karakteri annesinin kendisine muskayı sıkıntılardan koruması için verdiğini söylemişti. ama iklinin hiçbir işi yolunda gitmiyor. LE karakteri bunu düşünüyor olacak ki, tam bu sırada AZ karakterinin boynundaki muskayı almaya çalışıyor. AZ karakteri almasina izin vermeyip onun elini itiyor. seyirci için komik bir sahne.]",
+    "characters": [
+      "Aziz Vefa (ana hikaye başrol)",
+      "Lemi Galip (ana hikaye ikinci başrol)",
+      "Esnaf 1 (kavgacı esnaf)",
+      "Esnaf 2 (E1 karakterinin arkadaşı, diğer kavgacı esnaf)",
+      "Zeki (ana hikayeyi anlatan kişi)",
+      "Ramazan (Zeki'nin arkadaşı)"
+    ],
+    "location": "herhangi bir kasaba",
+    "related_chunks": [],
+    "humor_analysis": {
+      "techniques": [
+        "anachronism",
+        "cultural_reference",
+        "absurd",
+        "character_contrast",
+        "exaggeration",
+        "slapstick",
+        "irony",
+        "callback"
+      ],
+      "why_funny": "Sahne, Türk esnaf kültürünün Vahşi Batı'ya taşınmasıyla oluşan absürt durumdan, karakterlerin abartılı tepkilerinden ve şerifin kimliğinin beklenmedik bir kültürel referansla ortaya çıkmasından beslenir. Muskanın işe yaramaması da ironik bir komedi katmanı ekler.",
+      "cultural_context": "Türk esnafının bağırarak satış yapma geleneği, kavga öncesi 'nerelisin' atışmaları ve 'Ağlamayana meme yok' gibi deyimler ile KFC markasının amblemindeki karakterin şerif olarak kullanılması, sahnenin mizahını anlamak için temel kültürel referanslardır.",
+      "comedic_timing": "Aziz'in 'Samatya'lıyız' cevabının hemen ardından ızgarayı devirerek kavgayı başlatması, kavga tam devam ederken şerifin ortaya çıkması ve sonrasında muskanın işe yaramadığının fiziksel olarak gösterilmesi, mizahi zamanlamayı güçlendirir."
+    },
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "orgs": [],
+      "misc": []
+    },
+    "summary": "Aziz ve Lemi, Vahşi Batı'da Türk usulü tavuk ekmek satmaya çalışırken yerel esnafla kavgaya tutuşur ve sonunda KFC amblemini andıran şerif tarafından engellenirler, bu da muskanın koruyucu gücünün sorgulanmasına yol açar."
+  },
+  {
+    "id": "yb_015",
+    "start": "00:23:26",
+    "end": "00:24:20",
+    "duration_sec": 54.0,
+    "block_range": "0322-0340",
+    "text": "[ikili şerif binasının önünde kendi arasında konuşmaya başlıyor.] -LE- Lehimleriz olur biter. [güğümden bahsediyor.] -AZ- Namusumuzla da çalıştırtmıyor, tutucu pezevenkler! Kaç paramız var? -LE- 50-55 dolar kadar. -AZ- Ver şunu arkadaş. Bir tane altı patlar alacağım, dalacağım aralarına. Yeter artık ulan! [tam bu sırada LE karakteri oturdukları yerine arkasına bakıyor, yani şerif binasının üzerine asılı olan kağıtlara. AZ karakteri ise aldığı paralarla ilgileniyor.] Uyandım artık ben o Amerikan rüyasından. [yine amerikan rüyası kavramına bir gönderme var.] [LE karakteri binadaki wanted yani aranıyor kağıtlarını gördükten sonra:] -LE- Aziz Efendi, sen aranıyorsun. -AZ- O Johnny Lesh denilen teresi de bulacağım. İndireceğim onu da. -LE- Aziz Efendi, sen aranıyorsun. -AZ- Ne aranması, birader, olaylar bizi buluyor! [AZ karakteri LE karakterine odaklanmadığı için ve arkasına dönüp de kağıtlara bakmadığı için LE karakterinin demek istediğini yanlış anlıyor. Türkçede \"aranmak\" diye bir tabir vardır, yaşanılacak olan olumsuz olaya kişinin kendinin ortam hazırlaması gibi bir anlamı var. burada LE karakterinin \"sen aranıyorsun\" ifadesini \"seni arıyorlar\" anlamında değil, \"senin yüzünden oluyor\" gibi anlıyor. o yüzden bunu söylüyor. seyirci için komik bir diyalog.] -LE- Efendim öyle değil, bayağı aranıyorsun! [LE karakteri arkadaki kağıtları gösteriyor. bir western ezgisi çalıyor.] -AZ- Aa! [kalkıp kağıtların oraya gidiyorlar.] Aynı ben! [AZ karakteri wanted ilanındaki adama çok benziyor.] 10 dolar. Alır mıyız bu parayı? -LE- Alırız valla. [wanted ilanındaki bir parayı alabilmek için suçluyu teslim etmek gerekir. bu ilandaki kişi AZ karakteri de değil. ikili burada gizli bir plan üzerine konuşuyor ve seyirci bunu henüz bilmiyor.] -AZ- Horse... Horse Whisper... Horse Whisperer... Horse, at! [burada 98 yapımı horse whisperer filmine bir gönderme var. normalde bu ifade atlarıyla iyi iletişim kuran kişilere söylenir. ancak wanted ilanında bu yazdığına göre bu bir suç olmalı. burada anlıyoruz ki, sanki atlara tecavüz eden kişilere bu ifade kullanılıyormuş gibi bir şaka var. atlara fısıldamak = atlara tecavüz etmek gibi düşünüyor seyirci. komik bir ifade.] -LE- Buna ne diyorsun? Johnny Lesh, 500 dolar! [JO karakterinin ilanını görüyorlar] -AZ- Wanted alemine girmiş demek ki eşşoğlu eşek! Şu güğümü bir tamir edelim hele... [AZ karakteri Horse Whisperer wanted ilanını rulo yapıp yanına alıyor. ikili seyircinin bilmediği bir plan üzerine anlaşmış gözüküyor.]",
+    "characters": [
+      "Lemi Galip (ana hikaye ikinci başrol)",
+      "Aziz Vefa (ana hikaye başrol)"
+    ],
+    "location": "şerif binasının önü",
+    "related_chunks": [],
+    "humor_analysis": {
+      "techniques": [
+        "misunderstanding",
+        "wordplay",
+        "absurd",
+        "cultural_reference",
+        "irony",
+        "exaggeration",
+        "timing"
+      ],
+      "why_funny": "Sahne, Aziz'in 'aranıyorsun' ifadesini yanlış anlamasıyla başlar ve bu yanlış anlama, kelime oyununa dayalı komik bir diyalog yaratır. Ardından, kendi wanted ilanını görüp ödülünü almayı düşünmesi ve 'Horse Whisperer' gibi masum bir terimin absürt bir suça dönüştürülmesi, izleyiciyi beklenmedik ve kara mizahi bir duruma sokar.",
+      "cultural_context": "Sahnedeki 'Amerikan rüyası' göndermesi ve 'The Horse Whisperer' filminin adının absürt bir suç tanımı olarak kullanılması, Türk izleyicisinin aşina olduğu popüler kültür öğeleriyle mizah yaratır. Ayrıca, Türkçedeki 'aranmak' kelimesinin hem 'bir suçtan dolayı aranmak' hem de 'olayları üzerine çekmek' anlamlarına gelmesi, ilk yanlış anlamanın temelini oluşturur.",
+      "comedic_timing": "Lemi'nin 'Aziz Efendi, sen aranıyorsun' cümlesini Aziz'in öfkeli monologları arasına sıkıştırması ve Aziz'in nihayet gerçeği fark etmesi arasındaki zamanlama, gerilimi artırıp komik etkiyi güçlendirir. Aziz'in wanted ilanını gördükten sonraki ani tepkisi ve hemen ödülü hesaplamaya başlaması da mizahi zamanlamanın başarılı bir örneğidir."
+    },
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "orgs": [],
+      "misc": []
+    },
+    "summary": "Aziz ve Lemi, şerif binasının önünde konuşurken Lemi, Aziz'in arandığını söyler. Aziz bunu yanlış anlayıp olayların kendilerini bulduğunu düşünse de, aslında wanted ilanlarında kendisinin olduğunu fark eder ve hatta kendi ödülünü alıp alamayacaklarını sorgular. Sahne, 'Horse Whisperer' teriminin absürt bir suç olarak kullanılmasıyla daha da komikleşir."
+  },
+  {
+    "id": "yb_016",
+    "start": "00:24:29",
+    "end": "00:25:43",
+    "duration_sec": 74.0,
+    "block_range": "0341-0360",
+    "text": "[ikili herhangi bir kasabaya geliyor. LE karakteri at üstünde, AZ karakteri elleri bağlı şekilde. kasaba şerifinin binasına giriş yapıyorlar.] -LE- Merhabalar Şerif. Ben kelle avcısı Lenny. Bu kovboy için bana 10 dolar ödeyeceksin. [anlıyoruz ki AZ ve LE karakterleri farklı kişiler gibi davranarak wanted ilanlarındaki ödülleri toplayacaklar. ama hala bunu nasıl yapacaklarını seyirci bilmiyor.] -S1- Hangi kovboy? -LE- Atını siken kov...öhö...boy. -S1- Ne diyorsun lan? -LE- Yok mu bu atlara fısıldayan kovboy? [S1 karakteri masaya vurur ve ayağa kalkar:] -S1- Şerefsiz! Irz düşmanı seni! Ulan! -AZ- Ben bir şey yapmadım abi, at başlattı. [burada Horse Whisperer ilanındaki kişi rolüne bürünen AZ karakteri, işlediği suçu ata atan komik bir ifade kullanıyor.] [LE karakteri AZ karakterine tokat atar:] -LE- Böyle ırz düşmanlarını içeri tıkmak sizin boynunuzun borcu Şerif. -S1- Lou, at şu köpeği içeri. Ahırlardan uzak kalsın biraz pezevenk. [AZ karakteri binada bu konuşmanın yapıldığı yerde herkesin yanında olan parmaklıklar ardına şerifin yardımcısı Lou tarafından hapis ediliyor.] Al, 10 doların. -LE- Bu ufak iş. Ben asıl Johnny Lesh'in peşindeyim. -S1- Johnny Lesh mi? Onu bulsam ben emekli olurum, sen ne diyorsun? Al. 500 dolar. [JO karakterinin ilanını burada da görüyorlar.] [LE karakteri parmaklıklar ardındaki AZ karakterine bakıyor. AZ karakteri de onu onaylarcasına kaş göz yapıyor.] -LE- Bir kola içer miyiz? -S1- Kola mı? İçiliyor mu? [LE karakteri güğümle üç bardak kola dolduruyor.] -LE- Buyurun Şerif. Almaz mıydınız? [bardakların ikisini şerif ve yardımcısına veriyor, birisi de kendi için.] Ohh... [kolayı kendi de içiyor. ama buna rağmen garip şekilde şerif ve yardımcısı uyuyakalıyor. anahtarları alıp AZ karakterini hapis edildiği yerden çıkarıyor. kendine bir şey olmadığında anlıyoruz ki kolaya kendilerine bir şey olmayacak şekilde bir şey katmışlar. bu şekilde ilanlardaki suçluların tipine bürünerek, ödülleri toplayarak, şerifleri uyutarak para kazanmayı planlıyorlarmış. daha doğrusu, ilanları da kendileri yapmaya başlıyorlar. eğlenceli bir müzik giriyor ve burada hızlı hızlı birçok şerifi uyutarak aynı planı uyguladıklarını izliyoruz. AZ karakterini takma isim olarak \"Zozo the Kid\" ismini, LE karakteri ise \"Lenny\" adını kullanarak birçok kez aynı şeyi yapıyorlar. ve her seferinde gittikleri her şerifin binasında JO karakterinin ödül fiyatının aşama aşama arttığını görüyoruz. burada son olarak fiyatının 800 dolar olduğunu görüyoruz.]",
+    "characters": [
+      "Lemi Galip (ana hikaye ikinci başrol)",
+      "Şerif 1 (herhangi bir kasabada herhangi bir şerif)",
+      "Aziz Vefa (ana hikaye başrol)"
+    ],
+    "location": "herhangi bir kasabada şerif binası",
+    "related_chunks": [],
+    "humor_analysis": {
+      "techniques": [
+        "wordplay",
+        "misunderstanding",
+        "absurd",
+        "anachronism",
+        "character_contrast",
+        "callback",
+        "timing"
+      ],
+      "why_funny": "Sahne, Lemi'nin 'Horse Whisperer'ı kaba bir şekilde yanlış telaffuz etmesiyle başlayan kelime oyunundan ve şerifin buna verdiği abartılı tepkiden mizahını alır. Aziz'in suçu ata atması ve Vahşi Batı'da 'kola' gibi anachronistik bir içeceğin anında uyutucu etkisi, durumun absürtlüğünü artırır. Tekrar eden dolandırıcılık montajı da komik etkiyi pekiştirir.",
+      "cultural_context": "Sahnedeki 'Horse Whisperer' (Atlara Fısıldayan Adam) referansı, popüler kültüre bir göndermedir. 'Atını siken' gibi kaba bir ifadenin mizahi kullanımı, Türk komedisinde şok etkisi yaratma ve anında kahkaha sağlama amacıyla sıkça başvurulan bir yöntemdir.",
+      "comedic_timing": "Lemi'nin yanlış telaffuzu, şerifin ani öfkesi ve Aziz'in hızlı, absürt savunması arasındaki hızlı diyalog akışı, sahnenin komik zamanlamasını oluşturur. Kola içildikten sonra şerif ve yardımcısının anında uykuya dalması ve ardından gelen hızlı montaj da mizahi zamanlamayı güçlendirir."
+    },
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "orgs": [],
+      "misc": []
+    },
+    "summary": "Lemi ve Aziz, Lemi'nin Aziz'i kaba bir şekilde yanlış telaffuz ettiği 'Atlara Fısıldayan Adam' olarak tanıtarak bir şeriften ödül toplar. Ödülü aldıktan sonra, şerifi 'kola' ile uyutup kaçarlar ve bu absürt dolandırıcılık yöntemini birçok kasabada tekrarlayarak ödül avcılığı yaparlar."
+  },
+  {
+    "id": "yb_017",
+    "start": "00:26:25",
+    "end": "00:27:51",
+    "duration_sec": 86.0,
+    "block_range": "0361-0379",
+    "text": "[AZ ve LE karakteri yine bir şerifi kandırmak için başka bir kasabaya geliyor. CH karakteri şarap şişelerine silah atışı yaparak vakit geçiriyor. tam o sırada ikili geliyor. bu sefer suçlu LE karakteri, kelle avcısı ise AZ karakteri olmuş.] -AZ- Şerif Cheko? [CH karakterine LE karakterini tanıtıyor:] At hırsızı Timothy. -CH- At hırsızı Timothy ha? Kaç yaşındasın sen? [LE karakteri at gibi ses çıkarıyor ve davranıyor. komik bir görüntüsü var.] Aç ağzını! Aç! [CH karakteri LE karakterinin diş sağlığına bakıyor. sanki bir atmış gibi. anlamsız ve komik bir sahne.] Beş para etmez. -AZ- 20 dolar. [CH karakteri ikiliye silah çekiyor.] -CH- 10 dolar. [ikili den ses çıkmayınca silahı LE karakterine doğrultuyor ve ısrarcı bir tavrı var:] Ben at hırsızlarını hiç sevmem Timothy. [AZ karakteri arkadaşı vurulmasın diye kabul ediyor:] -AZ- Tamam 10 dolar. 10 dolar. 10 dolar. -CH- Anlaştık. Al içeri. [içeri geçiyorlar. CH karakteri tam kendi viskisinden içmek için hazırlık yaparken AZ soruyor:] -AZ- Şerif, bir kola içer miyiz? -CH- Kola mı? Ver bakayım. [AZ karakteri güğümden dolduruyor:] -AZ- Hooppaa... [CH içmeye başlıyor] Siz? [AZ karakteri CH karakterinin yardımcısına da soruyor siz de ister misiniz gibisinden.] Buz gibi. [kola gazlı olduğu için CH karakteri içince geğiriyor. AZ de diyor:] Yarasın. [CH karakteri de yardımcısı da uyuyakalıyor. AZ seviniyor. anahtarı alıp LE karakterini hapisten çıkarıyor. şerifin masası üzerinde JO karakterinin başka bir wanted ilanını görüyorlar:] Johnny Lesh. 900 dolar. Dolardan hızlı yükseliyor pezevenk. [AZ karakteri JO karakterinin wanted ilanını da rulo yapıp yanlarına alıyor. masanın üzerindeki CH karakterinin viskisini de çalıyor. bu kasabayı da terk ediyorlar.]",
+    "characters": [
+      "Aziz Vefa (ana hikaye başrol)",
+      "Şerif Cheko (herhangi bir şerif)"
+    ],
+    "location": "şerif cheko'nun kasabasında şerif binası",
+    "related_chunks": [],
+    "humor_analysis": {
+      "techniques": [
+        "absurd",
+        "anachronism",
+        "character_contrast",
+        "slapstick",
+        "callback",
+        "misunderstanding",
+        "exaggeration",
+        "irony",
+        "cultural_reference"
+      ],
+      "why_funny": "Sahne, şerifin bir insanı at gibi muayene etmesi gibi absürt bir durumla başlar. Ardından, Vahşi Batı'da 'kola' gibi modern bir içeceğin anachronistik kullanımı ve şerifin buna safça tepki vermesi komik bir etki yaratır. Karakterlerin zıt zekaları ve tekrarlayan dolandırıcılık teması mizahı pekiştirir.",
+      "cultural_context": "Aziz'in 'Dolardan hızlı yükseliyor pezevenk' ifadesi, günümüz Türkçesinde bir şeyin değerinin hızla arttığını belirtmek için kullanılan argo ve modern bir ifadedir. Bu ifadenin Vahşi Batı bağlamında kullanılması, anachronism yoluyla ek bir mizah katmanı oluşturur.",
+      "comedic_timing": "Lemi'nin at gibi davranması ve şerifin bunu ciddiyetle incelemesi arasındaki zamanlama, beklenmedik bir komedi yaratır. Kola sahnesinde ise şerifin içeceği hemen kabul etmesi ve ardından hızlıca uyuyakalması, planın kusursuz işleyişini vurgulayarak mizahi bir etki bırakır."
+    },
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "orgs": [],
+      "misc": []
+    },
+    "summary": "Aziz ve Lemi, bir şerifi kandırarak Lemi'yi hapisten kurtarmak için yeni bir kasabaya gelirler. Şerif Cheko'yu at hırsızı Timothy kılığındaki Lemi'yi at gibi muayene etmeye ikna ederler, ardından şerifi ve yardımcısını uyuşturucu katılmış kola ile uyutup kaçarlar, bu sırada yeni bir aranan ilanını da yanlarına alırlar."
+  }
+]
