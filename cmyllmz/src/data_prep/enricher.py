@@ -21,7 +21,7 @@ from openai import OpenAI
 
 PROJECT_ROOT = Path(__file__).parent.parent.parent
 
-OPENAI_API_KEY = "ssk-proj-FkyQ0EVKnTPsYNAhngm2N_W30uIz80lYkZ0f8L9v1p_dJzY3Lr1YxCygv9I5fTq5HszyMeGQkVT3BlbkFJAI7hZ-ZSs2iZHiSqg9u4wPAwGB4R30WkMaQJKGun4eYfpbN4kgDi1W92HEHHr-fb6vEDWCKlgA"  # buraya OpenAI API key gir
+OPENAI_API_KEY = "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"  # buraya OpenAI API key gir
 OPENAI_MODEL = "gpt-4o-mini"
 
 RATE_LIMIT_SLEEP = 1.0  # saniye
