@@ -41,3 +41,7 @@ hem kor hem duymayan birine nasil anlatirsin? ya da bu kulturde yetismemis baska
 # yapacagimiz arayuzdeki agent nasil konussun:
 
 bilmedigi sey olursa izledim ama onu hatirlamiyorum, tekrar izlesem hatirlarim falan desin.
+
+yapacagımız arayuz senaryo kitabindaki gibi cikti uretsin sahne verecek olursa. ama bölünmeler olduğu için eksik karakter işaretlerini düzgün göstermeli.
+
+her chunkta bir önceki chunkı ve bir sonraki chunki belirtmemize gerek varm ı? birbirlerine baglayalim mi 

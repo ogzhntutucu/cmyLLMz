@@ -31,7 +31,7 @@ EU = Eugene (yuruyen johnnie)
 KK = Kizilkayalar (Sioux kizilderili kabile Sefi)
 BA = Bambi (kizilkayalarin oglu)
 SL = Sultan
-BK = Baker = Fotografci
+BK = Backer = Fotografci
 CC = Chuck (sheriffin yardimcisi)
 AG = Alejandro Gomez (Arias Jose Robledo Alfonso Villas des Sandos)
 BB = Buck Berry
