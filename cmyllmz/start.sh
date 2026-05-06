@@ -31,3 +31,5 @@ sleep 2
 
 echo "✓ cmyLLMz hazır → http://localhost:$PORT"
 echo "  Durdurmak için: ./stop.sh"
+
+xdg-open "http://localhost:$PORT" 2>/dev/null || true
