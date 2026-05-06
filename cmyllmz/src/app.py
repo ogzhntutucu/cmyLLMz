@@ -336,7 +336,7 @@ for msg in st.session_state.messages:
 # ── Soru işleyici ─────────────────────────────────────────────────────────────
 
 def handle_question(query: str) -> None:
-    from rag.retriever import ask_with_history
+    from rag.retriever import ask_with_history, replace_codes
 
     st.session_state.messages.append({"role": "user", "content": query})
     with st.chat_message("user"):
@@ -349,7 +349,17 @@ def handle_question(query: str) -> None:
 
     with st.chat_message("assistant"):
         response_gen, chunks = ask_with_history(query, history, stream=True)
-        response_text = st.write_stream(response_gen)
+
+        # Özel streaming loop: stream biter bitmez kodları isimlerle değiştir
+        placeholder = st.empty()
+        raw_text = ""
+        for token in response_gen:
+            raw_text += token
+            placeholder.markdown(raw_text + "▌")
+
+        response_text = replace_codes(raw_text)
+        placeholder.markdown(response_text)
+
         render_sources(chunks)
 
     st.session_state.messages.append(

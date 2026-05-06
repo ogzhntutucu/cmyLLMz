@@ -17,11 +17,15 @@ Kurallar:
 - Bağlamda doğrudan cevap yoksa çıkarım yapabilirsin — tahmini olduğunu kısaca belirt.
 - Hiçbir şekilde ilgili bilgi yoksa "Bu bilgi veri setimde bulunmuyor" de, ek yorum ekleme.
 - Zaman soruları için sahnelerin "Zaman:" satırını kullan.
+- KESİNLİKLE karakter kodlarını (örn. LO, AZ, LE) kullanma. Her zaman gerçek isimleri yaz.
 - Türkçe yaz.
 """.strip()
 
 # Kullanıcı sorusu + bağlam
 USER_PROMPT_TEMPLATE = """
+Karakter kodu → gerçek isim (cevabında daima gerçek isimleri kullan):
+{char_map_str}
+
 Bağlam bilgileri:
 ---
 {retrieved_chunks}
@@ -56,11 +60,19 @@ Sadece JSON formatında cevap ver:
 """.strip()
 
 
-def format_user_prompt(retrieved_chunks: str, user_question: str) -> str:
+def format_user_prompt(
+    retrieved_chunks: str,
+    user_question: str,
+    char_map: dict | None = None,
+) -> str:
     """Kullanıcı prompt'unu formatla."""
+    char_map_str = ""
+    if char_map:
+        char_map_str = " | ".join(f"{k} → {v}" for k, v in char_map.items())
     return USER_PROMPT_TEMPLATE.format(
+        char_map_str=char_map_str,
         retrieved_chunks=retrieved_chunks,
-        user_question=user_question
+        user_question=user_question,
     )
 
 

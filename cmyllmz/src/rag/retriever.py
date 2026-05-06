@@ -18,6 +18,39 @@ from pathlib import Path
 
 PROJECT_ROOT = Path(__file__).parent.parent.parent
 
+_char_map_cache: dict | None = None
+
+
+def _load_char_map() -> dict:
+    """karakterler.txt'den KOD → İsim sözlüğü yükle (cache'li)."""
+    global _char_map_cache
+    if _char_map_cache is not None:
+        return _char_map_cache
+    char_file = PROJECT_ROOT / "notes" / "karakterler.txt"
+    result = {}
+    for line in char_file.read_text(encoding="utf-8").splitlines():
+        line = line.strip()
+        if not line or line.startswith("#"):
+            continue
+        if " = " in line:
+            code, name = line.split(" = ", 1)
+            result[code.strip()] = name.strip()
+    _char_map_cache = result
+    return result
+
+
+def replace_codes(text: str, char_map: dict | None = None) -> str:
+    """LLM çıktısındaki karakter kodlarını gerçek isimlerle değiştir (post-process güvenlik ağı).
+    Parantez içi açıklamayı atar, sadece isim kısmını kullanır.
+    """
+    if char_map is None:
+        char_map = _load_char_map()
+    for code, full_name in char_map.items():
+        name = full_name.split("(")[0].strip()  # "Şerif Lloyd (açıklama)" → "Şerif Lloyd"
+        text = re.sub(rf"-{re.escape(code)}-", name, text)
+        text = re.sub(rf"\b{re.escape(code)}\b", name, text)
+    return text
+
 TOP_K = 5        # semantic search sonuç sayısı
 MAX_CHUNKS = 8   # related_chunks dahil toplam üst sınır
 
@@ -175,15 +208,18 @@ def ask(query: str, stream: bool = False, top_k: int = TOP_K):
 
     Returns:
         stream=False: (cevap_str, chunks_list)
-        stream=True:  (token_generator, chunks_list)
+        stream=True:  (token_generator, chunks_list) — post-processing app katmanında
     """
     from llm.openai_client import chat
     from llm.prompt_templates import SYSTEM_PROMPT, format_user_prompt
 
+    char_map = _load_char_map()
     chunks = retrieve(query, top_k=top_k)
     context = build_context(chunks)
-    user_prompt = format_user_prompt(context, query)
+    user_prompt = format_user_prompt(context, query, char_map=char_map)
     response = chat(SYSTEM_PROMPT, user_prompt, stream=stream)
+    if not stream:
+        response = replace_codes(response, char_map)
     return response, chunks
 
 
@@ -209,8 +245,11 @@ def ask_with_history(
     from llm.openai_client import chat
     from llm.prompt_templates import SYSTEM_PROMPT, format_user_prompt
 
+    char_map = _load_char_map()
     chunks = retrieve(query, top_k=top_k)
     context = build_context(chunks)
-    user_prompt = format_user_prompt(context, query)
+    user_prompt = format_user_prompt(context, query, char_map=char_map)
     response = chat(SYSTEM_PROMPT, user_prompt, stream=stream, history=history)
+    if not stream:
+        response = replace_codes(response, char_map)
     return response, chunks
