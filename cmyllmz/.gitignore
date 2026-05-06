@@ -14,8 +14,16 @@ venv/
 # Environment variables
 .env
 
-# ChromaDB veritabanı
+# ChromaDB veritabanı (binary, re-index ile yeniden üretilir)
 chroma_db/
+data/chroma/
+
+# Sohbet geçmişi (kullanıcıya özel, repo'ya girmemeli)
+data/conversations/
+
+# Streamlit runtime dosyaları
+.streamlit.log
+.streamlit.pid
 
 # IDE
 .idea/
