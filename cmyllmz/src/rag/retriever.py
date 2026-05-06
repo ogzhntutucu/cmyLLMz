@@ -13,6 +13,7 @@ Akış:
 """
 
 import json
+import re
 from pathlib import Path
 
 PROJECT_ROOT = Path(__file__).parent.parent.parent
@@ -21,9 +22,32 @@ TOP_K = 5        # semantic search sonuç sayısı
 MAX_CHUNKS = 8   # related_chunks dahil toplam üst sınır
 
 
+def _parse_timestamp_query(query: str) -> int | None:
+    """
+    Sorguda dakika/saat referansı varsa saniyeye çevir, yoksa None döner.
+    Örnekler: '90. dakikada', '1 saat 30 dk', '01:30:00'
+    """
+    # "1 saat", "1 saat 30 dakika" — önce kontrol et
+    m = re.search(r"\b(\d+)\s*saat(?:\s*(\d+)\s*(?:dakika|dk))?", query, re.IGNORECASE)
+    if m:
+        return int(m.group(1)) * 3600 + int(m.group(2) or 0) * 60
+    # "90. dakika", "90 dk", "90 dakikada", "90. dkda"
+    m = re.search(r"\b(\d+)\s*\.?\s*(?:dakika|dk)", query, re.IGNORECASE)
+    if m:
+        return int(m.group(1)) * 60
+    # "01:30:00" veya "01:30"
+    m = re.search(r"\b(\d{1,2}):(\d{2})(?::(\d{2}))?\b", query)
+    if m:
+        return int(m.group(1)) * 3600 + int(m.group(2)) * 60 + int(m.group(3) or 0)
+    return None
+
+
 def retrieve(query: str, top_k: int = TOP_K, where: dict | None = None) -> list[dict]:
     """
     Sorguya en benzer chunk'ları getir, related_chunks ile genişlet.
+
+    Timestamp sorgusu (ör. '90. dakika') tespit edilirse ilgili chunk metadata
+    filtresiyle kesin olarak öne alınır; ardından semantik arama eklenir.
 
     Returns:
         Her chunk: id, text, summary, location, characters, techniques, related_chunks, score
@@ -32,9 +56,32 @@ def retrieve(query: str, top_k: int = TOP_K, where: dict | None = None) -> list[
     from rag.vector_store import query_collection, get_by_ids
 
     query_vec = embed_query(query)
-    results = query_collection(query_vec, n_results=top_k, where=where)
 
+    # Timestamp tespiti — metadata ile kesin chunk bul
+    pinned_chunks: list[dict] = []
+    if where is None:
+        target_sec = _parse_timestamp_query(query)
+        if target_sec is not None:
+            ts_where = {"$and": [
+                {"start_sec": {"$lte": target_sec}},
+                {"end_sec": {"$gte": target_sec}},
+            ]}
+            try:
+                ts_results = query_collection(query_vec, n_results=1, where=ts_where)
+                if ts_results["ids"][0]:
+                    pinned_chunks = _parse_results(ts_results)
+            except Exception:
+                pass  # timestamp chunk bulunamazsa semantic'e düş
+
+    # Semantik arama
+    results = query_collection(query_vec, n_results=top_k, where=where)
     chunks = _parse_results(results)
+
+    # Pinned chunk'ı başa al, tekrarı önle
+    if pinned_chunks:
+        pinned_ids = {c["id"] for c in pinned_chunks}
+        chunks = [c for c in chunks if c["id"] not in pinned_ids]
+        chunks = pinned_chunks + chunks
 
     # related_chunks expansion
     seen_ids = {c["id"] for c in chunks}
@@ -83,6 +130,8 @@ def _build_chunk(cid: str, meta: dict, doc: str, score) -> dict:
         "score": score,
         "start": meta.get("start", ""),
         "end": meta.get("end", ""),
+        "start_sec": meta.get("start_sec", 0),
+        "end_sec": meta.get("end_sec", 0),
         "location": meta.get("location", ""),
         "summary": meta.get("summary", ""),
         "mechanism": meta.get("mechanism", ""),
@@ -90,6 +139,7 @@ def _build_chunk(cid: str, meta: dict, doc: str, score) -> dict:
         "techniques": json.loads(meta.get("techniques_json", "[]")),
         "characters": json.loads(meta.get("characters_json", "{}")),
         "related_chunks": json.loads(meta.get("related_chunks_json", "[]")),
+        "komik_count": meta.get("komik_count", 0),
         "text": doc,
     }
 

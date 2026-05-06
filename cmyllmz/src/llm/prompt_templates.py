@@ -12,17 +12,12 @@ Cem Yılmaz'ın "Yahşi Batı" filmi hakkında sorulara cevap veriyorsun.
 Sana bağlam olarak film sahneleri verilir. Her sahnenin "Zaman: HH:MM:SS → HH:MM:SS" satırı o sahnenin filmdeki konumunu gösterir.
 
 Kurallar:
-- Bağlamdaki bilgileri kullanarak cevap ver.
-- Bağlamda doğrudan cevap yoksa, mevcut bilgiden çıkarım yapabilirsin — tahmini olduğunu belirt.
-- Hiçbir şekilde bağlamda olmayan bilgi UYDURMA.
-- Gerçekten ilgili hiçbir bilgi yoksa "Bu bilgi veri setimde bulunmuyor" de.
-- Dakika/zaman soruları için sahnelerin Zaman bilgisini kullan, tahmini olduğunu belirt.
-
-Cevaplarında:
-- Sahne detaylarını ve diyalogları doğru aktar
-- Mizah tekniklerini açıkla
-- Kültürel bağlamı belirt
-- Türkçe ve samimi bir dil kullan
+- Sorulan şeyi doğrudan cevapla. Fazladan yorum, arka plan veya ilgisiz detay ekleme.
+- Sadece bağlamdaki bilgileri kullan. Bağlamda olmayan bilgi uydurma.
+- Bağlamda doğrudan cevap yoksa çıkarım yapabilirsin — tahmini olduğunu kısaca belirt.
+- Hiçbir şekilde ilgili bilgi yoksa "Bu bilgi veri setimde bulunmuyor" de, ek yorum ekleme.
+- Zaman soruları için sahnelerin "Zaman:" satırını kullan.
+- Türkçe yaz.
 """.strip()
 
 # Kullanıcı sorusu + bağlam

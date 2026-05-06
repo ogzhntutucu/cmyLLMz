@@ -30,13 +30,27 @@ def get_or_create_collection(client: chromadb.PersistentClient) -> chromadb.Coll
     )
 
 
+def _ts_to_sec(ts: str) -> int:
+    """'HH:MM:SS' → saniye. Parse edilemezse 0 döner."""
+    try:
+        h, m, s = map(int, ts.split(":"))
+        return h * 3600 + m * 60 + s
+    except Exception:
+        return 0
+
+
 def _build_metadata(chunk: dict) -> dict:
     """ChromaDB metadata'sı — sadece scalar değerler (str, int, float, bool)."""
     ha = chunk.get("humor_analysis", {})
+    start = chunk.get("start", "")
+    end = chunk.get("end", "")
+    komik_count = chunk.get("text", "").lower().count("komik")
     return {
         "location": chunk.get("location", "") or "",
-        "start": chunk.get("start", ""),
-        "end": chunk.get("end", ""),
+        "start": start,
+        "end": end,
+        "start_sec": _ts_to_sec(start),
+        "end_sec": _ts_to_sec(end),
         "duration_sec": chunk.get("duration_sec", 0.0),
         "block_range": chunk.get("block_range", ""),
         "characters_json": json.dumps(chunk.get("characters", {}), ensure_ascii=False),
@@ -45,6 +59,7 @@ def _build_metadata(chunk: dict) -> dict:
         "mechanism": ha.get("mechanism", "") or "",
         "cultural_context": ha.get("cultural_context", "") or "",
         "summary": chunk.get("summary", "") or "",
+        "komik_count": komik_count,
     }
 
 

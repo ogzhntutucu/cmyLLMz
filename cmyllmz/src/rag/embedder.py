@@ -52,6 +52,11 @@ def build_embedding_text(chunk: dict) -> str:
     if ctx := ha.get("cultural_context", "").strip():
         parts.append(f"Kültürel bağlam: {ctx}")
 
+    # komik etiket yoğunluğu — humor sorgularında bu chunk'ı öne çıkarır
+    komik_count = chunk.get("text", "").lower().count("komik")
+    if komik_count > 0:
+        parts.append(f"Bu sahnede {komik_count} komik an işaretlenmiş.")
+
     return " ".join(parts)
 
 
