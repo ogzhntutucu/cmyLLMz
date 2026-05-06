@@ -19,6 +19,7 @@ if [ -f "$PID_FILE" ]; then
     fi
 fi
 
+cd "$SCRIPT_DIR"
 echo "cmyLLMz başlatılıyor..."
 "$STREAMLIT" run "$APP" \
     --server.port "$PORT" \
