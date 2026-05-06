@@ -48,7 +48,8 @@ def replace_codes(text: str, char_map: dict | None = None) -> str:
     for code, full_name in char_map.items():
         name = full_name.split("(")[0].strip()  # "Şerif Lloyd (açıklama)" → "Şerif Lloyd"
         text = re.sub(rf"-{re.escape(code)}-", name, text)
-        text = re.sub(rf"\b{re.escape(code)}\b", name, text)
+        # Apostrofla gelen ekleri bırak: "CC'ye" → dokunma (yoksa "Chuck'ye" olur)
+        text = re.sub(rf"\b{re.escape(code)}\b(?!')", name, text)
     return text
 
 TOP_K = 5        # semantic search sonuç sayısı
