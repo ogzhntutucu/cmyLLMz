@@ -1,7 +1,7 @@
 """
 openai_client.py
 ----------------
-OpenAI gpt-4o-mini ile RAG cevap üretimi. Streaming destekli.
+OpenAI gpt-5.4-mini ile RAG cevap üretimi. Streaming destekli.
 """
 
 import os

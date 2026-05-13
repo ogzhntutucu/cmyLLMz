@@ -301,11 +301,26 @@ with st.sidebar:
         unsafe_allow_html=True,
     )
     for ex in [
-        "47. dakikada ne oluyor?",
-        "Hangi dakikada kola yapıyorlar?",
-        "Betty nasıl bir karakter?",
-        "Şerif Lloyd nasıl biri?",
-        "Filmde ne tür mizah teknikleri kullanılmış?",
+        "Karagöz Hacivat oynatılan sahne kaçıncı dakikada?",
+        "Aziz ve Lemi karakterinin Suzan karakterine Osmanlı olduklarını ispat etmeye çalıştıkları sahne kaçıncı dakikada?",
+        "Filmde 56. dakikada neler oluyor?",
+        "Aziz karakterinin sahte kovboy adı nedir? Bu isim nereden geliyor?",
+        "Şerif Lloyd karakterinin konuşma şekli nasıl? Kime benziyor? Bu karakter neden komik?",
+        "Eugene karakterinin lakabı nedir? Buradaki şaka nedir?",
+        "Buck Berry karakteri nerelidir? İsmiyle ilgili şaka nedir?",
+        "Aziz karakteri ile muska arasında nasıl bir bağ var? Buradaki şaka nedir? Örnek bir sahneyi anlatır mısın?",
+        "Johnny Lesh karakteri nasıl ve nerede ölüyor?",
+        "Filmdeki Trenci Jack kimdir? Buradaki şaka nedir?",
+        "Film İngilizceden Türkçeye nasıl geçiyor? Buradaki şaka nedir?",
+        "Aziz ve Lemi karakteri şerifleri nasıl uyutuyorlar?",
+        "Trenci Jack sahnesindeki Peder karakteriyle ilgili şaka nedir?",
+        "Kilisedeki zenci köle karakteriyle ilgili şaka nedir?",
+        "Lemi, kola güğümünün üzerine ne yazmak istiyor? Buradaki şaka ve gönderme nedir?",
+        "Redkit'e nasıl gönderme yapılıyor? Buradaki şaka nedir?",
+        "Filmin ilk yarısı nasıl bitiyor? Buradaki mizahi detay nedir?",
+        "Suzan ve Lemi karakterlerinin sahte kızılderili isimleri nedir? Buradaki şaka nedir?",
+        "Filmdeki yuvarlanan otun olayı nedir? Örnek bir sahneyi anlatır mısın?",
+        "Ödül olarak verilecek elmasın sahte olduğunu anlayınca ne yapıyorlar?",
     ]:
         if st.button(ex, use_container_width=True, key=f"ex__{ex}"):
             st.session_state.pending_question = ex
