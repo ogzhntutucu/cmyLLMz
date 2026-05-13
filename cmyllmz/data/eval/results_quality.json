@@ -1,0 +1,607 @@
+{
+  "rag_scores": {
+    "dogruluk": 4.65,
+    "detay": 4.65,
+    "tutarlilik": 4.7
+  },
+  "no_rag_scores": {
+    "dogruluk": 1.45,
+    "detay": 2.05,
+    "tutarlilik": 3.7
+  },
+  "n_questions": 20,
+  "per_question": [
+    {
+      "id": "q01",
+      "type": "timestamp",
+      "question": "Karagöz Hacivat oynatılan sahne kaçıncı dakikada?",
+      "ground_truth": "Aziz karakterinin Karagöz ve Hacivat oynattığı sahne, filmde 00:18:15 → 00:20:16 zaman diliminde yer almaktadır.",
+      "rag_answer": "Karagöz-Hacivat’ın oynatıldığı sahne **00:18:15 → 00:20:16** aralığında geçiyor.\n\nBu bölümde Aziz Vefa ve Lemi Galip, önce silah satıcısından kovuluyor, sonra bir çiftlikte **“at yıkama”** işine giriyorlar. Ardından Amerikalı izleyicilere **Türk gölge oyunu Karagöz-Hacivat** göstermeye çalışıyorlar. Komik olan şu: Aziz Vefa oyunu büyük bir ciddiyetle, sanki çok önemli ve evrensel bir sanatmış gibi sunuyor; ama seyirciler hiç gülmüyor. Bu da mizahı yaratıyor çünkü:\n- **kültürel yanlış anlaşılma** var,\n- **beklenti ile sonuç çelişiyor**,\n- Karagöz’ün Türk seyircide çok tanıdık olan esprileri Amerikalılara işlemiyor.\n\nHatta Aziz Vefa sonunda “**Moliere’i getireyim**” diyerek Batı tiyatrosuna da gönderme yapıyor; bu da sahnedeki kültürel karşılaştırmayı daha komik hale getiriyor.",
+      "no_rag_answer": "“Yahşi Batı”da Karagöz-Hacivat oynatılan sahne, benim hatırladığım kadarıyla filmin **ilk yarısına yakın**, ama **tam dakika olarak emin değilim**. Net bir zaman vermem doğru olmaz.\n\nİstersen sahnenin **hangi olaydan hemen önce/sonra** olduğunu tarif edebilirim; böylece daha kolay bulursun.",
+      "retrieved_chunk_ids": [
+        "yb_012",
+        "yb_033",
+        "yb_053",
+        "yb_007",
+        "yb_048",
+        "yb_002",
+        "yb_029",
+        "yb_052"
+      ],
+      "scores": {
+        "cevap_a": {
+          "dogruluk": 5,
+          "detay": 5,
+          "tutarlilik": 5
+        },
+        "cevap_b": {
+          "dogruluk": 2,
+          "detay": 1,
+          "tutarlilik": 5
+        }
+      }
+    },
+    {
+      "id": "q02",
+      "type": "timestamp",
+      "question": "Aziz ve Lemi karakterinin Suzan karakterine Osmanlı olduklarını ispat etmeye çalıştıkları sahne kaçıncı dakikada?",
+      "ground_truth": "Aziz ve Lemi karakterinin Suzan karakterine Osmanlı olduklarını ispat etmeye çalıştıkları sahne, 00:38:04 → 00:39:56 zaman diliminde geçiyor.",
+      "rag_answer": "Bu sahne **00:38:04 → 00:39:56** arasında geçiyor.\n\nBu bölümde **Aziz Vefa** ve **Lemi Galip**, **Suzan van Dyke**’a kendilerinin “Osmanlı” olduklarını kanıtlamaya çalışıyorlar. Komik olan şey, bunu ciddi ciddi yaparken bir yandan da **abartılı Osmanlı referansları** sıralamaları: ortaoyunu, harem, zengin mutfak, hünkarbeğendi, imam bayıldı, Ramazan eğlenceleri, mahya, tulumbacılar, Arap bacı, lokum gibi şeyleri art arda sayıyorlar. Mizahın kaynağı burada **abartı**, **kültürel referans** ve **absürt taklitler**.\n\nSuzan ise her yeni örnekte daha da şaşırıyor; yani sahnenin komedisi, onların “kanıtlama” çabasının giderek saçmaya dönüşmesinden geliyor.",
+      "no_rag_answer": "Bu sahnenin **tam dakikasını** güvenle söyleyemem; elimde filme ait zaman kodlu bir döküm yok. Ama bahsettiğin sahne, **Aziz ve Lemi’nin Suzan’a kendilerini “Osmanlı” olarak kabul ettirmeye çalıştıkları** erken dönem komedi sahnelerinden biri ve genelde filmin **ilk yarısında** yer alıyor.\n\nİstersen sana bu sahnenin **olay akışına göre yaklaşık konumunu** da tarif edebilirim; böylece filmi açıp daha kolay bulursun.",
+      "retrieved_chunk_ids": [
+        "yb_024",
+        "yb_022",
+        "yb_053",
+        "yb_013",
+        "yb_038",
+        "yb_025",
+        "yb_029",
+        "yb_052"
+      ],
+      "scores": {
+        "cevap_a": {
+          "dogruluk": 5,
+          "detay": 5,
+          "tutarlilik": 5
+        },
+        "cevap_b": {
+          "dogruluk": 1,
+          "detay": 2,
+          "tutarlilik": 5
+        }
+      }
+    },
+    {
+      "id": "q03",
+      "type": "timestamp",
+      "question": "Filmde 56. dakikada neler oluyor?",
+      "ground_truth": "00:55:54 → 00:57:18 aralığındaki sahne, Aziz, Lemi ve Suzan karakterlerinin Sioux kabilesi yerleşim yerine kızılderili kılığında geldikleri sahne. Önce girişte kızılderili olduklarını ikna etmeleri gerekiyor. Ardından alana girip şefin yanına gidiyorlar.",
+      "rag_answer": "56. dakikada geçen sahne, **Sioux kabilesinin yerleşim yerinde** oluyor ve **Aziz Vefa, Lemi Galip ve Bambi** kabileye katılmak için oraya gidiyorlar.\n\nBu sahnede komedi, onların **Kızılderili kültürünü hiç bilmeden rol yapmaya çalışmasından** çıkıyor. Aziz ve Lemi, sahte Kızılderili isimleri ve selamları uyduruyorlar; bu da hem **yanlış anlama** hem de **kültürel taklit** üzerinden komik oluyor. Mesela Aziz “**Yakari!**” diye sallıyor, Lemi de “**Selam sana Demirayak!**” gibi uydurma bir selam veriyor. Bu sırada karşılarındaki kişinin ayağının olmadığını fark etmeyip böyle konuşması, utandırıcı ve absürt bir an yaratıyor.\n\nBir başka komik nokta da Aziz’in kendini tanıtırken yaptığı kelime oyunu:\n- “**Cherokee’lerden İstenmeyentüy**”\n- sonra da “**Grand Cherokee. Arkadaşım Pajero ve Pontiac**”\n\nBuradaki şaka, **araba markalarıyla Kızılderili isimlerini karıştırması**. Türk seyirci için bu, hem marka isimlerini tanıdığı için hem de “Kızılderili gibi görünmeye çalışan ama aslında saçmalayan” karakter kontrastı yüzünden komik.\n\nSahnenin sonunda da kabile şefi **Kızılkayalar** yanlarına gelip onları oturtuyor; yani sahte kimlik oyunu bir süreliğine işe yarıyor gibi görünüyor. Bu da şakanın absürtlüğünü artırıyor.",
+      "no_rag_answer": "56. dakika civarında filmde olaylar genelde **hikâyenin ortalarına doğru iyice hareketlenmiş** oluyor. Ama şunu söyleyeyim: **dakika dakika kesin sahne vermek** için elimde film kopyası olmadığı için küçük farklar olabilir.\n\nGenel olarak bu bölümde:\n- **Ajanlar / Osmanlı görevlileri** ile ilgili planlar ve kovalamaca havası artar,\n- **Batı kasabasındaki gerilim** yükselir,\n- Cem Yılmaz’ın canlandırdığı karakterlerin bulunduğu ekip, işin içinden çıkmaya çalışırken **komik yanlış anlaşılmalar** yaşanır,\n- Hikâye, “görev” ve “altın / belge / önemli eşya” etrafındaki çatışmayı daha da belirginleştirir.\n\nİstersen ben sana filmi **başından sonuna sahne sahne özetleyeyim** ya da **56. dakikaya en yakın bölümdeki olayları daha net anlatmaya çalışayım**.",
+      "retrieved_chunk_ids": [
+        "yb_034",
+        "yb_033",
+        "yb_053",
+        "yb_038",
+        "yb_062",
+        "yb_011",
+        "yb_002",
+        "yb_032"
+      ],
+      "scores": {
+        "cevap_a": {
+          "dogruluk": 4,
+          "detay": 5,
+          "tutarlilik": 4
+        },
+        "cevap_b": {
+          "dogruluk": 1,
+          "detay": 2,
+          "tutarlilik": 3
+        }
+      }
+    },
+    {
+      "id": "q04",
+      "type": "cultural",
+      "question": "Aziz karakterinin sahte kovboy adı nedir? Bu isim nereden geliyor?",
+      "ground_truth": "Aziz karakterinin sahte kovboy adı \"Zozo The Kid\". Bu isim, Billy the Kid isimli meşhur western haydutuna yapılan bir gönderme.",
+      "rag_answer": "Aziz karakterinin sahte kovboy adı **“Zozo The Kid”**.\n\nBu isim, sahnede onun kurduğu kimlik oyununun bir parçası olarak kullanılıyor. Aziz, kendini tanıtırken “**Aziz Ve... eee... Zozo The Kid. Kid ayrı**” diyor. Buradaki komiklik, hem **uydurma bir kovboy adı** seçmesi hem de bunu söylerken sanki çok doğal ve ciddiymiş gibi davranması.\n\nİsmin kaynağı da bağlamda açıkça belirtilmiş:\n- **“The Kid”** kısmı, Western kültüründeki ünlü kovboy/haydut isimlerine bir gönderme.\n- Özellikle **“Billy the Kid”** tarzı isimlendirmeyi çağrıştırıyor.\n- Yani Aziz, kendine Amerikan kovboy filmlerinden aşina olunan bir kalıp üzerinden sahte bir isim uyduruyor.\n\nKısacası: **Zozo The Kid**, Aziz’in kovboy taklidi yaparken kullandığı, Western klişelerine dayanan uydurma bir isim.",
+      "no_rag_answer": "Aziz’in sahte kovboy adı **“Ağır Abi”** diye hatırlıyorum.\n\nBu isim, karakterin **sert, havalı ve “kovboy gibi” görünme çabasından** geliyor; yani aslında gerçek bir kovboy adı değil, daha çok **takma bir mahalle/argo havası taşıyan lakap** gibi kullanılıyor. Filmde bu isim, Aziz’in kendini olduğundan daha “ağır” ve etkileyici göstermeye çalışmasının komik bir yansıması.\n\nAma küçük bir not: Eğer senin kastettiğin sahne başka bir yerde geçen farklı bir takmaysa, onu da birlikte netleştirebiliriz.",
+      "retrieved_chunk_ids": [
+        "yb_034",
+        "yb_028",
+        "yb_021",
+        "yb_023",
+        "yb_057",
+        "yb_032"
+      ],
+      "scores": {
+        "cevap_a": {
+          "dogruluk": 5,
+          "detay": 5,
+          "tutarlilik": 5
+        },
+        "cevap_b": {
+          "dogruluk": 1,
+          "detay": 2,
+          "tutarlilik": 3
+        }
+      }
+    },
+    {
+      "id": "q05",
+      "type": "character",
+      "question": "Şerif Lloyd karakterinin konuşma şekli nasıl? Kime benziyor? Bu karakter neden komik?",
+      "ground_truth": "Şerif Lloyd'un konuşma şekli çok belirgin biçimde orta Anadolu ağzı ile yazılmış ve oynanmış. Yani \"düz, resmi western şerifi\" gibi değil; tam tersine şiveyle, ağızla, abartılı bir yerellik hissiyle konuşuyor. Bu da karakteri komik yapıyor. Bu karakteri canlandıran oyuncu Zafer Algöz, Şerif Lloyd'un konuşmasını Şener Şen'in babası Ali Şen'in konuşmasına benzeterek oynadığını söylemiş.",
+      "rag_answer": "Şerif Lloyd’un konuşma şekli, **orta Anadolu ağzına benzer bir şiveyle** kurulmuş. Bağlamda özellikle “normal Türkçe konuşmuyor”, “şive komedisini çok yoğun kullanıyor” deniyor. Yani cümleleri hem yöresel hem de biraz abartılı, samimi ve lafı dolandıran bir tonda.\n\n**Kime benziyor?**  \nBağlamda açıkça, bu karakterin konuşmasının **Şener Şen’in babası Ali Şen’in konuşmasına benzetilerek** oynandığı söyleniyor. Bu, karakterin ses tonu ve ağız yapısının bilinçli bir taklit/çağrışım üzerine kurulduğunu gösteriyor.\n\n**Neden komik?**  \nBirkaç sebep var:\n\n1. **Şive komedisi:**  \n   Sert ve otoriter bir şerifin, beklenmedik şekilde taşralı ve yöresel bir ağızla konuşması tezat yaratıyor. Western’deki “sert kovboy şerifi” beklentisi, bu yerel ağızla kırılıyor.\n\n2. **Karakter zıtlığı:**  \n   Şerif Lloyd bir yandan kasabanın kanun adamı, bir yandan da çok rahat, laf sokan, abartılı konuşan biri. Bu zıtlık komik etki yaratıyor.\n\n3. **Kelime oyunları ve yanlış anlamalar:**  \n   Özellikle “Chuck” diye seslenince yardımcısının el kaldırması gibi tekrar eden şakalar, onun konuşmasını daha da komik hale getiriyor.\n\n4. **Abartılı ifade tarzı:**  \n   “Gabarsın”, “gafana takmaa”, “buyrun” gibi ifadeleri çok teatral ve abartılı kullanıyor. Bu da karakteri ciddi olmaktan çıkarıp mizahi bir tipe dönüştürüyor.\n\nKısacası Şerif Lloyd, **western şerifi ciddiyetini Anadolu şivesiyle bozan**, bu yüzden de hem karakter çatışması hem de dil komedisi yaratan bir figür.",
+      "no_rag_answer": "Şerif Lloyd’un konuşma şekli, filmin en belirgin komedi unsurlarından biri. Genel olarak:\n\n- **Ağır, kendinden emin ve biraz ukala** bir tonda konuşur.\n- Cümleleri çoğu zaman **resmî, sert ve “otorite sahibi”** bir hava taşır.\n- Ama bu ciddi tavrın altında, karakterin **duruma tam hâkim olmaması** ve bazen **fazla özgüvenli görünmesi** komediyi doğurur.\n- Türkçe dublaj/oyunculuk etkisiyle de konuşması biraz **eski western şerifleri**, biraz da **karikatürize edilmiş kovboy ağzı** gibi gelir.\n\n### Kime benziyor?\nŞerif Lloyd, tek bir kişiye birebir benzemekten çok, **klasik Amerikan westernlerindeki şerif tipinin parodisi** gibi. Yani:\n- Clint Eastwood tarzı “sert adam” western figürlerine,\n- eski Hollywood kovboy filmlerindeki otoriter şeriflere,\n- hatta biraz da “çok ciddi konuşup aslında komik duruma düşen” tipik film karakterlerine benzetilebilir.\n\n### Neden komik?\nBence komik olmasının birkaç nedeni var:\n\n1. **Ciddiyet ile saçmalık arasındaki tezat**  \n   Çok ciddi konuşur ama içinde bulunduğu durum çoğu zaman absürt olur. Bu zıtlık güldürür.\n\n2. **Western klişelerini abartması**  \n   Şerif figürü zaten başlı başına bir klişedir; film bunu bilerek büyütür ve parodileştirir.\n\n3. **Karakterin özgüveni**  \n   Kendisini çok güçlü ve önemli görür, ama olaylar çoğu zaman onun kontrolünden çıkar. Bu da komik bir etki yaratır.\n\n4. **Dil ve tonlama**  \n   Söylediği şeylerden çok, **nasıl söylediği** komiktir. Ağır, dramatik ve bazen gereksiz “büyük” bir ton kullanır.\n\nİstersen sana Şerif Lloyd’un **hangi sahnelerde daha komik olduğunu** da tek tek anlatabilirim.",
+      "retrieved_chunk_ids": [
+        "yb_049",
+        "yb_026",
+        "yb_030",
+        "yb_027",
+        "yb_028",
+        "yb_013",
+        "yb_018"
+      ],
+      "scores": {
+        "cevap_a": {
+          "dogruluk": 5,
+          "detay": 5,
+          "tutarlilik": 5
+        },
+        "cevap_b": {
+          "dogruluk": 1,
+          "detay": 3,
+          "tutarlilik": 4
+        }
+      }
+    },
+    {
+      "id": "q06",
+      "type": "cultural",
+      "question": "Eugene karakterinin lakabı nedir? Buradaki şaka nedir?",
+      "ground_truth": "Eugene karakterinin lakabı \"Yürüyen Johnnie\". Buradaki şaka şu: Eugene'in görünüşü ve yürüyüşü, Johnnie Walker viski markasının logosundaki yürüyen adama benziyor.",
+      "rag_answer": "Eugene karakterinin lakabı **“Yürüyen Johnnie”**.\n\nBuradaki şaka şu: Eugene’in görünüşü, kıyafeti ve bastonuyla **Johnnie Walker viski markasının logosundaki “yürüyen adam”a** benzetiliyor. Yani lakap, hem onun sürekli yürüyen, garip ve meczup tavrına hem de tanıdık bir marka referansına dayanıyor.\n\nMizah mekanizması:\n- **Kültürel referans:** Johnnie Walker logosu\n- **Görsel benzerlik:** Eugene’in “yürüyen adam” gibi dolaşması\n- **Karakter mizahı:** Eugene’in deli/şaşkın hali bu benzetmeyi daha komik yapıyor\n\nKısacası, lakap bir yandan marka parodisi, bir yandan da Eugene’in tuhaf yürüyüşüne yapılan esprili bir gönderme.",
+      "no_rag_answer": "Eugene karakterinin lakabı **“Eugene the Genius”** gibi anılıyor; Türkçe dublaj/altyazı versiyonuna göre bu, genelde **“Dahi Eugene”** ya da benzeri bir ifadeyle veriliyor.\n\n**Şakanın özü** şu:  \nEugene, adıyla ve tavrıyla “çok zeki, çok havalı” biri gibi sunuluyor ama filmde bu lakap biraz **abartılı ve ironik** duruyor. Yani karakterin gerçekten o kadar “dahi” olup olmadığıyla dalga geçiliyor. Cem Yılmaz’ın tarzında, bu tür lakaplar çoğu zaman karakteri yüceltirken aynı anda onun komikliğini de ortaya çıkarıyor.\n\nEğer istersen, sahnedeki repliği hatırlayıp şakanın **tam kelime oyunu** üzerinden de açıklayabilirim.",
+      "retrieved_chunk_ids": [
+        "yb_053",
+        "yb_029",
+        "yb_031",
+        "yb_046",
+        "yb_012",
+        "yb_013",
+        "yb_028",
+        "yb_052"
+      ],
+      "scores": {
+        "cevap_a": {
+          "dogruluk": 5,
+          "detay": 5,
+          "tutarlilik": 5
+        },
+        "cevap_b": {
+          "dogruluk": 1,
+          "detay": 2,
+          "tutarlilik": 3
+        }
+      }
+    },
+    {
+      "id": "q07",
+      "type": "humor",
+      "question": "Buck Berry karakteri nerelidir? İsmiyle ilgili şaka nedir?",
+      "ground_truth": "Buck Berry karakteri Brockback'li. İsmiyle ilgili şaka ise şu: \"Buck Berry\" adı Türkçede \"bak beri\" gibi duyuluyor. Şerif Lloyd defterde ismi görünce bunu bir isim olarak değil, sanki yardımcısı Chuck'a \"bak beri\" / \"buraya bak\" diye sesleniyormuş gibi algılıyor. Chuck da bunu yanlış anlayıp \"Buyur Şerif?\" diye cevap veriyor. Bir de karakterin adı, Brokeback Mountain filmine yapılan göndermeyle birleşiyor; bu yüzden karakterin \"Brockback'li\" oluşu ve kadınsı tavırları da şakanın parçası.",
+      "rag_answer": "Buck Berry karakteri bağlamda **“Brockback’li”** olarak geçiyor; yani nereli olduğuna dair verilen tek bilgi bu. Daha açık söylemek gerekirse, **Brockback’li bir haydut** olarak tanıtılıyor.\n\nİsmiyle ilgili şaka ise şu:\n- Şerif Lloyd, defterdeki ilanı görünce **“Buck Berry”** adını okuyor.\n- Türkçede bu isim, **“bak beri”** diye seslenmeye çok benziyor.\n- Yardımcısı Chuck da bunu gerçek bir seslenme sanıp yanlış anlıyor; yani şaka **kelime oyunu ve yanlış anlama** üzerine kurulu.\n- Bu yüzden sahnede isim, hem bir karakter adı hem de “buraya bak” anlamında bir çağrı gibi çalışıyor.\n\nKısacası: **Buck Berry, Brockback’li; ismi de Türkçedeki “bak beri” seslenişine benzetildiği için komik.**",
+      "no_rag_answer": "Buck Berry, filmde **Amerikalı bir kovboy / silahşor** olarak geçiyor; yani karakterin kökeni **ABD’li**.\n\nİsmiyle ilgili şaka da şu: **“Buck Berry” adı, kulağa “böğürtlen” gibi gelen bir kelime oyunu** yapıyor. Türkçede özellikle **“berry” = meyve** çağrışımı var; isim, Batı filmlerindeki sert kovboy isimlerini tiye alacak şekilde biraz komik ve yapay duruyor. Cem Yılmaz’ın tarzına uygun olarak, bu isimle **Amerikalı kovboy klişesi** hafifçe dalga konusu ediliyor.\n\nİstersen Buck Berry’nin filmdeki sahnelerini de kısaca özetleyebilirim.",
+      "retrieved_chunk_ids": [
+        "yb_049",
+        "yb_050",
+        "yb_034",
+        "yb_035",
+        "yb_061",
+        "yb_013",
+        "yb_026",
+        "yb_032"
+      ],
+      "scores": {
+        "cevap_a": {
+          "dogruluk": 5,
+          "detay": 4,
+          "tutarlilik": 5
+        },
+        "cevap_b": {
+          "dogruluk": 1,
+          "detay": 2,
+          "tutarlilik": 3
+        }
+      }
+    },
+    {
+      "id": "q08",
+      "type": "humor",
+      "question": "Aziz karakteri ile muska arasında nasıl bir bağ var? Buradaki şaka nedir? Örnek bir sahneyi anlatır mısın?",
+      "ground_truth": "Aziz, annesinin verdiği bu muskaya ciddi ciddi koruyucu bir anlam yüklüyor ama hemen öncesinde yaşadığı olaylar, muskanın onu hiçbir şeyden koruyamadığını gösteriyor. Yani mizah, inanç ile sonuç arasındaki tezattan geliyor. Aziz'in \"korur\" dediği şey, pratikte onu kurtarmıyor; bu da hem ironi hem de biraz absürt komedi yaratıyor. Bir örnek: Aziz Vefa ve Lemi Galip hapisteyken Aziz'in boynundaki muska yeniden gündeme geliyor. Lemi Galip ona: \"Muska boynunuzda mı efendim? O badirelerden koruyan?\" diye soruyor.",
+      "rag_answer": "Aziz karakteri ile muska arasında bağ şu: Aziz, muskanın kendisini her türlü beladan koruyacağına inanıyor; ama filmde bu muska tam tersine sürekli başına iş açan, uğursuz gibi çalışan bir nesneye dönüşüyor. Yani şaka, **koruma amacıyla verilen bir şeyin korumak yerine olayları daha da karıştırması** üzerine kurulu.\n\nÖrnek sahne:\n- Cannonball kasabasında düello öncesi Aziz, Susanne’ye annesinin muskasını vermek istiyor.\n- “Her türlü musibetten, badireden korur” diyor.\n- Ama hemen öncesinde ve sonrasında bu muskanın Aziz’i defalarca zor duruma soktuğuna dair bir gönderme var.\n- Lemi de “Pşşşt!” diye müdahale edip sanki “sakın verme, yine bela çıkar” der gibi davranıyor.\n- Aziz de geri adım atıp “Vermiyorum, tamam” diyor.\n\nBuradaki mizah mekanizması:\n- **İroni:** Koruyucu olması gereken muska, hikâyede aksine sorun çıkaran bir nesne gibi işliyor.\n- **Callback:** Daha önceki sahnelerde muskanın Aziz’i sıkıntıya soktuğu hatırlatılıyor.\n- **Abartı:** Muskanın etkisi sanki doğaüstü derecede tersine dönmüş gibi sunuluyor.\n\nKısacası şaka, “uğur getirsin” diye verilen muskanın Aziz’in hayatında adeta **uğursuzluk sembolüne** dönüşmesi.",
+      "no_rag_answer": "Aziz karakteriyle **muska** arasındaki bağ, filmin genelindeki “batıl inanç + yanlış anlaşılma + absürt ciddiyet” mizahından geliyor.\n\n### Bağ ne?\nAziz, filmde kendini çok ciddi, düzenli ve “iş bilen” biri gibi göstermeye çalışsa da, olayların içinde çoğu zaman **hurafe, korku ve gizli niyetler** etrafında dönen bir komedi unsuru oluyor. **Muska** da tam bu noktada devreye giriyor:  \n- Bir şeyi korumak için takılan dini/folklorik bir nesne gibi görünür,  \n- Ama filmde çoğu zaman **bir şeyleri saklama, kandırma ya da “güya çözüm üretme” aracı** gibi kullanılır,  \n- Yani ciddi bir inanç nesnesi, komik bir “iş görür gibi yapma” aracına dönüşür.\n\n### Şaka ne?\nŞaka şu:  \nBatı filmi kalıbında beklediğimiz “silah, kovboy, düello” gibi şeylerin yerine, karakterler bazen **muska gibi çok yerel ve gündelik bir şeyi aşırı ciddiyetle** kullanıyor. Bu da komik oluyor çünkü:\n- Kovboy dünyasıyla Anadolu batıl inancı çarpışıyor,\n- Karakterler modern/sert görünmeye çalışırken aslında çok “yerel” ve komik yöntemlere başvuruyor,\n- Muska, bir tür “gizli güç” gibi sunulup olayların çözümünde abartılı bir önem kazanıyor.\n\n### Örnek sahne nasıl?\nDetayları birebir hatırlamakta emin olmadığım için sahneyi genel haliyle anlatayım:  \nAziz’in içinde olduğu bir bölümde, bir şeyi korumak ya da birini etkilemek için **muska devreye sokuluyor**. Karakter bunu çok önemli bir planın parçası gibi sunuyor; sanki büyük bir stratejiymiş gibi davranıyor. Ama izleyici olarak sen bunun aslında **çok basit, biraz da uydurma bir numara** olduğunu anlıyorsun. İşte komedi burada doğuyor:  \n**Ciddi bir tehdit ya da durum, muska üzerinden “çözülüyormuş” gibi yapılıyor.**\n\nEğer istersen, ben sana bunu bir de **“Aziz karakteri neden komik?”** ya da **“muska sahnesindeki mizah türü ne?”** diye daha net başlıklarla açabilirim.",
+      "retrieved_chunk_ids": [
+        "yb_053",
+        "yb_057",
+        "yb_024",
+        "yb_032",
+        "yb_013",
+        "yb_028",
+        "yb_029",
+        "yb_052"
+      ],
+      "scores": {
+        "cevap_a": {
+          "dogruluk": 4,
+          "detay": 4,
+          "tutarlilik": 4
+        },
+        "cevap_b": {
+          "dogruluk": 1,
+          "detay": 2,
+          "tutarlilik": 2
+        }
+      }
+    },
+    {
+      "id": "q09",
+      "type": "character",
+      "question": "Johnny Lesh karakteri nasıl ve nerede ölüyor?",
+      "ground_truth": "Johnny Lesh, taş madenindeki çatışmada ölüyor. Zaman: 00:30:51 → 00:33:47 sahnesinde, Aziz Vefa ve Lemi Galip taş madeninde hayatta kalmaya çalışırken Johnny Lesh'in çetesi saldırıya geçiyor. Çatışma sırasında herkes birbirine ateş ediyor; en sonunda Johnny Lesh ile bir görevli aynı anda birbirlerini vuruyorlar.",
+      "rag_answer": "Johnny Lesh, **taş madenindeki çatışmada** ölüyor.\n\n**Zaman: 00:30:51 → 00:33:47** sahnesinde:\n- Aziz Vefa ve Lemi Galip taş madenindeyken, Johnny Lesh’in çetesi saldırıya hazırlanıyor.\n- Ortalık bir anda silahlı çatışmaya dönüyor.\n- Çatışmanın sonunda **Johnny Lesh ile bir görevli birbirlerini aynı anda vuruyorlar**.\n- Johnny Lesh son anlarında zar zor konuşuyor; Aziz ve Lemi de elmasın yerini ondan almaya çalışıyor.\n- Son olarak Johnny Lesh lafını tamamlayamadan başı düşüyor ve ölüyor.\n\nKomik olan tarafı, ölüm sahnesinin ciddi bir western anı gibi başlayıp, Aziz ve Lemi’nin Johnny Lesh’in son sözlerini **“Bill mi, Cannon mı, Cannonball mu?”** diye yanlış anlamalarıyla absürt bir şakaya dönüşmesi. Yani ölüm, dramatik bir çatışmanın içinde oluyor ama diyaloglar yüzünden sahne mizaha kayıyor.",
+      "no_rag_answer": "Johnny Lesh, **filmdeki çatışma sırasında vurularak ölüyor**. Olaylar, Batı kasabasındaki büyük hesaplaşma sahnelerinde gelişiyor; Johnny Lesh de bu kargaşa içinde **silahlı çatışmada hayatını kaybeden karakterlerden biri**.\n\nDetaylarda küçük bir belirsizlik olabilir çünkü filmde ölüm anı çok uzun tutulmaz; ama genel olarak **finale doğru yaşanan silahlı çatışmada öldüğü** söylenebilir.",
+      "retrieved_chunk_ids": [
+        "yb_025",
+        "yb_020",
+        "yb_030",
+        "yb_038",
+        "yb_008",
+        "yb_023",
+        "yb_024",
+        "yb_032"
+      ],
+      "scores": {
+        "cevap_a": {
+          "dogruluk": 5,
+          "detay": 5,
+          "tutarlilik": 5
+        },
+        "cevap_b": {
+          "dogruluk": 2,
+          "detay": 2,
+          "tutarlilik": 4
+        }
+      }
+    },
+    {
+      "id": "q10",
+      "type": "character",
+      "question": "Filmdeki Trenci Jack kimdir? Buradaki şaka nedir?",
+      "ground_truth": "Trenci Jack, asılmak üzere olan gerçek bir suçlu. Aziz Vefa ile Lemi Galip, bilmeden onun adını taklit edip bir dolandırıcılık yapmaya çalışıyorlar; ama yanlışlıkla gerçekten Trenci Jack'in idam sahnesine düşüyorlar. Buradaki mizah da Jack Daniel's göndermesiyle başlayan isim oyununun, gerçek idam sahnesine absürt biçimde bağlanmasından geliyor.",
+      "rag_answer": "Trenci Jack, bağlamdaki sahnede **gerçekten idam edilmek üzere olan suçlu** olarak karşımıza çıkıyor. Aziz Vefa ile Lemi Galip, onu taklit edip bir dolandırıcılık yapmaya çalışıyorlar; yani “Trenci Jack” rolünü kendileri üstlenmiş gibi davranıyorlar.\n\nŞakanın özü şu:\n\n- Aziz ve Lemi, ilan için isim yazarken **“Jack Daniel”** diye uydurma bir isim söylüyorlar.\n- Bu, izleyiciye **Jack Daniel’s** viski markasını çağrıştıran bir **kelime oyunu**.\n- Sonra bunu “**Trenci Jack**” diye eğip büküyorlar; yani isim üzerinden mizah yapılıyor.\n- Komik olan şey, onların uydurduğu isimle **gerçek Trenci Jack’in aynı anda orada bulunması**. Yani sahte planları, yanlışlıkla gerçek kişiye denk geliyor.\n- Bu da durumu **absürt** hale getiriyor: “Biz birini kandırıyoruz” derken, aslında tam ortadaki adam gerçekten o kişi çıkıyor.\n\nMizah mekanizması:\n- **Kelime oyunu**: Jack / Daniel / Jack Daniel’s\n- **Yanlış anlama**\n- **Absürt durum komedisi**\n- Bir de western ciddiyetiyle alay eden bir ton var; idam gibi ağır bir sahne, isim şakasıyla hafifletiliyor.\n\nKısacası:  \n**Trenci Jack, idamlık gerçek suçlu; şaka ise onun adını bir viski markasına bağlayan kelime oyunu ve bu uydurmanın yanlışlıkla gerçek kişiye denk gelmesi.**",
+      "no_rag_answer": "**Trenci Jack**, *Yahşi Batı*’da trenle ilgili işlerde çalışan, biraz “kovboyvari” ama aslında komik şekilde abartılı bir yan karakter gibi durur. Filmdeki adı ve tavrı, tipik Western filmlerindeki sert, havalı “Jack” karakterlerini çağrıştırır.\n\n**Şaka ne?**  \nŞaka büyük ölçüde **kelime oyunu ve tür parodisi** üzerine kurulu:\n\n- **“Trenci”** kelimesi Türkçede “trenle ilgili / trenci” gibi anlaşılır.\n- **“Jack”** ise Western’lerde sık görülen, havalı ve sert erkek isimlerinden biri gibi kullanılır.\n- İkisini yan yana getirince, sanki çok ciddi bir kovboy adıymış gibi duran ama aslında **tamamen absürt** bir isim çıkıyor: **Trenci Jack**.\n\nYani mizahın özü şu:\n1. **Western klişesiyle dalga geçiliyor.**\n2. Tren, kovboy, sert adam imajı bir araya getirilip **komik bir uyumsuzluk** yaratılıyor.\n3. Türkçe isimlendirme, yabancı Western havasını bilinçli biçimde bozuyor.\n\nEğer istersen, bu karakterin filmde geçtiği sahneyi de hatırlayıp daha net açıklayabilirim.",
+      "retrieved_chunk_ids": [
+        "yb_018",
+        "yb_053",
+        "yb_038",
+        "yb_026",
+        "yb_033",
+        "yb_024",
+        "yb_029",
+        "yb_052"
+      ],
+      "scores": {
+        "cevap_a": {
+          "dogruluk": 5,
+          "detay": 5,
+          "tutarlilik": 5
+        },
+        "cevap_b": {
+          "dogruluk": 1,
+          "detay": 2,
+          "tutarlilik": 3
+        }
+      }
+    },
+    {
+      "id": "q11",
+      "type": "humor",
+      "question": "Film İngilizceden Türkçeye nasıl geçiyor? Buradaki şaka nedir?",
+      "ground_truth": "Film İngilizceden Türkçeye bir \"film menüsü\" hilesiyle geçiyor. Bağlamdaki sahnede önce haydutlar İngilizce konuşuyormuş gibi akıyor; Ramazan da \"ben oraları pek anlamadım\" diyerek bunu açıkça söylüyor. Bunun üzerine Zeki, sanki seyirci film izlerken DVD/CD menüsündeymiş gibi davranıp dil ve altyazı ayarını değiştiriyor. Yani film içindeki bir karakter, filmin teknik ayarlarına müdahale ediyor. Bu da dördüncü duvarı kıran bir şaka.",
+      "rag_answer": "Filmde İngilizceden Türkçeye geçiş, **yb_007** sahnesinde oluyor.\n\n### Ne oluyor?\nLemi Galip ve Aziz Vefa haydutlarla karşılaştıkları bir anı anlatırken, sahne bir anda **İngilizce ağırlıklı** gibi akıyor. Ramazan da araya girip:\n- “Ben oraları pek anlamadım ya” diyerek,\n- anlatılan kısmın dilini anlamadığını söylüyor.\n\nBunun üzerine Zeki, sanki bir film menüsündeymişiz gibi:\n- “Dur o zaman şöyle yapalım...”\ndiyerek **dil seçimi menüsünü** açıyormuş gibi davranıyor.\n\nArdından anlatıdaki İngilizce replikler geri sarılıp **Türkçe olarak yeniden oynatılıyor**.\n\n### Şaka nedir?\nŞaka, **dördüncü duvarın kırılması** üzerine kurulu.\n\nYani film, kendi içinde “biz şimdi hangi dille konuşuyoruz?” sorusunu görünür hale getiriyor. Normalde seyirci filmi izlerken dublajı düşünmez; ama burada karakterlerden biri, adeta seyirci gibi davranıp:\n- dil ayarını değiştiriyor,\n- altyazıyı kapatıyor,\n- filmi Türkçeye çeviriyor.\n\nBu yüzden komik:\n1. **Film kendi yapaylığını açık ediyor.**\n2. **Seyircinin alıştığı DVD/CD menüsü mantığıyla dalga geçiyor.**\n3. Türkçe konuşan karakterlerin sanki İngilizce konuşuyormuş gibi sunulması üzerinden **dublaj/altyazı esprisi** yapılıyor.\n\n### Mizah mekanizması\n- **Breaking the fourth wall:** Zeki, doğrudan film düzenine müdahale ediyor.\n- **Meta mizah:** Film, kendi dilini ve altyazısını konu ediyor.\n- **Kültürel referans:** Eski CD/DVD filmlerinde açılışta dil ve altyazı seçme menüsü vardı; bunu hatırlatıyor.\n\nKısacası şaka şu:  \n**“Bu filmdeki dili seyirci değil, Zeki ayarlıyor.”**  \nBu da filmi bir anda “film” olmaktan çıkarıp, kendi kurallarını bilen bir oyun gibi gösteriyor.",
+      "no_rag_answer": "“Yahşi Batı”da bu tarz şakanın mantığı genelde **dil oyununa** dayanıyor: İngilizce bir ifade ya da kelime, Türkçeye çevrilince **bambaşka ve komik bir anlam** kazanıyor. Cem Yılmaz da bunu özellikle “Western” atmosferiyle, Osmanlı/Türkçe kelimeleri yan yana getirerek yapıyor.\n\nAma sorunun tam hangi sahneye ait olduğunu bilmeden genel mantığı söyleyeyim:\n\n- **İngilizceden Türkçeye geçiş**: Karakterler ya doğrudan İngilizce konuşuyor gibi yapılıyor ya da bir kelime/isim Türkçeleştirilerek söyleniyor.\n- **Şakanın özü**: Çeviri “doğru” değil, **bilerek absürt** oluyor. Yani kelime kelime çeviri yerine, kulağa komik gelen bir uyarlama yapılıyor.\n- Cem Yılmaz’ın mizahında bu tür şakalar genelde:\n  - yanlış anlaşılma,\n  - kelime benzerliği,\n  - yabancı kelimenin Türkçede komik tınlaması,\n  - “resmî çeviri” ile “sokak ağzı” arasındaki fark\n  üzerinden çalışıyor.\n\nEğer istersen, **hangi sahne olduğunu** yaz; sana o repliğin şakasını tek tek açayım.",
+      "retrieved_chunk_ids": [
+        "yb_007",
+        "yb_061",
+        "yb_033",
+        "yb_059",
+        "yb_026",
+        "yb_013",
+        "yb_029",
+        "yb_035"
+      ],
+      "scores": {
+        "cevap_a": {
+          "dogruluk": 5,
+          "detay": 5,
+          "tutarlilik": 5
+        },
+        "cevap_b": {
+          "dogruluk": 1,
+          "detay": 2,
+          "tutarlilik": 3
+        }
+      }
+    },
+    {
+      "id": "q12",
+      "type": "humor",
+      "question": "Aziz ve Lemi karakteri şerifleri nasıl uyutuyorlar?",
+      "ground_truth": "Aziz ve Lemi, şerifleri yaptıkları kolayı içirerek uyutuyorlar. Örneğin bir sahnede Lemi, şerife \"Bir kola içer miyiz?\" diye soruyor. Şerif \"Kola mı? İçiliyor mu?\" diye şaşırıyor. Lemi güğümle üç bardak kola dolduruyor; birini kendisi içiyor, ikisini de şerif ve yardımcısına veriyor. Ama şerif ile yardımcısı kısa süre sonra uyuyakalıyor. Buradan anlaşılıyor ki kola normal kola değil; içine onları uyutacak bir şey katmışlar.",
+      "rag_answer": "Aziz ve Lemi, şerifleri **kolayca kandırıp uyutuyorlar**: Lemi kendini **“kelle avcısı Lenny”** gibi tanıtıp Aziz’i de sanki aranan bir suçluymuş gibi gösteriyor. Şerife önce küçük bir ödül aldırıyorlar, sonra da **kola ikram ediyorlar**.\n\nKomik tarafı şu:\n- Şerif, kolanın ne olduğunu bile tam bilmiyor: **“Kola mı? İçiliyor mu?”**\n- Aziz ve Lemi, bu kola içine muhtemelen bir şey katmışlar; çünkü **kendileri içtikleri halde etkilenmiyorlar**, ama şerif ve yardımcısı **uyuyakalıyor**.\n- Yani mizah, **aldatma + yanlış yönlendirme + absürt durum** üzerinden kuruluyor. Şerifin otoriter görünmesine rağmen çok kolay saf dışı bırakılması da komik.\n\nBu yöntemle anahtarları alıp Aziz’i serbest bırakıyorlar. Ayrıca bu planı sonra başka şeriflerde de tekrar ediyorlar; yani olay tek seferlik değil, bir çeşit **tekrarlanan dolandırıcılık rutini**.",
+      "no_rag_answer": "Aziz ve Lemi, **şerifleri doğrudan fiziksel olarak değil, kandırarak ve oyalayarak** uyutuyorlar. Filmde bu iş daha çok **uyku ilacı / sakinleştirici etkisi olan bir yöntemle** ve ortamı kontrol ederek yapılıyor gibi hatırlanıyor; yani amaç şerifleri etkisiz hale getirip işlerini rahatça görmek.\n\nAma şunu da söyleyeyim: **tam sahne detayı konusunda emin olmadığım için** “şu maddeyi veriyorlar” diye net konuşmak istemem. Eğer istersen, sahneyi birlikte hatırlayıp **olayın geçtiği kısmı daha ayrıntılı** anlatabilirim.",
+      "retrieved_chunk_ids": [
+        "yb_016",
+        "yb_010",
+        "yb_037",
+        "yb_022",
+        "yb_056",
+        "yb_032"
+      ],
+      "scores": {
+        "cevap_a": {
+          "dogruluk": 5,
+          "detay": 4,
+          "tutarlilik": 5
+        },
+        "cevap_b": {
+          "dogruluk": 2,
+          "detay": 2,
+          "tutarlilik": 4
+        }
+      }
+    },
+    {
+      "id": "q13",
+      "type": "cultural",
+      "question": "Trenci Jack sahnesindeki Peder karakteriyle ilgili şaka nedir?",
+      "ground_truth": "Aziz Vefa, idama götürülen Trenci Jack'in olduğu yere gelip \"Kolay gelsin. Allah taksiratını affetsin birader.\" diyor. Peder hemen düzeltiyor: \"Birader değil, peder.\" Peder karakterini oynayan oyuncu Can Yılmaz, yani Aziz karakterini oynayan Cem Yılmaz'ın ağabeyi. Buradaki şaka buraya gönderme yapıyor.",
+      "rag_answer": "Trenci Jack sahnesindeki Peder karakteriyle ilgili şaka, Aziz Vefa’nın idam öncesi dua okuyan kişiye gidip çok rahat bir tavırla **“Kolay gelsin. Allah taksiratını affetsin birader.”** demesiyle oluşuyor.\n\nKomik olan şey şu:\n- Ortam çok ciddi: bir adam asılmak üzere, Peder dua ediyor.\n- Aziz Vefa ise bu ölümcül ciddiyeti sanki sıradan bir iş ortamıymış gibi karşılıyor.\n- Üstelik **“birader”** diye hitap ediyor; Peder de hemen **“Birader değil, peder.”** diye düzeltiyor.\n\nMizah mekanizması:\n- **Yanlış hitap / kelime oyunu:** “birader” ile “peder”in karıştırılması.\n- **Durum komedisi:** İdam sahnesinde gündelik ve laubali bir selamlaşma yapılması.\n- Bir de bağlam olarak, Hristiyanlıkta ölüm öncesi dua ritüeli varken Aziz’in bunu hiç ciddiye almayan tavrı sahneyi daha da absürt yapıyor.\n\nKısacası şaka, Peder’in dini ve ciddi rolüyle Aziz Vefa’nın umursamaz, sokak ağzına yakın konuşmasının çarpışmasından çıkıyor.",
+      "no_rag_answer": "“Trenci Jack” sahnesindeki Peder şakası, aslında **Peder’in “din adamı” kimliğiyle beklenmedik şekilde sert/alaycı bir tavır göstermesi** üzerine kurulu bir espri.\n\nYani komedi, şuradan geliyor:\n- Peder normalde sakin, ahlaklı, yumuşak biri gibi beklenir,\n- ama sahnede olaylara verdiği tepki ya da kullandığı ifade, bu beklentiyi ters yüz eder,\n- Cem Yılmaz da bunu karakterin ciddiyetiyle oynayarak komik hale getirir.\n\nAma dürüst olayım: **“Trenci Jack” sahnesinin tam repliğini birebir hatırlamıyorum**, o yüzden şakanın kelime kelime ne olduğunu kesin aktarmam doğru olmaz. İstersen sahnedeki repliği yaz, ben sana şakanın tam olarak neye dayandığını net şekilde açıklayayım.",
+      "retrieved_chunk_ids": [
+        "yb_018",
+        "yb_005",
+        "yb_062",
+        "yb_010",
+        "yb_038",
+        "yb_024",
+        "yb_029",
+        "yb_044"
+      ],
+      "scores": {
+        "cevap_a": {
+          "dogruluk": 3,
+          "detay": 4,
+          "tutarlilik": 5
+        },
+        "cevap_b": {
+          "dogruluk": 1,
+          "detay": 2,
+          "tutarlilik": 4
+        }
+      }
+    },
+    {
+      "id": "q14",
+      "type": "cultural",
+      "question": "Kilisedeki zenci köle karakteriyle ilgili şaka nedir?",
+      "ground_truth": "Kilisede zenci köle karakteriyle ilgili şaka, Şerif Lloyd'un köleliği \"kaldırma\" meselesini yer silen köleye bağlaması üzerinden kuruluyor. Bir de, köle karakterin oyuncusunun daha önce Bilal-i Habeşi rolüyle anılması hatırlatılıyor. Bilal-i Habeşi İslam tarihinde ilk ezan okuyan kişi olduğu için, burada \"gospel okusun\" lafı da bu kültürel referansla komikleşiyor.",
+      "rag_answer": "Kilisede zenci köle karakteriyle ilgili şaka, **Şerif Lloyd’un köleliği “birdenbire kalkmaz, yavaş yavaş kaldırıyoruz”** diye konuşmasıyla kuruluyor.\n\nSahnede Şerif Lloyd, kilisede yerleri silen siyahi köleye sertçe sesleniyor ve Aziz Vefa da hemen:\n- **“Kölelik kalkmadı mı ya?”** diye soruyor.\n\nŞerif Lloyd’un cevabı ise şaka kısmı:\n- **“Kolelik dediğin öyle birden bire kalkar mı? Yavaş yavaş galdırıyok işte. Galk lan! Galk.”**\n\nBuradaki mizah, **tarihteki köleliğin kaldırılması** gibi çok ciddi bir konuyu, kölenin fiziksel olarak “kalkması/ayağa kalkması” ile **kelime oyunu** yaparak birleştiriyor. Yani “kaldırmak” fiili hem **toplumsal bir düzeni sona erdirmek** hem de **yerden ayağa kaldırmak** anlamında kullanılıyor. Bu da absürt ve kara mizah etkisi yaratıyor.\n\nEk bir şaka da şu: Kölenin daha sonra **gospel okuyacağı** söyleniyor ve bunun, aynı oyuncunun daha önce **Bilal-i Habeşi** rolünü oynamasına gönderme olduğu belirtiliyor. Bu da Türk seyircinin yakalayabileceği bir **kültürel referans** ve oyuncu göndermesi mizahı.",
+      "no_rag_answer": "“Yahşi Batı”daki kilisedeki zenci köle karakteriyle ilgili şaka, filmin o sahnede **ırkçılık ve dönemin önyargılarıyla dalga geçmesi** üzerine kurulu.\n\nAma burada önemli bir nokta var: Filmi birebir hatırladığım kadarıyla, o karakter üzerinden yapılan espri **doğrudan karakterin kendisinden çok, kilise ortamındaki ikiyüzlülük ve Batı’daki ırkçı bakış açısını tiye alıyor**. Cem Yılmaz’ın mizahında sıkça olduğu gibi, şaka genelde:\n- karakterin “orada olması”,\n- insanların ona davranışı,\n- ve sahnedeki absürt ciddiyet\n\nüzerinden çalışıyor.\n\nEğer istersen, o sahneyi **spoiler vererek daha net anlatabilirim** ya da **tam repliği hatırlamaya çalışıp** sahneyi tek tek açıklayabilirim.",
+      "retrieved_chunk_ids": [
+        "yb_029",
+        "yb_016",
+        "yb_012",
+        "yb_046",
+        "yb_030",
+        "yb_013",
+        "yb_028"
+      ],
+      "scores": {
+        "cevap_a": {
+          "dogruluk": 5,
+          "detay": 5,
+          "tutarlilik": 5
+        },
+        "cevap_b": {
+          "dogruluk": 2,
+          "detay": 2,
+          "tutarlilik": 4
+        }
+      }
+    },
+    {
+      "id": "q15",
+      "type": "humor",
+      "question": "Lemi, kola güğümünün üzerine ne yazmak istiyor? Buradaki şaka ve gönderme nedir?",
+      "ground_truth": "Lemi, kola güğümünün üzerine \"Soğuk içiniz\" yazmak istiyor. Bu ifade, günümüzde gazlı içecek şişelerinde/ambalajlarında sık görülen bu tüketim önerisine göndermedir. Aziz ise buna karşı çıkıp \"Milleti zapt-ı rapt altına alma. İster soğuk içer ister sıcak.\" diyerek ekstra komik bir şey söylüyor. Yani anakronizm ve kültürel gönderme var. O dönemdeki bir içecek satıcısının güğümüne modern ambalaj dili yazılması komik geliyor.",
+      "rag_answer": "Lemi, kola güğümünün üzerine **“Soğuk içiniz”** yazmak istiyor.\n\nBuradaki şaka, kolaların ve gazlı içeceklerin üzerinde sıkça görülen **“soğuk içiniz”** ibaresine gönderme yapıyor. Yani Lemi, yaptıkları içeceği sanki modern bir ürün gibi pazarlamaya çalışıyor. Komik olan taraf şu:  \n- Bir yandan **Osmanlı dönemine ait güğüm ve şerbet satma geleneği** var,  \n- Öte yandan bunun üstüne **günümüz kola ambalaj dili** ekleniyor.  \n\nBu da sahnede **anakronizm** ve **kültürel referans** mizahı yaratıyor. Aziz’in buna “**Milleti zapt-ı rapt altına alma. İster soğuk içer ister sıcak**” diye karşı çıkması da komik; çünkü reklam diliyle dalga geçip, içeceği “kurallı” bir ürün gibi sunmayı abartılı buluyor.",
+      "no_rag_answer": "Lemi’nin kola güğümünün üstüne yazmak istediği şey, filmdeki esprinin tam olarak **“Coca-Cola”ya gönderme** yapmasıdır. Yani güğümün üzerine marka adı gibi bir şey yazıp onu “batılı/modern” bir ürün gibi göstermeye çalışır.\n\nBuradaki şaka şu:\n\n- **Güğüm** çok eski, geleneksel bir kap.\n- **Kola** ise modern, Amerikan/kapitalist bir içecek.\n- İkisini birleştirince ortaya absürt bir görüntü çıkıyor: sanki kovboy kasabasında “yerli usulü Coca-Cola” satılıyormuş gibi.\n\nGönderme de şu:\n- **Coca-Cola markasına**\n- Biraz da **Batı hayranlığına / Amerikanlaşmaya**\n- Ve tabii filmin genelindeki **Doğu-Batı çatışmasıyla dalga geçmeye**\n\nEğer istersen bu sahnenin geçtiği bağlamı da anlatabilirim; çünkü Yahşi Batı’daki birçok espri, dönemin dili ve kültürel göndermeleriyle daha da komik oluyor.",
+      "retrieved_chunk_ids": [
+        "yb_011",
+        "yb_016",
+        "yb_022",
+        "yb_013",
+        "yb_056",
+        "yb_009",
+        "yb_010"
+      ],
+      "scores": {
+        "cevap_a": {
+          "dogruluk": 5,
+          "detay": 5,
+          "tutarlilik": 5
+        },
+        "cevap_b": {
+          "dogruluk": 2,
+          "detay": 3,
+          "tutarlilik": 4
+        }
+      }
+    },
+    {
+      "id": "q16",
+      "type": "cultural",
+      "question": "Redkit'e nasıl gönderme yapılıyor? Buradaki şaka nedir?",
+      "ground_truth": "Redkit'e gönderme, postanede geçen sahnede Redkit'in bizzat içeri girmesiyle yapılıyor. Sahnede Aziz Vefa ve Lemi Galip telgraf çekerken Ulak, \"Kim takar Redkit'i?\" gibi bir tavırla Redkit'i küçümsüyor. Tam o anda Redkit kapıdan girip \"Bana telgraf var mı?\" diyor. Şaka, Redkit'in \"ulaşılamaz\" bir efsane gibi anılıp hemen ardından sıradan bir müşteri gibi postaneye gelmesi üzerinden kuruluyor. Bu, hem kültürel referans hem de durum komedisi.",
+      "rag_answer": "Redkit’e gönderme, postanedeki sahnede doğrudan yapılıyor: Aziz Vefa, Ulak’a “Ulan, Redkit bana telgraf var mı dese, tıpış tıpış ayağına gidersin ama” diyor. Tam ardından gerçekten Redkit içeri girince Ulak’ın bir anda saygılı ve telaşlı bir tavra geçmesi şakayı tamamlıyor.\n\nŞakanın komikliği şu:\n- **Beklenti tersyüz ediliyor:** Ulak az önce “Kim takar Redkit’i?” derken, Redkit’in bizzat gelmesiyle hemen tavrı değişiyor.\n- **Kültürel referans var:** Redkit, western dünyasının en meşhur, “tek başına düzen sağlayan” kovboy figürlerinden biri. Türk seyircisi için de çizgi roman/karikatür kültüründen tanıdık bir isim.\n- **Abartı ve ironi:** Sanki Redkit gerçekten postaneye telgraf soracak kadar önemli biriymiş gibi davranılıyor. Bu, karakterin “efsane” oluşuyla günlük bir postane ortamının absürt biçimde çarpıştırılması.\n\nKısacası şaka, “önemsiz sanılan bir figürün bir anda sahneye girip herkesin ona hürmet etmesi” üzerinden kuruluyor.",
+      "no_rag_answer": "“Yahşi Batı”da **Redkit’e (Lucky Luke)** yapılan gönderme, filmin genelindeki **spagetti western / çizgi roman westerni** havasından geliyor. Cem Yılmaz, filmde sık sık klasik western klişelerini ve özellikle de çocukluğumuzdan bildiğimiz western çizgi romanlarını tiye alıyor.\n\n**Şakanın özü şu:**\n- **Redkit**, Türkiye’de Lucky Luke’un çok bilinen adı.\n- Filmdeki bazı sahnelerde karakterlerin tavırları, kovboy estetiği, düello dili ve “kahraman kovboy” imajı **Redkit’i çağrıştıracak şekilde abartılı** veriliyor.\n- Yani şaka, “ciddi western yapıyoruz” havasının altında aslında **çizgi roman kadar yapay ve komik bir kovboy dünyası** kurulduğunu hissettirmek.\n\n**Buradaki mizah mekanizması:**\n1. **Tanıdık referans**: İzleyici Redkit’i biliyorsa hemen yakalıyor.\n2. **Tür parodisi**: Western’in sert, epik dili; Redkit’in daha hafif, karikatürize dünyasıyla çarpıştırılıyor.\n3. **Cem Yılmaz tarzı ironi**: Karakterler kendilerini çok ciddi sanıyor ama film onları çizgi roman karakteri gibi gösteriyor.\n\nEğer istersen, **hangi sahnede/hangi replikte Redkit göndermesi var** onu da tek tek açabilirim.",
+      "retrieved_chunk_ids": [
+        "yb_011",
+        "yb_007",
+        "yb_018",
+        "yb_008",
+        "yb_002",
+        "yb_009",
+        "yb_010"
+      ],
+      "scores": {
+        "cevap_a": {
+          "dogruluk": 5,
+          "detay": 4,
+          "tutarlilik": 5
+        },
+        "cevap_b": {
+          "dogruluk": 2,
+          "detay": 3,
+          "tutarlilik": 4
+        }
+      }
+    },
+    {
+      "id": "q17",
+      "type": "humor",
+      "question": "Filmin ilk yarısı nasıl bitiyor? Buradaki mizahi detay nedir?",
+      "ground_truth": "Zeki karakteri elinde tuttuğu nargilenin ucundaki sipsiyi yere düşürüyor ve sipsi kayboluyor. Ardından \"şimdi işin yoksa on dakika ara\" diyor, yani düşen sipsiden bahsediyor gibi anlaşılıyor. Ama aslında burada filmin ilk yarısının bittiğini belirtiyor ve sinemadaki seyircilere on dakika ara verilmesine gönderme yapılıyor. Çünkü gerçekten de sinemada film orada ara verecek şekilde ayarlanmış. Buradaki mizahi detay budur.",
+      "rag_answer": "Filmin ilk yarısı, Beykoz meyhanesindeki anlatı sahnesinde bitiyor.\n\nZeki hikâyeyi anlatırken Vedat ve Alpay tuvalete gidiyor. Onlar gidince Zeki ile Ramazan bir anda daha gizli, sanki “bir şey çeviriyormuş” gibi davranmaya başlıyor. Zeki nargilenin ucuna sipsi takmaya çalışırken sipsi düşüyor ve ardından “Şimdi işin yoksa on dakika ara” diyor. Bu replikten hemen sonra film gerçekten duruyor, ışıklar açılıyor ve seyirciye ara veriliyor.\n\nMizahi detay burada şu:\n- **Dördüncü duvarın kırılması** var; Zeki doğrudan seyirciye konuşup filmi fiilen ikiye bölüyor.\n- **Türkiye’de sinemalarda ara verilmesi** geleneğiyle dalga geçiliyor. Normalde bu tür aralar yaklaşık on dakika olur; replik de tam buna denk getiriliyor.\n- Ayrıca Vedat ve Alpay’ın çıkmasıyla Zeki ve Ramazan’ın “gizli plan yapıyor” havasına girmesi, onların aslında yakın arkadaş olduklarını ama bunu çaktırmadan sürdürmeleri üzerinden bir **karakter kontrastı** komiği yaratıyor.\n\nKısacası, sahne hem anlatıyı kesen bir sürpriz yapıyor hem de sinema salonu alışkanlığını şakaya çeviriyor.",
+      "no_rag_answer": "**Yahşi Batı**’nın ilk yarısı, hikâyenin ana ikilisinin — Osmanlı’dan gelen ajanlar **Aziz Vefa** ve **Lemi Bey**’in — Amerika’daki maceralarının iyice karıştığı, yanlış anlaşılmaların ve kovalamacaların tırmandığı bir noktada biter. Tam bir “işler kontrolden çıktı” hissi vardır: kahramanlar hem hedeflerine yaklaşmış gibidir hem de etraflarındaki herkesle daha büyük bir kaosa sürüklenir.\n\n**Mizahi detay** ise, filmin bu noktada klasik bir western ciddiyeti kuruyor gibi yapıp bunu sürekli bozmasıdır. Yani seyirci “şimdi büyük hesaplaşma gelecek” diye beklerken, karakterlerin Osmanlı nezaketi, bürokratik tavırları ve ince alaycı konuşmaları Amerikan Vahşi Batı ortamıyla çarpışır. Komedi de tam buradan çıkar:  \n- ciddi western atmosferi,  \n- ama o atmosferin içinde son derece “uygunsuz” derecede kibar, resmi ve absürt davranan Osmanlı ajanları.\n\nÖzellikle ilk yarının sonunda, olayların bir gerilim noktasına gelmesine rağmen karakterlerin hâlâ yanlış anlaşılmalarla, laf oyunlarıyla ve kültür farkıyla komik durumlara düşmesi filmin ana mizahını oluşturur.\n\nİstersen sana **ilk yarının sahne sahne kısa özetini** de çıkarabilirim.",
+      "retrieved_chunk_ids": [
+        "yb_033",
+        "yb_060",
+        "yb_059",
+        "yb_053",
+        "yb_062",
+        "yb_002",
+        "yb_004",
+        "yb_005"
+      ],
+      "scores": {
+        "cevap_a": {
+          "dogruluk": 5,
+          "detay": 5,
+          "tutarlilik": 5
+        },
+        "cevap_b": {
+          "dogruluk": 1,
+          "detay": 2,
+          "tutarlilik": 3
+        }
+      }
+    },
+    {
+      "id": "q18",
+      "type": "cultural",
+      "question": "Suzan ve Lemi karakterlerinin sahte kızılderili isimleri nedir? Buradaki şaka nedir?",
+      "ground_truth": "Suzan karakterininki Pajero, Lemi karakterininki ise Pontiac. Aziz karakterininki de Cherokee. Buradaki şaka: Jeep Grand Cherokee, Mitsubishi Pajero ve Pontiac. Bunlar üç ayrı araba markası. Komiklik bu. Bu arada Pontiac markası ismini Ottawa Kızılderili şefi Pontiac Obwandiyag'dan almıştır. Cherokee de zaten bir Kızılderili halkına verilen isimdir. Burada bunlara da gönderme var.",
+      "rag_answer": "Suzan’ın sahte Kızılderili adı **Pontiac**, Lemi’nin sahte Kızılderili adı ise **Pontiac** değil, **Pontiac** diye anılıyor gibi görünse de bağlamda asıl eşleşme şöyle kuruluyor:\n\n- **Susanne van Dyke** için: **Pajero**\n- **Lemi Galip** için: **Pontiac**\n\nBuradaki şaka, karakterlerin Kızılderili kimliği taklidi yaparken **araba markalarını sahte Kızılderili adı gibi kullanmaları**. Bu, özellikle Türk seyircinin tanıyacağı markalar üzerinden yapılan bir **kelime oyunu** ve **absürt mizah**.\n\nŞakanın komik tarafı şu:\n- “Cherokee” zaten bir Kızılderili halkı adı olduğu için kulağa “uygun” geliyor.\n- Ama “Pajero” ve “Pontiac” gibi isimler aslında araba markası.\n- Yani karakterler, Kızılderili gibi görünmeye çalışırken farkında olmadan modern ve alakasız isimler seçiyorlar.\n- Bu da sahte kimlik kurma çabasını daha da komik ve saçma hale getiriyor.\n\nKısacası: **Kızılderili adı sanılan şeylerin araba markası çıkması** üzerinden kurulan bir mizah var.",
+      "no_rag_answer": "Suzan ve Lemi’nin sahte Kızılderili isimleri filmde **“Kızılderili usulü uydurulmuş, komik ve abartılı isimler”** olarak geçiyor; ama açık söyleyeyim, bu isimleri **kelimesi kelimesine güvenle hatırladığım bir kaynak bilgim yok**. O yüzden yanlış isim uydurmak istemem.\n\nAma şakanın mantığı net:\n\n- **Batı filmlerindeki Kızılderili isimlerinin klişesini tiye alıyor.**\n- Türk karakterler, “yerli halk” gibi görünmek için kendilerine **sahte, yapay ve komik isimler** takıyor.\n- Mizah, isimlerin **gerçek Kızılderili adı gibi değil de, Türkçe mantıkla uydurulmuş olması**ndan geliyor.\n- Yani film, “egzotik görünme çabası”nı ve **kültürel taklitçiliği** komediye çeviriyor.\n\nİstersen ben sana bu sahnenin **tam bağlamını** da anlatayım ya da karakterlerin bu numarayı neden yaptığını özetleyeyim.",
+      "retrieved_chunk_ids": [
+        "yb_038",
+        "yb_010",
+        "yb_024",
+        "yb_034",
+        "yb_032",
+        "yb_025",
+        "yb_028",
+        "yb_037"
+      ],
+      "scores": {
+        "cevap_a": {
+          "dogruluk": 4,
+          "detay": 4,
+          "tutarlilik": 3
+        },
+        "cevap_b": {
+          "dogruluk": 1,
+          "detay": 2,
+          "tutarlilik": 4
+        }
+      }
+    },
+    {
+      "id": "q19",
+      "type": "cultural",
+      "question": "Filmdeki yuvarlanan otun olayı nedir? Örnek bir sahneyi anlatır mısın?",
+      "ground_truth": "Filmde birkaç farklı sahnede karşımıza çıkan bu \"rüzgarla birlikte yuvarlanan ot\", western filmlerinde klasikleşmiş olan bir şeydir. Buna tumbleweed adı verilir. Bu sahnelerde ona bir gönderme var. Örnek olarak 00:46:13 → 00:47:43 arasındaki sahnede Şerif Lloyd ile Aziz Vefa kasabada yürürken yuvarlanan ot önlerine geliyor. Başka örnek olarak 00:47:46 → 00:49:37 sahnesinde Eugene kiliseden çıkarken aynı yuvarlanan ot yine geliyor.",
+      "rag_answer": "Filmdeki yuvarlanan ot, yani **tumbleweed**, klasik western filmlerine yapılan bir göndermedir. Genelde rüzgârla birlikte boş sokakta yuvarlanır; burada da sahnenin “kovboy filmi” havasını komik biçimde güçlendiriyor. Mizahı, **cultural reference** ve biraz da **absürd bekleyiş** üzerinden çalışıyor: karakterler otun geçmesini bekliyor, ot da sanki canlıymış gibi onların önünde durup sonra devam ediyor.\n\nÖrnek bir sahne olarak **00:46:13 → 00:47:43** arasındaki sahnede, Şerif Lloyd ile Aziz Vefa kasabada yürürken bu ot karşılarına çıkıyor. Şerif Lloyd, otun önünde durup sanki ona saygı gösterilmesi gerekiyormuş gibi davranıyor; Aziz de ne olduğunu tam anlayamıyor. Ot geçince ikisi yürümeye devam ediyor. Komik olan şey, çok ciddi bir western anı beklerken sahnenin bu klişeyi bilerek uzatıp küçümsemesi. Yani ot burada sadece dekor değil; western klişesinin kendisiyle dalga geçilen bir mizah unsuru.\n\nBenzer bir tekrar da **00:47:46 → 00:49:37** sahnesinde var: Eugene kiliseden kovulurken yine aynı ot geliyor, bu kez Eugene eliyle “dur” işareti yapıp otun geçmesini bekliyor. Bu da şakanın bir **callback** olduğunu gösteriyor. Yani ot, filmde “vahşi batı atmosferi” kurarken aynı zamanda o atmosferi tiye alan bir tekrar şakası olarak kullanılıyor.",
+      "no_rag_answer": "“Yuvarlanan ot” dediğin şey, Western filmlerindeki o meşhur **tumbleweed**; yani rüzgârla savrulan kuru çalı/ot topu. **Yahşi Batı** da bu klişeyi özellikle komedi unsuru olarak kullanıyor. Filmde bu detay, “vahşi batı” atmosferini abartılı biçimde kurmak ve sahnelerin sessizliğini/gerilimini komik hale getirmek için var.\n\nÖrnek bir sahne olarak:\nBir karakterin çok ciddi, “sert” bir an yaşaması beklenirken ortam birden sessizleşiyor ve arka planda o yuvarlanan ot geçiyor. Normalde Western’de bu, “gerilim var, kimse konuşmuyor” hissi verir. **Yahşi Batı**’da ise tam tersine, bu klişe bilerek öne çıkarılıp komik bir etki yaratılıyor. Yani seyirci “şimdi büyük bir kovboy sahnesi geliyor” diye beklerken, film o beklentiyi hafifçe tiye alıyor.\n\nKısacası yuvarlanan ot:\n- **Western klişesi**\n- **Boşluk ve gerilim hissi** verir\n- Filmde ise **mizah için kullanılan bir görsel şaka** gibi çalışır\n\nİstersen sana filmdeki başka Western klişelerini de tek tek anlatabilirim.",
+      "retrieved_chunk_ids": [
+        "yb_007",
+        "yb_033",
+        "yb_053",
+        "yb_032",
+        "yb_028",
+        "yb_002",
+        "yb_029",
+        "yb_052"
+      ],
+      "scores": {
+        "cevap_a": {
+          "dogruluk": 5,
+          "detay": 5,
+          "tutarlilik": 5
+        },
+        "cevap_b": {
+          "dogruluk": 3,
+          "detay": 2,
+          "tutarlilik": 5
+        }
+      }
+    },
+    {
+      "id": "q20",
+      "type": "character",
+      "question": "Ödül olarak verilecek elmasın sahte olduğunu anlayınca ne yapıyorlar?",
+      "ground_truth": "Aziz karakteri gerçek elmasın nerede olduğunu Chuck'la olan eski konuşmasından hatırlıyor. Ardından gerçek elması kasadan alabilmek için hızlıca bir plan yapıyor. Şerif Lloyd karakteriyle gösteri maçı yapıyorlar yani güreşiyorlar. Anahtarı şeriften alıyor ve Lemi karakterine veriyorlar. Lemi karakteri de kasabaya gidip, gerçek elması alıp, geri gösteri alanına geliyor.",
+      "rag_answer": "Elmasın sahte olduğunu anlayınca Aziz Vefa hemen plan değiştiriyor. Önce bunu Lemi Galip ve Susanne van Dyke’a söylüyor; sonra da şerifin anahtarının nerede olduğunu öğrenmek için **Chuck’ı konuşturduğunu** söylüyor. Bunun üzerine aklına, şerifi kandırıp **güreş gösterisi düzenlemek** geliyor.\n\nKomik olan taraf şu: Aziz, normalde zor alınacak bir bilgiyi, Chuck gibi biraz saf bir karakterden çok kolay almış gibi anlatıyor. Bu da **abartı** ve **karakter zıtlığı** üzerinden komikleşiyor. Ardından “taşlar yerine oturdu” deyimini elmas ve anahtar meselesine bağlayarak kelime oyunu yapıyor.\n\nSonra Vali Wilson’a gidip Şerif Lloyd’u gösteri maçına davet ediyor. Şerif Lloyd’u kispet giydirip alana çıkarıyorlar; güreş sırasında Aziz, anahtarın şerifin götünde saklı olduğunu anlayıp oradan buluyor. Anahtarı Susanne’ye havadan ateş ettiriyor, Lemi Galip de at üstünde yakalayıp kasadan elması alıyor.\n\nYani özetle:\n- Sahte elması fark ediyorlar,\n- Şerifi güreşle oyalıyorlar,\n- Anahtarı şerifin üzerinden ele geçiriyorlar,\n- Elması kasadan alıyorlar.\n\nBu sahnenin mizahı da özellikle **yağlı güreş kültürü**, **kelime oyunları**, ve şerifin anahtarını “götte saklama” gibi absürt bir fikrin ciddiyetle oynanmasından geliyor.",
+      "no_rag_answer": "Filmde ödül olarak verilecek elmasın **sahte** olduğu anlaşılınca, karakterler önce durumu **fark edip şaşırıyorlar**, sonra da işin peşine düşüp **gerçeği ortaya çıkarmaya çalışıyorlar**. Yani elması doğrudan kabul etmeyip, bunun bir **oyun/aldatmaca** olduğunu anlıyorlar.\n\nAma burada küçük bir not düşeyim: *Yahşi Batı*’da bu sahnenin ayrıntısı, hangi karakterin tam olarak ne tepki verdiğine göre değişebiliyor. Eğer istersen sana **sahnenin kimler arasında geçtiğini** de tek tek anlatabilirim.",
+      "retrieved_chunk_ids": [
+        "yb_057",
+        "yb_048",
+        "yb_046",
+        "yb_059",
+        "yb_030",
+        "yb_002",
+        "yb_004",
+        "yb_013"
+      ],
+      "scores": {
+        "cevap_a": {
+          "dogruluk": 3,
+          "detay": 4,
+          "tutarlilik": 3
+        },
+        "cevap_b": {
+          "dogruluk": 2,
+          "detay": 1,
+          "tutarlilik": 4
+        }
+      }
+    }
+  ]
+}
