@@ -1,0 +1,62 @@
+# sorular
+
+- Karagöz Hacivat oynatılan sahne kaçıncı dakikada?
+	- Aziz karakterinin Karagöz ve Hacivat oynattığı sahne, filmde 00:18:15 → 00:20:16 zaman diliminde yer almaktadır.
+	- yb_012
+- Aziz ve Lemi karakterinin Suzan karakterine Osmanlı olduklarını ispat etmeye çalıştıkları sahne kaçıncı dakikada?
+	- Aziz ve Lemi karakterinin Suzan karakterine Osmanlı olduklarını ispat etmeye çalıştıkları sahne, 00:38:04 → 00:39:56 zaman diliminde geçiyor.
+	- yb_024
+- Filmde 56. dakikada neler oluyor?
+	- 00:55:54 → 00:57:18 aralığındaki sahne, Aziz, Lemi ve Suzan karakterlerinin Sioux kabilesi yerleşim yerine kızılderili kılığında geldikleri sahne. Önce girişte kızılderili olduklarını ikna etmeleri gerekiyor. Ardından alana girip şefin yanına gidiyorlar.
+	- yb_034
+- Aziz karakterinin sahte kovboy adı nedir? Bu isim nereden geliyor?
+	- Aziz karakterinin sahte kovboy adı "Zozo The Kid". Bu isim, Billy the Kid isimli meşhur western haydutuna yapılan bir gönderme.
+	- yb_016, yb_023, yb_032
+- Şerif Lloyd karakterinin konuşma şekli nasıl? Kime benziyor? Bu karakter neden komik?
+	- Şerif Lloyd’un konuşma şekli çok belirgin biçimde orta Anadolu ağzı ile yazılmış ve oynanmış. Yani "düz, resmi western şerifi" gibi değil; tam tersine şiveyle, ağızla, abartılı bir yerellik hissiyle konuşuyor. Bu da karakteri komik yapıyor. Bu karakteri canlandıran oyuncu Zafer Algöz, Şerif Lloyd’un konuşmasını Şener Şen’in babası Ali Şen’in konuşmasına benzeterek oynadığını söylemiş.
+	- yb_026
+- Eugene karakterinin lakabı nedir? Buradaki şaka nedir?
+	- Eugene karakterinin lakabı "Yürüyen Johnnie". Buradaki şaka şu: Eugene’in görünüşü ve yürüyüşü, Johnnie Walker viski markasının logosundaki yürüyen adama benziyor.
+	- yb_029, yb_031
+- Buck Berry karakteri nerelidir? İsmiyle ilgili şaka nedir?
+	- Buck Berry karakteri Brockback’li. İsmiyle ilgili şaka ise şu: Buck Berry" adı Türkçede "bak beri" gibi duyuluyor. Şerif Lloyd defterde ismi görünce bunu bir isim olarak değil, sanki yardımcısı Chuck’a "bak beri" / "buraya bak" diye sesleniyormuş gibi algılıyor. Chuck da bunu yanlış anlayıp "Buyur Şerif?" diye cevap veriyor. Bir de karakterin adı, Brokeback Mountain filmine yapılan göndermeyle birleşiyor; bu yüzden karakterin “Brockback’li” oluşu ve kadınsı tavırları da şakanın parçası. 
+	- yb_049, yb_050
+- Aziz karakteri ile muska arasında nasıl bir bağ var? Buradaki şaka nedir? Örnek bir sahneyi anlatır mısın?
+	- Aziz, annesinin verdiği bu muskaya ciddi ciddi koruyucu bir anlam yüklüyor ama hemen öncesinde yaşadığı olaylar, muskanın onu hiçbir şeyden koruyamadığını gösteriyor. Yani mizah, inanç ile sonuç arasındaki tezattan geliyor. Aziz’in "korur" dediği şey, pratikte onu kurtarmıyor; bu da hem ironi hem de biraz absürt komedi yaratıyor. Bir Aziz Vefa ve Lemi Galip hapisteyken Aziz’in boynundaki muska yeniden gündeme geliyor. Lemi Galip ona: "Muska boynunuzda mı efendim? O badirelerden koruyan?" diye soruyor.
+	- yb_010, yb_014, yb_019, yb_043, yb_052
+- Johnny Lesh karakteri nasıl ve nerede ölüyor?
+	- Johnny Lesh, taş madenindeki çatışmada ölüyor. Zaman: 00:30:51 → 00:33:47 sahnesinde, Aziz Vefa ve Lemi Galip taş madeninde hayatta kalmaya çalışırken Johnny Lesh’in çetesi saldırıya geçiyor. Çatışma sırasında herkes birbirine ateş ediyor; en sonunda Johnny Lesh ile bir görevli aynı anda birbirlerini vuruyorlar.
+	- yb_020, yb_021, yb_019
+- Filmdeki Trenci Jack kimdir? Buradaki şaka nedir?
+	- Trenci Jack, asılmak üzere olan gerçek bir suçlu. Aziz Vefa ile Lemi Galip, bilmeden onun adını taklit edip bir dolandırıcılık yapmaya çalışıyorlar; ama yanlışlıkla gerçekten Trenci Jack’in idam sahnesine düşüyorlar. Buradaki mizah da Jack Daniel’s göndermesiyle başlayan isim oyununun, gerçek idam sahnesine absürt biçimde bağlanmasından geliyor.
+	- yb_018
+- Film İngilizceden Türkçeye nasıl geçiyor? Buradaki şaka nedir?
+	- Film İngilizceden Türkçeye bir “film menüsü” hilesiyle geçiyor. Bağlamdaki sahnede önce haydutlar İngilizce konuşuyormuş gibi akıyor; Ramazan da “ben oraları pek anlamadım” diyerek bunu açıkça söylüyor. Bunun üzerine Zeki, sanki seyirci film izlerken DVD/CD menüsündeymiş gibi davranıp dil ve altyazı ayarını değiştiriyor. Yani film içindeki bir karakter, filmin teknik ayarlarına müdahale ediyor. Bu da dördüncü duvarı kıran bir şaka.
+	- yb_007, yb_008
+- Aziz ve Lemi karakteri şerifleri nasıl uyutuyorlar?
+	- Aziz ve Lemi, şerifleri yaptıkları kolayı içirerek uyutuyorlar. Örneğin bir sahnede Lemi, şerife “Bir kola içer miyiz?” diye soruyor. Şerif “Kola mı? İçiliyor mu?” diye şaşırıyor. Lemi güğümle üç bardak kola dolduruyor; birini kendisi içiyor, ikisini de şerif ve yardımcısına veriyor. Ama şerif ile yardımcısı kısa süre sonra uyuyakalıyor. Buradan anlaşılıyor ki kola normal kola değil; içine onları uyutacak bir şey katmışlar.
+	- yb_013, yb_016, yb_017, yb_018
+- Trenci Jack sahnesindeki Peder karakteriyle ilgili şaka nedir?
+	- Aziz Vefa, idama götürülen Trenci Jack’in olduğu yere gelip "Kolay gelsin. Allah taksiratını affetsin birader." diyor. Peder hemen düzeltiyor: "Birader değil, peder." Peder karakterini oynayan oyuncu Can Yılmaz, yani Aziz karakterini oynayan Cem Yılmaz'ın ağabeyi. Buradaki şaka buraya gönderme yapıyor.
+	- yb_018
+- Kilisedeki zenci köle karakteriyle ilgili şaka nedir?
+	- Kilisede zenci köle karakteriyle ilgili şaka, Şerif Lloyd’un köleliği “kaldırma” meselesini yer silen köleye bağlaması üzerinden kuruluyor. Bir de, Köle karakterin oyuncusunun daha önce Bilal-i Habeşi rolüyle anılması hatırlatılıyor. Bilal-i Habeşi İslam tarihinde ilk ezan okuyan kişi olduğu için, burada “gospel okusun” lafı da bu kültürel referansla komikleşiyor.
+	- yb_029, yb_059
+- Lemi, kola güğümünün üzerine ne yazmak istiyor? Buradaki şaka ve gönderme nedir?
+	- Lemi, kola güğümünün üzerine Soğuk içiniz yazmak istiyor. Bu ifade, günümüzde gazlı içecek şişelerinde/ambalajlarında sık görülen bu tüketim önerisine göndermedir. Aziz ise buna karşı çıkıp “Milleti zapt-ı rapt altına alma. İster soğuk içer ister sıcak.” diyerek ekstra komik bir şey söylüyor. Yani Anakronizm ve kültürel gönderme var. O dönemdeki bir içecek satıcısının güğümüne modern ambalaj dili yazılması komik geliyor.
+	- yb_013, yb_014, yb_015, yb_016
+- Redkit'e nasıl gönderme yapılıyor? Buradaki şaka nedir?
+	- Redkit’e gönderme, postanede geçen sahnede Redkit’in bizzat içeri girmesiyle yapılıyor. Sahnede Aziz Vefa ve Lemi Galip telgraf çekerken Ulak, “Kim takar Redkit’i?” gibi bir tavırla Redkit’i küçümsüyor. Tam o anda Redkit kapıdan girip “Bana telgraf var mı?” diyor. Şaka, Redkit’in “ulaşılamaz” bir efsane gibi anılıp hemen ardından sıradan bir müşteri gibi postaneye gelmesi üzerinden kuruluyor. Bu, hem kültürel referans hem de durum komedisi. 
+	- yb_011
+- Filmin ilk yarısı nasıl bitiyor? Buradaki mizahi detay nedir?
+	- Zeki karakteri elinde tuttuğu nargilenin ucundaki sipsiyi yere düşürüyor ve sipsi kayboluyor. Ardından "şimdi işin yoksa on dakika ara" diyor, yani düşen sipsiden bahsediyor gibi anlaşılıyor. Ama aslında burada filmin ilk yarısının bittiğini belirtiyor ve sinemadaki seyircilere on dakika ara verilmesine gönderme yapılıyor. Çünkü gerçekten de sinemada film orada ara verecek şekilde ayarlanmış. Buradaki mizahi detay budur.
+	- yb_033
+- Suzan ve Lemi karakterlerinin sahte kızılderili isimleri nedir? Buradaki şaka nedir?
+	- Suzan karakterininki Pajero, Lemi karakterininki ise Pontiac. Aziz karakterininki de Cherokee. Buradaki şaka: Jeep Grand Cherokee, Mitsubishi Pajero ve Pontiac. Bunlar üç ayrı araba markası. Komiklik bu. Bu arada Pontiac markası ismini Ottawa Kızılderili şefi Pontiac Obwandiyag'dan almıştır. Cherokee de zaten bir Kızılderili halkına verilen isimdir. Burada bunlara da gönderme var.
+	- yb_034
+- Filmdeki yuvarlanan otun olayı nedir? Örnek bir sahneyi anlatır mısın?
+	- Filmde birkaç farklı sahnede karşımıza çıkan bu "rüzgarla birlikte yuvarlanan ot", western filmlerinde klasikleşmiş olan bir şeydir. Buna tumbleweed adı verilir. Bu sahnelerde ona bir gönderme var. Örnek olarak 00:46:13 → 00:47:43 arasındaki sahnede Şerif Lloyd ile Aziz Vefa kasabada yürürken yuvarlanan ot önlerine geliyor. Başka örnek olarak 00:47:46 → 00:49:37 sahnesinde Eugene kiliseden çıkarken aynı yuvarlanan ot yine geliyor.
+	- yb_028, yb_029, yb_032
+- Ödül olarak verilecek elmasın sahte olduğunu anlayınca ne yapıyorlar?
+	- Aziz karakteri gerçek elmasın nerede olduğunu Chuck'la olan eski konuşmasından hatırlıyor. Ardından gerçek elması kasadan alabilmek için hızlıca bir plan yapıyor. Şerif Lloyd karakteriyle gösteri maçı yapıyorlar yani güreşiyorlar. Anahtarı şeriften alıyor ve Lemi karakterine veriyorlar. Lemi karakteri de kasabaya gidip, gerçek elması alıp, geri gösteri alanına geliyor.
+	- yb_056, yb_057, yb_058

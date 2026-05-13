@@ -91,15 +91,16 @@ def print_report(results: dict) -> None:
     print("\n" + "=" * 60)
     print("  RETRIEVAL TEST SONUÇLARI")
     print("=" * 60)
-    print(f"  Soru sayısı : {results['n_questions']}")
-    print(f"  Top-k       : {results['top_k']}")
-    print(f"  Precision@k : {results['avg_precision']:.1%}")
-    print(f"  Recall@k    : {results['avg_recall']:.1%}")
-    print(f"  Hit rate    : {results['hit_rate']:.1%}  (en az 1 doğru chunk geldi mi?)")
+    print(f"  Soru sayısı  : {results['n_questions']}")
+    print(f"  Top-k        : {results['top_k']}")
+    print()
+    print(f"  Hit Rate     : {results['hit_rate']:.1%}   <- ANA METRİK (en az 1 doğru chunk geldi mi?)")
+    print(f"  Recall@k     : {results['avg_recall']:.1%}   (relevant'lerin yüzde kaçı geldi?)")
+    print(f"  Precision@k  : {results['avg_precision']:.1%}   (bilgilendirici; tek-chunk sorularda doğal olarak düşük)")
 
     print("\n  Tipe göre:")
     for t, s in results["by_type"].items():
-        print(f"    {t:12s}  precision={s['avg_precision']:.1%}  hit={s['hit_rate']:.1%}  (n={s['count']})")
+        print(f"    {t:12s}  hit={s['hit_rate']:.1%}  precision={s['avg_precision']:.1%}  (n={s['count']})")
 
     print("\n  Başarısız sorular (hit=False):")
     failures = [r for r in results["per_question"] if not r["hit"]]

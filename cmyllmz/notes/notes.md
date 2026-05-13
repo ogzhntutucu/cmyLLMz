@@ -42,6 +42,7 @@ hem kor hem duymayan birine nasil anlatirsin? ya da bu kulturde yetismemis baska
 bilmedigi sey olursa izledim ama onu hatirlamiyorum, tekrar izlesem hatirlarim falan desin.
 
 yapacagımız arayuz senaryo kitabindaki gibi cikti uretsin sahne verecek olursa. ama bölünmeler olduğu için eksik karakter işaretlerini düzgün göstermeli.
+chunk ciktisini da gosterelim
 
 # wiki yapilirsa alinacak notlar:
 
@@ -55,11 +56,3 @@ H1 = Haydut 1 (JO karakterinin sağ kolu)                           - garry
 C1 = Çocuk 1 (LO ve BE karakterlerinin çocuğu)                     - chuckie olabilir adi
 KB = Benson (beyaz saray'da amerikan başkanı'nın yardımcısı. kapıdaki adam)
 
-
-# sorular
-
-- hangi dakikada karagoz hacivat geciyor
-- aziz karakterinin sahte kovboy adi nedir? bu isim nereden gelir
-- serif lloyd neden komik? 
-- serif lloyd karakteri nereden ilhamla bu sekilde konusuyor?
-- 

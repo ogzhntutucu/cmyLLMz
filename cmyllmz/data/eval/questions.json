@@ -2,281 +2,141 @@
   {
     "id": "q01",
     "type": "timestamp",
-    "question": "Filmin başında, 0. dakikada (00:00:14) hangi sahne geçiyor, kimler var?",
-    "ground_truth": "Film Beykoz meyhanesinde başlıyor, ekranda 'BEYKOZ, OCAK 2010' yazıyor. Alpay, Ramazan, Vedat ve Zeki bir rakı masasında oturuyorlar. Alpay, erotik dükkan işleten bir adamın başına gelmiş cinsel çift anlamlılığa dayalı komik bir hikaye anlatıyor.",
-    "relevant_chunk_ids": ["yb_001"]
+    "question": "Karagöz Hacivat oynatılan sahne kaçıncı dakikada?",
+    "ground_truth": "Aziz karakterinin Karagöz ve Hacivat oynattığı sahne, filmde 00:18:15 → 00:20:16 zaman diliminde yer almaktadır.",
+    "relevant_chunk_ids": ["yb_012"]
   },
   {
     "id": "q02",
     "type": "timestamp",
-    "question": "Filmin 1. dakikasında (yaklaşık 00:01:30) ne konuşuluyor?",
-    "ground_truth": "Zeki, Vedat'a Wellington çizmesinin hikayesini anlatıyor. Amerikan Başkanı Garfield'dan bahsetmeye başlar, Ramazan 'O kedi olan mı?' diye sorar. Zeki devam edip Sultanın Garfield'a hediye göndermek istediğini ve Aziz ile Lemi'ye görev verildiğini anlatıyor.",
-    "relevant_chunk_ids": ["yb_002"]
+    "question": "Aziz ve Lemi karakterinin Suzan karakterine Osmanlı olduklarını ispat etmeye çalıştıkları sahne kaçıncı dakikada?",
+    "ground_truth": "Aziz ve Lemi karakterinin Suzan karakterine Osmanlı olduklarını ispat etmeye çalıştıkları sahne, 00:38:04 → 00:39:56 zaman diliminde geçiyor.",
+    "relevant_chunk_ids": ["yb_024"]
   },
   {
     "id": "q03",
     "type": "timestamp",
-    "question": "Filmin 6. dakikasında (00:06:00) ne oluyor?",
-    "ground_truth": "Aziz ve Lemi, posta arabasında İngiliz Jack ile konuşuyorlar. Lemi 'Ottoman Empire' knock-knock şakasını yapıyor ama Jack gülmüyor. Lemi 'öküz nükteyi anlamadı Aziz' diyor. Jack Osmanlıların deve bindiğini ima edince Aziz 'Camels everywhere, hep bunu söylerler' diye dalga geçiyor.",
-    "relevant_chunk_ids": ["yb_005"]
+    "question": "Filmde 56. dakikada neler oluyor?",
+    "ground_truth": "00:55:54 → 00:57:18 aralığındaki sahne, Aziz, Lemi ve Suzan karakterlerinin Sioux kabilesi yerleşim yerine kızılderili kılığında geldikleri sahne. Önce girişte kızılderili olduklarını ikna etmeleri gerekiyor. Ardından alana girip şefin yanına gidiyorlar.",
+    "relevant_chunk_ids": ["yb_034"]
   },
   {
     "id": "q04",
-    "type": "timestamp",
-    "question": "Filmin 10. dakikasında (00:10:00) ne oluyor?",
-    "ground_truth": "Haydutların saldırısı sahnesinin ortasında, Ramazan'ın İngilizce anlamamasını bahane edip 'posta arabasından sonra yok bende' demesi üzerine Zeki film menüsünden karakterlerin dilini Türkçeye çeviriyor. Bu meta bir komedi sahnesi: film içindeki bir karakter sanki izleyici gibi davranıp dubla ve altyazıyı değiştiriyor.",
-    "relevant_chunk_ids": ["yb_007"]
+    "type": "cultural",
+    "question": "Aziz karakterinin sahte kovboy adı nedir? Bu isim nereden geliyor?",
+    "ground_truth": "Aziz karakterinin sahte kovboy adı \"Zozo The Kid\". Bu isim, Billy the Kid isimli meşhur western haydutuna yapılan bir gönderme.",
+    "relevant_chunk_ids": ["yb_016", "yb_023", "yb_032"]
   },
   {
     "id": "q05",
-    "type": "timestamp",
-    "question": "Filmin 20. dakikasında (00:20:00) ne oluyor?",
-    "ground_truth": "Aziz ve Lemi çalıntı erzakları ayıklarken Aziz limon ve şeker buluyor; bu ona osmanlı macunu yapma fikrini veriyor. Bir önceki sahnede at yıkama, gölge oyunu gibi çeşitli tutarsız işler denediklerini görüyoruz. Bu sahne kola icat hikayesine geçişi başlatıyor.",
-    "relevant_chunk_ids": ["yb_012", "yb_013"]
+    "type": "character",
+    "question": "Şerif Lloyd karakterinin konuşma şekli nasıl? Kime benziyor? Bu karakter neden komik?",
+    "ground_truth": "Şerif Lloyd'un konuşma şekli çok belirgin biçimde orta Anadolu ağzı ile yazılmış ve oynanmış. Yani \"düz, resmi western şerifi\" gibi değil; tam tersine şiveyle, ağızla, abartılı bir yerellik hissiyle konuşuyor. Bu da karakteri komik yapıyor. Bu karakteri canlandıran oyuncu Zafer Algöz, Şerif Lloyd'un konuşmasını Şener Şen'in babası Ali Şen'in konuşmasına benzeterek oynadığını söylemiş.",
+    "relevant_chunk_ids": ["yb_026"]
   },
   {
     "id": "q06",
-    "type": "timestamp",
-    "question": "Filmin 28. dakikasında (00:28:00) ne oluyor?",
-    "ground_truth": "Aziz ve Lemi ıssız bir yerde son ilanlarını (sahte 'Trenci Jack') hazırlıyorlar. Aziz Jack Daniel'in ismini öneriyor, ikisi gülerek anlaşıyor. Ardından Şerif Murphy'nin kasabasına geldiklerinde aynı isimde gerçek bir Trenci Jack'in o an idam edilmekte olduğunu görüyorlar.",
-    "relevant_chunk_ids": ["yb_018"]
-  },
-  {
-    "id": "q07",
-    "type": "timestamp",
-    "question": "Filmin 35. dakikasında (00:35:00) ne oluyor?",
-    "ground_truth": "Aziz ve Lemi deniz kenarı ormanda atlarıyla giderken Osmanlı-Batı karşılaştırması yapıyorlar. Lemi 'batı hayranlığımı gözden geçirip etüt etmem lazım' derken Aziz 'Versay'da tuvalet yoktu, vals boka basmamak için icat edilmiş bir dans' diyor. Silah sesleri duyunca yaklaşıp Susanne'yi atış taliminiyapan görüyorlar.",
-    "relevant_chunk_ids": ["yb_022"]
-  },
-  {
-    "id": "q08",
-    "type": "timestamp",
-    "question": "Filmin 47. dakikasında (00:47:00) ne oluyor?",
-    "ground_truth": "Şerif Lloyd ve Aziz kasabayı birlikte gezerler. Lloyd konuşurken gelip geçen birini rastgele vurur, hiçbir şey olmamış gibi devam eder. Gençlerin kızılderili oynadığından şikayet eder, 'köküne kibrit suyu dökeceğim' der. Evin önünde Lloyd'un ikinci karısı Betty ile karşılaşırlar.",
-    "relevant_chunk_ids": ["yb_028"]
-  },
-  {
-    "id": "q09",
-    "type": "timestamp",
-    "question": "Filmin 51. dakikasında (00:51:00) ne oluyor?",
-    "ground_truth": "Akşam sahnesi; Cannonball kasabasının barında (saloon) kankan dansı yapan kadınlar ve kumar oynayan insanlar var. Eugene bir kadının saçını koklayarak dolaşıyor. Şerif Lloyd misafirleriyle gelir, masada oturan birini kaldırıp oraya Murdock'ı oturtur.",
-    "relevant_chunk_ids": ["yb_031"]
-  },
-  {
-    "id": "q10",
-    "type": "timestamp",
-    "question": "Filmin 1 saat 5. dakikasında (01:05:00) ne oluyor?",
-    "ground_truth": "Aziz ve Lemi derme çatma tuvaletin önünde baygın yatarken Aziz rüya görmeye başlıyor, rüyada Lemi ile konuşuyorlar. Ardından Kızılkayalar onlarla konuşmaya başlıyor; elmasla ilgili bilgi ve yardım talep ediliyor.",
-    "relevant_chunk_ids": ["yb_037", "yb_038"]
-  },
-  {
-    "id": "q11",
-    "type": "character",
-    "question": "Aziz Vefa ve Lemi Galip kimdir, neden Amerika'ya gidiyorlar?",
-    "ground_truth": "Aziz Vefa Teşkilat-ı Mahsusa'dan bir ajan, Lemi Galip ise Hazine'den bir memur. Sultan, Amerikan Başkanı Garfield'a elmas bir kolye gönderme görevi verir. 1000 konfederasyon doları yolluk alarak 1881'de Orient Express, Londra ve Atlantik üzerinden Amerika'ya gidiyorlar.",
-    "relevant_chunk_ids": ["yb_002", "yb_003"]
-  },
-  {
-    "id": "q12",
-    "type": "character",
-    "question": "Şerif Lloyd nasıl bir karakter? Konuşma tarzı ve özellikleri neler?",
-    "ground_truth": "Orta Anadolu ağzıyla konuşan, bacağı sakatlı, topallayan, keyfi yöneten Cannonball şerifi. Hem şeriflik hem papazlık yapıyor. Chuck'a her seslendiğinde CC elini kaldırıyor. Kızılderililerden kurtulmak için Johnny Lesh'i kullanmak istiyor. Eugene adlı deli oğlundan yorgun. Zafer Algöz'ün Ali Şen taklidiyle canlandırdığı söyleniyor.",
-    "relevant_chunk_ids": ["yb_026", "yb_027", "yb_028", "yb_029"]
-  },
-  {
-    "id": "q13",
-    "type": "character",
-    "question": "Betty nasıl bir karakter, filmde ne rolü var?",
-    "ground_truth": "Şerif Lloyd'un ikinci karısı. İnce sesli ve orta Anadolu ağzıyla konuşuyor. Kasabada sokaktaki çocukları azarlayan bir sahnesiyle tanıtılıyor. Aziz onunla tanıştıktan sonra 'Hoş geldiniz kovboy bey, kalıcaa mısınız kasabamızda?' diye sorar.",
-    "relevant_chunk_ids": ["yb_028"]
-  },
-  {
-    "id": "q14",
-    "type": "character",
-    "question": "Susanne Van Dyke kim, Aziz ve Lemi ile nasıl tanışıyorlar?",
-    "ground_truth": "Buffalo Bill şovunda 5 yıl çalışmış yetenekli bir nişancı. Johnny Lesh'in annesini öldürdüğü için onu arıyor. Deniz kenarı ormanda atış taliminiyapan Susanne'yi Aziz ve Lemi gizlice izliyor. Lemi'yi Johnny Lesh sanınca iki silahla üzerlerine yürüyor. Aziz Türklüklerini ispat için lokum çıkarınca ikna oluyor ama 'o silah çıktı mı illa patlar' deyip Aziz'i kolundan yaralıyor.",
-    "relevant_chunk_ids": ["yb_022", "yb_023", "yb_024"]
-  },
-  {
-    "id": "q15",
-    "type": "character",
-    "question": "Eugene kimdir, neden 'Yürüyen Johnnie' deniyor?",
-    "ground_truth": "Şerif Lloyd'un en büyük oğlu. Babasının kendi yaptığı açık viskiden içip delirmiş. Johnnie Walker viski markasının logosundaki Viktorya dönemi beyefendisini andıran kıyafet ve bastonuyla ayırt edici bir yürüyüşü var, bu yüzden 'Yürüyen Johnnie' lakabı takılmış. Kilisedeki günah çıkarma kabininde aranıyor ilanına bakarak mastürbasyon yaptığını itiraf ediyor.",
+    "type": "cultural",
+    "question": "Eugene karakterinin lakabı nedir? Buradaki şaka nedir?",
+    "ground_truth": "Eugene karakterinin lakabı \"Yürüyen Johnnie\". Buradaki şaka şu: Eugene'in görünüşü ve yürüyüşü, Johnnie Walker viski markasının logosundaki yürüyen adama benziyor.",
     "relevant_chunk_ids": ["yb_029", "yb_031"]
   },
   {
-    "id": "q16",
+    "id": "q07",
+    "type": "humor",
+    "question": "Buck Berry karakteri nerelidir? İsmiyle ilgili şaka nedir?",
+    "ground_truth": "Buck Berry karakteri Brockback'li. İsmiyle ilgili şaka ise şu: \"Buck Berry\" adı Türkçede \"bak beri\" gibi duyuluyor. Şerif Lloyd defterde ismi görünce bunu bir isim olarak değil, sanki yardımcısı Chuck'a \"bak beri\" / \"buraya bak\" diye sesleniyormuş gibi algılıyor. Chuck da bunu yanlış anlayıp \"Buyur Şerif?\" diye cevap veriyor. Bir de karakterin adı, Brokeback Mountain filmine yapılan göndermeyle birleşiyor; bu yüzden karakterin \"Brockback'li\" oluşu ve kadınsı tavırları da şakanın parçası.",
+    "relevant_chunk_ids": ["yb_049", "yb_050"]
+  },
+  {
+    "id": "q08",
+    "type": "humor",
+    "question": "Aziz karakteri ile muska arasında nasıl bir bağ var? Buradaki şaka nedir? Örnek bir sahneyi anlatır mısın?",
+    "ground_truth": "Aziz, annesinin verdiği bu muskaya ciddi ciddi koruyucu bir anlam yüklüyor ama hemen öncesinde yaşadığı olaylar, muskanın onu hiçbir şeyden koruyamadığını gösteriyor. Yani mizah, inanç ile sonuç arasındaki tezattan geliyor. Aziz'in \"korur\" dediği şey, pratikte onu kurtarmıyor; bu da hem ironi hem de biraz absürt komedi yaratıyor. Bir örnek: Aziz Vefa ve Lemi Galip hapisteyken Aziz'in boynundaki muska yeniden gündeme geliyor. Lemi Galip ona: \"Muska boynunuzda mı efendim? O badirelerden koruyan?\" diye soruyor.",
+    "relevant_chunk_ids": ["yb_010", "yb_014", "yb_019", "yb_043", "yb_052"]
+  },
+  {
+    "id": "q09",
     "type": "character",
-    "question": "Richard Thomas adlı kızılderili karakter neden komik?",
-    "ground_truth": "Aziz 'Danaburnu!', Lemi 'ugh!' diye kızılderililerle iletişim kurmaya çalışırken kabilenin lideri çok düzgün Türkçeyle 'Adım Richard Thomas, Oxford'da okuyorum, sadece yaz tatillerimi kabilemle geçiriyorum' diyor. Seyircinin vahşi kızılderili beklentisini tam tersine çeviren bir karakter.",
-    "relevant_chunk_ids": ["yb_010"]
+    "question": "Johnny Lesh karakteri nasıl ve nerede ölüyor?",
+    "ground_truth": "Johnny Lesh, taş madenindeki çatışmada ölüyor. Zaman: 00:30:51 → 00:33:47 sahnesinde, Aziz Vefa ve Lemi Galip taş madeninde hayatta kalmaya çalışırken Johnny Lesh'in çetesi saldırıya geçiyor. Çatışma sırasında herkes birbirine ateş ediyor; en sonunda Johnny Lesh ile bir görevli aynı anda birbirlerini vuruyorlar.",
+    "relevant_chunk_ids": ["yb_020", "yb_021", "yb_019"]
+  },
+  {
+    "id": "q10",
+    "type": "character",
+    "question": "Filmdeki Trenci Jack kimdir? Buradaki şaka nedir?",
+    "ground_truth": "Trenci Jack, asılmak üzere olan gerçek bir suçlu. Aziz Vefa ile Lemi Galip, bilmeden onun adını taklit edip bir dolandırıcılık yapmaya çalışıyorlar; ama yanlışlıkla gerçekten Trenci Jack'in idam sahnesine düşüyorlar. Buradaki mizah da Jack Daniel's göndermesiyle başlayan isim oyununun, gerçek idam sahnesine absürt biçimde bağlanmasından geliyor.",
+    "relevant_chunk_ids": ["yb_018"]
+  },
+  {
+    "id": "q11",
+    "type": "humor",
+    "question": "Film İngilizceden Türkçeye nasıl geçiyor? Buradaki şaka nedir?",
+    "ground_truth": "Film İngilizceden Türkçeye bir \"film menüsü\" hilesiyle geçiyor. Bağlamdaki sahnede önce haydutlar İngilizce konuşuyormuş gibi akıyor; Ramazan da \"ben oraları pek anlamadım\" diyerek bunu açıkça söylüyor. Bunun üzerine Zeki, sanki seyirci film izlerken DVD/CD menüsündeymiş gibi davranıp dil ve altyazı ayarını değiştiriyor. Yani film içindeki bir karakter, filmin teknik ayarlarına müdahale ediyor. Bu da dördüncü duvarı kıran bir şaka.",
+    "relevant_chunk_ids": ["yb_007", "yb_008"]
+  },
+  {
+    "id": "q12",
+    "type": "humor",
+    "question": "Aziz ve Lemi karakteri şerifleri nasıl uyutuyorlar?",
+    "ground_truth": "Aziz ve Lemi, şerifleri yaptıkları kolayı içirerek uyutuyorlar. Örneğin bir sahnede Lemi, şerife \"Bir kola içer miyiz?\" diye soruyor. Şerif \"Kola mı? İçiliyor mu?\" diye şaşırıyor. Lemi güğümle üç bardak kola dolduruyor; birini kendisi içiyor, ikisini de şerif ve yardımcısına veriyor. Ama şerif ile yardımcısı kısa süre sonra uyuyakalıyor. Buradan anlaşılıyor ki kola normal kola değil; içine onları uyutacak bir şey katmışlar.",
+    "relevant_chunk_ids": ["yb_013", "yb_016", "yb_017", "yb_018"]
+  },
+  {
+    "id": "q13",
+    "type": "cultural",
+    "question": "Trenci Jack sahnesindeki Peder karakteriyle ilgili şaka nedir?",
+    "ground_truth": "Aziz Vefa, idama götürülen Trenci Jack'in olduğu yere gelip \"Kolay gelsin. Allah taksiratını affetsin birader.\" diyor. Peder hemen düzeltiyor: \"Birader değil, peder.\" Peder karakterini oynayan oyuncu Can Yılmaz, yani Aziz karakterini oynayan Cem Yılmaz'ın ağabeyi. Buradaki şaka buraya gönderme yapıyor.",
+    "relevant_chunk_ids": ["yb_018"]
+  },
+  {
+    "id": "q14",
+    "type": "cultural",
+    "question": "Kilisedeki zenci köle karakteriyle ilgili şaka nedir?",
+    "ground_truth": "Kilisede zenci köle karakteriyle ilgili şaka, Şerif Lloyd'un köleliği \"kaldırma\" meselesini yer silen köleye bağlaması üzerinden kuruluyor. Bir de, köle karakterin oyuncusunun daha önce Bilal-i Habeşi rolüyle anılması hatırlatılıyor. Bilal-i Habeşi İslam tarihinde ilk ezan okuyan kişi olduğu için, burada \"gospel okusun\" lafı da bu kültürel referansla komikleşiyor.",
+    "relevant_chunk_ids": ["yb_029", "yb_059"]
+  },
+  {
+    "id": "q15",
+    "type": "humor",
+    "question": "Lemi, kola güğümünün üzerine ne yazmak istiyor? Buradaki şaka ve gönderme nedir?",
+    "ground_truth": "Lemi, kola güğümünün üzerine \"Soğuk içiniz\" yazmak istiyor. Bu ifade, günümüzde gazlı içecek şişelerinde/ambalajlarında sık görülen bu tüketim önerisine göndermedir. Aziz ise buna karşı çıkıp \"Milleti zapt-ı rapt altına alma. İster soğuk içer ister sıcak.\" diyerek ekstra komik bir şey söylüyor. Yani anakronizm ve kültürel gönderme var. O dönemdeki bir içecek satıcısının güğümüne modern ambalaj dili yazılması komik geliyor.",
+    "relevant_chunk_ids": ["yb_013", "yb_014", "yb_015", "yb_016"]
+  },
+  {
+    "id": "q16",
+    "type": "cultural",
+    "question": "Redkit'e nasıl gönderme yapılıyor? Buradaki şaka nedir?",
+    "ground_truth": "Redkit'e gönderme, postanede geçen sahnede Redkit'in bizzat içeri girmesiyle yapılıyor. Sahnede Aziz Vefa ve Lemi Galip telgraf çekerken Ulak, \"Kim takar Redkit'i?\" gibi bir tavırla Redkit'i küçümsüyor. Tam o anda Redkit kapıdan girip \"Bana telgraf var mı?\" diyor. Şaka, Redkit'in \"ulaşılamaz\" bir efsane gibi anılıp hemen ardından sıradan bir müşteri gibi postaneye gelmesi üzerinden kuruluyor. Bu, hem kültürel referans hem de durum komedisi.",
+    "relevant_chunk_ids": ["yb_011"]
   },
   {
     "id": "q17",
-    "type": "character",
-    "question": "Ramazan filmde ne tür mizah yapıyor, bir örnek ver.",
-    "ground_truth": "Anlatan kişiyi sürekli bölerek araya giren, kasıtlı yanlış anlama yapan bir karakter. En bilinen örneği Garfield şakası: Zeki Amerikan Başkanı Garfield'dan bahsederken 'O kedi olan mı?' diye soruyor. Sonra hayali Google araması yapıp 'gene kedi, başkan nerede, yok tatilde' diyor. Anlatılan ciddi hikayeyi saçma yorumlarla kesen bir mizah tarzı.",
-    "relevant_chunk_ids": ["yb_002"]
+    "type": "humor",
+    "question": "Filmin ilk yarısı nasıl bitiyor? Buradaki mizahi detay nedir?",
+    "ground_truth": "Zeki karakteri elinde tuttuğu nargilenin ucundaki sipsiyi yere düşürüyor ve sipsi kayboluyor. Ardından \"şimdi işin yoksa on dakika ara\" diyor, yani düşen sipsiden bahsediyor gibi anlaşılıyor. Ama aslında burada filmin ilk yarısının bittiğini belirtiyor ve sinemadaki seyircilere on dakika ara verilmesine gönderme yapılıyor. Çünkü gerçekten de sinemada film orada ara verecek şekilde ayarlanmış. Buradaki mizahi detay budur.",
+    "relevant_chunk_ids": ["yb_033"]
   },
   {
     "id": "q18",
-    "type": "character",
-    "question": "Chuck karakterinin filmde tekrar eden komik bir hareketi var; nedir ve neden oluyor?",
-    "ground_truth": "Şerif Lloyd her 'Chuck!' diye seslendiğinde CC karakteri elini kaldırıyor. Bunun nedeni 'Chuck' isminin okunuşunun Türkçe 'çak' kelimesiyle aynı olması. Lloyd sanki 'çak bi beşlik' diyormuş gibi 'Chuck' dediğinden CC otomatik refleksle elini kaldırıyor. Film boyunca tekrarlanan bir gag.",
-    "relevant_chunk_ids": ["yb_026", "yb_027"]
+    "type": "cultural",
+    "question": "Suzan ve Lemi karakterlerinin sahte kızılderili isimleri nedir? Buradaki şaka nedir?",
+    "ground_truth": "Suzan karakterininki Pajero, Lemi karakterininki ise Pontiac. Aziz karakterininki de Cherokee. Buradaki şaka: Jeep Grand Cherokee, Mitsubishi Pajero ve Pontiac. Bunlar üç ayrı araba markası. Komiklik bu. Bu arada Pontiac markası ismini Ottawa Kızılderili şefi Pontiac Obwandiyag'dan almıştır. Cherokee de zaten bir Kızılderili halkına verilen isimdir. Burada bunlara da gönderme var.",
+    "relevant_chunk_ids": ["yb_034"]
   },
   {
     "id": "q19",
-    "type": "character",
-    "question": "Johnny Lesh filmde nasıl ve nerede ölüyor?",
-    "ground_truth": "Taş madeninde mahkumken çetesi onu kurtarmak için baskın yapıyor. Çıkan çatışmada hem JO hem de kalan görevli birbirini vuruyor. Aziz ve Lemi elmasın yerini öğrenmek için yaralı JO'nun yanına koşuyor, ama o sadece 'Cannonball' diyebiliyor ve lafını bitiremeden ölüyor.",
-    "relevant_chunk_ids": ["yb_020"]
+    "type": "cultural",
+    "question": "Filmdeki yuvarlanan otun olayı nedir? Örnek bir sahneyi anlatır mısın?",
+    "ground_truth": "Filmde birkaç farklı sahnede karşımıza çıkan bu \"rüzgarla birlikte yuvarlanan ot\", western filmlerinde klasikleşmiş olan bir şeydir. Buna tumbleweed adı verilir. Bu sahnelerde ona bir gönderme var. Örnek olarak 00:46:13 → 00:47:43 arasındaki sahnede Şerif Lloyd ile Aziz Vefa kasabada yürürken yuvarlanan ot önlerine geliyor. Başka örnek olarak 00:47:46 → 00:49:37 sahnesinde Eugene kiliseden çıkarken aynı yuvarlanan ot yine geliyor.",
+    "relevant_chunk_ids": ["yb_028", "yb_029", "yb_032"]
   },
   {
     "id": "q20",
     "type": "character",
-    "question": "Kızılkayalar kimdir, kasabaya geldiğinde ne oluyor?",
-    "ground_truth": "Sioux kabilesinin lideri. Oğlunun adı Bambi. Kasabaya uzun zamandır ilk kez geldiği için kasaba halkı toplanıyor, fotoğraf çektirmek için kuyruğa giriyorlar. Şerif Lloyd ve Aziz ile ilişki içinde olan kritik bir karakter.",
-    "relevant_chunk_ids": ["yb_035", "yb_041"]
-  },
-  {
-    "id": "q21",
-    "type": "humor",
-    "question": "Garfield şakası neden komik, nasıl kurulmuş?",
-    "ground_truth": "Setup: Zeki, Başkan Garfield'dan bahsetmeye başlar. Punchline 1: Ramazan 'O kedi olan mı?' diye sorar. Punchline 2: Hayali Google aramasında 'gene kedi, başkan nerede, yok tatilde' der. İki katmanlı mizah: hem bilinçli yanlış anlama hem anakronizm (Google 1881'de yok). Ayrıca 'Did you mean Garfield?' Google önerisine de gönderme var.",
-    "relevant_chunk_ids": ["yb_002"]
-  },
-  {
-    "id": "q22",
-    "type": "humor",
-    "question": "'See you' / 'Sioux' şakası filmde kaç kez geçiyor, her seferinde kim yanlış anlıyor?",
-    "ground_truth": "İki kez geçiyor. Birinci: Haydutlar kaçarken H1 'See you' diyor, Aziz 'Sioux dedi, Sioux'lar!' diye yanlış anlıyor, Lemi düzeltiyor. İkinci: Johnny Lesh ölürken Lemi 'Sioux... Sioux dedi!' derken Aziz bu sefer 'Hayır ulan, öldüm diye see you diyor' diye düzeltiyor. Rollerin yer değiştirmesi şakayı iki katlı yapıyor.",
-    "relevant_chunk_ids": ["yb_008", "yb_020"]
-  },
-  {
-    "id": "q23",
-    "type": "humor",
-    "question": "'Ottoman Empire' şakası nasıl kurulmuş, neden komik?",
-    "ground_truth": "Lemi, posta arabasında İngiliz Jack'e knock-knock joke yapıyor: 'Knock knock. Who is there? Ottoman.' Jack 'Ottoman who?' deyince Lemi 'Ottoman Empire!' diyor. Ama Jack gülmüyor; Osmanlı'nın Viyana kapılarına dayandığını anlayarak kasıtlı olarak tepkisiz kalıyor. Lemi 'öküz nükteyi anlamadı' diye dert yanıyor.",
-    "relevant_chunk_ids": ["yb_004", "yb_005"]
-  },
-  {
-    "id": "q24",
-    "type": "humor",
-    "question": "Filmde kola nasıl icat ediliyor, bu hikaye nasıl işleniyor?",
-    "ground_truth": "Aziz çalıntı erzaklarda limon ve şeker görünce osmanlı macunu fikri aklına geliyor. Meyan kökü ve karbonatla kolayı icat ediyorlar. Güğüme Cola Turka yazıp şerifleri uyutmak için içine uyku ilacı katıyorlar. Bir soyguncu kolayı çalıp üretmeye başlıyor; Cannonball'da Lloyd zaten hazır şişe kola içiyor ve Aziz 'resmen araklamışlar' diyor.",
-    "relevant_chunk_ids": ["yb_013", "yb_016", "yb_026"]
-  },
-  {
-    "id": "q25",
-    "type": "humor",
-    "question": "Horse Whisperer (at fısıldayan) şakası nedir?",
-    "ground_truth": "Şerif binasının önünde 'Horse Whisperer' yazan wanted ilanı görüyorlar. Aziz ve Lemi bunu atlara cinsel saldırıda bulunan kişi için kullanılan bir suç olarak yorumluyor. Aziz bu kişiyi canlandırırken 'ben bir şey yapmadım abi, at başlattı' diye ata yıkıyor. Gerçekte 'atlarla iyi iletişim kuran' anlamına geliyor.",
-    "relevant_chunk_ids": ["yb_015", "yb_016"]
-  },
-  {
-    "id": "q26",
-    "type": "humor",
-    "question": "'Küçük su dökmek' / 'little water' şakası nasıl çalışıyor?",
-    "ground_truth": "Lemi arabada mola istediklerini anlatmak için 'küçük su dökmek' tabirini kullanıyor. Aziz bunu 'little water' diye çeviriyor ve iki parmağıyla küçük işareti yapıyor. Türkçe'de küçük abdest anlamına gelen bu deyim İngilizceye çevrilince anlamını tamamen yitiriyor, yabancı Mrs. Brown anlayamıyor.",
-    "relevant_chunk_ids": ["yb_005"]
-  },
-  {
-    "id": "q27",
-    "type": "humor",
-    "question": "'Scotch?' diyalogundaki şaka nedir?",
-    "ground_truth": "Jack, Aziz'e İskoç viskisini uzatırken 'Scotch?' diyor. İngilizce'de hem İskoçlara hem İskoç viskisine 'Scotch' deniliyor. Aziz bunu milli kimlik sorusu sanarak 'Ottoman' diye cevap veriyor. Dil çift anlamlılığından kaynaklanan yanlış anlama.",
-    "relevant_chunk_ids": ["yb_006"]
-  },
-  {
-    "id": "q28",
-    "type": "humor",
-    "question": "Filmde anakronizm içeren sahneleri say.",
-    "ground_truth": "Google araması ve 'Did you mean Garfield?' sorusu (1881'de internet yok); Walt Disney ve Mickey Mouse'dan önce LE'nin kendi makinesiyle miki filmi oynatması; kola icadı (Cola Turka reklamı); film içinde CD menüsünden dil değiştirme sahnesi; Jack Daniel's viski markasına isim göndermesi; Johnnie Walker Striding Man taklidi.",
-    "relevant_chunk_ids": ["yb_002", "yb_007", "yb_013", "yb_029"]
-  },
-  {
-    "id": "q29",
-    "type": "humor",
-    "question": "Aziz ve Lemi şerifleri nasıl uyutuyor? Bu planı kaç şerifle uyguladılar?",
-    "ground_truth": "İçine uyku ilacı kattıkları kolayı şeriflere ikram ediyorlar, şerif uyuyunca anahtarı alıp Aziz'i hapisten çıkarıyorlar. Hızlandırılmış montajda birden fazla şerife aynı planı uyguladıklarını görüyoruz. Her seferinde Johnny Lesh'in ödül miktarı artıyor: 10 → 500 → 800 → 900 dolar.",
-    "relevant_chunk_ids": ["yb_016", "yb_017"]
-  },
-  {
-    "id": "q30",
-    "type": "humor",
-    "question": "Aziz, vals dansının nasıl icat edildiğini anlatıyor; ne diyor?",
-    "ground_truth": "'Versay sarayında tuvalet yoktu, kral direk saraya sıçıyordu. O vals dediğin oyun, boka basmamak için icat edilmiş bir dans.' Lemi 'aman bunu da hep söylerler, sonra ne oldu peki?' deyince Aziz 'işte matbaanın bize geç gelmesi... falan filan' diyerek geçiştiriyor.",
-    "relevant_chunk_ids": ["yb_022"]
-  },
-  {
-    "id": "q31",
-    "type": "quote",
-    "question": "Ramazan, Garfield adını duyduğunda ne diyor?",
-    "ground_truth": "'O kedi olan mı?' diyor. Zeki kızgınlıkla 'ne kedisi amına koyayım ya!' deyince Ramazan 'Ya Garfield kedi değil mi ya?' diye sürdürüyor. Ardından hayali klavye hareketi yaparak Google'da 'Garfield' arattığını canlandırıyor ve 'gene kedi, başkan nerede, yok, tatilde. Hehehe...' diyor.",
-    "relevant_chunk_ids": ["yb_002"]
-  },
-  {
-    "id": "q32",
-    "type": "quote",
-    "question": "Aziz parayı kıçına saklamıştı; dışarı çıkarırken yanında başka ne çıktı?",
-    "ground_truth": "Sırasıyla: tesbih, ayna, mızıka, fincan, fincan tabağı ve en son 1000 dolar. Her çıkardığında gerçekçi ve garip bir ses efekti eşlik ediyor. Lemi her nesneyi görünce 'maşallah' diyor.",
-    "relevant_chunk_ids": ["yb_009"]
-  },
-  {
-    "id": "q33",
-    "type": "quote",
-    "question": "Johnny Lesh ölürken ikinci 'see you/Sioux' karışıklığı sahnesi nasıl gerçekleşiyor?",
-    "ground_truth": "Johnny Lesh zor konuşarak 'Cannon... Ball... Si...' diyor. Lemi 'Sioux... Sioux dedi, Sioux'lar!' diye atlıyor. Aziz ise 'Hayır ulan, öldüm diye see you diyor, see you dedi' diye düzeltiyor. Lemi yere tükürüyor. Komik olan: filmde ilk see you karışıklığını Aziz yapmıştı, şimdi Lemi aynı hatayı tekrarlıyor.",
-    "relevant_chunk_ids": ["yb_020"]
-  },
-  {
-    "id": "q34",
-    "type": "quote",
-    "question": "Aziz ve Lemi, Susanne'ye Türklüklerini ispat etmek için ne söylüyor ve ne gösteriyor?",
-    "ground_truth": "Çok hızlı şunları sayıyorlar: ortaoyunu, harem, 'İbiş yavrum konağa misafirler gelecek' diyaloğu, zeytinyağlı dolma, sarma, hünkarbeğendi, imam bayıldı, Sultanahmet, Ramazan eğlenceleri, mahya taklidi, Osmanlı kadın şarkısı (Gidelim Göksu'ya), tulumbacılar, Galata, Tophane, külhanbeyleri, Arap bacı taklidi. En son Aziz cebinden lokum çıkarıp 'Turkish delight!' diyor. Susanne 'Arap bacıyı anlamadım ama lokum mantıklı geldi' deyip ikna oluyor.",
-    "relevant_chunk_ids": ["yb_024"]
-  },
-  {
-    "id": "q35",
-    "type": "quote",
-    "question": "Aziz kilisede siyahi köleye gizlice ne diyor?",
-    "ground_truth": "Şerif Lloyd, KO karakterinin zincirlerini çözüp gospel okumaya gönderiyor. KO, Aziz'in yanından geçerken Aziz gizlice 'hışt, ezdirme kendini' diyor. KO onaylarcasına başını sallayarak gidiyor.",
-    "relevant_chunk_ids": ["yb_029"]
-  },
-  {
-    "id": "q36",
-    "type": "quote",
-    "question": "Lemi, kola güğümünün üzerine ne yazmak istiyor, Aziz ne diyor?",
-    "ground_truth": "Lemi 'Soğuk içiniz' yazmak istiyor; bu Coca-Cola şişelerindeki 'ice cold' ibaresine gönderme. Aziz 'bırak ulan, milleti zapt-ı rapt altına alma. İster soğuk içer ister sıcak' diyerek reddediyor.",
-    "relevant_chunk_ids": ["yb_013"]
-  },
-  {
-    "id": "q37",
-    "type": "cultural",
-    "question": "Teşkilat-ı Mahsusa filmde nasıl geçiyor?",
-    "ground_truth": "Zeki, Aziz'i tanıtırken 'benim dedemin babası, Teşkilat-ı Mahsusa'dan Aziz Vefa' diyor. Teşkilat-ı Mahsusa Osmanlı döneminde faaliyet gösteren gizli askeri birliktir. Aziz'in ajan kimliği buradan geliyor.",
-    "relevant_chunk_ids": ["yb_002"]
-  },
-  {
-    "id": "q38",
-    "type": "cultural",
-    "question": "Redkit'e filmde nasıl gönderme yapılıyor?",
-    "ground_truth": "Postanede Aziz, UL'ye telgrafı çekerken 'Redkit bana telgraf var mı dese tıpış tıpış ayağına gidersin ama' diye sitem ediyor. Tam o sırada Redkit içeri giriyor. UL'nin davranışı anında değişiyor ve Redkit'e çay ikram edip ona ayrı bir yer açıyor. Western'in klasik sembolüne yapılan komik bir gönderme.",
-    "relevant_chunk_ids": ["yb_011"]
-  },
-  {
-    "id": "q39",
-    "type": "cultural",
-    "question": "KFC'ye filmde nasıl gönderme yapılıyor?",
-    "ground_truth": "Kentucky'de tavuk ekmek satan Aziz ve Lemi kavga çıkarınca şerif gelip onları dışarı atıyor ve esnafla el sıkışıyor. Zeki 'Kim olacak, amblem' diyor; o şerifin KFC'nin logosundaki beyaz giysili adam olduğunu ima ediyor. 'Şimdi bana adamın reklamını yaptırtma' diyerek geçiştiriyor.",
-    "relevant_chunk_ids": ["yb_014"]
-  },
-  {
-    "id": "q40",
-    "type": "cultural",
-    "question": "Karagöz-Hacivat sahnesi nerede geçiyor, amaçları ne?",
-    "ground_truth": "Aziz ve Lemi para kazanmak için bir çiftlikte Amerikalılara gölge oyunu oynuyor: 'Karagözüm, Ramazan-ı Şeriflerin hayrola' diye başlıyor. Kimse gülmüyor. Aziz 'Geçen sene Sultanahmet'te en çok tutan gösteri bu be, biraz gülün ya!' diyor. Asıl amaçları seyirciyi oyalarken Lemi'nin arkadan çiftliğin tavuğunu ve erzakını çalması. Osmanlı ile Amerikan kültürü arasındaki uçurumu gösteren komik sahne.",
-    "relevant_chunk_ids": ["yb_012"]
+    "question": "Ödül olarak verilecek elmasın sahte olduğunu anlayınca ne yapıyorlar?",
+    "ground_truth": "Aziz karakteri gerçek elmasın nerede olduğunu Chuck'la olan eski konuşmasından hatırlıyor. Ardından gerçek elması kasadan alabilmek için hızlıca bir plan yapıyor. Şerif Lloyd karakteriyle gösteri maçı yapıyorlar yani güreşiyorlar. Anahtarı şeriften alıyor ve Lemi karakterine veriyorlar. Lemi karakteri de kasabaya gidip, gerçek elması alıp, geri gösteri alanına geliyor.",
+    "relevant_chunk_ids": ["yb_056", "yb_057", "yb_058"]
   }
 ]

@@ -11,7 +11,6 @@ Not: GEMINI_API_KEY ortam değişkeni gerekli.
 """
 
 import json
-import os
 import sys
 import time
 from pathlib import Path
@@ -35,23 +34,25 @@ def get_no_rag_answer(question: str) -> str:
     return chat(NO_RAG_SYSTEM_PROMPT, question, stream=False)
 
 
-def judge_with_gemini(question: str, ground_truth: str, answer_a: str, answer_b: str) -> dict:
-    """Gemini API ile iki cevabı puanla."""
-    import google.generativeai as genai
+JUDGE_MODEL = "gpt-5.4"
+
+
+def judge_with_openai(question: str, ground_truth: str, answer_a: str, answer_b: str) -> dict:
+    """OpenAI gpt-5.4 ile iki cevabı puanla."""
+    from llm.openai_client import get_client
     from llm.prompt_templates import format_judge_prompt
 
-    api_key = os.environ.get("GEMINI_API_KEY")
-    if not api_key:
-        raise EnvironmentError("GEMINI_API_KEY ortam değişkeni tanımlı değil.")
-
-    genai.configure(api_key=api_key)
-    model = genai.GenerativeModel("gemini-2.0-flash")
-
+    client = get_client()
     prompt = format_judge_prompt(question, ground_truth, answer_a, answer_b)
-    response = model.generate_content(prompt)
-    raw = response.text.strip()
 
-    # JSON bloğunu temizle
+    response = client.chat.completions.create(
+        model=JUDGE_MODEL,
+        messages=[{"role": "user", "content": prompt}],
+        temperature=0,
+        response_format={"type": "json_object"},
+    )
+    raw = response.choices[0].message.content.strip()
+
     if "```" in raw:
         raw = raw.split("```")[1]
         if raw.startswith("json"):
@@ -73,7 +74,7 @@ def run_quality_comparison(questions: list[dict], delay: float = 1.5) -> dict:
         no_rag_answer = get_no_rag_answer(q["question"])
 
         try:
-            scores = judge_with_gemini(
+            scores = judge_with_openai(
                 q["question"], q["ground_truth"], rag_answer, no_rag_answer
             )
         except Exception as e:

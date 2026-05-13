@@ -7,7 +7,7 @@ OpenAI gpt-4o-mini ile RAG cevap üretimi. Streaming destekli.
 from openai import OpenAI
 
 OPENAI_API_KEY = "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"
-OPENAI_MODEL = "gpt-4o-mini"
+OPENAI_MODEL = "gpt-5.4-mini"
 
 _client: OpenAI | None = None
 
