@@ -1,0 +1,465 @@
+{
+  "avg_precision": 0.173,
+  "avg_recall": 0.764,
+  "hit_rate": 1.0,
+  "n_questions": 20,
+  "top_k": 5,
+  "by_type": {
+    "timestamp": {
+      "count": 3,
+      "avg_precision": 0.125,
+      "hit_rate": 1.0
+    },
+    "cultural": {
+      "count": 7,
+      "avg_precision": 0.213,
+      "hit_rate": 1.0
+    },
+    "character": {
+      "count": 4,
+      "avg_precision": 0.13,
+      "hit_rate": 1.0
+    },
+    "humor": {
+      "count": 6,
+      "avg_precision": 0.18,
+      "hit_rate": 1.0
+    }
+  },
+  "per_question": [
+    {
+      "id": "q01",
+      "type": "timestamp",
+      "question": "Karagöz Hacivat oynatılan sahne kaçıncı dakikada?",
+      "relevant": [
+        "yb_012"
+      ],
+      "retrieved": [
+        "yb_012",
+        "yb_033",
+        "yb_053",
+        "yb_007",
+        "yb_048",
+        "yb_002",
+        "yb_029",
+        "yb_052"
+      ],
+      "precision": 0.125,
+      "recall": 1.0,
+      "hit": true
+    },
+    {
+      "id": "q02",
+      "type": "timestamp",
+      "question": "Aziz ve Lemi karakterinin Suzan karakterine Osmanlı olduklarını ispat etmeye çalıştıkları sahne kaçıncı dakikada?",
+      "relevant": [
+        "yb_024"
+      ],
+      "retrieved": [
+        "yb_024",
+        "yb_022",
+        "yb_053",
+        "yb_013",
+        "yb_038",
+        "yb_025",
+        "yb_029",
+        "yb_052"
+      ],
+      "precision": 0.125,
+      "recall": 1.0,
+      "hit": true
+    },
+    {
+      "id": "q03",
+      "type": "timestamp",
+      "question": "Filmde 56. dakikada neler oluyor?",
+      "relevant": [
+        "yb_034"
+      ],
+      "retrieved": [
+        "yb_034",
+        "yb_033",
+        "yb_053",
+        "yb_038",
+        "yb_062",
+        "yb_011",
+        "yb_002",
+        "yb_032"
+      ],
+      "precision": 0.125,
+      "recall": 1.0,
+      "hit": true
+    },
+    {
+      "id": "q04",
+      "type": "cultural",
+      "question": "Aziz karakterinin sahte kovboy adı nedir? Bu isim nereden geliyor?",
+      "relevant": [
+        "yb_016",
+        "yb_023",
+        "yb_032"
+      ],
+      "retrieved": [
+        "yb_034",
+        "yb_028",
+        "yb_021",
+        "yb_023",
+        "yb_057",
+        "yb_032"
+      ],
+      "precision": 0.333,
+      "recall": 0.667,
+      "hit": true
+    },
+    {
+      "id": "q05",
+      "type": "character",
+      "question": "Şerif Lloyd karakterinin konuşma şekli nasıl? Kime benziyor? Bu karakter neden komik?",
+      "relevant": [
+        "yb_026"
+      ],
+      "retrieved": [
+        "yb_049",
+        "yb_026",
+        "yb_030",
+        "yb_027",
+        "yb_028",
+        "yb_013",
+        "yb_018"
+      ],
+      "precision": 0.143,
+      "recall": 1.0,
+      "hit": true
+    },
+    {
+      "id": "q06",
+      "type": "cultural",
+      "question": "Eugene karakterinin lakabı nedir? Buradaki şaka nedir?",
+      "relevant": [
+        "yb_029",
+        "yb_031"
+      ],
+      "retrieved": [
+        "yb_053",
+        "yb_029",
+        "yb_031",
+        "yb_046",
+        "yb_012",
+        "yb_013",
+        "yb_028",
+        "yb_052"
+      ],
+      "precision": 0.25,
+      "recall": 1.0,
+      "hit": true
+    },
+    {
+      "id": "q07",
+      "type": "humor",
+      "question": "Buck Berry karakteri nerelidir? İsmiyle ilgili şaka nedir?",
+      "relevant": [
+        "yb_049",
+        "yb_050"
+      ],
+      "retrieved": [
+        "yb_049",
+        "yb_050",
+        "yb_034",
+        "yb_035",
+        "yb_061",
+        "yb_013",
+        "yb_026",
+        "yb_032"
+      ],
+      "precision": 0.25,
+      "recall": 1.0,
+      "hit": true
+    },
+    {
+      "id": "q08",
+      "type": "humor",
+      "question": "Aziz karakteri ile muska arasında nasıl bir bağ var? Buradaki şaka nedir? Örnek bir sahneyi anlatır mısın?",
+      "relevant": [
+        "yb_010",
+        "yb_014",
+        "yb_019",
+        "yb_043",
+        "yb_052"
+      ],
+      "retrieved": [
+        "yb_053",
+        "yb_057",
+        "yb_024",
+        "yb_032",
+        "yb_013",
+        "yb_028",
+        "yb_029",
+        "yb_052"
+      ],
+      "precision": 0.125,
+      "recall": 0.2,
+      "hit": true
+    },
+    {
+      "id": "q09",
+      "type": "character",
+      "question": "Johnny Lesh karakteri nasıl ve nerede ölüyor?",
+      "relevant": [
+        "yb_020",
+        "yb_021",
+        "yb_019"
+      ],
+      "retrieved": [
+        "yb_025",
+        "yb_020",
+        "yb_030",
+        "yb_038",
+        "yb_008",
+        "yb_023",
+        "yb_024",
+        "yb_032"
+      ],
+      "precision": 0.125,
+      "recall": 0.333,
+      "hit": true
+    },
+    {
+      "id": "q10",
+      "type": "character",
+      "question": "Filmdeki Trenci Jack kimdir? Buradaki şaka nedir?",
+      "relevant": [
+        "yb_018"
+      ],
+      "retrieved": [
+        "yb_018",
+        "yb_053",
+        "yb_038",
+        "yb_026",
+        "yb_033",
+        "yb_024",
+        "yb_029",
+        "yb_052"
+      ],
+      "precision": 0.125,
+      "recall": 1.0,
+      "hit": true
+    },
+    {
+      "id": "q11",
+      "type": "humor",
+      "question": "Film İngilizceden Türkçeye nasıl geçiyor? Buradaki şaka nedir?",
+      "relevant": [
+        "yb_007",
+        "yb_008"
+      ],
+      "retrieved": [
+        "yb_007",
+        "yb_061",
+        "yb_033",
+        "yb_059",
+        "yb_026",
+        "yb_013",
+        "yb_029",
+        "yb_035"
+      ],
+      "precision": 0.125,
+      "recall": 0.5,
+      "hit": true
+    },
+    {
+      "id": "q12",
+      "type": "humor",
+      "question": "Aziz ve Lemi karakteri şerifleri nasıl uyutuyorlar?",
+      "relevant": [
+        "yb_013",
+        "yb_016",
+        "yb_017",
+        "yb_018"
+      ],
+      "retrieved": [
+        "yb_016",
+        "yb_010",
+        "yb_037",
+        "yb_022",
+        "yb_056",
+        "yb_032"
+      ],
+      "precision": 0.167,
+      "recall": 0.25,
+      "hit": true
+    },
+    {
+      "id": "q13",
+      "type": "cultural",
+      "question": "Trenci Jack sahnesindeki Peder karakteriyle ilgili şaka nedir?",
+      "relevant": [
+        "yb_018"
+      ],
+      "retrieved": [
+        "yb_018",
+        "yb_005",
+        "yb_062",
+        "yb_010",
+        "yb_038",
+        "yb_024",
+        "yb_029",
+        "yb_044"
+      ],
+      "precision": 0.125,
+      "recall": 1.0,
+      "hit": true
+    },
+    {
+      "id": "q14",
+      "type": "cultural",
+      "question": "Kilisedeki zenci köle karakteriyle ilgili şaka nedir?",
+      "relevant": [
+        "yb_029",
+        "yb_059"
+      ],
+      "retrieved": [
+        "yb_029",
+        "yb_016",
+        "yb_012",
+        "yb_046",
+        "yb_030",
+        "yb_013",
+        "yb_028"
+      ],
+      "precision": 0.143,
+      "recall": 0.5,
+      "hit": true
+    },
+    {
+      "id": "q15",
+      "type": "humor",
+      "question": "Lemi, kola güğümünün üzerine ne yazmak istiyor? Buradaki şaka ve gönderme nedir?",
+      "relevant": [
+        "yb_013",
+        "yb_014",
+        "yb_015",
+        "yb_016"
+      ],
+      "retrieved": [
+        "yb_011",
+        "yb_016",
+        "yb_022",
+        "yb_013",
+        "yb_056",
+        "yb_009",
+        "yb_010"
+      ],
+      "precision": 0.286,
+      "recall": 0.5,
+      "hit": true
+    },
+    {
+      "id": "q16",
+      "type": "cultural",
+      "question": "Redkit'e nasıl gönderme yapılıyor? Buradaki şaka nedir?",
+      "relevant": [
+        "yb_011"
+      ],
+      "retrieved": [
+        "yb_011",
+        "yb_007",
+        "yb_018",
+        "yb_008",
+        "yb_002",
+        "yb_009",
+        "yb_010"
+      ],
+      "precision": 0.143,
+      "recall": 1.0,
+      "hit": true
+    },
+    {
+      "id": "q17",
+      "type": "humor",
+      "question": "Filmin ilk yarısı nasıl bitiyor? Buradaki mizahi detay nedir?",
+      "relevant": [
+        "yb_033"
+      ],
+      "retrieved": [
+        "yb_033",
+        "yb_060",
+        "yb_059",
+        "yb_053",
+        "yb_062",
+        "yb_002",
+        "yb_004",
+        "yb_005"
+      ],
+      "precision": 0.125,
+      "recall": 1.0,
+      "hit": true
+    },
+    {
+      "id": "q18",
+      "type": "cultural",
+      "question": "Suzan ve Lemi karakterlerinin sahte kızılderili isimleri nedir? Buradaki şaka nedir?",
+      "relevant": [
+        "yb_034"
+      ],
+      "retrieved": [
+        "yb_038",
+        "yb_010",
+        "yb_024",
+        "yb_034",
+        "yb_032",
+        "yb_025",
+        "yb_028",
+        "yb_037"
+      ],
+      "precision": 0.125,
+      "recall": 1.0,
+      "hit": true
+    },
+    {
+      "id": "q19",
+      "type": "cultural",
+      "question": "Filmdeki yuvarlanan otun olayı nedir? Örnek bir sahneyi anlatır mısın?",
+      "relevant": [
+        "yb_028",
+        "yb_029",
+        "yb_032"
+      ],
+      "retrieved": [
+        "yb_007",
+        "yb_033",
+        "yb_053",
+        "yb_032",
+        "yb_028",
+        "yb_002",
+        "yb_029",
+        "yb_052"
+      ],
+      "precision": 0.375,
+      "recall": 1.0,
+      "hit": true
+    },
+    {
+      "id": "q20",
+      "type": "character",
+      "question": "Ödül olarak verilecek elmasın sahte olduğunu anlayınca ne yapıyorlar?",
+      "relevant": [
+        "yb_056",
+        "yb_057",
+        "yb_058"
+      ],
+      "retrieved": [
+        "yb_057",
+        "yb_048",
+        "yb_046",
+        "yb_059",
+        "yb_030",
+        "yb_002",
+        "yb_004",
+        "yb_013"
+      ],
+      "precision": 0.125,
+      "recall": 0.333,
+      "hit": true
+    }
+  ]
+}

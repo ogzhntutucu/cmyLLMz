@@ -132,7 +132,7 @@ def _summarize(per_question: list[dict]) -> dict:
 
 def print_report(results: dict) -> None:
     print("\n" + "=" * 60)
-    print("  QUALITY TEST SONUÇLARI  (LLM-as-a-Judge / Gemini)")
+    print(f"  QUALITY TEST SONUÇLARI  (LLM-as-a-Judge / {JUDGE_MODEL})")
     print("=" * 60)
     print(f"  Soru sayısı: {results['n_questions']}")
     print()

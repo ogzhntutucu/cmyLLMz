@@ -14,6 +14,8 @@ Model: BAAI/bge-m3
 Max token: 8192
 """
 
+import os
+
 from sentence_transformers import SentenceTransformer
 
 MODEL_NAME = "BAAI/bge-m3"
@@ -22,9 +24,11 @@ _model: SentenceTransformer | None = None
 
 
 def load_model() -> SentenceTransformer:
+    """Modeli yükle. EMBEDDER_DEVICE env değişkeniyle 'cpu' veya 'cuda' seçilebilir."""
     global _model
     if _model is None:
-        _model = SentenceTransformer(MODEL_NAME)
+        device = os.environ.get("EMBEDDER_DEVICE")  # None ise sentence-transformers otomatik seçer
+        _model = SentenceTransformer(MODEL_NAME, device=device) if device else SentenceTransformer(MODEL_NAME)
     return _model
 
 
