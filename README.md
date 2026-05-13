@@ -8,6 +8,10 @@
 [![OpenAI](https://img.shields.io/badge/OpenAI-gpt--5.4--mini-412991?logo=openai&logoColor=white)](https://openai.com/)
 [![BAAI/bge-m3](https://img.shields.io/badge/Embedding-BAAI%2Fbge--m3-orange)](https://huggingface.co/BAAI/bge-m3)
 
+<p align="center">
+  <img src="cmyllmz/notes/streamlit.png" alt="cmyLLMz Streamlit arayüzü" width="800">
+</p>
+
 ---
 
 ## İçindekiler
@@ -33,8 +37,8 @@
 
 Proje iki dersin gerekliliklerini tek bir çalışmayla karşılayacak şekilde tasarlandı:
 
-- **MBU (Mühendislikte Bilgisayar Uygulamaları):** RAG pipeline, LLM entegrasyonu, Streamlit arayüzü
-- **NLP (Doğal Dil İşleme):** Tokenizasyon, embedding, retrieval kalitesi ölçümü, evaluation metodolojisi
+- **MBU (Mühendislikte Bilgisayar Uygulamaları II - Dr. Halil İbrahim Okur):** RAG pipeline, LLM entegrasyonu, Streamlit arayüzü
+- **NLP (Doğal Dil İşleme - Dr. Kadir Tohma):** Tokenizasyon, embedding, retrieval kalitesi ölçümü, evaluation metodolojisi
 
 Projenin asıl özgün değeri sadece "RAG kurmak" değil, **3 hafta boyunca üç ayrı izlemede elle hazırlanmış ve zenginleştirilmiş 62 sahne chunk'lık bir mizah veri seti** üretmiş olmasıdır.
 
